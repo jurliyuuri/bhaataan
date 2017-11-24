@@ -147,5 +147,26 @@ hem(完了の無変化動詞)
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">takuってなんだろう <a href="https://t.co/lDdYw3Jjfe">https://t.co/lDdYw3Jjfe</a></p>&mdash; .sozysozbot.@hsjoihs@jekto.vatimeliju (@sosoBOTpi) <a href="https://twitter.com/sosoBOTpi/status/934118653603168256?ref_src=twsrc%5Etfw">2017年11月24日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<h2>2. 話は変わるが</h2>
+<p>話は変わるが、フォントを作ってみた。</p>
+<img src="bhat_bitmap.png" width="400" />
+<img src="bhat_bitmap_nonborder.png" width="400" />
+<p>現代表記はほぼアルファベットなので、このように比較的楽に作れるのである。</p>
+<p>恒例のごとくPythonで分割し、JavaScriptで並べてやると</p>
+<script>
+var gefak=["bh","á","t","á","n","-"," ","z","e","ph"];
+for(var i=0;i<gefak.length;i++){
+	document.write('<img src="bhat_font/bhat_'+gefak[i]+'.png" height="60" />')
+}
+</script>
+<p>と、うまくいってくれるわけである。</p>
+<p>せっかくなので、アリスでも載せてみるか。</p>
+<script>
+var gefak=["a","l","i","c","-"," ","s","á","h","o","m","á"," ","w","o","gh","i","t","i"," ","c","á","j","au"," ","ṣ","o","m","ḍ","i"," ","h","í","n"," ","ṣ","í","k","h","z","e","n","á"," ","h","e","m","-"];
+for(var i=0;i<gefak.length;i++){
+	document.write('<img src="bhat_font/bhat_'+gefak[i]+'.png" height="60" />')
+}
+</script>
+<p>なるほどなぁ。</p>
 </body>
 </html>
