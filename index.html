@@ -8,7 +8,9 @@
 <body class="cool">
 <h1>バート語について考察する</h1>
 <p>以下は考察ログであり、設定集はこれから作る予定である。</p>
+
 <h2>1. とりあえず頑張ってみよう</h2>
+<p>コーパスをかき集めてきたので、解読を試みよう。</p>
 <h3>1-1. 頑張った</h3>
 <p>語尾の情報とかを元に頑張ってみた。</p>
 <pre>
@@ -60,7 +62,7 @@ ema	?
 <a href="語彙集(ver0).txt">プレーンテキスト</a> <a href="https://docs.google.com/spreadsheets/d/1-YKn8YemaUZS3bJwrjpSVVmwpbfisSunYXIr5fhKGkU/edit#gid=0">Googleスプレッドシート</a>
 
 <h3>1-2. 考察</h3>
-<h4>1-2-1. 文字</h4>
+<h4>1-2-1. 文字（ラテン字転写）</h4>
 <p>まず、文字について。<a href="bhatan.html">リパライン倉庫</a>の表記にそぐわないやつがあるかどうか確かめる。</p>
 <p>リパライン倉庫のに準拠するなら、ptcxkhrzmnljwbdsgyṭḍṇḷṣaiuáíúeoで書けるはずである。</p>
 <p>-e-と-é-、-o-と-ó-は確か同一音素の表記揺れに過ぎなかったはずだから、óの登場については気にしない。</p>
@@ -70,28 +72,8 @@ ema	?
 <p>不定詞語尾は-úḷのはずなのだが、PMCFショーケースの転写を見ても燐字海を見ても-úlになっている。</p>
 <p>「実は二種類の活用がある説」とかも面白そうだが、面倒だし、単純に「面倒なので-úḷの点を打たないことがある」でよかろう。バート文字においても区別は点でなされるし。</p>
 <h4>1-2-3. バート文字</h4>
-<p>PMCFショーケースに貼られている画像</p>
-<img src="pmcf.png" />
-<p>を解読した。</p>
-<img src="pmcf1.png" />
-<img src="pmcf2.png" />
-<p>これを見ると、デーヴァナーガリーのような「ダイアクリティカルマークで母音を表す」ではなく、母音がそれ自体で独立した字として使われていることが分かる。</p>
-<p>これについて確認したところ、</p>
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">2. ショーケースに貼ってあった画像だと、a以外の母音は（デーヴァナーガリーのようなダイアクリティカルマークでなく）独立した文字として書かれているが、それで正しい？</p>&mdash; .sozysozbot.@hsjoihs@jekto.vatimeliju (@sosoBOTpi) <a href="https://twitter.com/sosoBOTpi/status/934019386326659073?ref_src=twsrc%5Etfw">2017年11月24日</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">そうなっているならそうかもしれない。</p>&mdash; Fafs/தமிழ் மாணவன் (@sashimiwiki) <a href="https://twitter.com/sashimiwiki/status/934020242195582976?ref_src=twsrc%5Etfw">2017年11月24日</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">了解。なら、↓の案件が消滅して楽になるなぁ<a href="https://t.co/zly3mh20za">https://t.co/zly3mh20za</a></p>&mdash; .sozysozbot.@hsjoihs@jekto.vatimeliju (@sosoBOTpi) <a href="https://twitter.com/sosoBOTpi/status/934020653551837184?ref_src=twsrc%5Etfw">2017年11月24日</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">アルファベットだったのか。</p>&mdash; Fafs/தமிழ் மாணவன் (@sashimiwiki) <a href="https://twitter.com/sashimiwiki/status/934021370433781760?ref_src=twsrc%5Etfw">2017年11月24日</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">aは書かないので一応アブギダさはあるが、確かにアルファベットに近い体系になりそう</p>&mdash; .sozysozbot.@hsjoihs@jekto.vatimeliju (@sosoBOTpi) <a href="https://twitter.com/sosoBOTpi/status/934021961117605888?ref_src=twsrc%5Etfw">2017年11月24日</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<p>ということになった。</p>
-<p>一方、S.Yの機関誌では</p>
-<img src="kikwansi.png" />
-<p>という風に、ダイアクリティカルマークで書いている。</p>
-<p>ということで、ダイアクリティカルマークで書くのを「伝統表記」、独立して表記するのを「現代表記」とすることにしてみよう。<small>そうすればOSで実装するのも楽だし。</small></p>
+<p>考察が長くなったので分割。<a href="letter.html">フルバージョンはこちら</a>。以下要約。</p>
+<p>PMCFショーケースに貼られている画像を解読したところ、デーヴァナーガリーのような「ダイアクリティカルマークで母音を表す」ではなく、母音がそれ自体で独立した字として使われていることが分かった。一方、ダイアクリティカルマークで書いている例もある。ということで、ダイアクリティカルマークで書くのを「伝統表記」、独立して表記するのを「現代表記」とすることにした。<small>そうすればOSで実装するのも楽だし。</small></p>
 
 <h3>1-3. ラネーメ祖語辞書</h3>
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">なるほど。<br>1. 頑張ったけど完全には文が解読ができなかったので、単語集とかがあったら下さい<br>2. 文字を書いたのは誰なんだろう</p>&mdash; .sozysozbot.@hsjoihs@jekto.vatimeliju (@sosoBOTpi) <a href="https://twitter.com/sosoBOTpi/status/934018877045932035?ref_src=twsrc%5Etfw">2017年11月24日</a></blockquote>
