@@ -4,4 +4,66 @@ Alic sáhomá vóghiti cájau ṣómaḍi hína ṣíkahazená hem. ṣiṇṇa,
 "Há, kodhel nánaḍi hína sujúl heyákáṣló?" Alic koḍi ema heyázená hem.
 "Legha jó cepatepa ám hemúl ema."
 
+Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, `and what is the use of a book,’ thought Alice, `without pictures or conversation?’
+
 https://docs.google.com/document/d/1IvZJSZ86LUWoqPXB3e5Jzw2FN2eRXIycbnVcR1YCS6A/edit
+
+Alic(アリス)
+sá() -homá(母音幹単数属格)
+vóghit() -i(子音幹単数後置詞)
+cájau()
+ṣóma() -ḍi(母音幹単数後置格)
+hína()
+ṣíkah() -azená(三人称女性過去分詞)
+hem(完了の無変化動詞)
+
+ṣiṇṇa()
+baukká()
+kóli() -dhel(母音幹単数対格)
+cákík(集まる?) -akátá(指示・固有過去分詞)
+hem(完了の無変化動詞).
+
+lási(一) -hómá(母音幹単数属格)
+káṇa(時間,時刻?)
+jó(または?)
+ríka(二) -homá(母音幹単数属格)
+káṇa(時間,時刻?) -ḍi(母音幹単数後置格)
+hína()
+ká(三人称女性単数)
+aghauṭa() -dhel(母音幹単数対格)
+nána(関係代名詞)
+sá() -homá(母音幹単数属格)
+vóghit() 
+ák() -aze(三人称女性終止詞)
+aḍuhazó() -zená(三人称女性過去分詞)
+hem(完了の無変化動詞)
+
+ṣiṇṇa()
+legha(絵)
+jó(または?)
+cepatepa(会話)
+aghauṭa() -ḍi(母音幹単数後置格)
+hína()
+ám(否定副詞)
+hem(在る) -akátá(指示・固有過去分詞)
+hem(完了の無変化動詞)
+
+há()
+ko() -dhel(母音幹単数対格)
+nána(関係代名詞) -ḍi(母音幹単数後置格)
+hína()
+suj() -úl(不定詞)
+heyá() -káṣló(指示・固有未来分詞)
+
+Alic(アリス)
+ko() -ḍi(母音幹単数後置格)
+ema() 
+heyá() -zená(三人称女性過去分詞)
+hem(完了の無変化動詞)
+
+legha(絵)
+jó(または?)
+cepatepa(会話)
+ám(否定副詞)
+hem(在る) -úl(不定詞)
+ema()

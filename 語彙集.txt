@@ -1,0 +1,44 @@
+語	義	品詞	同根語
+Bhát	バート	子音幹名詞	牌huet,藍phedu
+zepha	言語	母音幹名詞	牌zep1,藍chepo
+bháma	私たち(包括)	母音幹名詞	
+aṭam	神、皇帝	子音幹名詞	牌tam2,藍atam
+hemúl	ある	動詞	牌aim2,藍aima
+lási	一	母音幹名詞	牌et2,藍asi
+ríka	二	母音幹名詞	牌ik2,藍iku
+dhoḷop	島	子音幹名詞	牌dop1,藍dopiai
+ṣibhai	国	母音幹名詞	牌sip1
+ákíjam	東	子音幹名詞	牌kiak1
+hem	完了の無変化動詞	無変化動詞
+nána	関係代名詞	母音幹名詞
+cepatepa	会話	母音幹名詞	
+legha	絵	母音幹名詞	牌lek1
+ám	否定副詞	副詞
+ká	三人称女性単数	母音幹名詞
+bhoma	手	母音幹名詞	牌hop1,藍phobo
+bhomúl	取る、持つ	動詞	牌hop1,藍phobo
+
+káṇa	時間,時刻?	母音幹名詞
+cákíkúḷ	集まる?	動詞
+dhárad	連合?	子音幹名詞
+hórabát	文化?	子音幹名詞
+dhárad	共同体?	子音幹名詞
+jó	または?	助辞?
+
+sá	?	母音幹名詞
+vóghit	?	子音幹名詞
+cájau	?
+ṣóma	?	母音幹名詞
+hína	?	
+ṣíkahúḷ	?	動詞
+ṣiṇṇa	?
+baukká	?
+kóli	?	母音幹名詞
+aghauṭa	?	母音幹名詞
+ákúḷ	?	動詞
+aḍuhazóúḷ	?	動詞
+há	?
+ko	?	
+sujúl	?	動詞
+heyáúḷ	?	動詞
+ema	?
