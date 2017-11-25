@@ -6,7 +6,7 @@ Alic sáhomá vóghiti cájau ṣómaḍi hína ṣíkahazená hem. ṣiṇṇa,
 
 Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, `and what is the use of a book,’ thought Alice, `without pictures or conversation?’
 
-アリスは、姉と共に土手で座っていた。しかし、だんだん疲れを訪れた。一つの時または二つの時に彼女は姉が読む本を見た。しかし絵もしくは会話が本に無かった。「じゃあ、これを何に使うだろうか？」アリスはこのように思った。「絵もしくは会話が無いような(ものを)。」
+アリスは、姉と共に土手で座っていた。しかし、だんだん(自然が)疲れを訪れさせた。一つの時または二つの時に彼女は姉が読む本を見た。しかし絵もしくは会話が本に無かった。「じゃあ、これを何に使うだろうか？」アリスはこのように思った。「絵もしくは会話が無いような(ものを)。」
 
 https://docs.google.com/document/d/1IvZJSZ86LUWoqPXB3e5Jzw2FN2eRXIycbnVcR1YCS6A/edit
 
@@ -23,7 +23,7 @@ hem(完了の無変化動詞)
 ṣiṇṇa(しかし)
 baukká(だんだん、ゆくゆく)
 kóli(疲れ) -dhel(母音幹単数対格)
-cákík(来る　訪れる　来訪する) -akátá(指示・固有過去分詞)
+cákíka(訪れさせる) -kátá(指示・固有過去分詞)
 hem(完了の無変化動詞)
 
 lási(一, 1) -hómá(母音幹単数属格)
@@ -34,7 +34,7 @@ káṇa(時間　時) -ḍi(母音幹単数後置格)
 hína(～に　～で)
 ká(三人称女性単数)
 aghauṭa(本、図書) -dhel(母音幹単数対格)
-nána(関係代名詞　何)
+nána(関係代名詞)
 sá(女性　女) -homá(母音幹単数属格)
 vóghit(兄弟、姉妹、同胞) 
 ák(読む) -aze(三人称女性終止詞)
@@ -66,7 +66,7 @@ ema(～のような、～ように、～なんて)
 heyá(思う) -zená(三人称女性過去分詞)
 hem(完了の無変化動詞)
 
-「絵もしくは会話が無いような(ものを)。」
+「絵もしくは会話が無いなんて。」
 legha(絵)
 jó(または　もしくは)
 cepatepa(会話、話し)
