@@ -149,12 +149,12 @@ hem(完了の無変化動詞)
 
 <h2>2. 話は変わるが</h2>
 <p>話は変わるが、フォントを作ってみた。</p>
-<img src="bhat_bitmap.png" width="400" />
-<img src="bhat_bitmap_nonborder.png" width="400" />
+<img src="bhat_bitmap_old.png" width="400" />
+<img src="bhat_bitmap_nonborder_old.png" width="400" />
 <p>現代表記はほぼアルファベットなので、このように比較的楽に作れるのである。</p>
 <p>恒例のごとくPythonで分割し、JavaScriptで並べてやると</p>
 <script>
-var gefak=["bh","á","t","á","n","-"," ","z","e","ph"];
+var gefak=["bh_old","á","t","á","n","-"," ","z","e","ph"];
 for(var i=0;i<gefak.length;i++){
 	document.write('<img src="bhat_font/bhat_'+gefak[i]+'.png" height="60" />')
 }
@@ -162,7 +162,7 @@ for(var i=0;i<gefak.length;i++){
 <p>と、うまくいってくれるわけである。</p>
 <p>せっかくなので、アリスでも載せてみるか。</p>
 <script>
-var gefak=["a","l","i","c","-"," ","s","á","h","o","m","á"," ","w","o","gh","i","t","i"," ","c","á","j","au"," ","ṣ","o","m","ḍ","i"," ","h","í","n"," ","ṣ","í","k","h","z","e","n","á"," ","h","e","m","-"];
+var gefak=["a","l","i","c","-"," ","s","á","h","o","m","á"," ","w","o","gh","i","t","i"," ","c","á","j","au"," ","ṣ_old","o","m","ḍ","i"," ","h","í","n"," ","ṣ_old","í","k","h","z","e","n","á"," ","h","e","m","-"];
 for(var i=0;i<gefak.length;i++){
 	document.write('<img src="bhat_font/bhat_'+gefak[i]+'.png" height="60" />')
 }
@@ -253,5 +253,9 @@ fafs「kに点を打つのが統一感あってよさげ」
 <h3>4-3. 結論</h3>
 <p>ということで、音韻をまとめていたと思ったら文字を改定していた。フォントとか直さねばなぁ。</p>
 <p>ちゃんと<a href="phonology.html">音韻もまとめたぞい</a></p>
+
+<h2>5. 文字改定</h2>
+<p>とりあえず、ṣとkhに対処せねばな。あと、ビットマップフォントのbhが微妙に気に入らないのでそれを直そう。</p>
+<p>まず、過去ログを破壊しないようにすべく、古いやつを_oldというのに改名。</p>
 </body>
 </html>
