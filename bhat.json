@@ -11,7 +11,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 4,
+        "form" : "-adhí"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 2,
@@ -24,7 +30,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 6,
+        "form" : "-adína"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 3,
@@ -37,7 +49,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 5,
+        "form" : "-adíha"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 4,
@@ -50,7 +68,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 1,
+        "form" : "-dhí"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 5,
@@ -63,7 +87,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 3,
+        "form" : "-díha"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 6,
@@ -76,7 +106,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 2,
+        "form" : "-dína"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 7,
@@ -89,7 +125,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 10,
+        "form" : "-amú"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 8,
@@ -102,7 +144,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 11,
+        "form" : "-amúná"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 9,
@@ -115,7 +163,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 12,
+        "form" : "-amúha"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 10,
@@ -128,7 +182,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 7,
+        "form" : "-mú"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 11,
@@ -141,7 +201,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 8,
+        "form" : "-múná"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 12,
@@ -154,7 +220,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 9,
+        "form" : "-múha"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 13,
@@ -167,7 +239,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 16,
+        "form" : "-aze"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 14,
@@ -180,7 +258,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 17,
+        "form" : "-azená"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 15,
@@ -193,7 +277,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 18,
+        "form" : "-azebá"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 16,
@@ -206,7 +296,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 13,
+        "form" : "-ze"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 17,
@@ -219,7 +315,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 14,
+        "form" : "-zená"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 18,
@@ -232,7 +334,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 15,
+        "form" : "-zebá"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 19,
@@ -245,7 +353,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 22,
+        "form" : "-abhá"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 20,
@@ -258,7 +372,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 23,
+        "form" : "-abáta"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 21,
@@ -271,7 +391,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 24,
+        "form" : "-abáṣlo"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 22,
@@ -284,7 +410,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 19,
+        "form" : "-bhá"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 23,
@@ -297,7 +429,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 20,
+        "form" : "-báta"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 24,
@@ -310,7 +448,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 21,
+        "form" : "-báṣlo"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 25,
@@ -323,7 +467,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 28,
+        "form" : "-aká"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 26,
@@ -336,7 +486,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 29,
+        "form" : "-akátá"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 27,
@@ -349,7 +505,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 30,
+        "form" : "-akáṣlo"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 28,
@@ -362,7 +524,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 25,
+        "form" : "-ká"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 29,
@@ -375,7 +543,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 26,
+        "form" : "-kátá"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 30,
@@ -388,7 +562,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 27,
+        "form" : "-káṣlo"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 31,
