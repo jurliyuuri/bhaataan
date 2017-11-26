@@ -2,7 +2,7 @@ ká ṣomazená káom síbhaḍi hína.　彼女は彼女の故郷で功績を�
 kiṣló bhárabáta ek.　彼等は風邪に掛かったらしい
 Ápa aṭamáná manámanelená bhátadhí.　私は神の親を話す
 amilahomá nutta　魚醤、ナンプラー
-juesleone juesleonehomá ṣomatákuhomá aṭazahomá xejuhomá nímaṣáná taku　ユエスレオネ・ユエスレオネ社会主義シェユ連邦
+juecleone juecleonehomá ṣomatákuhomá aṭazahomá xejuhomá nímaṣáná taku　ユエスレオネ・ユエスレオネ社会主義シェユ連邦
 Ámaom cákíkamúná síbha?　あなたは何処の出身ですか？
 sákahomá ḍázá　路商　露天商
 nánadhel zamú!　何をする！!
@@ -27,8 +27,8 @@ bhát(～を話す、喋る) -adhí(一人称終止詞).
 amila(魚) -homá(母音幹単数属格)
 nutta(液体　水)
 
-juesleone(ユエスレオネ) 
-juesleone(ユエスレオネ) -homá(母音幹単数属格)
+juecleone(ユエスレオネ) 
+juecleone(ユエスレオネ) -homá(母音幹単数属格)
 ṣomatáku(共産　集産) -homá(母音幹単数属格)
 aṭaza(主義　思想　イデオロギー) -homá(母音幹単数属格)
 xeju(シェユ) -homá(母音幹単数属格)
