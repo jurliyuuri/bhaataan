@@ -594,7 +594,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 41,
+        "form" : "-zá"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 33,
@@ -607,7 +613,19 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 42,
+        "form" : "-dhel"
+      }
+    }, {
+      "title" : "単複",
+      "entry" : {
+        "id" : 34,
+        "form" : "-elená"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 34,
@@ -620,7 +638,19 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 43,
+        "form" : "-dhelá"
+      }
+    }, {
+      "title" : "単複",
+      "entry" : {
+        "id" : 33,
+        "form" : "-ele"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 35,
@@ -639,7 +669,25 @@
       "text" : "*anl"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 44,
+        "form" : "-homá"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 46,
+        "form" : "-om"
+      }
+    }, {
+      "title" : "単複",
+      "entry" : {
+        "id" : 36,
+        "form" : "-áná"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 36,
@@ -658,7 +706,25 @@
       "text" : "*anl"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 45,
+        "form" : "-home"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 47,
+        "form" : "-omá"
+      }
+    }, {
+      "title" : "単複",
+      "entry" : {
+        "id" : 35,
+        "form" : "-án"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 37,
@@ -671,7 +737,19 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 48,
+        "form" : "-bhau"
+      }
+    }, {
+      "title" : "単複",
+      "entry" : {
+        "id" : 38,
+        "form" : "-ainá"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 38,
@@ -684,7 +762,19 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "単複",
+      "entry" : {
+        "id" : 37,
+        "form" : "-ai"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 49,
+        "form" : "-bhauná"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 39,
@@ -697,7 +787,19 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "単複",
+      "entry" : {
+        "id" : 40,
+        "form" : "-iná"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 50,
+        "form" : "-ḍi"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 40,
@@ -710,7 +812,19 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 51,
+        "form" : "-dhíná"
+      }
+    }, {
+      "title" : "単複",
+      "entry" : {
+        "id" : 39,
+        "form" : "-i"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 41,
@@ -723,7 +837,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 32,
+        "form" : "-á"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 42,
@@ -736,7 +856,19 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "単複",
+      "entry" : {
+        "id" : 43,
+        "form" : "-dhelá"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 33,
+        "form" : "-ele"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 43,
@@ -749,7 +881,19 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "単複",
+      "entry" : {
+        "id" : 42,
+        "form" : "-dhel"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 34,
+        "form" : "-elená"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 44,
@@ -762,7 +906,31 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "単複",
+      "entry" : {
+        "id" : 45,
+        "form" : "-home"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 46,
+        "form" : "-om"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 35,
+        "form" : "-án"
+      }
+    }, {
+      "title" : "単複",
+      "entry" : {
+        "id" : 47,
+        "form" : "-omá"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 45,
@@ -775,7 +943,31 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 47,
+        "form" : "-omá"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 36,
+        "form" : "-áná"
+      }
+    }, {
+      "title" : "単複",
+      "entry" : {
+        "id" : 44,
+        "form" : "-homá"
+      }
+    }, {
+      "title" : "単複",
+      "entry" : {
+        "id" : 46,
+        "form" : "-om"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 46,
@@ -788,7 +980,25 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "単複",
+      "entry" : {
+        "id" : 45,
+        "form" : "-home"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 44,
+        "form" : "-homá"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 35,
+        "form" : "-án"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 47,
@@ -801,7 +1011,25 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 45,
+        "form" : "-home"
+      }
+    }, {
+      "title" : "単複",
+      "entry" : {
+        "id" : 44,
+        "form" : "-homá"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 36,
+        "form" : "-áná"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 48,
@@ -814,7 +1042,19 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 37,
+        "form" : "-ai"
+      }
+    }, {
+      "title" : "単複",
+      "entry" : {
+        "id" : 49,
+        "form" : "-bhauná"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 49,
@@ -827,7 +1067,19 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 38,
+        "form" : "-ainá"
+      }
+    }, {
+      "title" : "単複",
+      "entry" : {
+        "id" : 48,
+        "form" : "-bhau"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 50,
@@ -840,7 +1092,19 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "単複",
+      "entry" : {
+        "id" : 51,
+        "form" : "-dhíná"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 39,
+        "form" : "-i"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 51,
@@ -853,7 +1117,19 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 40,
+        "form" : "-iná"
+      }
+    }, {
+      "title" : "単複",
+      "entry" : {
+        "id" : 50,
+        "form" : "-ḍi"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 52,
