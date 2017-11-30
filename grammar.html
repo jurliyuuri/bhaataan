@@ -1,19 +1,77 @@
 <!doctype html>
 <html>
 <head>
-<title>バート語の文法メモ</title>
+<title>バート語文法</title>
 <meta charset="UTF-8">
 <link rel="stylesheet" href="common.css">
 <link rel="stylesheet" href="menu.css">
+<style>
+.non_starting{background-color: #ffeeee}
+.starting{background-color: #eeeeff}
+.foreign{background-color: #eeeeee}
+</style>
 </head>
 <body class="cool">
 <a href="./index.html">トップに戻る</a>
-<h1>バート語の文法メモ</h1>
 
-<h2>1. 基本</h2>
-<h3>1-1. 文構造</h3>
+<h1>バート語文法</h1>
+
+<h2>Section1. 音韻</h2>
+
+<h3>子音</h3>
+
+<table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
+<tr><td></td><td colspan="2">唇音</td><td colspan="2">歯茎音</td><td colspan="2">そり舌音</td><td colspan="2">軟口蓋音</td>
+<tr><td>鼻音</td><td colspan="2" class="starting">m [m]</td><td colspan="2" class="starting">n [n]</td><td colspan="2">ṇ [ɳ]</td><td colspan="2"></td>
+<tr><td rowspan="2">破裂音</td><td class="non_starting">p [p]</td><td class="starting">b [b]</td><td class="non_starting">t [t]</td><td>d [d]</td><td>ṭ [ʈ]</td><td class="starting">ḍ [ɖ]</td><td class="starting">k [k]</td><td>g [ɡ]</td>
+<tr><td>ph [pʰ]</td><td class="starting">bh [bʱ]</td><td></td><td class="starting">dh [dʱ]</td><td></td><td></td><td class="starting">kh [kʰ]</td><td class="starting">gh [ɡʱ]</td>
+<tr><td>摩擦音</td><td></td><td></td><td class="starting">c [s]</td><td class="starting">s [z]</td><td class="starting">ṣ [ʂ]</td><td></td><td class="starting">h [x]</td><td></td>
+<tr><td>ふるえ音</td><td colspan="2"></td><td colspan="2" class="starting">r [r]</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td>接近音</td><td colspan="2" class="starting">w [ʋ]</td><td colspan="2" class="starting">l [l ~ ɾ]</td><td colspan="2">ḷ [ɭ]</td><td colspan="2"></td></tr>
+</table>
+<br>
+<table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
+<tr><td class="foreign">x [ʃ]</td><td class="starting">z [tʃ]</td><td class="starting">j [j]</td><td>y [ɥ]</td></tr>
+</table>
+<p>注：</p>
+<table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
+	<tr><td class="starting">語頭に立てる</td></tr>
+	<tr><td class="non_starting">語頭に立たない</td></tr>
+	<tr><td class="foreign">外来語のみで使用</td></tr>
+</table>
+
+<h3>母音</h3>
+<div style="font-family:'arial'">
+短母音: a [a], i [i], u [u]<br>
+長母音: á [aː], í [iː], ú [uː], e [e̞ː ~ ɛː], o [o̞ː ~ ɔː]<br>
+二重母音: au [au̯], ai [ai̯]<br>
+（口語ではauとo, aiとeが合流することもある）<br>
+</div>
+
+<h3>イントネーション</h3>
+<p>バート語には高低のイントネーションがある。単語ごとに決まっているものではないので、アクセントでも声調でもない。</p>
+<p>規則は以下の通り。</p>
+<ul>
+	<li>「名詞後置格+後置詞」「不定詞+後置詞」「名詞主格+接続詞」「その他とりあえず1単語」を文節と定義し、文節の最終音節を高く読む、というのが基本規則。ただし1音節からなる文節は常に低く読む。</li>
+	<li>低く「長母音・短母音・長母音」と続く場合、真ん中の短母音を高く変えて読むことが多い（ただし変えなくても良い）</li>
+	<li>文末は最終音節を通常より低く読む。疑問文の場合、最終音節は高いままで最後から二番目の音節を通常より低く読む。</li>
+	<li>固有名詞はどう読んでも良い。</li>
+</ul>
+
+<h3>細かい事柄</h3>
+<ul>
+<li>語末の-l（母音幹単数対格の-dhelぐらいでしか出ない）は[ɾə]と読む。</li>
+<li>不定詞語尾-úḷは-úlと表記されることも多いが、どちらの場合でも発音は[uːɭ]である。</li>
+<li>無変化動詞hemは[xẽː]のように鼻母音として読むこともある。hemúḷの命令形hemは必ず[xɛːm]である。</li>
+<li>転写ではṣはsに点のついた文字だが、バート文字ではcに点を付ける。現世での古い資料だと誤ってsに点をつけている例があるので注意。</li>
+</ul>
+<hr>
+<h2>Section2. 統語論</h2>
+
+<h3>1. 基本</h3>
+<h4>1-1. 文構造</h4>
 <p>関係詞を除き基本的に前置修飾。基本的に動詞を文末に置き、様々な格の名詞がそれを修飾するという体系である。ただし、「名詞後置格+後置詞」は動詞より後に出ることができる。</p>
-<h3>1-2. 品詞</h3>
+<h4>1-2. 品詞</h4>
 <p>以下の3品詞が基本である。</p>
 <pre>
 動詞：文の中核をなす。
@@ -32,7 +90,7 @@
 </pre>
 
 
-<h2>2. 名詞と後置詞</h2>
+<h3>2. 名詞と後置詞</h3>
 <p>名詞は主格・対格・属格・具格・後置格の5種の格を持つ。このうち、主格・対格（と多分具格）は動詞を直接修飾し、属格は後続する名詞を修飾する。後置格は直後に後置詞を要求し、逆に後置詞は基本的に直前に後置格を要求する。なお、主格の人称に応じて動詞が人称変化する。</p>
 <p>名詞の曲用は、名詞の辞書形が子音で終わるか母音で終わるかによって大きく異なる。子音で終わるものを子音幹、母音で終わるものを母音幹と呼ぶ。</p>
 <table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
@@ -58,11 +116,11 @@
 
 <p>後置詞は変化しない。</p>
 
-<h2>3. 関係代名詞</h2>
+<h3>3. 関係代名詞</h3>
 <p>nánaは（疑問代名詞としての通常の用法と共に）関係代名詞としての特殊な用法がある。英語のとかと同様、前に先行詞を、後ろに文をとって、全体で名詞節を作る。<small>後置修飾する句はないという建前上、一セットで名詞節という設定である。</small>名詞節の格は先行詞に格語尾をつけて表す。</p>
 <p>なお、「内部の動詞のどの格を意味的に先行詞が埋めるか」は明示的には表さない。（the building that I loveもthe book that doesn't closeもthe house that we liveも全部thatで言えるみたいな感じ）ということは、<strong><u>関係代名詞は直接は動詞とやりとりをしないので、格変化をしない</u></strong>。（ただし、属格はありうるよなぁ）</p>
 
-<h2>4. 動詞</h2>
+<h3>4. 動詞</h3>
 <p>動詞は不定詞・終止詞・過去分詞・未来分詞・命令形の5種類の現れ方がある。どれも格付き名詞を受け取って節を構成できる。</p>
 <ul>
 <li>終止詞：文を終わらせる。平叙文を作る。</li>
@@ -70,31 +128,75 @@
 <li>未来分詞：文末に来れば未来形、後ろに無変化動詞hemが来ると完了表現。後ろに名詞が来ればその名詞を修飾できる。</li>
 <li>命令形：文を終わらせ、命令の意図を表す。</li>
 </ul>
-<p>不定詞は、基本的に名詞節として振舞う。人称は指示・固有で、不定詞 + heyákáṣloで「〜だろうか」という表現が作れたりする。後置詞が後ろについても良いが、この時後置格の語尾はつかない。</p>
+<p>不定詞は、基本的に名詞節として振舞う。人称は指示・固有で、不定詞 + heyákáṣloで「〜だろうか」という表現が作れたりする。後置詞が後ろについても良いが、この時にも後置格の語尾はつかない。</p>
 
-<h2>5. 副詞</h2>
+<table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
+<tr>
+<td></td>
+<td>一人称</td>
+<td>二人称</td>
+<td>三人称女</td>
+<td>三人称男</td>
+<td>指示・固有</td>
+</tr>
+<tr>
+<td>命令形</td>
+<td colspan="5">-Ø</td>
+<tr>
+<td>不定詞</td>
+<td colspan="5">-úḷ</td>
+</tr>
+<tr>
+<td>終止詞</td>
+<td>-(a)dhí</td>
+<td>-(a)mú</td>
+<td>-(a)ze</td>
+<td>-(a)bhá</td>
+<td>-(a)ká</td>
+</tr>
+<tr>
+<td>過去分詞</td>
+<td>-(a)dína</td>
+<td>-(a)múná</td>
+<td>-(a)zená</td>
+<td>-(a)báta</td>
+<td>-(a)kátá</td>
+</tr>
+<tr>
+<td>未来分詞</td>
+<td>-(a)díha</td>
+<td>-(a)múha</td>
+<td>-(a)zebá</td>
+<td>-(a)báṣló</td>
+<td>-(a)káṣló</td>
+</tr>
+</tbody>
+</table>
+
+
+<h3>5. 副詞</h3>
 <p>動詞より前において、動詞を修飾する。曲用したりしない。否定文はám(否定副詞、〜でない)で作る。</p>
 
-<h2>6. 接続詞</h2>
+<h3>6. 接続詞</h3>
 <p>文と文を繋いだり（ṣiṇṇa(しかし)など）、語と語を繋いだり（jo(または)など）する。接続詞で複数の名詞を繋ぐ場合、格変化するのは最後の名詞だけである。</p>
 
 
-<h2>7. 助詞</h2>
+<h3>7. 助詞</h3>
 <p>動詞に後置する。今の所「ek	〜らしい　〜みたいだ」のみ。名前が気に入らないので改名する可能性大。</p>
 
-<h2>8. 疑問文・感嘆文</h2>
+<h3>8. 疑問文・感嘆文</h3>
 <p>単独の名詞節（主格）で疑問文を意図することができる。nána「何」を含んだ文で、そこに当てはまる語を尋ねる疑問文が作れる。</p>
 <p>jo ám?を文末につけることで肯否疑問文を表す。</p>
 <p>感嘆とか反語とかは疑問文で表す。</p>
 <p>-úḷ emaで「〜するだなんて」という感嘆文を表せる。</p>
 
-<h2>9. 形容詞</h2>
+<h3>9. 形容詞</h3>
 <p>現状「amáma	大きい　偉大な」のみ。日本語の連体詞みたいな、名詞を修飾する役割のみを持つ品詞って扱いにしようかな。</p>
 
-<h2>10. 間投詞</h2>
+<h3>10. 間投詞</h3>
 <p>感動詞とも。文中どこにおいてもいいよん</p>
 
-<h2>11. 無変化動詞hem</h2>
+<h3>11. 無変化動詞hem</h3>
 <p>無変化動詞hemの用法</p>
 <ul>
 	<li>分詞に後続すると完了表現を作る。この「完了表現」ってのは普通に完了相のこと。</li>
