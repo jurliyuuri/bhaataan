@@ -2544,7 +2544,7 @@
     },
     "translations" : [ {
       "title" : "母音幹名詞",
-      "forms" : [ "出身", "故郷" ]
+      "forms" : [ "出身", "故郷", "(我が)国" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2555,7 +2555,13 @@
       "text" : "*sipql"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 131,
+        "form" : "ṣibhai"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 131,
@@ -2563,7 +2569,7 @@
     },
     "translations" : [ {
       "title" : "母音幹名詞",
-      "forms" : [ "国　国家　" ]
+      "forms" : [ "国", "国家" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2574,7 +2580,13 @@
       "text" : "*sipql"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 130,
+        "form" : "síbha"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 132,
