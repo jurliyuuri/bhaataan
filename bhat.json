@@ -1858,7 +1858,7 @@
     },
     "translations" : [ {
       "title" : "間投詞",
-      "forms" : [ "あー！えー、それでは、じゃあ" ]
+      "forms" : [ "あー！えー", "それでは", "じゃあ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1869,7 +1869,13 @@
       "text" : "*raa"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 149,
+        "form" : "á"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 93,
@@ -2886,6 +2892,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 149,
+      "form" : "á"
+    },
+    "translations" : [ {
+      "title" : "間投詞",
+      "forms" : [ "あー！えー", "それでは", "じゃあ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌a, 藍a"
+    }, {
+      "title" : "ラネーメ祖語形",
+      "text" : "*raa"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 92,
+        "form" : "há"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
