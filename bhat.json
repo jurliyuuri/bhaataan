@@ -1331,7 +1331,7 @@
     },
     "translations" : [ {
       "title" : "子音幹名詞",
-      "forms" : [ "神、皇帝" ]
+      "forms" : [ "神", "皇帝" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1449,7 +1449,7 @@
     },
     "translations" : [ {
       "title" : "後置詞",
-      "forms" : [ "～を通って　～と共に" ]
+      "forms" : [ "～を通って", "～と共に" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2096,7 +2096,7 @@
     },
     "translations" : [ {
       "title" : "副詞",
-      "forms" : [ "永遠に　永久に" ]
+      "forms" : [ "永遠に", "永久に" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2112,7 +2112,7 @@
     },
     "translations" : [ {
       "title" : "子音幹名詞",
-      "forms" : [ "永遠　永久" ]
+      "forms" : [ "永遠", "永久" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2538,7 +2538,7 @@
     },
     "translations" : [ {
       "title" : "母音幹名詞",
-      "forms" : [ "出身 故郷" ]
+      "forms" : [ "出身", "故郷" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2782,7 +2782,7 @@
     },
     "translations" : [ {
       "title" : "子音幹名詞",
-      "forms" : [ "兄弟、姉妹、同胞" ]
+      "forms" : [ "兄弟", "姉妹", "同胞" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2890,7 +2890,7 @@
   "zpdic" : {
     "alphabetOrder" : "",
     "alphabetOrderType" : "UNICODE",
-    "punctuations" : [ ",", "、" ],
+    "punctuations" : [ ",", "　", "、", " ", " " ],
     "pronunciationTitle" : null,
     "plainInformationTitles" : [ ],
     "informationTitleOrder" : null,
