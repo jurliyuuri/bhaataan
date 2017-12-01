@@ -2960,6 +2960,25 @@
         "form" : "hem"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 151,
+      "form" : "oṣa"
+    },
+    "translations" : [ {
+      "title" : "後置詞",
+      "forms" : [ "〜から" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "タカンoca\n"
+    }, {
+      "title" : "ラネーメ祖語形",
+      "text" : "*wosle"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
