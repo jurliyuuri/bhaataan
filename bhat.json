@@ -2008,7 +2008,7 @@
       "form" : "jo"
     },
     "translations" : [ {
-      "title" : "接続詞",
+      "title" : "名詞接続詞",
       "forms" : [ "または", "もしくは" ]
     } ],
     "tags" : [ ],
@@ -2624,7 +2624,7 @@
       "form" : "ṣiṇṇa"
     },
     "translations" : [ {
-      "title" : "接続詞",
+      "title" : "文接続詞",
       "forms" : [ "しかし" ]
     } ],
     "tags" : [ ],
