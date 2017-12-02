@@ -583,6 +583,19 @@
   }, {
     "entry" : {
       "id" : 45,
+      "form" : "crqi"
+    },
+    "translations" : [ ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "訳語",
+      "text" : "ceixei.ar[形容詞]近い、近接した\r\nceyuu.ar[名詞]周り\r\ncei2.pk[名詞][動詞][定詞]周り、周る、近い\r\ncajúl.bt[動詞]〜に似ている、まるで〜のようである"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 46,
       "form" : "cu^nla"
     },
     "translations" : [ ],
@@ -595,7 +608,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 46,
+      "id" : 47,
       "form" : "dkoop"
     },
     "translations" : [ ],
@@ -608,7 +621,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 47,
+      "id" : 48,
       "form" : "dradq"
     },
     "translations" : [ ],
@@ -624,7 +637,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 48,
+      "id" : 49,
       "form" : "fokjut"
     },
     "translations" : [ ],
@@ -637,7 +650,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 49,
+      "id" : 50,
       "form" : "fuepq"
     },
     "translations" : [ ],
@@ -650,7 +663,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 50,
+      "id" : 51,
       "form" : "furoo"
     },
     "translations" : [ ],
@@ -663,7 +676,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 51,
+      "id" : 52,
       "form" : "graugrau"
     },
     "translations" : [ ],
@@ -676,7 +689,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 52,
+      "id" : 53,
       "form" : "iinq"
     },
     "translations" : [ ],
@@ -689,7 +702,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 53,
+      "id" : 54,
       "form" : "inuzi"
     },
     "translations" : [ ],
@@ -702,7 +715,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 54,
+      "id" : 55,
       "form" : "iou"
     },
     "translations" : [ ],
@@ -715,7 +728,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 55,
+      "id" : 56,
       "form" : "i'q"
     },
     "translations" : [ ],
@@ -731,7 +744,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 56,
+      "id" : 57,
       "form" : "sipql"
     },
     "translations" : [ ],
@@ -744,7 +757,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 57,
+      "id" : 58,
       "form" : "saphaku"
     },
     "translations" : [ ],
@@ -757,7 +770,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 58,
+      "id" : 59,
       "form" : "sa"
     },
     "translations" : [ ],
@@ -770,7 +783,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 59,
+      "id" : 60,
       "form" : "phoobo"
     },
     "translations" : [ ],
@@ -783,7 +796,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 60,
+      "id" : 61,
       "form" : "piu-aim>pjeem"
     },
     "translations" : [ ],
@@ -796,7 +809,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 61,
+      "id" : 62,
       "form" : "pqra"
     },
     "translations" : [ ],
@@ -812,7 +825,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 62,
+      "id" : 63,
       "form" : "qmamq"
     },
     "translations" : [ ],
@@ -825,7 +838,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 63,
+      "id" : 64,
       "form" : "qmuile'"
     },
     "translations" : [ ],
@@ -841,7 +854,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 64,
+      "id" : 65,
       "form" : "qtaa"
     },
     "translations" : [ ],
@@ -854,7 +867,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 65,
+      "id" : 66,
       "form" : "raa"
     },
     "translations" : [ ],
@@ -867,7 +880,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 66,
+      "id" : 67,
       "form" : "raikqt"
     },
     "translations" : [ ],
@@ -880,7 +893,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 67,
+      "id" : 68,
       "form" : "rik"
     },
     "translations" : [ ],
@@ -893,7 +906,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 68,
+      "id" : 69,
       "form" : "riya"
     },
     "translations" : [ ],
@@ -906,7 +919,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 69,
+      "id" : 70,
       "form" : "many"
     },
     "translations" : [ ],
@@ -919,7 +932,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 70,
+      "id" : 71,
       "form" : "momfq"
     },
     "translations" : [ ],
@@ -932,7 +945,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 71,
+      "id" : 72,
       "form" : "momorq"
     },
     "translations" : [ ],
@@ -945,7 +958,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 72,
+      "id" : 73,
       "form" : "morq"
     },
     "translations" : [ ],
@@ -958,7 +971,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 73,
+      "id" : 74,
       "form" : "mqi"
     },
     "translations" : [ ],
@@ -971,7 +984,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 74,
+      "id" : 75,
       "form" : "'munq"
     },
     "translations" : [ ],
@@ -987,7 +1000,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 75,
+      "id" : 76,
       "form" : "naanu"
     },
     "translations" : [ ],
@@ -1000,7 +1013,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 76,
+      "id" : 77,
       "form" : "nimslu"
     },
     "translations" : [ ],
@@ -1016,7 +1029,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 77,
+      "id" : 78,
       "form" : "ninq"
     },
     "translations" : [ ],
@@ -1029,7 +1042,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 78,
+      "id" : 79,
       "form" : "nu'a'"
     },
     "translations" : [ ],
@@ -1042,7 +1055,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 79,
+      "id" : 80,
       "form" : "phaen"
     },
     "translations" : [ ],
@@ -1055,7 +1068,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 80,
+      "id" : 81,
       "form" : "phed"
     },
     "translations" : [ ],
@@ -1071,7 +1084,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 81,
+      "id" : 82,
       "form" : "xqmo"
     },
     "translations" : [ ],
@@ -1084,7 +1097,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 82,
+      "id" : 83,
       "form" : "yujo"
     },
     "translations" : [ ],
@@ -1097,7 +1110,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 83,
+      "id" : 84,
       "form" : "'ywa"
     },
     "translations" : [ ],
@@ -1110,7 +1123,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 84,
+      "id" : 85,
       "form" : "zau"
     },
     "translations" : [ ],
@@ -1126,7 +1139,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 85,
+      "id" : 86,
       "form" : "zee"
     },
     "translations" : [ ],
@@ -1139,7 +1152,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 86,
+      "id" : 87,
       "form" : "zeepq"
     },
     "translations" : [ ],
@@ -1152,7 +1165,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 87,
+      "id" : 88,
       "form" : "凡例（ラネーメ祖語）"
     },
     "translations" : [ ],
