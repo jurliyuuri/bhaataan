@@ -2985,6 +2985,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 152,
+      "form" : "cajúḷ"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "〜(hína)に似ている・まるで〜(hína)のようである" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌cei2,藍ceixei"
+    }, {
+      "title" : "ラネーメ祖語形",
+      "text" : "*crqi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
