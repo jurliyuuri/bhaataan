@@ -1280,7 +1280,7 @@
     },
     "translations" : [ {
       "title" : "形容詞",
-      "forms" : [ "大きい　偉大な" ]
+      "forms" : [ "大きい", "偉大な" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1289,6 +1289,9 @@
     }, {
       "title" : "ラネーメ祖語形",
       "text" : "*qmamq"
+    }, {
+      "title" : "用法",
+      "text" : "直後に名詞を要求する。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3004,6 +3007,22 @@
     }, {
       "title" : "ラネーメ祖語形",
       "text" : "*crqi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 153,
+      "form" : "kom"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "この" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "koに属格語尾-omがついたものが1語化したもの。直後に名詞を要求する。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
