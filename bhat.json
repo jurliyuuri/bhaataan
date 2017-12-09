@@ -1136,7 +1136,7 @@
       "form" : "accúḷ"
     },
     "translations" : [ {
-      "title" : "動詞",
+      "title" : "動作動詞",
       "forms" : [ "書く" ]
     } ],
     "tags" : [ ],
@@ -1174,7 +1174,7 @@
       "form" : "aḍuhazoúḷ"
     },
     "translations" : [ {
-      "title" : "動詞",
+      "title" : "動作動詞",
       "forms" : [ "見る　観測する" ]
     } ],
     "tags" : [ ],
@@ -1228,7 +1228,7 @@
       "form" : "ákúḷ"
     },
     "translations" : [ {
-      "title" : "動詞",
+      "title" : "動作動詞",
       "forms" : [ "読む" ]
     } ],
     "tags" : [ ],
@@ -1508,8 +1508,11 @@
       "form" : "bhárúḷ"
     },
     "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "風が吹く", "感染症にかかる", "風邪になる", "カビが生える" ]
+      "title" : "瞬間動詞",
+      "forms" : [ "風が吹く", "感染症にかかる", "風邪になる", "病気になる", "カビが生える" ]
+    }, {
+      "title" : "状態動詞",
+      "forms" : [ "風が吹いている", "感染症にかかっている", "風邪である", "病気である", "カビが生えている" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1546,8 +1549,11 @@
       "form" : "bhátúḷ"
     },
     "translations" : [ {
-      "title" : "動詞",
+      "title" : "動作動詞",
       "forms" : [ "～を話す", "喋る" ]
+    }, {
+      "title" : "状態動詞",
+      "forms" : [ "～語を話す能力がある" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1584,8 +1590,11 @@
       "form" : "bhomúḷ"
     },
     "translations" : [ {
-      "title" : "動詞",
+      "title" : "瞬間動詞",
       "forms" : [ "取る", "持つ" ]
+    }, {
+      "title" : "状態動詞",
+      "forms" : [ "持っている" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1603,8 +1612,11 @@
       "form" : "bohúḷ"
     },
     "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "行く", "去る" ]
+      "title" : "動作動詞",
+      "forms" : [ "行く" ]
+    }, {
+      "title" : "瞬間動詞",
+      "forms" : [ "〜(oṣa)を去る" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1638,8 +1650,8 @@
       "form" : "cákíkaúḷ"
     },
     "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "（〜を）訪れさせる" ]
+      "title" : "動作動詞",
+      "forms" : [ "〜を訪れさせる", "〜を到来させる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1657,8 +1669,11 @@
       "form" : "cákíkúḷ"
     },
     "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "来る", "訪れる", "来訪する", "〜(oṣa)が出身地である" ]
+      "title" : "動作動詞",
+      "forms" : [ "来る", "訪れる", "来訪する" ]
+    }, {
+      "title" : "状態動詞",
+      "forms" : [ "〜(oṣa)が出身地である" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1916,7 +1931,7 @@
       "form" : "hemúḷ"
     },
     "translations" : [ {
-      "title" : "動詞",
+      "title" : "状態動詞",
       "forms" : [ "ある", "存在する" ]
     } ],
     "tags" : [ ],
@@ -1935,8 +1950,11 @@
       "form" : "heyáúḷ"
     },
     "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "思う" ]
+    }, {
       "title" : "動詞",
-      "forms" : [ "思う", "(動詞節を取ってheyákáṣlo)～だろうか" ]
+      "forms" : [ "(動詞不定詞+heyákáṣloで)～だろうか" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1992,7 +2010,7 @@
       "form" : "horúḷ"
     },
     "translations" : [ {
-      "title" : "動詞",
+      "title" : "動作動詞",
       "forms" : [ "書く", "記録する" ]
     } ],
     "tags" : [ ],
@@ -2059,8 +2077,11 @@
       "form" : "kádúḷ"
     },
     "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "光る", "目立つ", "(他)分る" ]
+      "title" : "瞬間動詞",
+      "forms" : [ "光る", "目立つ", "〜(対格)が分かる" ]
+    }, {
+      "title" : "状態動詞",
+      "forms" : [ "光っている", "目立っている", "〜(対格)を分かっている" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2282,7 +2303,7 @@
       "form" : "leghúḷ"
     },
     "translations" : [ {
-      "title" : "動詞",
+      "title" : "動作動詞",
       "forms" : [ "絵を描く" ]
     } ],
     "tags" : [ ],
@@ -2444,8 +2465,8 @@
       "form" : "rakkúḷ"
     },
     "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "生きる", "生存する" ]
+      "title" : "状態動詞",
+      "forms" : [ "生きている", "生存している" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2608,8 +2629,11 @@
       "form" : "ṣíkahúḷ"
     },
     "translations" : [ {
-      "title" : "動詞",
+      "title" : "瞬間動詞",
       "forms" : [ "座る" ]
+    }, {
+      "title" : "状態動詞",
+      "forms" : [ "座っている" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2684,7 +2708,7 @@
       "form" : "ṣomaúḷ"
     },
     "translations" : [ {
-      "title" : "動詞",
+      "title" : "動作動詞",
       "forms" : [ "〜(具格)に対して敬礼する" ]
     } ],
     "tags" : [ ],
@@ -2703,7 +2727,7 @@
       "form" : "ṣomúḷ"
     },
     "translations" : [ {
-      "title" : "動詞",
+      "title" : "動作動詞",
       "forms" : [ "積む", "積み上げる", "功績を上げる", "結果を出す" ]
     } ],
     "tags" : [ ],
@@ -2741,7 +2765,7 @@
       "form" : "sujúḷ"
     },
     "translations" : [ {
-      "title" : "動詞",
+      "title" : "動作動詞",
       "forms" : [ "使う", "利用する" ]
     } ],
     "tags" : [ ],
@@ -2760,8 +2784,8 @@
       "form" : "suúḷ"
     },
     "translations" : [ {
-      "title" : "動詞",
-      "forms" : [ "商う", "商売をする" ]
+      "title" : "状態動詞",
+      "forms" : [ "商っている", "商売をしている", "商人である" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2887,7 +2911,7 @@
       "form" : "zeúḷ"
     },
     "translations" : [ {
-      "title" : "動詞",
+      "title" : "動作動詞",
       "forms" : [ "巻く", "回す" ]
     } ],
     "tags" : [ ],
@@ -2906,7 +2930,7 @@
       "form" : "zúḷ"
     },
     "translations" : [ {
-      "title" : "動詞",
+      "title" : "動作動詞",
       "forms" : [ "する", "行なう" ]
     } ],
     "tags" : [ ],
@@ -2950,7 +2974,7 @@
       "form" : "bhápúḷ"
     },
     "translations" : [ {
-      "title" : "動詞",
+      "title" : "状態動詞",
       "forms" : [ "〜(hína)である" ]
     } ],
     "tags" : [ ],
@@ -2997,7 +3021,7 @@
       "form" : "cajúḷ"
     },
     "translations" : [ {
-      "title" : "動詞",
+      "title" : "状態動詞",
       "forms" : [ "〜(hína)に似ている・まるで〜(hína)のようである" ]
     } ],
     "tags" : [ ],
@@ -3023,6 +3047,41 @@
     "contents" : [ {
       "title" : "用法",
       "text" : "koに属格語尾-omがついたものが1語化したもの。直後に名詞を要求する。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 154,
+      "form" : "huṭeúḷ"
+    },
+    "translations" : [ {
+      "title" : "瞬間動詞",
+      "forms" : [ "〜(動詞不定詞)が始まる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌hut2,藍h^ut^ee"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 155,
+      "form" : "cánajúḷ"
+    },
+    "translations" : [ {
+      "title" : "瞬間動詞",
+      "forms" : [ "気づく", "知る" ]
+    }, {
+      "title" : "状態動詞",
+      "forms" : [ "気づいている", "知っている" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌can2,藍canai"
     } ],
     "variations" : [ ],
     "relations" : [ ]
