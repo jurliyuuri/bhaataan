@@ -2202,12 +2202,21 @@
     },
     "translations" : [ {
       "title" : "母音幹名詞",
-      "forms" : [ "三人称男性単数" ]
+      "forms" : [ "三人称男性単数", "あれ" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "「彼ら」はkiṣloという語があるが、「あれら」は規則複数でkízáである。"
+    } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "単複",
+      "entry" : {
+        "id" : 110,
+        "form" : "kiṣlo"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 110,
@@ -2220,7 +2229,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "単複",
+      "entry" : {
+        "id" : 109,
+        "form" : "kí"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 111,
@@ -2239,7 +2254,13 @@
       "text" : "*kaa"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 156,
+        "form" : "tí"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 112,
@@ -3085,6 +3106,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 156,
+      "form" : "tí"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "それ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 111,
+        "form" : "ko"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
