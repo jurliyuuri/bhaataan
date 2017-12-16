@@ -1651,7 +1651,7 @@
     },
     "translations" : [ {
       "title" : "動作動詞",
-      "forms" : [ "〜を訪れさせる", "〜を到来させる" ]
+      "forms" : [ "〜を訪れさせる", "〜を到来させる", "〜をもたらす" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1951,7 +1951,7 @@
     },
     "translations" : [ {
       "title" : "動作動詞",
-      "forms" : [ "思う" ]
+      "forms" : [ "〜(ema)を思う・〜(ema)について考える" ]
     }, {
       "title" : "動詞",
       "forms" : [ "(動詞不定詞+heyákáṣloで)～だろうか" ]
@@ -3135,6 +3135,204 @@
       "entry" : {
         "id" : 111,
         "form" : "ko"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 157,
+      "form" : "-waim"
+    },
+    "translations" : [ {
+      "title" : "母音幹接尾辞",
+      "forms" : [ "人名を作る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐ema,牌em,藍aimu"
+    }, {
+      "title" : "ラネーメ祖語形",
+      "text" : "*aaim"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 158,
+        "form" : "-aim"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 158,
+      "form" : "-aim"
+    },
+    "translations" : [ {
+      "title" : "子音幹接尾辞",
+      "forms" : [ "人名を作る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐ema,牌em,藍aimu"
+    }, {
+      "title" : "ラネーメ祖語形",
+      "text" : "*aaim"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 157,
+        "form" : "-waim"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 159,
+      "form" : "-m"
+    },
+    "translations" : [ {
+      "title" : "母音幹接尾辞",
+      "forms" : [ "人名を作る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐-án,牌a,藍a,-na,-ni"
+    }, {
+      "title" : "ラネーメ祖語形",
+      "text" : "*anl"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 161,
+        "form" : "-n"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 162,
+        "form" : "-am"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 163,
+        "form" : "-an"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 161,
+      "form" : "-n"
+    },
+    "translations" : [ {
+      "title" : "母音幹接尾辞",
+      "forms" : [ "人名を作る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐-án,牌a,藍a,-na,-ni"
+    }, {
+      "title" : "ラネーメ祖語形",
+      "text" : "*anl"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 159,
+        "form" : "-m"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 162,
+        "form" : "-am"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 163,
+        "form" : "-an"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 162,
+      "form" : "-am"
+    },
+    "translations" : [ {
+      "title" : "子音幹接尾辞",
+      "forms" : [ "人名を作る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐-án,牌a,藍a,-na,-ni"
+    }, {
+      "title" : "ラネーメ祖語形",
+      "text" : "*anl"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 161,
+        "form" : "-n"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 159,
+        "form" : "-m"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 163,
+        "form" : "-an"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 163,
+      "form" : "-an"
+    },
+    "translations" : [ {
+      "title" : "子音幹接尾辞",
+      "forms" : [ "人名を作る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐-án,牌a,藍a,-na,-ni"
+    }, {
+      "title" : "ラネーメ祖語形",
+      "text" : "*anl"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 159,
+        "form" : "-m"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 162,
+        "form" : "-am"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 161,
+        "form" : "-n"
       }
     } ]
   } ],
