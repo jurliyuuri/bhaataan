@@ -3106,10 +3106,10 @@
     },
     "translations" : [ {
       "title" : "瞬間動詞",
-      "forms" : [ "気づく", "知る" ]
+      "forms" : [ "〜に(-dhel)気づく", "〜を(-dhel)知る" ]
     }, {
       "title" : "状態動詞",
-      "forms" : [ "気づいている", "知っている" ]
+      "forms" : [ "〜に(-dhel)気づいている", "〜を(-dhel)知っている" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
