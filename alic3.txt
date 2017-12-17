@@ -1,9 +1,9 @@
 There was nothing so VERY remarkable in that; nor did Alice think it so VERY much out of the way to hear the Rabbit say to itself, `Oh dear! Oh dear! I shall be late!’ (when she thought it over afterwards, it occurred to her that she ought to have wondered at this, but at the time it all seemed quite natural); 
 
-koḍi hína とても とても [remarkable]akátá ものたち ám hemakátá hem. そして, 兎 自身ḍi ghi bhátúḷ, "há káṇa! há káṇa! 遅刻であるdíha hem!", kodhel ká 聞くúḷ ema alic ám とても とても 不思議に思うzená hem. 後homá káṇaḍi nána koḍi ema 再び heyáze hína, 事実dhel nána ká kodhel 不思議に思うúḷ 〜べきであるbhápakátá hem ká cánajazená hem. ṣiṇṇa, díom káṇaḍi hína ká dízá 全て [quite] 自然であるúḷ ema heyázená hem.
+koḍi hína とても とても 珍しいakátá ものたち ám hemakátá hem. そして, 兎 自身ḍi ghi bhátúḷ, "há káṇa! há káṇa! 遅刻であるdíha hem!", kodhel ká 聞くúḷ ema alic ám とても とても 不思議に思うzená hem. 後homá káṇaḍi nána koḍi ema 再び heyáze hína, 事実dhel nána ká kodhel 不思議に思うúḷ 〜べきであるbhápakátá hem ká cánajazená hem. ṣiṇṇa, díom káṇaḍi hína ká dízá 全て とても 自然であるúḷ ema heyázená hem.
 
 【副詞】とても
-【状態動詞】remarkable
+【状態動詞】珍しい
 【名詞】もの
 【文接続詞】そして
 【名詞】自身
@@ -14,7 +14,6 @@ koḍi hína とても とても [remarkable]akátá ものたち ám hemakátá
 【副詞】再び
 【名詞】事実
 【副詞】全て
-【副詞】quite
 【状態動詞】自然である
 
 
