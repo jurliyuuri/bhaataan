@@ -3335,6 +3335,94 @@
         "form" : "-n"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 164,
+      "form" : "-ghi"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "〜し終わって" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "ラネーメ祖語形",
+      "text" : "-kjq-"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 165,
+        "form" : "-aghi"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 165,
+      "form" : "-aghi"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "〜し終わって" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "ラネーメ祖語形",
+      "text" : "-kjq-"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 164,
+        "form" : "-ghi"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 166,
+      "form" : "-ma"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "〜しながら" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "ラネーメ祖語形",
+      "text" : "-mq-"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 167,
+        "form" : "-ama"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 167,
+      "form" : "-ama"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "〜しながら" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "ラネーメ祖語形",
+      "text" : "-mq-"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 166,
+        "form" : "-ma"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
