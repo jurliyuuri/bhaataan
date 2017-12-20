@@ -3342,7 +3342,7 @@
     },
     "translations" : [ {
       "title" : "動詞接尾辞",
-      "forms" : [ "〜し終わって" ]
+      "forms" : [ "〜し終わって；完了連用" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3364,7 +3364,7 @@
     },
     "translations" : [ {
       "title" : "動詞接尾辞",
-      "forms" : [ "〜し終わって" ]
+      "forms" : [ "〜し終わって；完了連用" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3386,7 +3386,7 @@
     },
     "translations" : [ {
       "title" : "動詞接尾辞",
-      "forms" : [ "〜しながら" ]
+      "forms" : [ "〜しながら；非完了連用" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3408,7 +3408,7 @@
     },
     "translations" : [ {
       "title" : "動詞接尾辞",
-      "forms" : [ "〜しながら" ]
+      "forms" : [ "〜しながら；非完了連用" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
