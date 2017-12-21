@@ -1,10 +1,10 @@
 There was nothing so VERY remarkable in that; nor did Alice think it so VERY much out of the way to hear the Rabbit say to itself, `Oh dear! Oh dear! I shall be late!’ (when she thought it over afterwards, it occurred to her that she ought to have wondered at this, but at the time it all seemed quite natural); 
 
-koḍi hína とても とても 珍しいakátá ものたち ám hemakátá hem. そして, 兎 自身ḍi ghi bhátúḷ, "há káṇa! há káṇa! 遅刻であるdíha hem!", kodhel ká 聞くúḷ ema alic ám とても とても 不思議に思うzená hem. 後homá káṇaḍi nána koḍi ema 再び heyáze hína, 事実dhel nána ká kodhel 不思議に思うúḷ 〜べきであるbhápakátá hem ká cánajazená hem. ṣiṇṇa, díom káṇaḍi hína ká dízá 全て とても 自然であるúḷ ema heyázená hem.
+koḍi hína とても とても 珍しいakátá 出来事たち ám hemakátá hem. そして, 兎 自身ḍi ghi bhátúḷ, "há káṇa! há káṇa! 遅刻であるdíha hem!", kodhel ká 聞くúḷ ema alic ám とても とても 不思議に思うzená hem. 時間的な後homá káṇaḍi nána koḍi ema 再び heyáze hína, 事実dhel nána ká kodhel 不思議に思うúḷ 〜べきであるbhápakátá hem ká cánajazená hem, ṣiṇṇa, díom káṇaḍi hína ká dízá 全て とても 自然であるúḷ ema heyázená hem.
 
 【副詞】とても
 【状態動詞】珍しい
-【名詞】もの
+【名詞】出来事
 【文接続詞】そして
 【名詞】自身
 【状態動詞】遅刻である
@@ -29,11 +29,13 @@ but when the Rabbit actually TOOK A WATCH OUT OF ITS WAISTCOAT- POCKET, and look
 【名詞】ポケット
 【動作動詞】取り出す
 【動作動詞】立ち上がる
-【副詞】突然
 【名詞】好奇心
 【名詞】野
 【動作動詞】横切る
 【動作動詞】追う
+【名詞】幸運
+【名詞】垣根
+【名詞】下
 【名詞】巣穴（→理語に借用される予定）
 【動作動詞】跳ねる
 【動作動詞】入る
