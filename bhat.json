@@ -3586,6 +3586,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 178,
+      "form" : "ja"
+    },
+    "translations" : [ {
+      "title" : "文接続詞",
+      "forms" : [ "そして" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "皇wa,藍iwa,牌ua"
+    }, {
+      "title" : "ラネーメ祖語形",
+      "text" : "*ya"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
