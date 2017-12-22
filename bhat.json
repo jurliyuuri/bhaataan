@@ -3423,6 +3423,22 @@
         "form" : "-ma"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 168,
+      "form" : "bhoṇau"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "小動物が地面に作る巣穴" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍pogau,理phornau"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
