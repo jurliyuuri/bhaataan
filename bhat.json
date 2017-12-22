@@ -3557,6 +3557,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 176,
+      "form" : "díṣlo"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "花" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌xuo1,藍tixuo"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
