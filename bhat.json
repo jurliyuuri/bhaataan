@@ -3605,6 +3605,41 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 179,
+      "form" : "ídúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "入る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌lit,藍rita,古牌iht(王正素)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 180,
+      "form" : "deja"
+    },
+    "translations" : [ {
+      "title" : "間投詞",
+      "forms" : [ "なんとまあ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍t'aitaiu"
+    }, {
+      "title" : "ラネーメ祖語形",
+      "text" : "*taiq"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
