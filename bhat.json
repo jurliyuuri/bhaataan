@@ -572,7 +572,7 @@
   }, {
     "entry" : {
       "id" : 31,
-      "form" : "-uḷ"
+      "form" : "-úḷ"
     },
     "translations" : [ {
       "title" : "動詞接尾辞",
@@ -3571,6 +3571,19 @@
       "title" : "同根語",
       "text" : "牌xuo1,藍tixuo"
     } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 177,
+      "form" : "áṣá"
+    },
+    "translations" : [ {
+      "title" : "後置詞",
+      "forms" : [ "〜を原因として" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
