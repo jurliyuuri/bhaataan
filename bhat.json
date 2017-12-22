@@ -3506,6 +3506,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 173,
+      "form" : "gháni"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "火" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌kan1,藍kani"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
