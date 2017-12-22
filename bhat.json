@@ -3439,6 +3439,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 169,
+      "form" : "bhá"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "全ての", "すべての", "全部の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌be1"
+    }, {
+      "title" : "用法",
+      "text" : "直後に名詞を要求する。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
