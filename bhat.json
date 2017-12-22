@@ -2054,7 +2054,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "外来語"
+      "text" : "理語yuesleoneからの借用"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2488,7 +2488,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "外来語"
+      "text" : "理語fedi'aからの借用"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2842,7 +2842,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "外来語"
+      "text" : "牌tak1,藍taku;比較的最近の借用語"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2896,7 +2896,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "外来語"
+      "text" : "理語xejuからの借用"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3471,6 +3471,22 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "牌ty,藍tiu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 171,
+      "form" : "phúpen"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "兎", "うさぎ", "ウサギ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ヴェフィスfoupainからの借用"
     } ],
     "variations" : [ ],
     "relations" : [ ]
