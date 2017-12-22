@@ -3538,6 +3538,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 175,
+      "form" : "numíju"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "ピンク", "桃色", "ピンク色" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍numiu"
+    }, {
+      "title" : "用法",
+      "text" : "専ら属格で使う。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
