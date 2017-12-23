@@ -3763,6 +3763,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 187,
+      "form" : "hátaṣom"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "ポケット" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐háta+伐ṣomúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
