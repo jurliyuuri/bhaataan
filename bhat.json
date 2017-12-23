@@ -3643,6 +3643,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 181,
+      "form" : "seṇa"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "突然" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍saingoai"
+    }, {
+      "title" : "ラネーメ祖語形",
+      "text" : "*sai^ngq"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
