@@ -3140,7 +3140,10 @@
       "forms" : [ "それ" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍tisi"
+    } ],
     "variations" : [ ],
     "relations" : [ {
       "title" : "類義語",
