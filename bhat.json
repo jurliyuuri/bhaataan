@@ -3693,6 +3693,44 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 183,
+      "form" : "dhíp"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "鎖" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍dibee"
+    }, {
+      "title" : "用法",
+      "text" : "あくまで輪などが繋がったものを指す語であり、「繋ぎ止める」「束縛する」というニュアンスは無い。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 184,
+      "form" : "recúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)を〜(oṣa)という包装・箱などの中から取り出す" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍h^ecuai"
+    }, {
+      "title" : "ラネーメ祖語形",
+      "text" : "*recq"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
