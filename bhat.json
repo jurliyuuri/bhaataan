@@ -1380,7 +1380,13 @@
       "text" : "*manmanq"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 117,
+        "form" : "manáman"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 66,
@@ -2380,7 +2386,13 @@
       "text" : "*manmanq"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 65,
+        "form" : "banáman"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 118,
