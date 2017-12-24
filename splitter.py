@@ -1,10 +1,12 @@
+# python3
 from matplotlib.image import imread
 import matplotlib.pyplot as plt
 import numpy as np
 bhat_list = ["i" ,"a" ,"u" ,"á" ,"í" ,"ú" ,"o" ,"e" ,"-" ,"ai",
 	"au","t" ,"x" ,"d" ,"h" ,"c" ,"m" ,"z" ,"k" ,"s" ,
 	"w" ,"r" ,"g" ,"l" ,"j" ,"p" ,"b" ,"n" ,"ṭ" ,"dh",
-	"ḍ" ,"ṣ" ,"gh","ḷ" ,"y" ,"ph","bh","ṇ","kh", " "]
+	"ḍ" ,"ṣ" ,"gh","ḷ" ,"y" ,"ph","bh","ṇ","kh", ",",
+	" "]
 
 
 def main():
