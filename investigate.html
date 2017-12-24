@@ -1270,7 +1270,7 @@ díom káṇaḍi hína seṇa kábhau 〜近くḍi hína numíjuhomá adhadhel
 <p>で、現代表記ではどうするかというと、当然無子音字<img src="bhat_font/bhat_a.png" height="60" />にこれらの符号を適用するのだから、aQは<img src="long_cons/aq.png" height="40" />、auQは<img src="long_cons/auq.png" height="70" />、iQは<img src="long_cons/iq.png" height="60" />でuQは<img src="long_cons/uq.png" height="40" />。</p>
 <p>文法書にも書いてきた。</p>
 
-<h3>36-2. フォント追加</h3>
+<h3>36-2. フォント追加(句読点)</h3>
 <p>とりあえず、aQ・iQ・uQ・auQのビットマップを造らなくては。</p>
 <p>あと、「<a href="letter.html">バート語について考察する -- バート文字</a>」で出てきたコンマ、引用符と疑問符、及びそれが複合した字も作らねば。</p>
 <img src="img/pmcf_quote.png" />
@@ -1281,11 +1281,21 @@ díom káṇaḍi hína seṇa kábhau 〜近くḍi hína numíjuhomá adhadhel
 <img src="bhat_bitmap_nonborder_ver3.png" width="240" />
 <p>せっかくなので例文を。上記に書いた"há, kodhel nánaḍi hína sujúḷ heyákáṣlo?"を書いてみよう。</p>
 
-<script>printBhat("quote_h_á_,_ _k_o_dh_e_l_-_ _n_á_n_ḍ_i_ _h_í_n_ _s_u_j_ú_ḷ_-_ _h_e_y_á_k_á_ṣ_-_l_o_ququ".split("_"));</script>
+<script>printBhat("quote_h_á_,_k_o_dh_e_l_-_ _n_á_n_ḍ_i_ _h_í_n_ _s_u_j_ú_ḷ_-_ _h_e_y_á_k_á_ṣ_-_l_o_ququ".split("_"));</script>
 
 <p>元画像だと-úḷに（非義務なので）点を打ってないし、ṣが非真理設定の字形だったり後ろに無母音が打たれてなかったりするなぁ。</p>
 <p>とりあえずこんなもんでいいでしょ。</p>
 
+<h3>36-3. フォント追加(Qシリーズ)</h3>
+<p>aQ・iQ・uQ・auQのビットマップを作り忘れていた。</p>
+<p>パイグで感嘆がtだったりするらしい。というのも、内破のなかで一番簡単に書けるからだそうだ。</p>
+<p>ということで、Qシリーズは向こうではatとかautとか呼ばれてることにしておこう。</p>
+
+<p>あと、今気づいたがバートってコンマの後にスペース入れないのな。</p>
+<img src="bhat_bitmap_ver4.png" width="240" />
+<img src="bhat_bitmap_nonborder_ver4.png" width="240" />
+<p>作った。ということで前述の二重子音4単語を書いてみよう。</p>
+<script>printBhat("r_at_k_ú_ḷ_-_ _n_ut_t_ _ṣ_it_ṇ_ _b_aut_k_á".split("_"));</script>
 <div id="menu">読み込み中…</div>
 <div id="menuButton" onclick="openClose()">≡</div>
 <script src="./header.js" async></script>
