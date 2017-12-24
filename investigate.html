@@ -1241,10 +1241,10 @@ díom káṇaḍi hína seṇa kábhau 〜近くḍi hína numíjuhomá adhadhel
 <p>例えば、rakkúḷ, nutta, ṣiṇṇa, baukkáとかをバート文字でそのまま書くと以下のようになる。</p>
 <table border="1" cellspacing="0" cellpadding="3">
 	<tr><td></td><td>現代表記</td><td>伝統表記</td></tr>
-	<tr><td>rakkúḷ</td><td><script>printBhat(["r","k","-","k","ú","ḷ","-"]);</script></td><td><img src="long_cons/1.png" height="80"/></td></tr>
-	<tr><td>nutta</td><td><script>printBhat(["n","u","t","-","t"]);</script></td><td><img src="long_cons/2.png" height="80"/></td></tr>
-	<tr><td>ṣiṇṇa</td><td><script>printBhat(["ṣ","i","ṇ","-","ṇ"]);</script></td><td><img src="long_cons/3.png" height="80"/></td></tr>
-	<tr><td>baukká</td><td><script>printBhat(["b","au","k","-","k","á"]);</script></td><td><img src="long_cons/4.png" height="80"/></td></tr></table>
+	<tr><td>rakkúḷ</td><td><script>printBhat2("rk-kúḷ");</script></td><td><img src="long_cons/1.png" height="80"/></td></tr>
+	<tr><td>nutta</td><td><script>printBhat2("nut-t");</script></td><td><img src="long_cons/2.png" height="80"/></td></tr>
+	<tr><td>ṣiṇṇa</td><td><script>printBhat2("ṣiṇ-ṇ");</script></td><td><img src="long_cons/3.png" height="80"/></td></tr>
+	<tr><td>baukká</td><td><script>printBhat2("båk-ká");</script></td><td><img src="long_cons/4.png" height="80"/></td></tr></table>
 
 <p>バートで語中の閉音節って長子音でしか出ないわけだし、この書き方はなかなか冗長ではなかろうか。（まあ現世でthroughとかQu'est-ce queとか書いたりするときに比べればストレスが少ない方だが。）</p>
 <p>ということで、母音字の左下に無母音記号を書くことでこれを短縮表記できる仕様にしたい。</p>
@@ -1275,7 +1275,7 @@ díom káṇaḍi hína seṇa kábhau 〜近くḍi hína numíjuhomá adhadhel
 <img src="bhat_bitmap_nonborder_ver3.png" width="240" />
 <p>せっかくなので例文を。上記に書いた"há, kodhel nánaḍi hína sujúḷ heyákáṣlo?"を書いてみよう。</p>
 
-<script>printBhat("quote_h_á_,_k_o_dh_e_l_-_ _n_á_n_ḍ_i_ _h_í_n_ _s_u_j_ú_ḷ_-_ _h_e_y_á_k_á_ṣ_-_l_o_ququ".split("_"));</script>
+<script>printBhat2('"há,koDel- nánḍi hín sujúḷ- heyákáṣ-loQ');</script>
 
 <p>元画像だと-úḷに（非義務なので）点を打ってないし、ṣが非真理設定の字形だったり後ろに無母音が打たれてなかったりするなぁ。</p>
 <p>とりあえずこんなもんでいいでしょ。</p>
@@ -1289,7 +1289,17 @@ díom káṇaḍi hína seṇa kábhau 〜近くḍi hína numíjuhomá adhadhel
 <img src="bhat_bitmap_ver4.png" width="240" />
 <img src="bhat_bitmap_nonborder_ver4.png" width="240" />
 <p>作った。ということで前述の二重子音4単語を書いてみよう。</p>
-<script>printBhat("r_at_k_ú_ḷ_-_ _n_ut_t_ _ṣ_it_ṇ_ _b_aut_k_á".split("_"));</script>
+<script>printBhat2("rAkúḷ- nUt ṣIṇ bÅká");</script>
+
+<h3>36-4. 内部スクリプトの整理</h3>
+<p>バート文字を描画するときの内部スクリプトをそれなりにきれいにした。</p>
+<pre>
+before:
+printBhat("quote_h_á_,_k_o_dh_e_l_-_ _n_á_n_ḍ_i_ _h_í_n_ _s_u_j_ú_ḷ_-_ _h_e_y_á_k_á_ṣ_-_l_o_ququ".split("_"));
+after:
+printBhat2('"há,koDel- nánḍi hín sujúḷ- heyákáṣ-loQ');
+</pre>
+
 <div id="menu">読み込み中…</div>
 <div id="menuButton" onclick="openClose()">≡</div>
 <script src="./header.js" async></script>
