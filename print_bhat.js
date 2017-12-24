@@ -6,8 +6,8 @@ var bhat_list = ["i" ,"a" ,"u" ,"á" ,"í" ,"ú" ,"o" ,"e" ,"-" ,"ai",
 
 var single_char = ["i","a","u","á","í","ú","o","e","-","ä",
 "å","t","x","d","h","c","m","z","k","s",
-"w","r","g","l","j","p","b","n","ṭ","đ",
-"ḍ","ṣ","ǵ","ḷ","y","ṕ","ƀ","ṇ","ḱ",",",
+"w","r","g","l","j","p","b","n","ṭ","D",
+"ḍ","ṣ","G","ḷ","y","P","B","ṇ","K",",",
 "\"","Q","?","I","A","U","Å"," "]
 
 
@@ -15,4 +15,8 @@ function printBhat(gefak){
 	for(var i=0;i<gefak.length;i++){
 		document.write('<img src="bhat_font/bhat_'+gefak[i]+'.png" height="60" />')
 	}
+}
+
+function printBhat2(fistir){
+	printBhat(fistir.split("").map(a => bhat_list[single_char.indexOf(a)]));
 }
