@@ -3779,6 +3779,69 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 188,
+      "form" : "híja"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "心", "こころ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌hia1, 藍hiya"
+    }, {
+      "title" : "ラネーメ祖語形",
+      "text" : "*riya"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 189,
+      "form" : "-z"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "名詞化第一接尾辞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐zúḷと同根とされる"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 190,
+        "form" : "-az"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 190,
+      "form" : "-az"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "名詞化第一接尾辞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐zúḷと同根とされる"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 189,
+        "form" : "-z"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
