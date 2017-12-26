@@ -3842,6 +3842,22 @@
         "form" : "-z"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 191,
+      "form" : "janúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(oṣa)を材料として〜(対格)を作る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌ian1,藍jani"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
