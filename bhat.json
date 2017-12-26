@@ -3996,6 +3996,82 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 198,
+      "form" : "-í"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "名詞化第四接尾辞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 199,
+        "form" : "-hí"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 199,
+      "form" : "-hí"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "名詞化第四接尾辞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 198,
+        "form" : "-í"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 200,
+      "form" : "-káta"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "名詞化第五接尾辞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 201,
+        "form" : "-akáta"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 201,
+      "form" : "-akáta"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "名詞化第五接尾辞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 200,
+        "form" : "-káta"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
