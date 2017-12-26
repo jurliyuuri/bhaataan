@@ -3983,6 +3983,19 @@
         "form" : "-íṣ"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 197,
+      "form" : "nádítúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "眠い", "眠気のある", "寝たい" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
