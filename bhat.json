@@ -3845,7 +3845,7 @@
   }, {
     "entry" : {
       "id" : 191,
-      "form" : "janúḷ"
+      "form" : "janáúḷ"
     },
     "translations" : [ {
       "title" : "動作動詞",
@@ -3855,6 +3855,22 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "牌ian1,藍jani"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 192,
+      "form" : "janúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "生じる", "発生する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌ian1, 藍jani"
     } ],
     "variations" : [ ],
     "relations" : [ ]
