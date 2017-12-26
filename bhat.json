@@ -2803,7 +2803,13 @@
       "text" : "*suu"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 140,
+        "form" : "suúḷ"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 139,
@@ -2841,7 +2847,13 @@
       "text" : "*suu"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 138,
+        "form" : "su"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 141,
@@ -2930,7 +2942,13 @@
       "text" : "*zee"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 147,
+        "form" : "zeúḷ"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 146,
@@ -2968,7 +2986,13 @@
       "text" : "*zee"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 145,
+        "form" : "zekáta"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 148,
