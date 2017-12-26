@@ -3874,6 +3874,91 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 193,
+      "form" : "zíghúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "整然としている", "規則的である", "秩序がある" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "chigo.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 194,
+        "form" : "zíghíṣ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 194,
+      "form" : "zíghíṣ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "時計" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "「規則的に動くもの」が原義なので、zíghíṣは置き時計・腕時計・日時計・砂時計など全ての種類の時計を指せる。"
+    }, {
+      "title" : "同根語",
+      "text" : "chixu.ar, chigo.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 193,
+        "form" : "zíghúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 195,
+      "form" : "-íṣ"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "名詞化第三接尾辞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 196,
+        "form" : "-ḍíṣ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 196,
+      "form" : "-ḍíṣ"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "名詞化第三接尾辞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 195,
+        "form" : "-íṣ"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
