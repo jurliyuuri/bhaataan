@@ -4237,6 +4237,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 211,
+      "form" : "cainíju"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "チョッキ", "ベスト" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍sainiu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
