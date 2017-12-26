@@ -3633,6 +3633,9 @@
     "translations" : [ {
       "title" : "文接続詞",
       "forms" : [ "そして" ]
+    }, {
+      "title" : "名詞接続詞",
+      "forms" : [ "〜と〜" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
