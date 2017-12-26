@@ -4116,6 +4116,25 @@
         "form" : "seseúḷ"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 204,
+      "form" : "koṭ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "草", "草本" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌kot,藍kotu"
+    }, {
+      "title" : "用法",
+      "text" : "koṭáná epa 草地, 野原"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
