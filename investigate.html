@@ -1106,7 +1106,7 @@ ph	1
 <p>b, p, bh, ph, m, wについて語る。</p>
 <h3>33-1. ph</h3>
 <p>phをnon-startingにした。gを外来音用としたかったが、gが欠けているのは謎だし、例えばkhはkhak一語しかないわけで、放置しておいた。</p>
-<h3>33-2. 唇音+e, 唇音+u</h3>
+<h3 id="i33_2">33-2. 唇音+e, 唇音+u</h3>
 <p>「<a href="coin.html">造語する</a>」の方でダイス振って造語していたところ、「唇音の後にeとかuとかúとかって来ないのでは？bhápúḷは不定詞語尾だからともかく。」ということに気づいた。</p>
 <p>考えてみれば、祖語phedはbhátだし、祖語fuepqはepaだし、eと唇音が共存できていない感ある。ちなみに祖語lerqはleghaだし祖語zeeはzeúḷだし祖語zeepqはzephaなので、祖語のeは原則としてバートでもeである。</p>
 <p>「多分<span style="font-family: 'arial'">/ɛː/</span>が唇音の後だと<span style="font-family: 'arial'">/wɛː/</span>になって<span style="font-family: 'arial'">/wæː/</span>になって<span style="font-family: 'arial'">/waː/</span>に合流したんでしょ。んで後に介音が壊滅して<span style="font-family: 'arial'">/aː/</span>。」「uは…qmuile'がamilaになるのは介音の壊滅だろうけど、'munqがámだし、aemuはemaだしなぁ。<span style="font-family: 'arial'">/bʱu/ → /bʱwə/ → /bʱə/</span>；<span style="font-family: 'arial'">/bʱuː/ → /bʱuːə/ → /bʱwəː/ → /bʱəː/</span>かなぁ。'munqはmにuが吸収されて<span style="font-family: 'arial'">/ʔəm.nə/</span>とかになったのからこそのámなのかもね。」ということになりそうだ。</p>
@@ -1299,6 +1299,95 @@ printBhat("quote_h_á_,_k_o_dh_e_l_-_ _n_á_n_ḍ_i_ _h_í_n_ _s_u_j_ú_ḷ_-_ _
 after:
 printBhat2('"há,koDel- nánḍi hín sujúḷ- heyákáṣ-loQ');
 </pre>
+
+<h2>37. phonotactics</h2>
+
+<style>
+.alpha{background-color: #ffeeee}
+.beta{background-color: #eeeeff}
+.gamma{background-color: #eeeeee}
+.delta{background-color: #eeffee}
+</style>
+
+<h3>37-1. eの前に立つ子音</h3>
+<p><a href="#i33_2">33-2.</a>で唇音の後にeが来ないという話をしたが、もうちょい制約が厳しいという説があるので調べてみよう。</p>
+
+<table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
+<tr><td></td><td colspan="2">唇音</td><td colspan="2">歯茎音</td><td colspan="2">そり舌音</td><td colspan="2">軟口蓋音</td>
+<tr><td>鼻音</td><td colspan="2" class="beta">m</td><td colspan="2">n</td><td colspan="2">ṇ</td><td colspan="2"></td>
+<tr><td rowspan="2">破裂音</td><td>p</td><td class="starting">b</td><td class="beta">t</td><td class="delta">d</td><td class="delta">ṭ</td><td>ḍ</td><td>k</td><td>g</td>
+<tr><td>ph</td><td>bh</td><td></td><td class="beta">dh</td><td></td><td></td><td>kh</td><td rowspan="2">gh</td>
+<tr><td>摩擦音</td><td></td><td rowspan="2">w</td><td class="beta">c</td><td class="delta">s</td><td>ṣ</td><td></td><td class="beta">h</td>
+<tr><td>接近音</td><td></td><td></td><td class="beta">l</td><td></td><td >ḷ</td><td></td><td></td></tr>
+<tr><td>ふるえ音</td><td></td><td ></td><td></td><td class="delta">r</td><td colspan="2"></td><td></td><td></td></tr>
+</table>
+<br>
+<table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
+<tr><td>x</td><td class="beta">z</td><td>j</td><td>y</td><td>ṣl</tr>
+</table>
+<br>
+<table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
+	<tr><td class="beta">元からある</td></tr>
+	<tr><td class="delta">私の造語</td></tr>
+</table>
+
+<p>meあるやん。唇音+eの禁則はどこいった。</p>
+<p>まあ、これには即座に言い逃れを思いつくことができて、-homáも存在するのでそれと衝突しないように-homeで残ったんでしょうな。ロシア語において、弱化する位置でも格語尾は対立を示すために弱化せず残る、みたいな話があるらしいし。</p>
+<p>cとtは<span style="font-family: arial">[t͡seːpət͡seːpə]</span>の古めの借用由来と見られるcepatepaでしか出てこないし、実質「有声歯茎音・z・ṭ・hの前でのみ立つ」と言えそう。</p>
+<pre>
+???「なぜṭの前で立つの？」
+j.v「ṭはzみたいなもんだからです」
+</pre>
+<p>とはいえ、なんかhuzeúḷは違和感あるんだよな、と思って調べたら-uz-も-úz-も不存在か。じゃあなんかのタイミングで-uz- > -uṭが起きたんだろうなぁ。</p>
+
+<p>まあとりあえず、基本としては「歯茎音かh」という謎規則があることが分かった気がする。あと鼻音も禁則かな。</p>
+
+<h3>37-2. oの前に立つ子音</h3>
+
+<table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
+<tr><td></td><td colspan="2">唇音</td><td colspan="2">歯茎音</td><td colspan="2">そり舌音</td><td colspan="2">軟口蓋音</td>
+<tr><td>鼻音</td><td colspan="2">m</td><td colspan="2">n</td><td colspan="2">ṇ</td><td colspan="2"></td>
+<tr><td rowspan="2">破裂音</td><td>p</td><td  class="beta">b</td><td>t</td><td>d</td><td>ṭ</td><td>ḍ</td><td class="beta">k</td><td>g</td>
+<tr><td>ph</td><td class="beta">bh</td><td></td><td class="beta">dh</td><td></td><td></td><td>kh</td><td rowspan="2">gh</td>
+<tr><td>摩擦音</td><td></td><td rowspan="2" class="beta">w</td><td>c</td><td>s</td><td class="beta">ṣ</td><td></td><td class="beta">h</td>
+<tr><td>接近音</td><td></td><td></td><td class="delta">l</td><td></td><td  class="beta">ḷ</td><td></td><td></td></tr>
+<tr><td>ふるえ音</td><td></td><td ></td><td></td><td class="beta">r</td><td colspan="2"></td><td></td><td></td></tr>
+</table>
+<br>
+<table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
+<tr><td>x</td><td class="beta">z</td><td class="beta">j</td><td>y</td><td class="beta">ṣl</tr>
+</table>
+<br>
+<table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
+	<tr><td class="beta">元からある</td></tr>
+	<tr><td class="delta">私の造語</td></tr>
+</table>
+
+<p>鼻音・g・ghは来ないのな。確かにちょっと違和感ある。</p>
+
+<h3>37-3. uまたはúの後に立つ子音</h3>
+
+<p>-uz-の案件が出てきたので。</p>
+<table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
+<tr><td></td><td colspan="2">唇音</td><td colspan="2">歯茎音</td><td colspan="2">そり舌音</td><td colspan="2">軟口蓋音</td>
+<tr><td>鼻音</td><td colspan="2" class="delta">m</td><td colspan="2" class="beta">n</td><td colspan="2">ṇ</td><td colspan="2"></td>
+<tr><td rowspan="2">破裂音</td><td>p</td><td>b</td><td class="beta">tt</td><td>d</td><td class="delta">ṭ</td><td>ḍ</td><td>k</td><td>g</td>
+<tr><td>ph</td><td>bh</td><td></td><td>dh</td><td></td><td></td><td>kh</td><td rowspan="2">gh</td>
+<tr><td>摩擦音</td><td></td><td rowspan="2">w</td><td>c</td><td>s</td><td>ṣ</td><td></td><td class="beta">h</td>
+<tr><td>接近音</td><td></td><td></td><td>l</td><td></td><td class="beta">ḷ</td><td></td><td></td></tr>
+<tr><td>ふるえ音</td><td></td><td ></td><td></td><td>r</td><td colspan="2"></td><td></td><td></td></tr>
+</table>
+<br>
+<table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
+<tr><td>x</td><td>z</td><td class="beta">j</td><td>y</td><td>ṣl</tr>
+</table>
+<br>
+<table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
+	<tr><td class="beta">元からある</td></tr>
+	<tr><td class="delta">私の造語</td></tr>
+</table>
+
+<p>うーん。</p>
 
 <div id="menu">読み込み中…</div>
 <div id="menuButton" onclick="openClose()">≡</div>
