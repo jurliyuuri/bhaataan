@@ -4072,6 +4072,50 @@
         "form" : "-káta"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 202,
+      "form" : "seseúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "面倒だ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ヴェフィスjais jais"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 203,
+        "form" : "sese"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 203,
+      "form" : "sese"
+    },
+    "translations" : [ {
+      "title" : "間投詞",
+      "forms" : [ "いやだ", "えー", "めんどい" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ヴェフィスjais jais"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 202,
+        "form" : "seseúḷ"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
