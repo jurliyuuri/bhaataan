@@ -1690,7 +1690,13 @@
       "text" : "*srakkq"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 215,
+        "form" : "cákíkáta"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 82,
@@ -4055,6 +4061,12 @@
         "id" : 201,
         "form" : "-akáta"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 215,
+        "form" : "cákíkáta"
+      }
     } ]
   }, {
     "entry" : {
@@ -4301,6 +4313,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 215,
+      "form" : "cákíkáta"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "幸運" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 81,
+        "form" : "cákíkúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 200,
+        "form" : "-káta"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
