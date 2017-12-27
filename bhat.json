@@ -4201,7 +4201,7 @@
       "text" : "牌ut2,藍utu"
     }, {
       "title" : "用法",
-      "text" : "「Aの下」などを表すときには、Aを具格にする。（いわゆる基準具格）"
+      "text" : "「Aの下」などを表すときには、Aを具格にする。（いわゆる基準具格）\nrúṣán káṇa 時間的な後"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4250,6 +4250,38 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "藍sainiu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 212,
+      "form" : "jarúṣi"
+    },
+    "translations" : [ {
+      "title" : "文接続詞",
+      "forms" : [ "そしてその後" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ja + rúṣ + -i"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 213,
+      "form" : "daupha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "限界", "端" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍taupwo,牌tau2"
     } ],
     "variations" : [ ],
     "relations" : [ ]
