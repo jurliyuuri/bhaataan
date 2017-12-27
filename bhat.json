@@ -4338,6 +4338,25 @@
         "form" : "-káta"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 216,
+      "form" : "k"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "(抽象名詞)もの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "属格・形容詞の直後にのみ現れる。主格のときにはゼロで現れる。\nko ámaom hem? これはあなたのですか？\námaom kele sujamúha? あなたのを使いますか？"
+    }, {
+      "title" : "同根語",
+      "text" : "牌ku,アイルku"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
