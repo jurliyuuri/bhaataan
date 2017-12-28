@@ -3098,6 +3098,9 @@
     "translations" : [ {
       "title" : "状態動詞",
       "forms" : [ "〜(hína)に似ている・まるで〜(hína)のようである" ]
+    }, {
+      "title" : "状態動詞",
+      "forms" : [ "〜(具格)の近くである・〜(具格)に空間的に近い" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4354,6 +4357,22 @@
     }, {
       "title" : "同根語",
       "text" : "牌ku,アイルku"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 217,
+      "form" : "cai"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "〜(具格)の近く" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌cei2,藍ceixei"
     } ],
     "variations" : [ ],
     "relations" : [ ]
