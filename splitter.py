@@ -6,7 +6,7 @@ bhat_list = ["i" ,"a" ,"u" ,"á" ,"í" ,"ú" ,"o" ,"e" ,"-" ,"ai",
 	"au","t" ,"x" ,"d" ,"h" ,"c" ,"m" ,"z" ,"k" ,"s" ,
 	"w" ,"r" ,"g" ,"l" ,"j" ,"p" ,"b" ,"n" ,"ṭ" ,"dh",
 	"ḍ" ,"ṣ" ,"gh","ḷ" ,"y" ,"ph","bh","ṇ","kh", ",",
-	"quote","ququ","question", "it", "at", "ut", "aut", "_"," "]
+	"quote","ququ","question", "it", "at", "ut", "aut", "_"," ","period"]
 
 
 def main():
