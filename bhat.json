@@ -4478,6 +4478,38 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 224,
+      "form" : "bháṇúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "愚かである" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍pwugo"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 225,
+      "form" : "bhog"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "色" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍pogo,牌pok"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
