@@ -4348,7 +4348,7 @@
     },
     "translations" : [ {
       "title" : "子音幹名詞",
-      "forms" : [ "(形式名詞)もの" ]
+      "forms" : [ "(第一形式名詞)", "もの" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4539,6 +4539,38 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "藍bwoxou"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 228,
+      "form" : "díma"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "(第三形式名詞)", "(〜という)こと" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍tibaie"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 229,
+      "form" : "ho"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "第二形式名詞", "(〜という)事象・出来事" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍wuo,牌uo2"
     } ],
     "variations" : [ ],
     "relations" : [ ]
