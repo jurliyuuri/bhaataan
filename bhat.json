@@ -4373,6 +4373,9 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "牌cei2,藍ceixei"
+    }, {
+      "title" : "ラネーメ祖語形",
+      "text" : "*crqi"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4571,6 +4574,22 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "藍wuo,牌uo2"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 230,
+      "form" : "wákahúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "横切る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍weikhou"
     } ],
     "variations" : [ ],
     "relations" : [ ]
