@@ -4596,6 +4596,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 231,
+      "form" : "káṇaisa"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "折よく", "都合よく", "ちょうどよく" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "káṇa + 藍kaisa牌kait"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
