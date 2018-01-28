@@ -4660,6 +4660,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 235,
+      "form" : "ghíyo"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "塩" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍quvoo,藍gio,牌kuo1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
