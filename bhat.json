@@ -1183,7 +1183,13 @@
       "text" : "*atqzau<*qtaa-zau"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 237,
+        "form" : "okákúḷ"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 55,
@@ -4695,6 +4701,28 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 237,
+      "form" : "okákúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "〜(対格)を見ている", "〜(対格)が〜(主格)には見えている" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "aḍuhazoúḷは「見るために目とか顔とかを動かし、その結果として見て、見終わって顔などを戻す」みたいな一連の動作を指す。okákúḷはもっと語義が広く、意図性の有無に関わらず目から情報が入っている状態を指す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 54,
+        "form" : "aḍuhazoúḷ"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
