@@ -5,6 +5,7 @@
 <meta charset="UTF-8">
 <link rel="stylesheet" href="common.css">
 <link rel="stylesheet" href="menu.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/leipzig/latest/leipzig.min.css">
 <style>
 s{background-color: #ffdddd}
 </style>
@@ -155,8 +156,40 @@ g	0	1	333
 </div>
 <p>なので、zero[7/154]→o[185/308]→k[48/353]→á[170/308]→k[53/353]でokákúḷか。</p>
 
+<h2>5. 「希望」「願う」</h2>
+<p>「願う」はパイグとかだとhia1を使うそうだ。ガチャ→非アイル。じゃあこちらも「願う」「希望」は「心」の同根で行くか。</p>
+<p>「したい」とかにも使えそうですな。</p>
+<p>前回「心」ではrかhかダイスロールしてたので今回も。r。ríjúḷかなぁ。いやrijúḷだな。</p>
+<p>「希望」はこれに-zかな。とはいえrijazは違和感があるし、ここは不規則でrízとするか。</p><p>rijúḷ、命令形もríとかになりそう。</p>
+<p>ん、-zは「考える」を「思考」にする接辞だからrízは「願うという行為」とかでは？</p>
+<p>んー、heyázの使用例を見るか。-zの語法ってまだしっかり決めてなかったし。</p>
+
+<div class="box" style="width:700px;">
+<div data-gloss>
+	<p>ṣiṇṇa ká-om amáma nádít-í ja bháṇ-í-ḍi nána ghán-í-∅ cákík-a-ká áṣá kom <b>heyá-z-i</b> hína daupha-∅ hem-akátá hem.</p>
+	<p>しかし 彼女-GEN 大きな 眠い-NMLZ と 愚かだ-NMLZ-LOC REL 暑い-NMLZ-NOM 訪れる-CAUS-3N.REAL 〜を原因として この <b>考える-NMLZ-LOC</b> 〜に 限界-NOM ある-3N.PST.PTCP PFV</p>
+	<p>しかし、暑さが訪れさせた彼女の大いなる眠さと愚かさが原因で、この<b>思考</b>には限界があった。</p>
+</div>
+
+</div>
+
+<p>んー、これなら"what A thinks"でも"the act of thinking"でも意味が通るな。じゃあ-zは"what A does"であって、rízも"what A wishes" = "a wish"でいいのかな。</p>
+
+<p>そうそう、heyázも辞書に載せちゃおう</p>
+
+
+
 <div id="menu">読み込み中…</div>
 <div id="menuButton" onclick="openClose()">≡</div>
 <script src="./header.js" async></script>
+<script src="https://cdn.jsdelivr.net/leipzig/latest/leipzig.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+  	//config.abbreviations = 
+  	var leipzig = Leipzig();
+    leipzig.addAbbreviations({REAL:"realis"});
+    leipzig.gloss()
+  });
+</script>
 </body>
 </html>

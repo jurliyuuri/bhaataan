@@ -1983,7 +1983,13 @@
       "text" : "*riya"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 239,
+        "form" : "heyáz"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 96,
@@ -3861,6 +3867,18 @@
         "id" : 190,
         "form" : "-az"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 239,
+        "form" : "heyáz"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 240,
+        "form" : "ríz"
+      }
     } ]
   }, {
     "entry" : {
@@ -4721,6 +4739,81 @@
       "entry" : {
         "id" : 54,
         "form" : "aḍuhazoúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 238,
+      "form" : "rijúḷ"
+    },
+    "translations" : [ {
+      "title" : "瞬間動詞",
+      "forms" : [ "〜(対格)を願う", "〜(対格)を望む", "〜(不定詞)したい" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌hia1, 藍hiya"
+    }, {
+      "title" : "ラネーメ祖語形",
+      "text" : "*riya"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 240,
+        "form" : "ríz"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 239,
+      "form" : "heyáz"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "思考" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 95,
+        "form" : "heyáúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 189,
+        "form" : "-z"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 240,
+      "form" : "ríz"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "希望", "願い事", "望み" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 238,
+        "form" : "rijúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 189,
+        "form" : "-z"
       }
     } ]
   } ],
