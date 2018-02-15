@@ -4798,7 +4798,41 @@
     },
     "translations" : [ {
       "title" : "子音幹名詞",
-      "forms" : [ "希望", "願い事", "望み" ]
+      "forms" : [ "希望", "明るい見通し" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "元来rijúlに名詞化第一接尾辞のついたrijz「願い事」と同一の語だが、意味の差により綴り分けられる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 238,
+        "form" : "rijúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 189,
+        "form" : "-z"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 241,
+        "form" : "rijz"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 241,
+      "form" : "rijz"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "願い事", "望み" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -4814,6 +4848,12 @@
       "entry" : {
         "id" : 189,
         "form" : "-z"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 240,
+        "form" : "ríz"
       }
     } ]
   } ],
