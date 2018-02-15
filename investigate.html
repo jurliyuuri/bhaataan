@@ -1489,6 +1489,49 @@ j.v「ṭはzみたいなもんだからです」
 
 <h2>46. タカン情報</h2>
 <p><a href="https://docs.google.com/spreadsheets/d/1LNGqhJrKixugCGkv9Dnm_9g05LBjjbzBMa5LwuFbZJs/edit#gid=0">古タカン</a>について話していたところ、タカンでpugu「愚かだ」が採用されたので登録。</p>
+
+<h2>47. 短動詞</h2>
+<p>語幹が単音節（母音が1つ）かつ短音節（長子音を伴わない短母音）の場合の挙動について。え？zúḷ？あれはもはや別枠</p>
+<h3>47-1. 集める</h3>
+<p><code>^[^aeiouáíú]*[aiu].?úḷ$</code>で検索すると一発で、</p>
+<div class="box">
+	<ul><li>鼻音： am-, jan-</li><li>j： bhaj-, caj-, rij-, suj-</li><li>ゼロ：su-</li></ul>
+</div>
+<p>という感じである。</p>
+<h3>47-2. -j-短動詞</h3>
+<p>こいつらの活用として特徴的な例として</p>
+<ul>
+	<li>bhaj- + (-hí|-í) → bhajhí</li>
+	<li>rij- + (-z|-az) → rijz</li>
+	<li>suj- + ∅ → súzem</li>
+</ul>
+<p>がある。</p>
+<p>ちなみに、-júḷで終わる普通の動詞の活用として確認されているのはcánajúḷのcánajazenáぐらいであり、他は不定詞ぐらいでしか登場していない。ということは活用が異なっている可能性もあるんよな。</p>
+<p>とりあえず、-íで始まる名詞化第三接尾辞・名詞化第四接尾辞は短動詞でなくとも-j-なら母音幹扱いでいいんじゃないかなぁ。一方cánajzは違和感があってcánajazであるべきなので、-zの振る舞いに関しては-j-短動詞は特殊かと。</p>
+<p>まあこんな感じか。</p>
+<table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
+	<tr><td></td><td>母音語幹</td><td>j語幹</td><td>子音語幹</td><td>具体例</td></tr>
+	<tr><td>名詞化第一接尾辞</td><td>-z</td><td colspan="2">-az</td><td>heyáúḷ「思う、考える」 → heyáz「思考」</td></tr>
+	<tr><td>名詞化第二接尾辞</td><td colspan="4">（かつて存在したが今は痕跡的にしか残っていない）</td></tr>
+	<tr><td>名詞化第三接尾辞</td><td colspan="2">-ḍíṣ</td><td>-íṣ</td><td>zíghúḷ「整然としている、規則的である」 → zíghíṣ「時計」</td></tr>
+	<tr><td>名詞化第四接尾辞</td><td colspan="2">-hí</td><td>-í</td><td>nádítúḷ「眠い」→ nádítí「眠さ」</td></tr>
+	<tr><td>名詞化第五接尾辞</td><td>-káta</td><td colspan="2">-akáta</td><td>zeúḷ「巻く」→zekáta「腰巻き」</td></tr>
+</table>
+
+<p>sujakátáとかは微妙に違和感が無くもないが、bházahakátáの後半部分とリズムが同じだし、まあそこまで問題はなさそう。それよりは規則化意識の方が強く働きそう。</p>
+<p>-zについては、音節としてsujが立てないのでsúzかなぁ。súzemと同様である。</p>
+<p>あれか、「後述する形態素に含まれる母音が1つ以下で短母音である場合は母音語幹判定」とすればいいのか。</p>
+<style>.vow{color:red}.cons{color:blue}</style>
+<table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
+	<tr><td></td><td>heyáúḷ</td><td>hemúḷ</td><td>cánajúḷ</td><td>cajúḷ</td><td>rijúḷ</td><td>sujúḷ</td></tr>
+	<tr><td><span class="vow">-úḷ</span> / <span class="cons">-úḷ</span></td><td>heyá<span class="vow">-úḷ</span></td><td>hem<span class="cons">-úḷ</span></td><td>cánaj<span class="cons">-úḷ</span></td><td>caj<span class="cons">-úḷ</span></td><td>rij<span class="cons">-úḷ</span></td><td>suj<span class="cons">-úḷ</span></td>
+	<tr><td><span class="vow">-mú</span> / <span class="cons">-amú</span></td><td>heyá<span class="vow">-mú</span></td><td>hem<span class="cons">-amú</span></td><td>cánaj<span class="cons">-amú</span></td><td>caj<span class="cons">-amú</span></td><td>rij<span class="cons">-amú</span></td><td>suj<span class="cons">-amú</span></td>
+	<tr><td><span class="vow">-ma</span> / <span class="cons">-ama</span></td><td>heyá<span class="vow">-ma</span></td><td>hem<span class="cons">-ama</span></td><td>cánaj<span class="cons">-ama</span></td><td>caj<span class="vow">-ma</span></td><td>rij<span class="vow">-ma</span></td><td>sú<span class="vow">-ma</span></td>
+	<tr><td><span class="vow">-z</span> / <span class="cons">-az</span></td><td>heyá<span class="vow">-z</span></td><td>hem<span class="cons">-az</span></td><td>cánaj<span class="cons">-az</span></td><td>caj<span class="vow">-z</span></td><td>rij<span class="vow">-z</span></td><td>sú<span class="vow">-z</span></td>
+	<tr><td><span class="vow">-∅ ~ -zem</span> / <span class="cons">-∅</span> </td><td>heyá<span class="vow">-∅</span></td><td>hem<span class="cons">-∅</span></td><td>cánaj<span class="cons">-∅</span></td><td>caj<span class="vow">-zem</span></td><td>rij<span class="vow">-zem</span></td><td>sú<span class="vow">-zem</span></td>
+</table>
+<p>cajúḷにも-zemを付けることにした。現状の説明だと「sujúḷのように、a以外の母音にjが後続している語幹末の場合、例外的に語幹を長音化して接尾辞-zemを付ける。sujúḷならsúzemである。」ってなっているけど、例えば（コロコロ）sánujúḷという動詞があったとして、これの命令がsánúかsánúzemかと聞かれれば自明にsánúなので、接尾辞-zemの役割は-jというよりも開音節単音節命令形の強調という感じがする。確かに、zeúḷの命令形は（zeでもよさそうだが）zezemの方がしっくり来る。</p>
+<p>ただ、その場合suúḷはどうなるだろう？数分考えたところ、長母音+ -zemのeを/ɛː/じゃなくて/ɛ/で読んでいることに気づいたので、sujúḷはsúzem <span style="font-family: 'Arial'">/zuːtʃɛm/</span>、suúlはsuzem <span style="font-family: 'Arial'">/zutʃɛːm/</span>と読む、とすればよさそう。</p>
 <div id="menu">読み込み中…</div>
 <div id="menuButton" onclick="openClose()">≡</div>
 <script src="./header.js" async></script>
