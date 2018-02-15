@@ -4862,6 +4862,25 @@
         "form" : "ríz"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 242,
+      "form" : "ṣúsa"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "空" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌syt2,藍siusa"
+    }, {
+      "title" : "ラネーメ祖語形",
+      "text" : "*srjusa ?"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
