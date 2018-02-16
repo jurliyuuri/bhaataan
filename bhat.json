@@ -4893,6 +4893,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 243,
+      "form" : "síyoúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "〜(不定詞)しすぎている", "〜(主格)は過度である" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍suvoo"
+    }, {
+      "title" : "用法",
+      "text" : "不定詞または動詞+名詞化第四接尾辞を主語として取るのが基本である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
