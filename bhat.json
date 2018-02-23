@@ -4937,6 +4937,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 245,
+      "form" : "lom"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "三", "3" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍umi, 牌om2"
+    }, {
+      "title" : "ラネーメ祖語形",
+      "text" : "*lumi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
