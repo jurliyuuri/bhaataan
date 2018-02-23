@@ -4956,6 +4956,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 246,
+      "form" : "ácahúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "〜(主格)には〜(対格/不定詞+ema)ができる", "〜(主格)は〜(不定詞+ema)することができる", "〜(主格)には〜(不定詞+ema)する能力がある", "〜(主格)は〜(対格/不定詞+ema)を実行できる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍acau,皇ac-u"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
