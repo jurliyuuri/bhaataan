@@ -6,7 +6,8 @@
 ## メインコンテンツ
 * [バート語文法](grammar.html) - 文法などのまとめ
 * [バート語について考察する](./investigate.html) - バート語創作の様子を記したログ
-* [バート語の造語をする](http://jurliyuuri.com/bhaataan/coin.html) - バート語の単語の創作の様子を記したログ
+* [バート語の造語をする](http://jurliyuuri.com/bhaataan/coin.html) - バート語の単語の創作の様子を記したログ(完結)
+* [バート語の造語をするpart2](http://jurliyuuri.com/bhaataan/coin2.html) - バート語の単語の創作の様子を記したログpart2
 * [Githubリポジトリ](https://github.com/jurliyuuri/bhaataan) - このサイトの進捗や更新履歴などが確認できる
 * [バート語辞書](https://zpdic.herokuapp.com/dictionary/24) - 辞書が引ける
 
