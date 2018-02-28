@@ -4969,6 +4969,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 247,
+      "form" : "bákúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "〜(対格)を我慢できている", "〜(対格)を耐えられている", "〜(対格)を許容・容認できている" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌mak1,藍maqui"
+    }, {
+      "title" : "用法",
+      "text" : "パイグやアイルにあるような、「抵抗し反撃・反抗する」のニュアンスはない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
