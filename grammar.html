@@ -350,15 +350,61 @@ FOOBAR詞
 <h3>12. FOOBAR詞</h3>
 <p>「dat	〜だけ」など。名詞の直後に付き、意味を添える役割を持つ。格語尾はFOOBAR詞の方に付き、名詞は無格となる。</p>
 
+<hr>
+<h2>Section4. 例文</h2>
+<div class="box" style="width:700px;">
+<div data-gloss>
+	<p>alic-∅ sá-homá woghit-i cájau ṣoma-ḍi hína ṣíkah-azená hem.  </p>
+	<p>アリス-NOM 女-GEN はらから-POST　〜と一緒に　土手-POST 〜で　座る-3F.PST.PTCP PFV</p>
+	<p>アリスは姉と一緒に土手で座った。</p>
+</div>
+<hr>
+<div data-gloss>
+	<p>ṣiṇṇa, baukká koli-dhel cákíka-kátá hem.</p>
+	<p>しかし 段々 疲れ-ACC　訪れさせる-3N.PST.PTCP PFV</p>
+	<p>しかし、段々疲れを訪れさせた。</p>
+</div>
+<hr>
+<div data-gloss>
+<p> lási-homá káṇa-∅ jo ríka-homá káṇa-ḍi hína ká-∅ aghauṭa-dhel nána sá-homá woghit-∅ ák-aze aḍuhazo-zená hem.</p>
+<p> 一-GEN 時（＝一度）-ZERO　または　二-GEN 時（＝二度）-POST　〜で　彼女-NOM　本-ACC　（関係詞）　女-GEN はらから-NOM　読む-3F.REAL　見る-3F.PST.PTCP PFV</p>
+<p>彼女は一度または二度姉が読む本を見た。</p>
+</div>
+<hr>
+<div data-gloss>
+<p>ṣiṇṇa, legha-∅ jo cepatepa-∅ aghauṭa-ḍi hína ám hemakátá hem. </p>
+<p>しかし、 絵-ZERO　または　会話-NOM　本-POST　〜に　〜しない　在る-3N.PST.PTCP PFV</p>
+	<p>しかし、絵も会話も本には無かった。</p>
+</div>
+<hr>
+<div data-gloss>
+<p>"há, ko-dhel nána-ḍi hína suj-úḷ-∅ heyá-káṣlo?"</p>
+<p>「じゃあ、 これ-ACC　何-POST　〜で　使う-INF-NOM　思う-3N.FUT.PTCP（＝だろうか）」</p>
+	<p>「じゃあ、これを何に使うのだろうか？」、</p>
+</div>
+<hr>
+<div data-gloss>
+<p> alic-∅ ko-ḍi ema heyá-zená hem.</p>
+<p>　アリス-NOM　これ-POST　〜のように　思う-3F.PST.PTCP PFV</p>
+<p>アリスはこのように思った。</p>
+</div>
+<hr>
+<div data-gloss>
+<p> "legha jo cepatepa ám hemúḷ ema."</p>
+<p>「絵-ZERO　または　会話-NOM　〜しない　在る-INF　〜のような（＝なんて）」</p>
+	<p>「絵も会話も存在しないなんて」</p>
+</div>
+</div>
+
 <div id="menu">読み込み中…</div>
 <div id="menuButton" onclick="openClose()">≡</div>
+
 <script src="./header.js" async></script>
 <script src="https://cdn.jsdelivr.net/leipzig/latest/leipzig.min.js"></script>
 <script>
-  document.addEventListener('DOMContentLoaded', function() {
-  	//config.abbreviations = 
+ document.addEventListener('DOMContentLoaded', function() {
   	var leipzig = Leipzig();
-    leipzig.addAbbreviations({REAL:"realis"});
+    leipzig.addAbbreviations({REAL:"realis",ZERO:"zero",POST:"postpositional"});
     leipzig.gloss()
   });
 </script>
