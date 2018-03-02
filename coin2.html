@@ -169,7 +169,7 @@ g	0	1	333
 <div class="box" style="width:700px;">
 <div data-gloss>
 	<p>ṣiṇṇa ká-om amáma nádít-í ja bháṇ-í-ḍi nána ghán-í-∅ cákík-a-ká áṣá kom <b>heyá-z-i</b> hína daupha-∅ hem-akátá hem.</p>
-	<p>しかし 彼女-GEN 大きな 眠い-NMLZ と 愚かだ-NMLZ-LOC REL 暑い-NMLZ-NOM 訪れる-CAUS-3N.REAL 〜を原因として この <b>考える-NMLZ-LOC</b> 〜に 限界-NOM ある-3N.PST.PTCP PFV</p>
+	<p>しかし 彼女-GEN 大きな 眠い-NMLZ と 愚かだ-NMLZ-POST REL 暑い-NMLZ-NOM 訪れる-CAUS-3N.REAL 〜を原因として この <b>考える-NMLZ-POST</b> 〜に 限界-NOM ある-3N.PST.PTCP PFV</p>
 	<p>しかし、暑さが訪れさせた彼女の大いなる眠さと愚かさが原因で、この<b>思考</b>には限界があった。</p>
 </div>
 
@@ -301,9 +301,8 @@ g	0	1	333
 <script src="https://cdn.jsdelivr.net/leipzig/latest/leipzig.min.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function() {
-  	//config.abbreviations = 
   	var leipzig = Leipzig();
-    leipzig.addAbbreviations({REAL:"realis"});
+    leipzig.addAbbreviations({REAL:"realis",ZERO:"zero",POST:"postpositional"});
     leipzig.gloss()
   });
 </script>
