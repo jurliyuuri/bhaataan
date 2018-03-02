@@ -5022,6 +5022,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 249,
+      "form" : "ohi"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "友", "友達" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍ohi,牌hi1,皇oki"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
