@@ -2150,6 +2150,9 @@
     "translations" : [ {
       "title" : "母音幹名詞",
       "forms" : [ "時間", "時" ]
+    }, {
+      "title" : "母音幹名詞",
+      "forms" : [ "（数詞属格", "+", "káṇaḍi", "hínaで）〜回" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2158,6 +2161,9 @@
     }, {
       "title" : "ラネーメ祖語形",
       "text" : "*ka^nga"
+    }, {
+      "title" : "用法",
+      "text" : "数詞属格 + káṇaḍi hínaは成句であり、このkáṇaは常に単数で用いる（káṇadhínaとはならない）"
     } ],
     "variations" : [ ],
     "relations" : [ ]
