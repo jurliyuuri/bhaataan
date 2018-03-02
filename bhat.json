@@ -5038,6 +5038,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 250,
+      "form" : "bágha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "数" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "「数字(数を表記するための文字)」ではなく「数(数字とかによって表される抽象概念)」を表す語である。"
+    }, {
+      "title" : "同根語",
+      "text" : "牌mak2,藍maka"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
