@@ -169,6 +169,22 @@
   }, {
     "entry" : {
       "id" : 12,
+      "form" : "suuqmq"
+    },
+    "translations" : [ ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "商い(su+qmq)"
+    }, {
+      "title" : "訳語",
+      "text" : "SUAMA.ar [名]商い\nsarma.ly [名]商い　商業"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 13,
       "form" : "taupho"
     },
     "translations" : [ ],
@@ -184,7 +200,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 13,
+      "id" : 14,
       "form" : "tob"
     },
     "translations" : [ ],
@@ -197,7 +213,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 14,
+      "id" : 15,
       "form" : "'tqnu"
     },
     "translations" : [ ],
@@ -207,13 +223,13 @@
       "text" : "神"
     }, {
       "title" : "訳語",
-      "text" : "tunu.ar[名詞]神\r\ntun2[名詞]神"
+      "text" : "tunu.ar[名詞]神\r\ntun2.pk[名詞]神"
     } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 15,
+      "id" : 16,
       "form" : "'tqram"
     },
     "translations" : [ ],
@@ -223,13 +239,13 @@
       "text" : "皇神"
     }, {
       "title" : "訳語",
-      "text" : "atam.ar[名詞]皇帝\ntram>tam2.pk[名詞]皇神\ntatkap>tatkat.fs[名詞]皇帝\naṭam.bt[名詞]皇帝、神"
+      "text" : "atamu.ar[名詞]皇帝\ntram>tam2.pk[名詞]皇神\ntatkap>tatkat.fs[名詞]皇帝\naṭam.bt[名詞]皇帝、神"
     } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 16,
+      "id" : 17,
       "form" : "waxu"
     },
     "translations" : [ ],
@@ -245,7 +261,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 17,
+      "id" : 18,
       "form" : "wosle"
     },
     "translations" : [ ],
@@ -253,12 +269,15 @@
     "contents" : [ {
       "title" : "発音",
       "text" : "から"
+    }, {
+      "title" : "訳語",
+      "text" : "oca.tk [名詞]\noṣa.bt [後置詞]〜から"
     } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 18,
+      "id" : 19,
       "form" : "-ze"
     },
     "translations" : [ ],
@@ -271,7 +290,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 19,
+      "id" : 20,
       "form" : "aaim"
     },
     "translations" : [ ],
@@ -290,7 +309,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 20,
+      "id" : 21,
       "form" : "acii"
     },
     "translations" : [ ],
@@ -306,7 +325,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 21,
+      "id" : 22,
       "form" : "aemu"
     },
     "translations" : [ ],
@@ -322,7 +341,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 22,
+      "id" : 23,
       "form" : "aimq"
     },
     "translations" : [ ],
@@ -341,7 +360,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 23,
+      "id" : 24,
       "form" : "airy"
     },
     "translations" : [ ],
@@ -357,7 +376,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 24,
+      "id" : 25,
       "form" : "akq"
     },
     "translations" : [ ],
@@ -367,13 +386,13 @@
       "text" : "書物"
     }, {
       "title" : "訳語",
-      "text" : "akuta.ar[名詞]書物　taは習熟や知識を表すと思われる\n>aghauṭa.bt[名詞]本　図書\nak1.pk[名詞]書\n>ákúl.bt[動詞]読む"
+      "text" : "akata.ar[名詞]書物　taは習熟や知識を表すと思われる\r\n>aghauṭa.bt[名詞]本　図書\r\nak1.pk[名詞]書\r\n>ákúl.bt[動詞]読む"
     } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 25,
+      "id" : 26,
       "form" : "anl"
     },
     "translations" : [ ],
@@ -386,13 +405,29 @@
       "text" : "a.ar[助詞]～の\n>a.pk[切詞]修飾格\n>-na.ar[接辞]第二名詞同格\n>-ni.ar[接辞]第一名詞同格\n>-án.bt[接辞]単数属格\n>-áná.bt[接辞]複数属格\n>-niija.arL[接辞]女性名詞修飾格\n>-liija.arL[接辞]男性名詞修飾格"
     }, {
       "title" : "用例",
-      "text" : "[語源]\n理語-enとの関係を考慮して、大祖語形*-ænlか？"
+      "text" : "[語源]\n理語-enとの関係を考慮して、大祖語形*-æɳɖɾiəか？"
     } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 26,
+      "id" : 27,
+      "form" : "atheisl"
+    },
+    "translations" : [ ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "王座に坐す"
+    }, {
+      "title" : "訳語",
+      "text" : "ateai.ar[動詞]玉座に座っている、君臨する。\nales.ly[名詞]アレス氏\nadheṣ.bt[名詞]王"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 28,
       "form" : "atqzau"
     },
     "translations" : [ ],
@@ -408,7 +443,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 27,
+      "id" : 29,
       "form" : "baep"
     },
     "translations" : [ ],
@@ -424,7 +459,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 28,
+      "id" : 30,
       "form" : "ca'yau"
     },
     "translations" : [ ],
@@ -440,157 +475,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 29,
-      "form" : "kisl"
-    },
-    "translations" : [ ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "発音",
-      "text" : "頬"
-    }, {
-      "title" : "訳語",
-      "text" : "kisu.ar [名詞]頬\r\nkicu.tk [名詞]頬"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 30,
-      "form" : "koli"
-    },
-    "translations" : [ ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "発音",
-      "text" : "疲れる"
-    }, {
-      "title" : "訳語",
-      "text" : "koli.ar[動詞]疲れる\nkolilu.tk[動詞]疲れる\nkoli.bt[名詞]疲れ"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
       "id" : 31,
-      "form" : "kuran"
-    },
-    "translations" : [ ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "発音",
-      "text" : "筆"
-    }, {
-      "title" : "訳語",
-      "text" : "k'uaa.ar[名詞]筆使い\r\nkua2.pk[名詞][動詞]筆、書く"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 32,
-      "form" : "las"
-    },
-    "translations" : [ ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "発音",
-      "text" : "一, 1"
-    }, {
-      "title" : "訳語",
-      "text" : "asi.ar[数詞]1\n>lási.bt[名詞]一, 1\nrets>et2.pk[名詞]1\n"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 33,
-      "form" : "lerq"
-    },
-    "translations" : [ ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "発音",
-      "text" : "絵"
-    }, {
-      "title" : "訳語",
-      "text" : "leka.ar[名詞]絵\nlek1[名詞]絵\nlegha.bt[名詞]絵\nleghúl.bt[動詞]絵を描く"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 34,
-      "form" : "li^ngq"
-    },
-    "translations" : [ ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "発音",
-      "text" : "穢れのない"
-    }, {
-      "title" : "訳語",
-      "text" : "lingei.ar[名詞]汚れのない　しみのない"
-    }, {
-      "title" : "用例",
-      "text" : "アレス王朝の王ales.linの名前はこれであった可能性がある。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 35,
-      "form" : "lumi"
-    },
-    "translations" : [ ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "発音",
-      "text" : "3"
-    }, {
-      "title" : "訳語",
-      "text" : "om2.pk[名詞]3\r\numi.ar[名詞]3"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 36,
-      "form" : "lyo"
-    },
-    "translations" : [ ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "発音",
-      "text" : "しなければならない"
-    }, {
-      "title" : "訳語",
-      "text" : "liwo.ar[動詞]しなければならない\r\nliu>ly.pk[動詞]しなければならない\r\nlij-u.tk[動詞]しなければならない\r\n"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 37,
-      "form" : "manmanq"
-    },
-    "translations" : [ ],
-    "tags" : [ ],
-    "contents" : [ {
-      "title" : "発音",
-      "text" : "母"
-    }, {
-      "title" : "訳語",
-      "text" : "manana.ar[名詞]母\nmanman>matmat.fs[名詞]母\n>manáman, banáman.bt[名詞]親、両親\nmaam>mam1.pk[名詞]親"
-    }, {
-      "title" : "用例",
-      "text" : "[語源]\nユナ理語malca、古理語maxaとは大祖語からの同祖関係と思われる。"
-    } ],
-    "variations" : [ ],
-    "relations" : [ ]
-  }, {
-    "entry" : {
-      "id" : 38,
       "form" : "'kiqa"
     },
     "translations" : [ ],
@@ -606,7 +491,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 39,
+      "id" : 32,
       "form" : "kaatuu"
     },
     "translations" : [ ],
@@ -622,7 +507,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 40,
+      "id" : 33,
       "form" : "khaka"
     },
     "translations" : [ ],
@@ -638,7 +523,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 41,
+      "id" : 34,
       "form" : "khi"
     },
     "translations" : [ ],
@@ -657,7 +542,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 42,
+      "id" : 35,
       "form" : "kaa"
     },
     "translations" : [ ],
@@ -676,7 +561,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 43,
+      "id" : 36,
       "form" : "ka^nga"
     },
     "translations" : [ ],
@@ -692,7 +577,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 44,
+      "id" : 37,
       "form" : "crophi"
     },
     "translations" : [ ],
@@ -708,7 +593,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 45,
+      "id" : 38,
       "form" : "crqi"
     },
     "translations" : [ ],
@@ -718,13 +603,13 @@
       "text" : "周り、近い"
     }, {
       "title" : "訳語",
-      "text" : "ceixei.ar[形容詞]近い、近接した\r\nceyuu.ar[名詞]周り\r\ncei2.pk[名詞][動詞][定詞]周り、周る、近い\r\ncajúl.bt[動詞]〜に似ている、まるで〜のようである"
+      "text" : "ceixei.ar[形容詞]近い、近接した\nceyuu.ar[名詞]周り\ncei2.pk[名詞][動詞][定詞]周り、周る、近い\ncajúl.bt[動詞](bhau) 〜に近い　(ḍi hína) 〜に似ている"
     } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 46,
+      "id" : 39,
       "form" : "cu^nla"
     },
     "translations" : [ ],
@@ -740,7 +625,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 47,
+      "id" : 40,
       "form" : "dkoop"
     },
     "translations" : [ ],
@@ -750,13 +635,13 @@
       "text" : "島"
     }, {
       "title" : "訳語",
-      "text" : "dop'iai.ar[名詞]島 'iaiは出っ張りなどを表す語根。\r\ndrop>dop.pk[名詞]島\r\n>dhoḷop.bt[名詞]島\r\ndo'>tod.fs[名詞]島\r\n>ḍáz.bt[名詞]店　商店"
+      "text" : "dop'iai.ar[名詞]島 'iaiは出っ張りなどを表す語根。\r\ndrop>dop1.pk[名詞]島\r\n>dhoḷop.bt[名詞]島\r\ndo'>tod.fs[名詞]島\r\n>ḍáz.bt[名詞]店　商店"
     } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 48,
+      "id" : 41,
       "form" : "dradq"
     },
     "translations" : [ ],
@@ -775,7 +660,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 49,
+      "id" : 42,
       "form" : "fokjut"
     },
     "translations" : [ ],
@@ -791,7 +676,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 50,
+      "id" : 43,
       "form" : "fuepq"
     },
     "translations" : [ ],
@@ -807,7 +692,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 51,
+      "id" : 44,
       "form" : "furoo"
     },
     "translations" : [ ],
@@ -823,7 +708,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 52,
+      "id" : 45,
       "form" : "graugrau"
     },
     "translations" : [ ],
@@ -839,7 +724,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 53,
+      "id" : 46,
       "form" : "iinq"
     },
     "translations" : [ ],
@@ -855,7 +740,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 54,
+      "id" : 47,
       "form" : "inuzi"
     },
     "translations" : [ ],
@@ -871,12 +756,15 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 55,
+      "id" : 48,
       "form" : "iou"
     },
     "translations" : [ ],
     "tags" : [ ],
     "contents" : [ {
+      "title" : "発音",
+      "text" : "指導者"
+    }, {
       "title" : "訳語",
       "text" : "iou.ar[名詞]総理、首相\r\nio.pk[名詞]王\r\njo.pk[名詞]王"
     } ],
@@ -884,7 +772,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 56,
+      "id" : 49,
       "form" : "i'q"
     },
     "translations" : [ ],
@@ -903,7 +791,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 57,
+      "id" : 50,
       "form" : "sipql"
     },
     "translations" : [ ],
@@ -919,7 +807,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 58,
+      "id" : 51,
       "form" : "saphaku"
     },
     "translations" : [ ],
@@ -935,7 +823,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 59,
+      "id" : 52,
       "form" : "sa"
     },
     "translations" : [ ],
@@ -951,7 +839,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 60,
+      "id" : 53,
       "form" : "phoobo"
     },
     "translations" : [ ],
@@ -967,7 +855,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 61,
+      "id" : 54,
       "form" : "piu-aim>pjeem"
     },
     "translations" : [ ],
@@ -983,8 +871,8 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 62,
-      "form" : "pqra"
+      "id" : 55,
+      "form" : "pura"
     },
     "translations" : [ ],
     "tags" : [ ],
@@ -993,16 +881,16 @@
       "text" : "風"
     }, {
       "title" : "訳語",
-      "text" : "pua2.pk[名詞]風\npura.ar[名詞]風\nmuka.tk[名詞]風\nbhára.bt[名詞]風\nbháro.bt[名詞]感染症　風邪\nbhárúl.bt[動詞]風が吹く　感染症にかかる　風邪になる　カビが生える"
+      "text" : "pua2.pk[名詞]風\r\npura.ar[名詞]風\r\nmuka.tk[名詞]風\r\nbhára.bt[名詞]風\r\nbháro.bt[名詞]感染症　風邪\r\nbhárúl.bt[動詞]風が吹く　感染症にかかる　風邪になる　カビが生える"
     }, {
       "title" : "用例",
-      "text" : "kiṣló bhárabáta ek.　彼等は風邪に掛かったらしい(bt)\n\n[語源]\n古理語furとの大祖語同語源関係か？"
+      "text" : "kiṣló bhárabáta ek.　彼等は風邪に掛かったらしい(bt)\r\n\r\n[語源]\r\n古理語furとの大祖語同語源関係か？"
     } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 63,
+      "id" : 56,
       "form" : "qmamq"
     },
     "translations" : [ ],
@@ -1018,7 +906,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 64,
+      "id" : 57,
       "form" : "qmuile'"
     },
     "translations" : [ ],
@@ -1037,7 +925,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 65,
+      "id" : 58,
       "form" : "qtaa"
     },
     "translations" : [ ],
@@ -1047,13 +935,13 @@
       "text" : "目"
     }, {
       "title" : "訳語",
-      "text" : "ata.ar[名詞]目\r\nata-(lu).tk名詞][動詞]目、見る\r\nta1.pk[名詞][動詞]目、見る\r\nadha.bt[名詞]目"
+      "text" : "ata.ar[名詞]目\r\nata-(lu).tk[名詞][動詞]目、見る\r\nta1.pk[名詞][動詞]目、見る\r\nadha.bt[名詞]目"
     } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 66,
+      "id" : 59,
       "form" : "raa"
     },
     "translations" : [ ],
@@ -1069,7 +957,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 67,
+      "id" : 60,
       "form" : "raikqt"
     },
     "translations" : [ ],
@@ -1085,7 +973,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 68,
+      "id" : 61,
       "form" : "rik"
     },
     "translations" : [ ],
@@ -1095,13 +983,13 @@
       "text" : "2,　二"
     }, {
       "title" : "訳語",
-      "text" : "iku.ar[数詞]2\n>ríka.bt[名詞]2, 二\nrik>ik2[名詞]2"
+      "text" : "iku.ar[数詞]2\r\n>ríka.bt[名詞]2, 二\r\nrik>ik2.pk[名詞]2"
     } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 69,
+      "id" : 62,
       "form" : "riya"
     },
     "translations" : [ ],
@@ -1111,13 +999,13 @@
       "text" : "心、思う"
     }, {
       "title" : "訳語",
-      "text" : "hiya.ar[名詞]心\nheyáúl[動詞]思う　(動詞節を取ってheyákáṣló)～だろうか\nhia1.pk[名詞][動詞]心、思う\nha.bt[副詞]～しよう　～しましょう\nij-u>i-lu.tk[助詞]意識を表す。～だろう　ij-uをi-juと誤った。\nija=lu.tk[名詞][動詞]心、思う"
+      "text" : "hiya.ar[名詞]心\r\nheyáúl.bt[動詞]思う　(動詞節を取ってheyákáṣló)～だろうか\r\nhia1.pk[名詞][動詞]心、思う\r\nha.bt[副詞]～しよう　～しましょう\r\nij-u>i-lu.tk[助詞]意識を表す。～だろう　ij-uをi-juと誤った。\r\nija=lu.tk[名詞][動詞]心、思う"
     } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 70,
+      "id" : 63,
       "form" : "many"
     },
     "translations" : [ ],
@@ -1133,7 +1021,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 71,
+      "id" : 64,
       "form" : "momfq"
     },
     "translations" : [ ],
@@ -1149,7 +1037,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 72,
+      "id" : 65,
       "form" : "momorq"
     },
     "translations" : [ ],
@@ -1165,7 +1053,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 73,
+      "id" : 66,
       "form" : "morq"
     },
     "translations" : [ ],
@@ -1181,7 +1069,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 74,
+      "id" : 67,
       "form" : "mqi"
     },
     "translations" : [ ],
@@ -1197,7 +1085,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 75,
+      "id" : 68,
       "form" : "'munq"
     },
     "translations" : [ ],
@@ -1216,7 +1104,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 76,
+      "id" : 69,
       "form" : "naanu"
     },
     "translations" : [ ],
@@ -1232,7 +1120,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 77,
+      "id" : 70,
       "form" : "nimslu"
     },
     "translations" : [ ],
@@ -1242,7 +1130,7 @@
       "text" : "民族、部族"
     }, {
       "title" : "訳語",
-      "text" : "nimutu.ar[名詞]民族\nnim2.pk[名詞]民族、部族\nnicu.tk[名詞]民族、部族\nmiln-shud.fs[名詞]民族\nnímaṣ[名詞]民族、部族"
+      "text" : "nimutu.ar[名詞]民族\r\nnim2.pk[名詞]民族、部族\r\nnicu.tk[名詞]民族、部族\r\nmiln-shud.fs[名詞]民族\r\nnímaṣ.bt[名詞]民族、部族"
     }, {
       "title" : "用例",
       "text" : "nímaṣáná taku　連邦"
@@ -1251,7 +1139,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 78,
+      "id" : 71,
       "form" : "ninq"
     },
     "translations" : [ ],
@@ -1267,7 +1155,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 79,
+      "id" : 72,
       "form" : "nu'a'"
     },
     "translations" : [ ],
@@ -1283,7 +1171,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 80,
+      "id" : 73,
       "form" : "phaen"
     },
     "translations" : [ ],
@@ -1299,7 +1187,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 81,
+      "id" : 74,
       "form" : "phed"
     },
     "translations" : [ ],
@@ -1309,16 +1197,16 @@
       "text" : "闇"
     }, {
       "title" : "訳語",
-      "text" : "phedu.ar[名詞]闇\r\nmedu.tk[名詞]闇\r\nhuet>huet.pk[名詞][動詞][定詞]闇、暗い、暗くする\r\nkud.fs[名詞]闇\r\nbhát.bt[名詞]バート人、バート語 [動詞]～を話す、喋る"
+      "text" : "phedu.ar[名詞]闇\nmedu.tk[名詞]闇\nhuet>huet.pk[名詞][動詞][定詞]闇、暗い、暗くする\nkud.fs[名詞]闇\nbhát.bt[名詞]バート人、バート語 [動詞]～を話す、喋る"
     }, {
       "title" : "用例",
-      "text" : "Ápa aṭamáná manámanelená bhátadhí.　私は神の親を話す(bt)"
+      "text" : "古理語liphe(暗黒)と類似\n\nÁpa aṭamáná manámanelená bhátadhí.　私は神の親を話す(bt)"
     } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 82,
+      "id" : 75,
       "form" : "xqmo"
     },
     "translations" : [ ],
@@ -1334,7 +1222,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 83,
+      "id" : 76,
       "form" : "ya"
     },
     "translations" : [ ],
@@ -1350,7 +1238,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 84,
+      "id" : 77,
       "form" : "yujo"
     },
     "translations" : [ ],
@@ -1366,7 +1254,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 85,
+      "id" : 78,
       "form" : "'ywa"
     },
     "translations" : [ ],
@@ -1382,7 +1270,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 86,
+      "id" : 79,
       "form" : "zau"
     },
     "translations" : [ ],
@@ -1401,7 +1289,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 87,
+      "id" : 80,
       "form" : "zee"
     },
     "translations" : [ ],
@@ -1411,13 +1299,13 @@
       "text" : "巻く"
     }, {
       "title" : "訳語",
-      "text" : "cee,ar[動詞]旋回する　巻く\nzeúl.bt[動詞]巻く　回す\nzekáta.bt[名詞]腰巻　ルンギー"
+      "text" : "cee.ar[動詞]旋回する　巻く\nzeúl.bt[動詞]巻く　回す\nzekáta.bt[名詞]腰巻　ルンギー"
     } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 88,
+      "id" : 81,
       "form" : "zeepq"
     },
     "translations" : [ ],
@@ -1433,7 +1321,7 @@
     "relations" : [ ]
   }, {
     "entry" : {
-      "id" : 89,
+      "id" : 82,
       "form" : "凡例（ラネーメ祖語）"
     },
     "translations" : [ ],
@@ -1443,7 +1331,173 @@
       "text" : "ラネーメ祖語の語義"
     }, {
       "title" : "訳語",
-      "text" : "「語彙.言語コード[品詞]語義」で記す。\r\n[言語コード一覧]\r\n>> 祖～\r\n> 古～\r\nfs ファスマレー語\r\nll ラネーモル語\r\nar アイル語\r\narL アイラニーヤ語\r\narJ 古アイル湾岸方言\r\npk パイグ語\r\npkA アイツォ語\r\nbt バート語\r\n[発音表記法]\r\n訳語欄の語義は各言語の表記に基づく。\r\n祖語は以下の通り。\r\np ph b t th d k kh g ‘  tl \r\nc s x z dz sl\r\nm n ng nl\r\nf\r\nl r\r\nj w\r\na i u e o y q\r\n\r\np pʰ b t tʰ d k kʰ ɡ ʔ ʈ\r\ns z ʃ ʈ͡ʂ ʒ ʂ\r\nm n ŋ ɳ\r\nf\r\nl ʁ\r\nj w\r\na i u e o y ə\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+      "text" : "「語彙.言語コード[品詞]語義」で記す。\n[言語コード一覧]\n>> 祖～\n> 古～\nfs ファスマレー語\nll ラネーモル語\nar アイル語\narL アイラニーヤ語\narJ 古アイル湾岸方言\npk パイグ語\npkA アイツォ語\nbt バート語\nna ナデュー語\nly リパライン語\n[発音表記法]\n訳語欄の語義は各言語の表記に基づく。\n祖語は以下の通り。\np ph b t th d k kh g ‘  tl \nc s x z dz sl\nm n ng nl\nf\nl r\nj w\na i u e o y q\n\np pʰ b t tʰ d k kʰ ɡ ʔ ʈ\ns z ʃ ʈ͡ʂ ʒ ʂ\nm n ŋ ɳ\nf\nl ʁ\nj w\na i u e o y ə\n\n\n\n\n\n\n"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 83,
+      "form" : "kisl"
+    },
+    "translations" : [ ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "頬"
+    }, {
+      "title" : "訳語",
+      "text" : "kisu.ar [名詞]頬\r\nkicu.tk [名詞]頬"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 84,
+      "form" : "koli"
+    },
+    "translations" : [ ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "疲れる"
+    }, {
+      "title" : "訳語",
+      "text" : "koli.ar[動詞]疲れる\nkolilu.tk[動詞]疲れる\nkoli.bt[名詞]疲れ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 85,
+      "form" : "kuran"
+    },
+    "translations" : [ ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "筆"
+    }, {
+      "title" : "訳語",
+      "text" : "k'uaa.ar[名詞]筆使い\r\nkua2.pk[名詞][動詞]筆、書く"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 86,
+      "form" : "kyoo"
+    },
+    "translations" : [ ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "塩"
+    }, {
+      "title" : "訳語",
+      "text" : "ghíyo.bt [名詞]塩\r\n>gio.ar[名詞]岩塩坑\r\nquvoo.ar [動詞]塩漬けにする\r\nkuo1.pk [名詞]塩\r\n"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 87,
+      "form" : "las"
+    },
+    "translations" : [ ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "一, 1"
+    }, {
+      "title" : "訳語",
+      "text" : "asi.ar[数詞]1\n>lási.bt[名詞]一, 1\nrets>et2.pk[名詞]1\n"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 88,
+      "form" : "lerq"
+    },
+    "translations" : [ ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "絵"
+    }, {
+      "title" : "訳語",
+      "text" : "leka.ar[名詞]絵\r\nlek1.pk[名詞]絵\r\nlegha.bt[名詞]絵\r\nleghúl.bt[動詞]絵を描く"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 89,
+      "form" : "li^ngq"
+    },
+    "translations" : [ ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "穢れのない"
+    }, {
+      "title" : "訳語",
+      "text" : "lingei.ar[名詞]汚れのない　しみのない"
+    }, {
+      "title" : "用例",
+      "text" : "アレス王朝の王ales.linの名前はこれであった可能性がある。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 90,
+      "form" : "lumi"
+    },
+    "translations" : [ ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "3"
+    }, {
+      "title" : "訳語",
+      "text" : "om2.pk[名詞]3\r\numi.ar[名詞]3"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 91,
+      "form" : "lyo"
+    },
+    "translations" : [ ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "しなければならない"
+    }, {
+      "title" : "訳語",
+      "text" : "liwo.ar[動詞]しなければならない\r\nliu>ly.pk[動詞]しなければならない\r\nlij-u.tk[動詞]しなければならない\r\n"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 92,
+      "form" : "manmanq"
+    },
+    "translations" : [ ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "母"
+    }, {
+      "title" : "訳語",
+      "text" : "manana.ar[名詞]母\nmanman>matmat.fs[名詞]母\n>manáman, banáman.bt[名詞]親、両親\nmamau.ar[名詞]母\n>maam>mam1.pk[名詞]親"
+    }, {
+      "title" : "用例",
+      "text" : "[語源]\nユナ理語malca、古理語maxaとは大祖語からの同祖関係と思われる。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
