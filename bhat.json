@@ -5006,6 +5006,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 248,
+      "form" : "júgok"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "ユーゴック" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理yrgokkからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
