@@ -5056,7 +5056,38 @@
       "text" : "牌mak2,藍maka"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 251,
+        "form" : "bhájabáni"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 251,
+      "form" : "bhájabáni"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "数字" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍buia + 伐báni"
+    }, {
+      "title" : "用法",
+      "text" : "「数(数字とかによって表される抽象概念)」ではなく「数字(数を表記するための文字)」を表す語である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 250,
+        "form" : "bágha"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
