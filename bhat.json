@@ -3052,7 +3052,7 @@
     },
     "translations" : [ {
       "title" : "間投詞",
-      "forms" : [ "あー！えー", "それでは", "じゃあ" ]
+      "forms" : [ "あー！", "えー", "それでは", "じゃあ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4380,7 +4380,10 @@
       "forms" : [ "幸運" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "cákík- + -akátaが縮約したもの。"
+    } ],
     "variations" : [ ],
     "relations" : [ {
       "title" : "派生関係",
