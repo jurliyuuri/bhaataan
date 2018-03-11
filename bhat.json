@@ -5094,6 +5094,22 @@
         "form" : "bágha"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 252,
+      "form" : "rauki"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "胸", "胸部" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌hauk1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
