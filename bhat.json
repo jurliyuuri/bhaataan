@@ -1677,7 +1677,19 @@
       "text" : "*srakkq"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 254,
+        "form" : "-a-"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 81,
+        "form" : "cákíkúḷ"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 81,
@@ -1704,6 +1716,12 @@
       "entry" : {
         "id" : 215,
         "form" : "cákíkáta"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 80,
+        "form" : "cákíkaúḷ"
       }
     } ]
   }, {
@@ -3944,7 +3962,19 @@
       "text" : "牌ian1,藍jani"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 192,
+        "form" : "janúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 255,
+        "form" : "-á-"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 192,
@@ -3960,7 +3990,13 @@
       "text" : "牌ian1, 藍jani"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 191,
+        "form" : "janáúḷ"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 193,
@@ -5129,6 +5165,112 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 254,
+      "form" : "-a-"
+    },
+    "translations" : [ {
+      "title" : "動詞接中辞",
+      "forms" : [ "使役性他動詞化接辞", "〜させる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "自動詞の語幹に付き、使役性の他動詞を作る。\n例：cákíkúḷ「来る、訪れる」→cákíkaúḷ「訪れさせる、もたらす」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 255,
+        "form" : "-á-"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 80,
+        "form" : "cákíkaúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 255,
+      "form" : "-á-"
+    },
+    "translations" : [ {
+      "title" : "動詞接中辞",
+      "forms" : [ "使役性他動詞化接辞", "〜させる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "自動詞の語幹に付き、使役性の他動詞を作る。\n例：janúḷ「生じる」→janáúḷ「作る」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 254,
+        "form" : "-a-"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 191,
+        "form" : "janáúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 256,
+      "form" : "-bháp-"
+    },
+    "translations" : [ {
+      "title" : "動詞接中辞",
+      "forms" : [ "複合時制化接辞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "大過去や前未来を作る。"
+    }, {
+      "title" : "同根語",
+      "text" : "伐bhápúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 257,
+        "form" : "-abháp-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 257,
+      "form" : "-abháp-"
+    },
+    "translations" : [ {
+      "title" : "動詞接中辞",
+      "forms" : [ "複合時制化接辞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "大過去や前未来を作る。"
+    }, {
+      "title" : "同根語",
+      "text" : "伐bhápúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 256,
+        "form" : "-bháp-"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
