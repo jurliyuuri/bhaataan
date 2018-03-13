@@ -5110,6 +5110,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 253,
+      "form" : "dat"
+    },
+    "translations" : [ {
+      "title" : "添詞",
+      "forms" : [ "〜だけ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌tet,皇tetu,藍tata"
+    }, {
+      "title" : "ラネーメ祖語形",
+      "text" : "*tqtq"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
