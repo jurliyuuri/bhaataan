@@ -687,6 +687,12 @@
         "id" : 36,
         "form" : "-áná"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 262,
+        "form" : "rúṣán káṇa"
+      }
     } ]
   }, {
     "entry" : {
@@ -723,6 +729,18 @@
       "entry" : {
         "id" : 35,
         "form" : "-án"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 261,
+        "form" : "koṭáná epa"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 263,
+        "form" : "koṭáná ṣoya"
       }
     } ]
   }, {
@@ -1886,7 +1904,13 @@
       "text" : "*fuepq"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 261,
+        "form" : "koṭáná epa"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 89,
@@ -2217,7 +2241,13 @@
       "text" : "数詞属格 + káṇaḍi hínaの場合、数詞が1でも2でもkáṇaは単数で用いる（káṇadhínaとはならない）。理由は謎である。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 262,
+        "form" : "rúṣán káṇa"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 105,
@@ -4288,12 +4318,21 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "牌kot,藍kotu"
-    }, {
-      "title" : "用法",
-      "text" : "koṭáná epa 草地, 野原"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 261,
+        "form" : "koṭáná epa"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 263,
+        "form" : "koṭáná ṣoya"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 205,
@@ -4360,10 +4399,16 @@
       "text" : "牌ut2,藍utu"
     }, {
       "title" : "用法",
-      "text" : "「Aの下」などを表すときには、Aを具格にする。（いわゆる基準具格）\nrúṣán káṇa 時間的な後"
+      "text" : "「Aの下」などを表すときには、Aを具格にする。（いわゆる基準具格）"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 262,
+        "form" : "rúṣán káṇa"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 209,
@@ -4587,12 +4632,15 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "藍couyau"
-    }, {
-      "title" : "用法",
-      "text" : "koṭáná ṣoya 垣根、生け垣"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 263,
+        "form" : "koṭáná ṣoya"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 222,
@@ -5422,6 +5470,102 @@
       "entry" : {
         "id" : 122,
         "form" : "nutta"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 261,
+      "form" : "koṭáná epa"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "草地", "野原" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 204,
+        "form" : "koṭ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 36,
+        "form" : "-áná"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 88,
+        "form" : "epa"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 262,
+      "form" : "rúṣán káṇa"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "時間的な後" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌ut2 kak"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 208,
+        "form" : "rúṣ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 35,
+        "form" : "-án"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 104,
+        "form" : "káṇa"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 263,
+      "form" : "koṭáná ṣoya"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "垣根", "生け垣" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 204,
+        "form" : "koṭ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 36,
+        "form" : "-áná"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 221,
+        "form" : "ṣoya"
       }
     } ]
   } ],
