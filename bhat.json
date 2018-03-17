@@ -930,6 +930,24 @@
         "id" : 47,
         "form" : "-omá"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 258,
+        "form" : "amilahomá nutta"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 259,
+        "form" : "sákahomá ḍáz"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 260,
+        "form" : "ṣúsahomá nutta"
+      }
     } ]
   }, {
     "entry" : {
@@ -1319,7 +1337,13 @@
       "text" : "*qmuile'"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 258,
+        "form" : "amilahomá nutta"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 62,
@@ -1752,7 +1776,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 259,
+        "form" : "sákahomá ḍáz"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 84,
@@ -2538,7 +2568,19 @@
       "text" : "*nu'a'"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 258,
+        "form" : "amilahomá nutta"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 260,
+        "form" : "ṣúsahomá nutta"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 123,
@@ -2649,7 +2691,13 @@
       "text" : "*srakkq"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 259,
+        "form" : "sákahomá ḍáz"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 129,
@@ -4955,7 +5003,13 @@
       "text" : "牌syt2,藍siusa"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 260,
+        "form" : "ṣúsahomá nutta"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 243,
@@ -5269,6 +5323,105 @@
       "entry" : {
         "id" : 256,
         "form" : "-bháp-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 258,
+      "form" : "amilahomá nutta"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "魚醤", "ナンプラー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理amilaformar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 61,
+        "form" : "amila"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 44,
+        "form" : "-homá"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 122,
+        "form" : "nutta"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 259,
+      "form" : "sákahomá ḍáz"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "路商", "露天商" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 128,
+        "form" : "sáka"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 44,
+        "form" : "-homá"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 83,
+        "form" : "ḍáz"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 260,
+      "form" : "ṣúsahomá nutta"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "雨", "雨水" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌syt2 nua2"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 242,
+        "form" : "ṣúsa"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 44,
+        "form" : "-homá"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 122,
+        "form" : "nutta"
       }
     } ]
   } ],
