@@ -1640,5 +1640,13 @@ Wikipedia contributors, "Grammatical number," Wikipedia, The Free Encyclopedia, 
 <div id="menu">読み込み中…</div>
 <div id="menuButton" onclick="openClose()">≡</div>
 <script src="./header.js" async></script>
+<script src="https://cdn.jsdelivr.net/leipzig/latest/leipzig.min.js"></script>
+<script>
+ document.addEventListener('DOMContentLoaded', function() {
+  	var leipzig = Leipzig();
+    leipzig.addAbbreviations({REAL:"realis",ZERO:"zero",POST:"postpositional",REL:"relativizer"});
+    leipzig.gloss()
+  });
+</script>
 </body>
 </html>
