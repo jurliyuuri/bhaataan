@@ -742,6 +742,12 @@
         "id" : 263,
         "form" : "koṭáná ṣoya"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 264,
+        "form" : "nímaṣáná taku"
+      }
     } ]
   }, {
     "entry" : {
@@ -2560,7 +2566,13 @@
       "text" : "*nimslu"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 264,
+        "form" : "nímaṣáná taku"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 121,
@@ -2998,7 +3010,13 @@
       "text" : "牌tak1,藍taku;比較的最近の借用語"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 264,
+        "form" : "nímaṣáná taku"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 142,
@@ -5566,6 +5584,37 @@
       "entry" : {
         "id" : 221,
         "form" : "ṣoya"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 264,
+      "form" : "nímaṣáná taku"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "連邦" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 141,
+        "form" : "taku"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 120,
+        "form" : "nímaṣ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 36,
+        "form" : "-áná"
       }
     } ]
   } ],
