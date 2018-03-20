@@ -1501,7 +1501,7 @@
       "title" : "母音幹名詞",
       "forms" : [ "私たち(包括)" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "必ず単数曲用" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2295,7 +2295,7 @@
       "title" : "母音幹名詞",
       "forms" : [ "三人称女性複数" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "必ず単数曲用" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2355,7 +2355,7 @@
       "title" : "母音幹名詞",
       "forms" : [ "三人称男性複数" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "必ず単数曲用" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -2481,7 +2481,7 @@
       "title" : "母音幹名詞",
       "forms" : [ "二人称複数" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "必ず単数曲用" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3761,10 +3761,13 @@
       "title" : "母音幹名詞",
       "forms" : [ "花" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "必ず単数曲用" ],
     "contents" : [ {
       "title" : "同根語",
       "text" : "牌xuo1,藍tixuo"
+    }, {
+      "title" : "用法",
+      "text" : "単複同形なので、複数であっても必ず単数曲用である。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
