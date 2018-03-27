@@ -5620,6 +5620,22 @@
         "form" : "-áná"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 265,
+      "form" : "rodúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "短い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌lot2,藍lodu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
