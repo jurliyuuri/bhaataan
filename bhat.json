@@ -581,7 +581,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 268,
+        "form" : "lipakoúḷ"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 32,
@@ -971,6 +977,12 @@
       "entry" : {
         "id" : 260,
         "form" : "ṣúsahomá nutta"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 266,
+        "form" : "káṇahomá amila"
       }
     } ]
   }, {
@@ -1366,6 +1378,12 @@
       "entry" : {
         "id" : 258,
         "form" : "amilahomá nutta"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 266,
+        "form" : "káṇahomá amila"
       }
     } ]
   }, {
@@ -2252,6 +2270,12 @@
       "entry" : {
         "id" : 262,
         "form" : "rúṣán káṇa"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 266,
+        "form" : "káṇahomá amila"
       }
     } ]
   }, {
@@ -5636,6 +5660,96 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 266,
+      "form" : "káṇahomá amila"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "エイプリルフール" ]
+    } ],
+    "tags" : [ "ジョーク", "非真理設定" ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "要するに「時の魚」。poisson d'avrilのcalqueであることは言うまでもなく、非真理設定であることも言うまでもない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 61,
+        "form" : "amila"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 104,
+        "form" : "káṇa"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 44,
+        "form" : "-homá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 267,
+      "form" : "lipakoḷ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "リパコール" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理lipakorlからの借用。"
+    }, {
+      "title" : "用法",
+      "text" : "人名。一般にアレス・ラネーメ・リパコールを指す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 268,
+        "form" : "lipakoúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 268,
+      "form" : "lipakoúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)をリパコールする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理lipakorlesからの翻訳借用。"
+    }, {
+      "title" : "用法",
+      "text" : "理lipakorlesを参照せよ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 267,
+        "form" : "lipakoḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 31,
+        "form" : "-úḷ"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
