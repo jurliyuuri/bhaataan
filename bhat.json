@@ -5750,6 +5750,25 @@
         "form" : "-úḷ"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 269,
+      "form" : "ṣíyáúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)を裁く" ]
+    }, {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)を〜(具格)とみなす" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍xiyu,牌xy1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
