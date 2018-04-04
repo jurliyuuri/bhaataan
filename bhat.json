@@ -2349,12 +2349,21 @@
     },
     "translations" : [ {
       "title" : "母音幹名詞",
-      "forms" : [ "三人称男性単数", "あれ" ]
+      "forms" : [ "三人称男性単数" ]
+    }, {
+      "title" : "母音幹名詞",
+      "forms" : [ "あれ" ]
+    }, {
+      "title" : "母音幹名詞",
+      "forms" : [ "男" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "用法",
-      "text" : "「彼ら」はkiṣloという語があるが、「あれら」は規則複数でkízáである。"
+      "text" : "「彼ら」はkiṣloという語があるが、「あれら」「男たち」は規則複数でkízáである。"
+    }, {
+      "title" : "同根語",
+      "text" : "（三人称男性単数・あれ）藍kisi、皇ki\n（男）牌ki1、藍uki、藍ki"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -2713,7 +2722,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "牌sa1, 藍sa"
+      "text" : "牌sa1, 藍sa, 藍usa"
     }, {
       "title" : "ラネーメ祖語形",
       "text" : "*sa"
