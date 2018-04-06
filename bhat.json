@@ -4078,6 +4078,12 @@
         "id" : 189,
         "form" : "-z"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 271,
+        "form" : "bákaz"
+      }
     } ]
   }, {
     "entry" : {
@@ -5203,7 +5209,13 @@
       "text" : "パイグやアイルにあるような、「抵抗し反撃・反抗する」のニュアンスはない。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 271,
+        "form" : "bákaz"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 248,
@@ -5794,6 +5806,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 271,
+      "form" : "bákaz"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "我慢" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 247,
+        "form" : "bákúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 190,
+        "form" : "-az"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
