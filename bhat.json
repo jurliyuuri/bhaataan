@@ -5831,6 +5831,22 @@
         "form" : "-az"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 272,
+      "form" : "nautu"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "単語", "語", "言葉" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍nyautu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
