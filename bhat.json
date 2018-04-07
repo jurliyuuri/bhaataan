@@ -595,7 +595,7 @@
     },
     "translations" : [ {
       "title" : "子音幹接尾辞",
-      "forms" : [ "子音幹複数主格" ]
+      "forms" : [ "子音幹複数主格・無格" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -605,6 +605,12 @@
       "entry" : {
         "id" : 41,
         "form" : "-zá"
+      }
+    }, {
+      "title" : "単複",
+      "entry" : {
+        "id" : 273,
+        "form" : "-i"
       }
     } ]
   }, {
@@ -862,7 +868,7 @@
     },
     "translations" : [ {
       "title" : "母音幹接尾辞",
-      "forms" : [ "母音幹複数主格" ]
+      "forms" : [ "母音幹複数主格・無格" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -5847,6 +5853,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 273,
+      "form" : "-i"
+    },
+    "translations" : [ {
+      "title" : "子音幹接尾辞",
+      "forms" : [ "子音幹単数無格" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "単複",
+      "entry" : {
+        "id" : 32,
+        "form" : "-á"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
