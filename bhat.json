@@ -5196,7 +5196,13 @@
       "text" : "藍acau,皇ac-u"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 274,
+        "form" : "danúḷ"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 247,
@@ -5870,6 +5876,28 @@
       "entry" : {
         "id" : 32,
         "form" : "-á"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 274,
+      "form" : "danúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "〜(不定詞)してもよい", "〜(不定詞)は状況的に可能である", "〜(不定詞)しても問題ない", "〜(不定詞)しても構わない" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍tanu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 246,
+        "form" : "ácahúḷ"
       }
     } ]
   } ],
