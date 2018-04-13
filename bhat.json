@@ -2461,7 +2461,10 @@
     },
     "translations" : [ {
       "title" : "母音幹名詞",
-      "forms" : [ "一, 1" ]
+      "forms" : [ "一", "1" ]
+    }, {
+      "title" : "母音幹名詞",
+      "forms" : [ "一人の人" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2470,6 +2473,9 @@
     }, {
       "title" : "ラネーメ祖語形",
       "text" : "*las"
+    }, {
+      "title" : "用法",
+      "text" : "一人の人を指す場合、ásúkaよりもlásiの方が好まれる。とはいえ、英語のoneなどと異なり、*lásizáで複数人の人物を表すことはできない。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
