@@ -860,6 +860,12 @@
         "id" : 39,
         "form" : "-i"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 275,
+        "form" : "-ína"
+      }
     } ]
   }, {
     "entry" : {
@@ -1188,6 +1194,12 @@
       "entry" : {
         "id" : 50,
         "form" : "-ḍi"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 276,
+        "form" : "-dhína"
       }
     } ]
   }, {
@@ -2119,7 +2131,19 @@
       "text" : "*i'q"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 275,
+        "form" : "-ína"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 276,
+        "form" : "-dhína"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 97,
@@ -5904,6 +5928,56 @@
       "entry" : {
         "id" : 246,
         "form" : "ácahúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 275,
+      "form" : "-ína"
+    },
+    "translations" : [ {
+      "title" : "子音幹接尾辞",
+      "forms" : [ "子音幹複数形後置格hína縮約形" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 96,
+        "form" : "hína"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 40,
+        "form" : "-iná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 276,
+      "form" : "-dhína"
+    },
+    "translations" : [ {
+      "title" : "母音幹接尾辞",
+      "forms" : [ "母音幹複数後置格hína縮約形" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 96,
+        "form" : "hína"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 51,
+        "form" : "-dhíná"
       }
     } ]
   } ],
