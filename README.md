@@ -9,7 +9,8 @@
 * [バート語の造語をする](http://jurliyuuri.com/bhaataan/coin.html) - バート語の単語の創作の様子を記したログ(完結)
 * [バート語の造語をするpart2](http://jurliyuuri.com/bhaataan/coin2.html) - バート語の単語の創作の様子を記したログpart2
 * [Githubリポジトリ](https://github.com/jurliyuuri/bhaataan) - このサイトの進捗や更新履歴などが確認できる
-* [バート語辞書](https://zpdic.herokuapp.com/dictionary/24) - 辞書が引ける
+* [バート語辞書](https://zpdic.herokuapp.com/dictionary/24) - 辞書が引ける(外部サイト)
+* [バート文字フォント](https://haar-you.github.io/BhaataanFont/) - [@HaarLangLove様](https://twitter.com/HaarLangLove)によるバート文字のフォント(外部サイト)
 
 以下旧ファイル（一部設定が古い）
 * [バート語 - 【人工言語】リパライン語](https://sites.google.com/site/3tvalineparine/plsnk/bhat)
