@@ -1958,6 +1958,12 @@
         "id" : 261,
         "form" : "koṭáná epa"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 277,
+        "form" : "bháhepa"
+      }
     } ]
   }, {
     "entry" : {
@@ -3733,7 +3739,13 @@
       "text" : "直後に名詞を要求する。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 277,
+        "form" : "bháhepa"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 170,
@@ -5990,6 +6002,34 @@
       "entry" : {
         "id" : 51,
         "form" : "-dhíná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 277,
+      "form" : "bháhepa"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "(属格で)国際的な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "皇 全地"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 169,
+        "form" : "bhá"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 88,
+        "form" : "epa"
       }
     } ]
   } ],
