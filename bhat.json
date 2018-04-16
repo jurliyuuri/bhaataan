@@ -6031,6 +6031,34 @@
         "id" : 88,
         "form" : "epa"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 278,
+        "form" : "bháhepa"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 278,
+      "form" : "bháhepa"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "国際的に" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "皇 全地"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 277,
+        "form" : "bháhepa"
+      }
     } ]
   } ],
   "zpdic" : {
