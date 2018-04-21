@@ -3205,9 +3205,18 @@
     }, {
       "title" : "ラネーメ祖語形",
       "text" : "*zeepq"
+    }, {
+      "title" : "用法",
+      "text" : "nautuは「単語」の意味であり、zephaはnautuや文法が集まってできる「言語」の意味である。bhátán zephaは「バート語」、bhátán nautuは「バート語の単語」である。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 272,
+        "form" : "nautu"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 147,
@@ -5910,9 +5919,18 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "藍nyautu,理pzeniatz(←藍bwuzei nyautu)"
+    }, {
+      "title" : "用法",
+      "text" : "nautuは「単語」の意味であり、zephaはnautuや文法が集まってできる「言語」の意味である。bhátán zephaは「バート語」、bhátán nautuは「バート語の単語」である。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 146,
+        "form" : "zepha"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 273,
