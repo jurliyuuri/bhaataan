@@ -3913,7 +3913,13 @@
       "text" : "*ya"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 283,
+        "form" : "ghau ja ghá"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 179,
@@ -6132,6 +6138,84 @@
       "entry" : {
         "id" : 102,
         "form" : "kádúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 281,
+      "form" : "ghau"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "刀" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌gau2,藍ngongau"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 283,
+        "form" : "ghau ja ghá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 282,
+      "form" : "ghá"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "弓" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌gua2,藍nguwa"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 283,
+        "form" : "ghau ja ghá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 283,
+      "form" : "ghau ja ghá"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "武器" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌gau2 gua2"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 281,
+        "form" : "ghau"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 282,
+        "form" : "ghá"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 178,
+        "form" : "ja"
       }
     } ]
   } ],
