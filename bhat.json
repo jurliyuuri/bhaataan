@@ -6078,6 +6078,25 @@
         "form" : "bháhepa"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 279,
+      "form" : "xízía"
+    },
+    "translations" : [ {
+      "title" : "間投詞",
+      "forms" : [ "こんにちは", "やあ", "こんばんは", "おはよう" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌xi zi aからの借用"
+    }, {
+      "title" : "用法",
+      "text" : "パイグと異なり呼びかけには用いず、専ら挨拶としてのみ使う。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
