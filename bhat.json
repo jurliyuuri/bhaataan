@@ -2269,7 +2269,13 @@
       "text" : "*raikqt"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 280,
+        "form" : "kádaúḷ"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 103,
@@ -5435,6 +5441,12 @@
         "id" : 80,
         "form" : "cákíkaúḷ"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 280,
+        "form" : "kádaúḷ"
+      }
     } ]
   }, {
     "entry" : {
@@ -6097,6 +6109,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 280,
+      "form" : "kádaúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)を見せる", "〜(対格)を掲げる", "〜(対格)が人目につくようにする", "〜(対格)を目立たせる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 254,
+        "form" : "-a-"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 102,
+        "form" : "kádúḷ"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
