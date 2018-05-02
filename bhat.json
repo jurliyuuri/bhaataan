@@ -1840,7 +1840,10 @@
       "forms" : [ "店", "商店" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍doche"
+    } ],
     "variations" : [ ],
     "relations" : [ {
       "title" : "派生関係",
@@ -6218,6 +6221,25 @@
         "form" : "ja"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 284,
+      "form" : "bániṣom"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "字積", "マニソマ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "皇manicoma,理manicoma"
+    }, {
+      "title" : "文化",
+      "text" : "ラネーメ圏発祥のカードゲーム、基本的には山札から何枚かカードを引いて、それらに書いてある燐字を組み合わせて字を作って遊ぶ。ciurlを使って引くカードを制限したり、派生的なルールが多々ある。リパライン語圏では下にリパライン語で燐字の意味が書いてある場合がある。（以上リパライン語辞書からのコピペ）"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
