@@ -6278,6 +6278,38 @@
         "form" : "dházúḷ"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 287,
+      "form" : "nonúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "〜(主格)は（質などが）劣悪である", "〜(主格)は劣っている" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍nonu,牌non1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 288,
+      "form" : "non"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "劣悪なもの", "劣っているもの", "質の低いもの", "低質なもの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍nonu,牌non1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
