@@ -6310,6 +6310,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 289,
+      "form" : "t"
+    },
+    "translations" : [ {
+      "title" : "終助詞",
+      "forms" : [ "感嘆を表す" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌t,皇t"
+    }, {
+      "title" : "用法",
+      "text" : "バート語の文法上は終助詞として扱うが、実際にtの音で発音されるわけではなく、あくまで感嘆を表すための記号である。故に、ラテン字転写では感嘆符で転写するが、バート文字で書く場合には、単語tを書きその後ろにピリオドを打つ必要がある。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
