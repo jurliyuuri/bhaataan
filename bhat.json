@@ -4643,7 +4643,7 @@
     },
     "translations" : [ {
       "title" : "状態動詞",
-      "forms" : [ "暑い" ]
+      "forms" : [ "暑い", "熱い", "温度が高い", "高温である" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4651,7 +4651,13 @@
       "text" : "牌kan1,藍kani"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 290,
+        "form" : "ghánaúḷ"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 215,
@@ -5458,6 +5464,12 @@
       "entry" : {
         "id" : 280,
         "form" : "kádaúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 290,
+        "form" : "ghánaúḷ"
       }
     } ]
   }, {
@@ -6329,6 +6341,37 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 290,
+      "form" : "ghánaúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)を加熱する・温める・暖める・加温する・熱くする・暑がらせる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 214,
+        "form" : "ghánúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 254,
+        "form" : "-a-"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 290,
+        "form" : "ghánaúḷ"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
