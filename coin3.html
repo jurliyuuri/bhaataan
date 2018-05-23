@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+<title>バート語の造語をするpart3</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="common.css">
+<link rel="stylesheet" href="menu.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/leipzig/latest/leipzig.min.css">
+<style>
+s{background-color: #ffdddd}
+</style>
+</head>
+<body class="cool">
+<a href="./index.html">トップに戻る</a>
+<a href="./investigate.html">メインの考察に戻る</a>
+<h1>バート語の造語をするpart3</h1>
+<p>とりとめなく造語をしていった<a href="coin2.html">part2</a>とは異なり、<a href="coin.html">part1</a>と同様、お題を決めてそれの翻訳をメインにやっていこう。</p>
+<p>今回のお題は「空が燃える理由」と「国際共産主義活動よ、連合せよ」である。リパライン語の勉強が捗りそうである。</p>
+
+<div id="menu">読み込み中…</div>
+<div id="menuButton" onclick="openClose()">≡</div>
+<script src="./header.js" async></script>
+<script src="https://cdn.jsdelivr.net/leipzig/latest/leipzig.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+  	var leipzig = Leipzig();
+    leipzig.addAbbreviations({REAL:"realis",ZERO:"zero",POST:"postpositional"});
+    leipzig.gloss()
+  });
+</script>
+</body>
+</html>
