@@ -612,6 +612,12 @@
         "id" : 273,
         "form" : "-i"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 293,
+        "form" : "káná ká"
+      }
     } ]
   }, {
     "entry" : {
@@ -759,6 +765,12 @@
       "entry" : {
         "id" : 264,
         "form" : "nímaṣáná taku"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 293,
+        "form" : "káná ká"
       }
     } ]
   }, {
@@ -1063,6 +1075,12 @@
       "entry" : {
         "id" : 35,
         "form" : "-án"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 294,
+        "form" : "káom ká"
       }
     } ]
   }, {
@@ -2250,7 +2268,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 294,
+        "form" : "káom ká"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 102,
@@ -4704,7 +4728,19 @@
       "text" : "牌ku,アイルku"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "単複",
+      "entry" : {
+        "id" : 292,
+        "form" : "ká"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 293,
+        "form" : "káná ká"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 217,
@@ -6391,6 +6427,102 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 292,
+      "form" : "ká"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "kの複数形" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "子音幹名詞kの複数形。あまりに紛らわしいので見出し語として一応立てておく。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "単複",
+      "entry" : {
+        "id" : 216,
+        "form" : "k"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 293,
+      "form" : "káná ká"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "káという発話のうちkの複数形を意味していることを明示する表現" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "類義語の使い分け",
+      "text" : "káには、三人称女性単数である可能性とk「物」の複数形である可能性があるので、それを区別するための表現。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 216,
+        "form" : "k"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 32,
+        "form" : "-á"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 36,
+        "form" : "-áná"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 294,
+        "form" : "káom ká"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 294,
+      "form" : "káom ká"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "káという発話のうち三人称女性単数を意味していることを明示する表現" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "類義語の使い分け",
+      "text" : "káには、三人称女性単数である可能性とk「物」の複数形である可能性があるので、それを区別するための表現。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 293,
+        "form" : "káná ká"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 101,
+        "form" : "ká"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 46,
+        "form" : "-om"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
