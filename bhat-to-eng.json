@@ -1651,7 +1651,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "バート人", "バート語" ]
+      "forms" : [ "bhátán language", "bhátán people" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2227,8 +2227,8 @@
       "form" : "jo"
     },
     "translations" : [ {
-      "title" : "noun接続詞",
-      "forms" : [ "または", "もしくは" ]
+      "title" : "conjunction for nouns",
+      "forms" : [ "or" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2247,12 +2247,12 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "ユエスレオネ" ]
+      "forms" : [ "Yuesleone" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
-      "text" : "理語yuesleoneからの借用"
+      "text" : "Borrowed from 理yuesleone."
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2379,7 +2379,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "永遠", "永久" ]
+      "forms" : [ "perpetuity", "eternity" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2672,7 +2672,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "民族", "部族" ]
+      "forms" : [ "ethnic group", "tribe" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2697,7 +2697,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "貝葉" ]
+      "forms" : [ "palm-leaf manuscript" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2747,7 +2747,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "fedi'a" ]
+      "forms" : [ "Fedi'a" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2954,7 +2954,7 @@
       "form" : "ṣiṇṇa"
     },
     "translations" : [ {
-      "title" : "文接続詞",
+      "title" : "conjunction for sentences",
       "forms" : [ "however" ]
     } ],
     "tags" : [ ],
@@ -3237,7 +3237,7 @@
       "text" : "*zeepq"
     }, {
       "title" : "difference between synonyms",
-      "text" : "nautuは「単語」の意味であり、zephaはnautuや文法が集まってできる「言語」の意味である。bhátán zephaは「バート語」、bhátán nautuは「バート語の単語」である。"
+      "text" : "\"nautu\" means \"word\"; \"zepha\" denotes \"language\", composed of many \"nautu\" and grammar. \"bhátán zepha\" is \"bhátán language\"; \"bhátán nautu\" is \"bhátán words\"."
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -3922,11 +3922,11 @@
       "form" : "ja"
     },
     "translations" : [ {
-      "title" : "文接続詞",
-      "forms" : [ "そして" ]
+      "title" : "conjunction for sentences",
+      "forms" : [ "~ and ~" ]
     }, {
-      "title" : "noun接続詞",
-      "forms" : [ "〜と〜" ]
+      "title" : "conjunction for nouns",
+      "forms" : [ "~ and ~" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4634,8 +4634,8 @@
       "form" : "jarúṣi"
     },
     "translations" : [ {
-      "title" : "文接続詞",
-      "forms" : [ "そしてその後" ]
+      "title" : "conjunction for sentences",
+      "forms" : [ "thenceforth", "thereafter", "ever since" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5358,12 +5358,12 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "ユーゴック" ]
+      "forms" : [ "Yuugokku" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
-      "text" : "理yrgokkからの借用"
+      "text" : "Borrowed from 理yrgokk."
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5395,7 +5395,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "difference between synonyms",
-      "text" : "「数字(数を表記するための文字)」ではなく「数(数字とかによって表される抽象概念)」を表す語である。数字を表すのはbhájabániである。"
+      "text" : "Denotes not \"digit (characters used to describe numbers)\" but \"number (an abstract concept which is frequently represented using digits)\". \"Digit\" is denoted by \"bhájabáni\"."
     }, {
       "title" : "cognate(s)",
       "text" : "牌mak2,藍maka"
@@ -5423,7 +5423,7 @@
       "text" : "藍buia + 伐báni"
     }, {
       "title" : "difference between synonyms",
-      "text" : "「数(数字とかによって表される抽象概念)」ではなく「数字(数を表記するための文字)」を表す語である。数を表すのはbághaである。"
+      "text" : "Denotes not \"number (an abstract concept which is frequently represented using digits)\" but \"digit (characters used to describe numbers)\". \"Number\" is denoted by \"bágha\"."
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -5543,12 +5543,12 @@
     },
     "translations" : [ {
       "title" : "verb infix",
-      "forms" : [ "複合時制化接辞" ]
+      "forms" : [ "infix for compound tense" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "大過去や前未来を作る。"
+      "text" : "Creates pluperfect or future perfect."
     }, {
       "title" : "cognate(s)",
       "text" : "伐bhápúḷ"
@@ -5568,12 +5568,12 @@
     },
     "translations" : [ {
       "title" : "verb infix",
-      "forms" : [ "複合時制化接辞" ]
+      "forms" : [ "infix for compound tense" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "大過去や前未来を作る。"
+      "text" : "Creates pluperfect or future perfect."
     }, {
       "title" : "cognate(s)",
       "text" : "伐bhápúḷ"
@@ -6176,7 +6176,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(accusative)を見せる", "〜(accusative)を掲げる", "〜(accusative)が人目につくようにする", "〜(accusative)を目立たせる" ]
+      "forms" : [ "to show [accusative]", "to hang out [accusative]", "to hoist [accusative]", "to make [accusative] stand out" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
