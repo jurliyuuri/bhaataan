@@ -595,7 +595,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem suffix",
-      "forms" : [ "consonant stem plural nominative・無格" ]
+      "forms" : [ "consonant stem plural nominative/zero case" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -886,7 +886,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem suffix",
-      "forms" : [ "vowel stem plural nominative・無格" ]
+      "forms" : [ "vowel stem plural nominative/zero case" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1448,7 +1448,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "神", "皇帝" ]
+      "forms" : [ "deity", "emperor" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1527,7 +1527,7 @@
     },
     "translations" : [ {
       "title" : "adverb",
-      "forms" : [ "だんだん", "ゆくゆく" ]
+      "forms" : [ "gradually", "eventually" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1561,7 +1561,7 @@
       "title" : "vowel stem noun",
       "forms" : [ "we (inclusive)" ]
     } ],
-    "tags" : [ "必ずsingular declension" ],
+    "tags" : [ "always singular declension" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1808,7 +1808,7 @@
       "forms" : [ "to come from [oṣa]", "to visit [hína]" ]
     }, {
       "title" : "stative verb",
-      "forms" : [ "〜(oṣa)が出身地である" ]
+      "forms" : [ "for the hometown to be [oṣa]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2397,7 +2397,7 @@
       "title" : "vowel stem noun",
       "forms" : [ "third person feminine plural " ]
     } ],
-    "tags" : [ "必ずsingular declension" ],
+    "tags" : [ "always singular declension" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2433,7 +2433,7 @@
       "forms" : [ "あれ" ]
     }, {
       "title" : "vowel stem noun",
-      "forms" : [ "男" ]
+      "forms" : [ "man", "male" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2466,7 +2466,7 @@
       "title" : "vowel stem noun",
       "forms" : [ "third person masculine plural " ]
     } ],
-    "tags" : [ "必ずsingular declension" ],
+    "tags" : [ "always singular declension" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -2577,7 +2577,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "絵を描く" ]
+      "forms" : [ "to draw (a picture)", "to paint (a picture)", "to sketch" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2598,7 +2598,7 @@
       "title" : "vowel stem noun",
       "forms" : [ "second person plural " ]
     } ],
-    "tags" : [ "必ずsingular declension" ],
+    "tags" : [ "always singular declension" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2839,7 +2839,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "road", "歩道" ]
+      "forms" : [ "road", "sidewalk" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3424,10 +3424,10 @@
     },
     "translations" : [ {
       "title" : "instantaneous verb",
-      "forms" : [ "〜(accusative)に気づく", "〜(accusative)を知る" ]
+      "forms" : [ "to perceive [accusative]", "to come to know [accusative]" ]
     }, {
       "title" : "stative verb",
-      "forms" : [ "〜(accusative)に気づいている", "〜(accusative)を知っている" ]
+      "forms" : [ "to have found out [accusative]", "to know [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3893,13 +3893,13 @@
       "title" : "vowel stem noun",
       "forms" : [ "flower" ]
     } ],
-    "tags" : [ "必ずsingular declension" ],
+    "tags" : [ "always singular declension" ],
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "牌xuo1,藍tixuo"
     }, {
       "title" : "usage",
-      "text" : "単複同形なので、plural であっても必ずsingular declensionである。"
+      "text" : "singulare tantum noun; even when semantically plural, singular declensions are always used."
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4043,7 +4043,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(accusative)を〜(oṣa)という包装・箱などの中から取り出す" ]
+      "forms" : [ "to take [accusative] out of (box/wrapping) [oṣa]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4078,12 +4078,12 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "cloth" ]
+      "forms" : [ "cloth", "fabric" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
-      "text" : "語源不明"
+      "text" : "Of unknown origin."
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4134,7 +4134,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
-      "text" : "伐zúḷと同根とされる"
+      "text" : "possibly cognate with zúḷ."
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -4174,7 +4174,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
-      "text" : "伐zúḷと同根とされる"
+      "text" : "possibly cognate with zúḷ."
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -4505,7 +4505,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "自身" ]
+      "forms" : [ "oneself" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4592,7 +4592,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
-      "text" : "(オノマトペ)"
+      "text" : "(Onomatopoeic)"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5440,7 +5440,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "胸", "胸部" ]
+      "forms" : [ "breast", "chest" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6010,7 +6010,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem suffix",
-      "forms" : [ "consonant stem singular 無格" ]
+      "forms" : [ "consonant stem singular zero case" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -6051,7 +6051,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem suffix",
-      "forms" : [ "consonant stem plural 形postpositional hína縮約形" ]
+      "forms" : [ "contraction of consonant stem plural postpositional and hína" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -6076,7 +6076,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem suffix",
-      "forms" : [ "vowel stem plural postpositional hína縮約形" ]
+      "forms" : [ "contraction of vowel stem plural postpositional and hína" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
