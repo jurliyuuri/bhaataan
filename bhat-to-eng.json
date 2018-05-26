@@ -1239,7 +1239,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 98,
         "form" : "horúḷ"
@@ -1280,7 +1280,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 237,
         "form" : "okákúḷ"
@@ -1467,7 +1467,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "主義", "思想", "ideology" ]
+      "forms" : [ "doctrine", "ism", "ideology" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2090,7 +2090,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 150,
         "form" : "bhápúḷ"
@@ -2184,7 +2184,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "culture", "風俗" ]
+      "forms" : [ "culture", "manners", "customs" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2215,7 +2215,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 52,
         "form" : "accúḷ"
@@ -2451,7 +2451,7 @@
         "form" : "kiṣlo"
       }
     }, {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 111,
         "form" : "ko"
@@ -2495,13 +2495,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 156,
         "form" : "dí"
       }
     }, {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 109,
         "form" : "kí"
@@ -2546,7 +2546,7 @@
       "title" : "Proto-Lanermic form",
       "text" : "*las"
     }, {
-      "title" : "類義語の使い分け",
+      "title" : "synonym(s)の使い分け",
       "text" : "一人の人を指す場合、ásúkaよりもlásiの方が好まれる。とはいえ、英語のoneなどと異なり、*lásizáでplural 人の人物を表すことはできない。"
     } ],
     "variations" : [ ],
@@ -2558,7 +2558,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "絵" ]
+      "forms" : [ "picture (does not include photographs)" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2895,7 +2895,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 131,
         "form" : "ṣibhai"
@@ -2920,7 +2920,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 130,
         "form" : "síbha"
@@ -3236,12 +3236,12 @@
       "title" : "Proto-Lanermic form",
       "text" : "*zeepq"
     }, {
-      "title" : "類義語の使い分け",
+      "title" : "synonym(s)の使い分け",
       "text" : "nautuは「単語」の意味であり、zephaはnautuや文法が集まってできる「言語」の意味である。bhátán zephaは「バート語」、bhátán nautuは「バート語の単語」である。"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 272,
         "form" : "nautu"
@@ -3327,7 +3327,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "類義語の使い分け",
+      "title" : "synonym(s)の使い分け",
       "text" : "Used as the suppletive form for the non-conjugating verb \"hem\"「AはBになっているだろう」「BであったA」というような表現を表す際に. hemで表せる状況でわざわざbhápúḷを使うと、少し堅苦しくなる。"
     }, {
       "title" : "cognate(s)",
@@ -3338,7 +3338,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 93,
         "form" : "hem"
@@ -3452,7 +3452,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 111,
         "form" : "ko"
@@ -3856,7 +3856,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "白い" ]
+      "forms" : [ "to be white" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4013,7 +4013,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
-      "text" : "語源不明。俗には伐bhá aṭam「全ての神」からという。"
+      "text" : "Of uncertain origin. 俗には伐bhá aṭam「全ての神」からという。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4546,7 +4546,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 286,
         "form" : "seházúḷ"
@@ -4651,7 +4651,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "限界", "端" ]
+      "forms" : [ "limit", "edge" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4872,7 +4872,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "愚かである" ]
+      "forms" : [ "to be foolish", "to be stupid" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5090,12 +5090,12 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "類義語の使い分け",
+      "title" : "synonym(s)の使い分け",
       "text" : "aḍuhazoúḷは「見るために目とか顔とかを動かし、その結果として見て、見終わって顔などを戻す」みたいな一連の動作を指す。okákúḷはもっと語義が広く、意図性の有無に関わらず目から情報が入っている状態を指す。"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 54,
         "form" : "aḍuhazoúḷ"
@@ -5320,7 +5320,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 274,
         "form" : "danúḷ"
@@ -5394,7 +5394,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "類義語の使い分け",
+      "title" : "synonym(s)の使い分け",
       "text" : "「数字(数を表記するための文字)」ではなく「数(数字とかによって表される抽象概念)」を表す語である。数字を表すのはbhájabániである。"
     }, {
       "title" : "cognate(s)",
@@ -5402,7 +5402,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 251,
         "form" : "bhájabáni"
@@ -5422,12 +5422,12 @@
       "title" : "cognate(s)",
       "text" : "藍buia + 伐báni"
     }, {
-      "title" : "類義語の使い分け",
+      "title" : "synonym(s)の使い分け",
       "text" : "「数(数字とかによって表される抽象概念)」ではなく「数字(数を表記するための文字)」を表す語である。数を表すのはbághaである。"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 250,
         "form" : "bágha"
@@ -5593,7 +5593,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "魚醤", "ナンプラー" ]
+      "forms" : [ "fish sauce" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5992,12 +5992,12 @@
       "title" : "cognate(s)",
       "text" : "藍nyautu,理pzeniatz(←藍bwuzei nyautu)"
     }, {
-      "title" : "類義語の使い分け",
+      "title" : "synonym(s)の使い分け",
       "text" : "nautuは「単語」の意味であり、zephaはnautuや文法が集まってできる「言語」の意味である。bhátán zephaは「バート語」、bhátán nautuは「バート語の単語」である。"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 146,
         "form" : "zepha"
@@ -6038,7 +6038,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 246,
         "form" : "ácahúḷ"
@@ -6320,7 +6320,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 207,
         "form" : "dházúḷ"
@@ -6460,7 +6460,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "類義語の使い分け",
+      "title" : "synonym(s)の使い分け",
       "text" : "káには、third person feminine singular である可能性とk「物」のplural 形である可能性があるので、それを区別するための表現。"
     } ],
     "variations" : [ ],
@@ -6483,7 +6483,7 @@
         "form" : "-áná"
       }
     }, {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 294,
         "form" : "káom ká"
@@ -6500,12 +6500,12 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "類義語の使い分け",
+      "title" : "synonym(s)の使い分け",
       "text" : "káには、third person feminine singular である可能性とk「物」のplural 形である可能性があるので、それを区別するための表現。"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 293,
         "form" : "káná ká"
