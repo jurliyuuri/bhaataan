@@ -5,14 +5,14 @@
       "form" : "-dhí"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "一人称終止詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "first person realis" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 4,
         "form" : "-adhí"
@@ -24,14 +24,14 @@
       "form" : "-dína"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "一人称過去分詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "first person past participle" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 6,
         "form" : "-adína"
@@ -43,14 +43,14 @@
       "form" : "-díha"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "一人称未来分詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "first person future participle" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 5,
         "form" : "-adíha"
@@ -62,14 +62,14 @@
       "form" : "-adhí"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "一人称終止詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "first person realis" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 1,
         "form" : "-dhí"
@@ -81,14 +81,14 @@
       "form" : "-adíha"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "一人称未来分詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "first person future participle" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 3,
         "form" : "-díha"
@@ -100,14 +100,14 @@
       "form" : "-adína"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "一人称過去分詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "first person past participle" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 2,
         "form" : "-dína"
@@ -119,14 +119,14 @@
       "form" : "-mú"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "二人称終止詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "second person realis" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 10,
         "form" : "-amú"
@@ -138,14 +138,14 @@
       "form" : "-múná"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "二人称過去分詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "second person past participle" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 11,
         "form" : "-amúná"
@@ -157,14 +157,14 @@
       "form" : "-múha"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "二人称未来分詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "second person future participle" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 12,
         "form" : "-amúha"
@@ -176,14 +176,14 @@
       "form" : "-amú"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "二人称終止詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "second person realis" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 7,
         "form" : "-mú"
@@ -195,14 +195,14 @@
       "form" : "-amúná"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "二人称過去分詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "second person past participle" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 8,
         "form" : "-múná"
@@ -214,14 +214,14 @@
       "form" : "-amúha"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "二人称未来分詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "second person future participle" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 9,
         "form" : "-múha"
@@ -233,14 +233,14 @@
       "form" : "-ze"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "三人称女性終止詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "third person feminine realis" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 16,
         "form" : "-aze"
@@ -252,14 +252,14 @@
       "form" : "-zená"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "三人称女性過去分詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "third person feminine past participle" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 17,
         "form" : "-azená"
@@ -271,14 +271,14 @@
       "form" : "-zebá"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "三人称女性未来分詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "third person feminine future participle" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 18,
         "form" : "-azebá"
@@ -290,14 +290,14 @@
       "form" : "-aze"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "三人称女性終止詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "third person feminine realis" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 13,
         "form" : "-ze"
@@ -309,14 +309,14 @@
       "form" : "-azená"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "三人称女性過去分詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "third person feminine past participle" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 14,
         "form" : "-zená"
@@ -328,14 +328,14 @@
       "form" : "-azebá"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "三人称女性未来分詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "third person feminine future participle" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 15,
         "form" : "-zebá"
@@ -347,14 +347,14 @@
       "form" : "-bhá"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "三人称男性終止詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "third person masculine realis" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 22,
         "form" : "-abhá"
@@ -366,14 +366,14 @@
       "form" : "-báta"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "三人称男性過去分詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "third person masculine past participle" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 23,
         "form" : "-abáta"
@@ -385,14 +385,14 @@
       "form" : "-báṣlo"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "三人称男性未来分詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "third person masculine future participle" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 24,
         "form" : "-abáṣlo"
@@ -404,14 +404,14 @@
       "form" : "-abhá"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "三人称男性終止詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "third person masculine realis" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 19,
         "form" : "-bhá"
@@ -423,14 +423,14 @@
       "form" : "-abáta"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "三人称男性過去分詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "third person masculine past participle" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 20,
         "form" : "-báta"
@@ -442,14 +442,14 @@
       "form" : "-abáṣlo"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "三人称男性未来分詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "third person masculine future participle" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 21,
         "form" : "-báṣlo"
@@ -461,14 +461,14 @@
       "form" : "-ká"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "指示・固有終止詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "third person neuter realis" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 28,
         "form" : "-aká"
@@ -480,14 +480,14 @@
       "form" : "-kátá"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "指示・固有過去分詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "third person neuter past participle" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 29,
         "form" : "-akátá"
@@ -499,14 +499,14 @@
       "form" : "-káṣlo"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "指示・固有未来分詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "third person neuter future participle" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 30,
         "form" : "-akáṣlo"
@@ -518,14 +518,14 @@
       "form" : "-aká"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "指示・固有終止詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "third person neuter realis" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 25,
         "form" : "-ká"
@@ -537,14 +537,14 @@
       "form" : "-akátá"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "指示・固有過去分詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "third person neuter past participle" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 26,
         "form" : "-kátá"
@@ -556,14 +556,14 @@
       "form" : "-akáṣlo"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "指示・固有未来分詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "third person neuter future participle" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 27,
         "form" : "-káṣlo"
@@ -575,8 +575,8 @@
       "form" : "-úḷ"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "不定詞" ]
+      "title" : "verb suffix",
+      "forms" : [ "infinitive" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -594,14 +594,14 @@
       "form" : "-á"
     },
     "translations" : [ {
-      "title" : "子音幹接尾辞",
-      "forms" : [ "子音幹複数主格・無格" ]
+      "title" : "consonant stem suffix",
+      "forms" : [ "consonant stem plural 主格・無格" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 41,
         "form" : "-zá"
@@ -625,14 +625,14 @@
       "form" : "-ele"
     },
     "translations" : [ {
-      "title" : "子音幹接尾辞",
-      "forms" : [ "子音幹単数対格" ]
+      "title" : "consonant stem suffix",
+      "forms" : [ "consonant stem singular accusative" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 42,
         "form" : "-dhel"
@@ -650,14 +650,14 @@
       "form" : "-elená"
     },
     "translations" : [ {
-      "title" : "子音幹接尾辞",
-      "forms" : [ "子音幹複数対格" ]
+      "title" : "consonant stem suffix",
+      "forms" : [ "consonant stem plural accusative" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 43,
         "form" : "-dhelá"
@@ -675,26 +675,26 @@
       "form" : "-án"
     },
     "translations" : [ {
-      "title" : "子音幹接尾辞",
-      "forms" : [ "子音幹単数属格" ]
+      "title" : "consonant stem suffix",
+      "forms" : [ "consonant stem singular genitive" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌a,藍a,-na,-ni"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*anl"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 44,
         "form" : "-homá"
       }
     }, {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 46,
         "form" : "-om"
@@ -718,26 +718,26 @@
       "form" : "-áná"
     },
     "translations" : [ {
-      "title" : "子音幹接尾辞",
-      "forms" : [ "子音幹複数属格" ]
+      "title" : "consonant stem suffix",
+      "forms" : [ "consonant stem plural genitive" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌a,藍a,-na,-ni"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*anl"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 45,
         "form" : "-home"
       }
     }, {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 47,
         "form" : "-omá"
@@ -779,14 +779,14 @@
       "form" : "-ai"
     },
     "translations" : [ {
-      "title" : "子音幹接尾辞",
-      "forms" : [ "子音幹単数具格" ]
+      "title" : "consonant stem suffix",
+      "forms" : [ "consonant stem singular instrumental" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 48,
         "form" : "-bhau"
@@ -804,8 +804,8 @@
       "form" : "-ainá"
     },
     "translations" : [ {
-      "title" : "子音幹接尾辞",
-      "forms" : [ "子音幹複数具格" ]
+      "title" : "consonant stem suffix",
+      "forms" : [ "consonant stem plural instrumental" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -817,7 +817,7 @@
         "form" : "-ai"
       }
     }, {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 49,
         "form" : "-bhauná"
@@ -829,8 +829,8 @@
       "form" : "-i"
     },
     "translations" : [ {
-      "title" : "子音幹接尾辞",
-      "forms" : [ "子音幹単数後置格" ]
+      "title" : "consonant stem suffix",
+      "forms" : [ "consonant stem singular postpositional " ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -842,7 +842,7 @@
         "form" : "-iná"
       }
     }, {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 50,
         "form" : "-ḍi"
@@ -854,14 +854,14 @@
       "form" : "-iná"
     },
     "translations" : [ {
-      "title" : "子音幹接尾辞",
-      "forms" : [ "子音幹複数後置格" ]
+      "title" : "consonant stem suffix",
+      "forms" : [ "consonant stem plural postpositional " ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 51,
         "form" : "-dhíná"
@@ -885,14 +885,14 @@
       "form" : "-zá"
     },
     "translations" : [ {
-      "title" : "母音幹接尾辞",
-      "forms" : [ "母音幹複数主格・無格" ]
+      "title" : "vowel stem suffix",
+      "forms" : [ "vowel stem plural 主格・無格" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 32,
         "form" : "-á"
@@ -904,8 +904,8 @@
       "form" : "-dhel"
     },
     "translations" : [ {
-      "title" : "母音幹接尾辞",
-      "forms" : [ "母音幹単数対格" ]
+      "title" : "vowel stem suffix",
+      "forms" : [ "vowel stem singular accusative" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -917,7 +917,7 @@
         "form" : "-dhelá"
       }
     }, {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 33,
         "form" : "-ele"
@@ -929,8 +929,8 @@
       "form" : "-dhelá"
     },
     "translations" : [ {
-      "title" : "母音幹接尾辞",
-      "forms" : [ "母音幹複数対格" ]
+      "title" : "vowel stem suffix",
+      "forms" : [ "vowel stem plural accusative" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -942,7 +942,7 @@
         "form" : "-dhel"
       }
     }, {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 34,
         "form" : "-elená"
@@ -954,8 +954,8 @@
       "form" : "-homá"
     },
     "translations" : [ {
-      "title" : "母音幹接尾辞",
-      "forms" : [ "母音幹単数属格" ]
+      "title" : "vowel stem suffix",
+      "forms" : [ "vowel stem singular genitive" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -967,13 +967,13 @@
         "form" : "-home"
       }
     }, {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 46,
         "form" : "-om"
       }
     }, {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 35,
         "form" : "-án"
@@ -1015,20 +1015,20 @@
       "form" : "-home"
     },
     "translations" : [ {
-      "title" : "母音幹接尾辞",
-      "forms" : [ "母音幹複数属格" ]
+      "title" : "vowel stem suffix",
+      "forms" : [ "vowel stem plural genitive" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 47,
         "form" : "-omá"
       }
     }, {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 36,
         "form" : "-áná"
@@ -1052,8 +1052,8 @@
       "form" : "-om"
     },
     "translations" : [ {
-      "title" : "母音幹接尾辞",
-      "forms" : [ "母音幹単数属格" ]
+      "title" : "vowel stem suffix",
+      "forms" : [ "vowel stem singular genitive" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1065,13 +1065,13 @@
         "form" : "-home"
       }
     }, {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 44,
         "form" : "-homá"
       }
     }, {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 35,
         "form" : "-án"
@@ -1089,14 +1089,14 @@
       "form" : "-omá"
     },
     "translations" : [ {
-      "title" : "母音幹接尾辞",
-      "forms" : [ "母音幹複数属格" ]
+      "title" : "vowel stem suffix",
+      "forms" : [ "vowel stem plural genitive" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 45,
         "form" : "-home"
@@ -1108,7 +1108,7 @@
         "form" : "-homá"
       }
     }, {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 36,
         "form" : "-áná"
@@ -1120,14 +1120,14 @@
       "form" : "-bhau"
     },
     "translations" : [ {
-      "title" : "母音幹接尾辞",
-      "forms" : [ "母音幹単数具格" ]
+      "title" : "vowel stem suffix",
+      "forms" : [ "vowel stem singular instrumental" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 37,
         "form" : "-ai"
@@ -1145,14 +1145,14 @@
       "form" : "-bhauná"
     },
     "translations" : [ {
-      "title" : "母音幹接尾辞",
-      "forms" : [ "母音幹複数具格" ]
+      "title" : "vowel stem suffix",
+      "forms" : [ "vowel stem plural instrumental" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 38,
         "form" : "-ainá"
@@ -1170,8 +1170,8 @@
       "form" : "-ḍi"
     },
     "translations" : [ {
-      "title" : "母音幹接尾辞",
-      "forms" : [ "母音幹単数後置格" ]
+      "title" : "vowel stem suffix",
+      "forms" : [ "vowel stem singular postpositional " ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1183,7 +1183,7 @@
         "form" : "-dhíná"
       }
     }, {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 39,
         "form" : "-i"
@@ -1195,14 +1195,14 @@
       "form" : "-dhíná"
     },
     "translations" : [ {
-      "title" : "母音幹接尾辞",
-      "forms" : [ "母音幹複数後置格" ]
+      "title" : "vowel stem suffix",
+      "forms" : [ "vowel stem plural postpositional " ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 40,
         "form" : "-iná"
@@ -1226,15 +1226,15 @@
       "form" : "accúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
-      "forms" : [ "〜(対格)を書く" ]
+      "title" : "dynamic verb",
+      "forms" : [ "to write [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍acii"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*acii"
     } ],
     "variations" : [ ],
@@ -1251,15 +1251,15 @@
       "form" : "adha"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "目" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "eye" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌ta1,藍ata"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*qtaa"
     } ],
     "variations" : [ ],
@@ -1270,12 +1270,12 @@
       "form" : "aḍuhazoúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
-      "forms" : [ "〜(対格)を見る", "〜(対格)を観測する" ]
+      "title" : "dynamic verb",
+      "forms" : [ "to see [accusative]", "to watch [accusative]", "to observe [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*atqzau<*qtaa-zau"
     } ],
     "variations" : [ ],
@@ -1292,15 +1292,15 @@
       "form" : "aghauṭa"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "本、図書" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "book" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌ak1,藍akata"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*akq"
     } ],
     "variations" : [ ],
@@ -1311,15 +1311,15 @@
       "form" : "ákíjam"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
-      "forms" : [ "東", "太陽", "日" ]
+      "title" : "consonant stem noun",
+      "forms" : [ "east", "sun" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌kia1,藍akia"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*'kiqa"
     } ],
     "variations" : [ ],
@@ -1330,15 +1330,15 @@
       "form" : "ákúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
-      "forms" : [ "〜(対格)を読む" ]
+      "title" : "dynamic verb",
+      "forms" : [ "to read [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌ak1,藍akata"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*akq"
     } ],
     "variations" : [ ],
@@ -1349,15 +1349,15 @@
       "form" : "ám"
     },
     "translations" : [ {
-      "title" : "副詞",
-      "forms" : [ "否定副詞", "〜でない" ]
+      "title" : "adverb",
+      "forms" : [ "否定adverb", "〜でない" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌mun1,藍amunu"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*'munq"
     } ],
     "variations" : [ ],
@@ -1368,8 +1368,8 @@
       "form" : "áma"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "二人称単数" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "second person singular " ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1381,19 +1381,19 @@
       "form" : "amáma"
     },
     "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "大きい", "偉大な" ]
+      "title" : "adjective",
+      "forms" : [ "large", "significant", "great", "grand", "magnificent" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌ma1,藍amama"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*qmamq"
     }, {
-      "title" : "用法",
-      "text" : "直後に名詞を要求する。"
+      "title" : "usage",
+      "text" : "must be followed by a noun"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1403,15 +1403,15 @@
       "form" : "amila"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "魚" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "fish" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌mui1,藍amui"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*qmuile'"
     } ],
     "variations" : [ ],
@@ -1434,8 +1434,8 @@
       "form" : "ápa"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "一人称単数" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "first person singular " ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1447,15 +1447,15 @@
       "form" : "aṭam"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
+      "title" : "consonant stem noun",
       "forms" : [ "神", "皇帝" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌tam2,藍atamu"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*'tqram"
     } ],
     "variations" : [ ],
@@ -1466,12 +1466,12 @@
       "form" : "aṭaza"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "主義", "思想", "イデオロギー" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "主義", "思想", "ideology" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*atqzau<*qtaa-zau"
     } ],
     "variations" : [ ],
@@ -1482,20 +1482,20 @@
       "form" : "banáman"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
-      "forms" : [ "親", "両親" ]
+      "title" : "consonant stem noun",
+      "forms" : [ "parent" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌mam1,藍manana"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*manmanq"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 117,
         "form" : "manáman"
@@ -1507,15 +1507,15 @@
       "form" : "báni"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "文字" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌man1,藍mani"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*many"
     } ],
     "variations" : [ ],
@@ -1526,15 +1526,15 @@
       "form" : "baukká"
     },
     "translations" : [ {
-      "title" : "副詞",
+      "title" : "adverb",
       "forms" : [ "だんだん", "ゆくゆく" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "皇mor-mor"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*momorq"
     } ],
     "variations" : [ ],
@@ -1545,8 +1545,8 @@
       "form" : "bhá"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "私たち(除外)" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "we (exclusive)" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1558,10 +1558,10 @@
       "form" : "bháma"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "私たち(包括)" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "we (inclusive)" ]
     } ],
-    "tags" : [ "必ず単数曲用" ],
+    "tags" : [ "必ずsingular declension" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1571,15 +1571,15 @@
       "form" : "bhán"
     },
     "translations" : [ {
-      "title" : "後置詞",
+      "title" : "postposition",
       "forms" : [ "～を通って", "～と共に" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍pouje"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*phaen"
     } ],
     "variations" : [ ],
@@ -1590,15 +1590,15 @@
       "form" : "bhára"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "風" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "wind" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌pua2,藍pura"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*pura"
     } ],
     "variations" : [ ],
@@ -1609,15 +1609,15 @@
       "form" : "bháro"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "感染症", "風邪" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "disease", "sickness", "infection" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌pua2,藍pura"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*pura"
     } ],
     "variations" : [ ],
@@ -1628,18 +1628,18 @@
       "form" : "bhárúḷ"
     },
     "translations" : [ {
-      "title" : "瞬間動詞",
+      "title" : "instantaneous verb",
       "forms" : [ "風が吹く", "感染症にかかる", "風邪になる", "病気になる", "カビが生える" ]
     }, {
-      "title" : "状態動詞",
+      "title" : "stative verb",
       "forms" : [ "風が吹いている", "感染症にかかっている", "風邪である", "病気である", "カビが生えている" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌pua2,藍pura"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*pura"
     } ],
     "variations" : [ ],
@@ -1650,15 +1650,15 @@
       "form" : "bhát"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
+      "title" : "consonant stem noun",
       "forms" : [ "バート人", "バート語" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌huet,藍phedu"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*phed"
     } ],
     "variations" : [ ],
@@ -1669,21 +1669,21 @@
       "form" : "bhátúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
-      "forms" : [ "〜(ghi)に対して〜(対格)を話す・喋る" ]
+      "title" : "dynamic verb",
+      "forms" : [ "〜(ghi)に対して〜(accusative)を話す・喋る" ]
     }, {
-      "title" : "状態動詞",
-      "forms" : [ "〜(対格)という言語を話す能力がある" ]
+      "title" : "stative verb",
+      "forms" : [ "to have the ability to speak [accusative]" ]
     }, {
-      "title" : "状態動詞",
+      "title" : "stative verb",
       "forms" : [ "喋っている", "声を出している" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌huet,藍phedu"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*phed"
     } ],
     "variations" : [ ],
@@ -1694,15 +1694,15 @@
       "form" : "bhoma"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "手" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "hand" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌hop1,藍phobo"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*phoobo"
     } ],
     "variations" : [ ],
@@ -1713,18 +1713,18 @@
       "form" : "bhomúḷ"
     },
     "translations" : [ {
-      "title" : "瞬間動詞",
-      "forms" : [ "〜(対格)を取る", "〜(対格)を持つ" ]
+      "title" : "instantaneous verb",
+      "forms" : [ "to take [accusative]", "to hold [accusative]" ]
     }, {
-      "title" : "状態動詞",
-      "forms" : [ "〜(対格)を持っている" ]
+      "title" : "stative verb",
+      "forms" : [ "to have [accusative]", "to possess [accusative]", "to be holding [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌hop1,藍phobo"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*phoobo"
     } ],
     "variations" : [ ],
@@ -1735,18 +1735,18 @@
       "form" : "bohúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
-      "forms" : [ "行く" ]
+      "title" : "dynamic verb",
+      "forms" : [ "to go" ]
     }, {
-      "title" : "瞬間動詞",
-      "forms" : [ "〜(oṣa)を去る" ]
+      "title" : "instantaneous verb",
+      "forms" : [ "to leave [oṣa]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌mok1,藍moho"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*morq"
     } ],
     "variations" : [ ],
@@ -1757,12 +1757,12 @@
       "form" : "cájau"
     },
     "translations" : [ {
-      "title" : "後置詞",
+      "title" : "postposition",
       "forms" : [ "～と共に" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*ca'yau"
     } ],
     "variations" : [ ],
@@ -1773,15 +1773,15 @@
       "form" : "cákíkaúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
-      "forms" : [ "〜(対格)を訪れさせる", "〜(対格)を到来させる", "〜(対格)をもたらす" ]
+      "title" : "dynamic verb",
+      "forms" : [ "〜(accusative)を訪れさせる", "〜(accusative)を到来させる", "〜(accusative)をもたらす" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌sak2,藍sakika"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*srakkq"
     } ],
     "variations" : [ ],
@@ -1804,18 +1804,18 @@
       "form" : "cákíkúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
-      "forms" : [ "〜(oṣa)から来る", "〜(hína)を訪れる", "〜(hína)を来訪する" ]
+      "title" : "dynamic verb",
+      "forms" : [ "to come from [oṣa]", "to visit [hína]" ]
     }, {
-      "title" : "状態動詞",
+      "title" : "stative verb",
       "forms" : [ "〜(oṣa)が出身地である" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌sak2,藍sakika"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*srakkq"
     } ],
     "variations" : [ ],
@@ -1838,12 +1838,12 @@
       "form" : "cepatepa"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "会話", "話" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "conversation", "talk" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*zeepq-zeepq"
     } ],
     "variations" : [ ],
@@ -1854,12 +1854,12 @@
       "form" : "ḍáz"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
+      "title" : "consonant stem noun",
       "forms" : [ "店", "商店" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍doche"
     } ],
     "variations" : [ ],
@@ -1876,15 +1876,15 @@
       "form" : "dhárad"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
-      "forms" : [ "連合", "連邦", "党" ]
+      "title" : "consonant stem noun",
+      "forms" : [ "連合", "連邦", "(political) party" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌dat2,藍dado"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*dradq"
     } ],
     "variations" : [ ],
@@ -1895,15 +1895,15 @@
       "form" : "dhoḷop"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
-      "forms" : [ "島" ]
+      "title" : "consonant stem noun",
+      "forms" : [ "island" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌dop1,藍dop'iai"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*dkoop"
     } ],
     "variations" : [ ],
@@ -1919,13 +1919,13 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
-      "text" : "動詞に後続して、文の内容が伝聞である事を表す。「まるで〜のようだ」の意味では用いることができない。\n\n"
+      "title" : "usage",
+      "text" : "verb に後続して、文の内容が伝聞である事を表す。「まるで〜のようだ」の意味では用いることができない。\n\n"
     }, {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌aik2,藍aika"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*raikqt"
     } ],
     "variations" : [ ],
@@ -1936,22 +1936,22 @@
       "form" : "ema"
     },
     "translations" : [ {
-      "title" : "後置詞",
+      "title" : "postposition",
       "forms" : [ "（稀）～のような", "～ように" ]
     }, {
-      "title" : "後置詞",
-      "forms" : [ "（不定詞またはkoḍiを受けて）〜を", "〜について", "(文末で用いて)～なんて" ]
+      "title" : "postposition",
+      "forms" : [ "（infinitiveまたはkoḍiを受けて）〜を", "〜について", "(文末で用いて)～なんて" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌em,藍aimu"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*aaim"
     }, {
-      "title" : "用法",
-      "text" : "不定詞またはkoḍiが直前に来て、「〜を思う」など主に思考にまつわる動詞の意味上の対格を表すのが普通である。"
+      "title" : "usage",
+      "text" : "infinitiveまたはkoḍiが直前に来て、「〜を思う」など主に思考にまつわるverb の意味上のaccusativeを表すのが普通である。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1961,15 +1961,15 @@
       "form" : "epa"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "土地", "領土", "領域", "場所", "ところ", "処", "所" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌huep2,藍hep'iai"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*fuepq"
     } ],
     "variations" : [ ],
@@ -1992,15 +1992,15 @@
       "form" : "ghátu"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "子供" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "child" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌kat1,藍katu"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*kaatuu"
     } ],
     "variations" : [ ],
@@ -2011,15 +2011,15 @@
       "form" : "ghi"
     },
     "translations" : [ {
-      "title" : "後置詞",
+      "title" : "postposition",
       "forms" : [ "～へ", "～に" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍ki"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*khi"
     } ],
     "variations" : [ ],
@@ -2030,15 +2030,15 @@
       "form" : "ha"
     },
     "translations" : [ {
-      "title" : "副詞",
-      "forms" : [ "～しよう", "～しましょう" ]
+      "title" : "adverb",
+      "forms" : [ "(let's)", "(why don't we)" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌hia1, 藍hiya"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*riya"
     } ],
     "variations" : [ ],
@@ -2049,20 +2049,20 @@
       "form" : "há"
     },
     "translations" : [ {
-      "title" : "間投詞",
+      "title" : "interjection",
       "forms" : [ "あー！えー", "それでは", "じゃあ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌a, 藍a"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*raa"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 149,
         "form" : "á"
@@ -2074,18 +2074,18 @@
       "form" : "hem"
     },
     "translations" : [ {
-      "title" : "無変化動詞",
-      "forms" : [ "完了の無変化動詞", "ある", "～は～である" ]
+      "title" : "non-conjugating verb",
+      "forms" : [ "完了のnon-conjugating verb", "ある", "～は～である" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
-      "text" : "主格 主格 hemと使うとコピュラ（〜である）としてふるまい、未来分詞・過去分詞に後置することで完了表現を作る。コピュラ自身の命令形・過去分詞などを作るためには、同義語の通常動詞bhápúḷを用いる。"
+      "title" : "usage",
+      "text" : "主格 主格 hemと使うとコピュラ（〜である）としてふるまい、future participle・past participleに後置することで完了表現を作る。コピュラ自身の命令形・past participleなどを作るためには、同義語の通常verb bhápúḷを用いる。"
     }, {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌aim2,藍aima"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*aimq"
     } ],
     "variations" : [ ],
@@ -2102,18 +2102,18 @@
       "form" : "hemúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
-      "forms" : [ "ある", "存在する" ]
+      "title" : "stative verb",
+      "forms" : [ "to exist", "to be" ]
     }, {
-      "title" : "状態動詞",
-      "forms" : [ "〜(不定詞)している最中だ" ]
+      "title" : "stative verb",
+      "forms" : [ "〜(infinitive)している最中だ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌aim2,藍aima"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*aimq"
     } ],
     "variations" : [ ],
@@ -2124,18 +2124,18 @@
       "form" : "heyáúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
+      "title" : "dynamic verb",
       "forms" : [ "〜(ema)を思う・〜(ema)について考える" ]
     }, {
-      "title" : "動詞",
-      "forms" : [ "(動詞不定詞+heyákáṣloで)～だろうか" ]
+      "title" : "verb ",
+      "forms" : [ "(verb infinitive+heyákáṣloで)～だろうか" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌hia1, 藍hiya"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*riya"
     } ],
     "variations" : [ ],
@@ -2152,15 +2152,15 @@
       "form" : "hína"
     },
     "translations" : [ {
-      "title" : "後置詞",
+      "title" : "postposition",
       "forms" : [ "～に", "～で" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌ie,藍ia"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*i'q"
     } ],
     "variations" : [ ],
@@ -2183,15 +2183,15 @@
       "form" : "horabát"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
-      "forms" : [ "文化", "風俗" ]
+      "title" : "consonant stem noun",
+      "forms" : [ "culture", "風俗" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌huo2,藍huroo"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*furoo"
     } ],
     "variations" : [ ],
@@ -2202,15 +2202,15 @@
       "form" : "horúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
-      "forms" : [ "〜(対格)を書く", "〜(対格)を記録する" ]
+      "title" : "dynamic verb",
+      "forms" : [ "〜(accusative)を書く", "〜(accusative)を記録する" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌huo2,藍huroo"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*furoo"
     } ],
     "variations" : [ ],
@@ -2227,15 +2227,15 @@
       "form" : "jo"
     },
     "translations" : [ {
-      "title" : "名詞接続詞",
+      "title" : "noun接続詞",
       "forms" : [ "または", "もしくは" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌y, 藍yujo"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*yujo"
     } ],
     "variations" : [ ],
@@ -2246,12 +2246,12 @@
       "form" : "juecleone"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "ユエスレオネ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "理語yuesleoneからの借用"
     } ],
     "variations" : [ ],
@@ -2262,8 +2262,8 @@
       "form" : "ká"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "三人称女性単数" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "third person feminine singular " ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2281,18 +2281,18 @@
       "form" : "kádúḷ"
     },
     "translations" : [ {
-      "title" : "瞬間動詞",
-      "forms" : [ "光る", "目立つ", "〜(対格)が分かる" ]
+      "title" : "instantaneous verb",
+      "forms" : [ "光る", "目立つ", "〜(accusative)が分かる" ]
     }, {
-      "title" : "状態動詞",
-      "forms" : [ "光っている", "目立っている", "〜(対格)を分かっている" ]
+      "title" : "stative verb",
+      "forms" : [ "光っている", "目立っている", "〜(accusative)を分かっている" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌aik2,藍aika"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*raikqt"
     } ],
     "variations" : [ ],
@@ -2309,15 +2309,15 @@
       "form" : "kád"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
-      "forms" : [ "光" ]
+      "title" : "consonant stem noun",
+      "forms" : [ "light" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌aik2,藍aika"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*raikqt"
     } ],
     "variations" : [ ],
@@ -2328,18 +2328,18 @@
       "form" : "káṇa"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "時間", "時" ]
     }, {
-      "title" : "母音幹名詞",
-      "forms" : [ "（数詞属格で修飾しhínaを付け）〜回" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "（数詞genitiveで修飾しhínaを付け）〜回" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌kak,藍kaga"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*ka^nga"
     } ],
     "variations" : [ ],
@@ -2362,12 +2362,12 @@
       "form" : "káṇám"
     },
     "translations" : [ {
-      "title" : "副詞",
-      "forms" : [ "永遠に", "永久に" ]
+      "title" : "adverb",
+      "forms" : [ "eternally", "forever" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*ka^nga+*'munq"
     } ],
     "variations" : [ ],
@@ -2378,12 +2378,12 @@
       "form" : "káṇám"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
+      "title" : "consonant stem noun",
       "forms" : [ "永遠", "永久" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*ka^nga+*'munq"
     } ],
     "variations" : [ ],
@@ -2394,10 +2394,10 @@
       "form" : "kaṣlo"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "三人称女性複数" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "third person feminine plural " ]
     } ],
-    "tags" : [ "必ず単数曲用" ],
+    "tags" : [ "必ずsingular declension" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2407,15 +2407,15 @@
       "form" : "khak"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
-      "forms" : [ "父" ]
+      "title" : "consonant stem noun",
+      "forms" : [ "father" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌kuak1,藍kuaka"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*khaka"
     } ],
     "variations" : [ ],
@@ -2426,22 +2426,22 @@
       "form" : "kí"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "三人称男性単数" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "third person masculine singular " ]
     }, {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "あれ" ]
     }, {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "男" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
-      "text" : "「彼ら」はkiṣloという語があるが、「あれら」「男たち」は規則複数でkízáである。"
+      "title" : "usage",
+      "text" : "「彼ら」はkiṣloという語があるが、「あれら」「男たち」は規則plural でkízáである。"
     }, {
-      "title" : "同根語",
-      "text" : "（三人称男性単数・あれ）藍kisi、皇ki\n（男）牌ki1、藍uki、藍ki"
+      "title" : "cognate(s)",
+      "text" : "（third person masculine singular ・あれ）藍kisi、皇ki\n（男）牌ki1、藍uki、藍ki"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -2463,10 +2463,10 @@
       "form" : "kiṣlo"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "三人称男性複数" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "third person masculine plural " ]
     } ],
-    "tags" : [ "必ず単数曲用" ],
+    "tags" : [ "必ずsingular declension" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -2482,15 +2482,15 @@
       "form" : "ko"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "これ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌ka1"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*kaa"
     } ],
     "variations" : [ ],
@@ -2513,15 +2513,15 @@
       "form" : "koli"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "疲れ" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "tiredness" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "皇kolilu, 藍koli"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*koli"
     } ],
     "variations" : [ ],
@@ -2532,22 +2532,22 @@
       "form" : "lási"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "一", "1" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "one", "1" ]
     }, {
-      "title" : "母音幹名詞",
-      "forms" : [ "一人の人" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "one person" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌et2,藍asi"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*las"
     }, {
       "title" : "類義語の使い分け",
-      "text" : "一人の人を指す場合、ásúkaよりもlásiの方が好まれる。とはいえ、英語のoneなどと異なり、*lásizáで複数人の人物を表すことはできない。"
+      "text" : "一人の人を指す場合、ásúkaよりもlásiの方が好まれる。とはいえ、英語のoneなどと異なり、*lásizáでplural 人の人物を表すことはできない。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2557,15 +2557,15 @@
       "form" : "legha"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "絵" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌lek1,藍leka"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*lerq"
     } ],
     "variations" : [ ],
@@ -2576,15 +2576,15 @@
       "form" : "leghúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
+      "title" : "dynamic verb",
       "forms" : [ "絵を描く" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌lek1,藍leka"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*lerq"
     } ],
     "variations" : [ ],
@@ -2595,10 +2595,10 @@
       "form" : "mábha"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "二人称複数" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "second person plural " ]
     } ],
-    "tags" : [ "必ず単数曲用" ],
+    "tags" : [ "必ずsingular declension" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2608,20 +2608,20 @@
       "form" : "manáman"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
-      "forms" : [ "親", "両親" ]
+      "title" : "consonant stem noun",
+      "forms" : [ "parent" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌maam,藍manana"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*manmanq"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 65,
         "form" : "banáman"
@@ -2633,15 +2633,15 @@
       "form" : "nána"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "何", "どれ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌nan2,藍nanu"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*naanu"
     } ],
     "variations" : [ ],
@@ -2652,15 +2652,15 @@
       "form" : "nána"
     },
     "translations" : [ {
-      "title" : "関係代名詞",
-      "forms" : [ "関係代名詞" ]
+      "title" : "relative pronoun",
+      "forms" : [ "relative pronoun" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌nan2,藍nanu"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*naanu"
     } ],
     "variations" : [ ],
@@ -2671,15 +2671,15 @@
       "form" : "nímaṣ"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
+      "title" : "consonant stem noun",
       "forms" : [ "民族", "部族" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌nim2,藍nimutu"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*nimslu"
     } ],
     "variations" : [ ],
@@ -2696,15 +2696,15 @@
       "form" : "nínaccú"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "貝葉" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌nin1,藍ninu"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*ninq+*acii"
     } ],
     "variations" : [ ],
@@ -2715,15 +2715,15 @@
       "form" : "nutta"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "液体", "水" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "liquid", "water" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌nua2,藍nua"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*nu'a'"
     } ],
     "variations" : [ ],
@@ -2746,12 +2746,12 @@
       "form" : "pedia"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "フェディア" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "理語fedi'aからの借用"
     } ],
     "variations" : [ ],
@@ -2762,15 +2762,15 @@
       "form" : "rakkúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
-      "forms" : [ "生きている", "生存している" ]
+      "title" : "stative verb",
+      "forms" : [ "to be alive", "to live", "to survive" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌sak2,藍sakika"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*srakkq"
     } ],
     "variations" : [ ],
@@ -2781,15 +2781,15 @@
       "form" : "ríka"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "2, 二" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "2", "two" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌ik2,藍iku"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*rik"
     } ],
     "variations" : [ ],
@@ -2800,15 +2800,15 @@
       "form" : "sá"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "女性", "女" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌sa1, 藍sa, 藍usa"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*sa"
     } ],
     "variations" : [ ],
@@ -2819,15 +2819,15 @@
       "form" : "ṣabhahu"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "オパール", "蛋白石" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍capaiu"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*saphaku"
     } ],
     "variations" : [ ],
@@ -2838,15 +2838,15 @@
       "form" : "sáka"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "道", "道路", "歩道" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "road", "歩道" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌sak2,藍sakika"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*srakkq"
     } ],
     "variations" : [ ],
@@ -2863,15 +2863,15 @@
       "form" : "sakká"
     },
     "translations" : [ {
-      "title" : "間投詞",
+      "title" : "interjection",
       "forms" : [ "万歳" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌sak2,藍sakika"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*srakkq"
     } ],
     "variations" : [ ],
@@ -2882,15 +2882,15 @@
       "form" : "síbha"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "出身", "故郷", "(我が)国" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌sip1,藍sip'ui"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*sipql"
     } ],
     "variations" : [ ],
@@ -2907,15 +2907,15 @@
       "form" : "ṣibhai"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "国", "国家" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌sip1,藍sip'ui"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*sipql"
     } ],
     "variations" : [ ],
@@ -2932,18 +2932,18 @@
       "form" : "ṣíkahúḷ"
     },
     "translations" : [ {
-      "title" : "瞬間動詞",
-      "forms" : [ "座る" ]
+      "title" : "instantaneous verb",
+      "forms" : [ "to sit" ]
     }, {
-      "title" : "状態動詞",
-      "forms" : [ "座っている" ]
+      "title" : "stative verb",
+      "forms" : [ "to be sitting" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌cy2, 藍cikau, 皇cik-u"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*slikau"
     } ],
     "variations" : [ ],
@@ -2955,14 +2955,14 @@
     },
     "translations" : [ {
       "title" : "文接続詞",
-      "forms" : [ "しかし" ]
+      "forms" : [ "however" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍cunya"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*cu^nla"
     } ],
     "variations" : [ ],
@@ -2973,15 +2973,15 @@
       "form" : "ṣoma"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "土手", "堤" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌xom1, 藍shomu, 皇com-u"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*sljoomq"
     } ],
     "variations" : [ ],
@@ -2992,15 +2992,15 @@
       "form" : "ṣomatáku"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "共産", "集産" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌xom1, 藍shomu, 皇com-u"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*sljoomq+*taku"
     } ],
     "variations" : [ ],
@@ -3011,15 +3011,15 @@
       "form" : "ṣomaúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
-      "forms" : [ "〜(具格)に対して敬礼する" ]
+      "title" : "dynamic verb",
+      "forms" : [ "〜(instrumental)に対して敬礼する" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌xom1, 藍shomu, 皇com-u"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*sljoomq"
     } ],
     "variations" : [ ],
@@ -3030,15 +3030,15 @@
       "form" : "ṣomúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
-      "forms" : [ "〜(対格)を積む", "〜(対格)を積み上げる", "功績を上げる", "結果を出す" ]
+      "title" : "dynamic verb",
+      "forms" : [ "〜(accusative)を積む", "〜(accusative)を積み上げる", "功績を上げる", "結果を出す" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌xom1, 藍shomu, 皇com-u"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*sljoomq"
     } ],
     "variations" : [ ],
@@ -3049,15 +3049,15 @@
       "form" : "su"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "金銭" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "money", "cash" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌su1,藍su"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*suu"
     } ],
     "variations" : [ ],
@@ -3074,15 +3074,15 @@
       "form" : "sujúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
-      "forms" : [ "〜(hína)のために〜(対格)を使う・利用する" ]
+      "title" : "dynamic verb",
+      "forms" : [ "〜(hína)のために〜(accusative)を使う・利用する" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌sui1, 藍sui"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*sui"
     } ],
     "variations" : [ ],
@@ -3093,15 +3093,15 @@
       "form" : "suúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
+      "title" : "stative verb",
       "forms" : [ "商っている", "商売をしている", "商人である" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌su1,藍su"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*suu"
     } ],
     "variations" : [ ],
@@ -3118,12 +3118,12 @@
       "form" : "taku"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "流れ", "繋がり" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌tak1,藍taku;比較的最近の借用語"
     } ],
     "variations" : [ ],
@@ -3140,15 +3140,15 @@
       "form" : "úro"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "墨" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌huo2,藍huroo"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*furoo"
     } ],
     "variations" : [ ],
@@ -3159,15 +3159,15 @@
       "form" : "woghit"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
-      "forms" : [ "兄弟", "姉妹", "同胞" ]
+      "title" : "consonant stem noun",
+      "forms" : [ "brother", "sister", "sibling", "同胞" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌huok1,藍foku"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*fokjut"
     } ],
     "variations" : [ ],
@@ -3178,12 +3178,12 @@
       "form" : "xeju"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "シェユ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "理語xejuからの借用"
     } ],
     "variations" : [ ],
@@ -3194,15 +3194,15 @@
       "form" : "zekáta"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "腰巻", "ルンギー" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍cee"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*zee"
     } ],
     "variations" : [ ],
@@ -3225,15 +3225,15 @@
       "form" : "zepha"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "言語" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "language" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌zep1,藍chepo"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*zeepq"
     }, {
       "title" : "類義語の使い分け",
@@ -3253,15 +3253,15 @@
       "form" : "zeúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
-      "forms" : [ "〜(対格)を巻く", "〜(対格)を回す" ]
+      "title" : "dynamic verb",
+      "forms" : [ "〜(accusative)を巻く", "〜(accusative)を回す" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍cee"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*zee"
     } ],
     "variations" : [ ],
@@ -3278,15 +3278,15 @@
       "form" : "zúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
-      "forms" : [ "〜(対格)をする・行なう・行う" ]
+      "title" : "dynamic verb",
+      "forms" : [ "〜(accusative)をする・行なう・行う" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌zau,藍chauchu"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*zau"
     } ],
     "variations" : [ ],
@@ -3297,20 +3297,20 @@
       "form" : "á"
     },
     "translations" : [ {
-      "title" : "間投詞",
+      "title" : "interjection",
       "forms" : [ "あー！", "えー", "それでは", "じゃあ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌a, 藍a"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*raa"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 92,
         "form" : "há"
@@ -3322,18 +3322,18 @@
       "form" : "bhápúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
-      "forms" : [ "〜(hína)である" ]
+      "title" : "stative verb",
+      "forms" : [ "to be [hína]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "類義語の使い分け",
-      "text" : "無変化動詞hemの補充形として、「AはBになっているだろう」「BであったA」というような表現を表す際に使われる。hemで表せる状況でわざわざbhápúḷを使うと、少し堅苦しくなる。"
+      "text" : "Used as the suppletive form for the non-conjugating verb \"hem\"「AはBになっているだろう」「BであったA」というような表現を表す際に. hemで表せる状況でわざわざbhápúḷを使うと、少し堅苦しくなる。"
     }, {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌bap,藍baibae"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*baep"
     } ],
     "variations" : [ ],
@@ -3350,15 +3350,15 @@
       "form" : "oṣa"
     },
     "translations" : [ {
-      "title" : "後置詞",
+      "title" : "postposition",
       "forms" : [ "〜から" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "皇oca\n"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*wosle"
     } ],
     "variations" : [ ],
@@ -3369,18 +3369,18 @@
       "form" : "cajúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
-      "forms" : [ "〜(hína)に似ている・まるで〜(hína)のようである" ]
+      "title" : "stative verb",
+      "forms" : [ "to be like [hína]", "to be as if (it) were [hína]" ]
     }, {
-      "title" : "状態動詞",
-      "forms" : [ "〜(具格)の近くである・〜(具格)に空間的に近い" ]
+      "title" : "stative verb",
+      "forms" : [ "to be (spatially) close to [instrumental]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌cei2,藍ceixei"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*crqi"
     } ],
     "variations" : [ ],
@@ -3391,13 +3391,13 @@
       "form" : "kom"
     },
     "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "この" ]
+      "title" : "adjective",
+      "forms" : [ "this (as in \"this book\")" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
-      "text" : "koに属格語尾-omがついたものが1語化したもの。直後に名詞を要求する。"
+      "title" : "usage",
+      "text" : "From ko + (genitive suffix)-om. Must be followed by a noun."
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3407,12 +3407,12 @@
       "form" : "huṭeúḷ"
     },
     "translations" : [ {
-      "title" : "瞬間動詞",
-      "forms" : [ "〜(動詞不定詞)が始まる" ]
+      "title" : "instantaneous verb",
+      "forms" : [ "〜(verb infinitive)が始まる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌hut2,藍h^ut^ee"
     } ],
     "variations" : [ ],
@@ -3423,15 +3423,15 @@
       "form" : "cánajúḷ"
     },
     "translations" : [ {
-      "title" : "瞬間動詞",
-      "forms" : [ "〜(対格)に気づく", "〜(対格)を知る" ]
+      "title" : "instantaneous verb",
+      "forms" : [ "〜(accusative)に気づく", "〜(accusative)を知る" ]
     }, {
-      "title" : "状態動詞",
-      "forms" : [ "〜(対格)に気づいている", "〜(対格)を知っている" ]
+      "title" : "stative verb",
+      "forms" : [ "〜(accusative)に気づいている", "〜(accusative)を知っている" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌can2,藍canai"
     } ],
     "variations" : [ ],
@@ -3442,12 +3442,12 @@
       "form" : "dí"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "それ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍tisi"
     } ],
     "variations" : [ ],
@@ -3464,20 +3464,20 @@
       "form" : "-waim"
     },
     "translations" : [ {
-      "title" : "母音幹接尾辞",
+      "title" : "vowel stem suffix",
       "forms" : [ "人名を作る" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "伐ema,牌em,藍aimu"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*aaim"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 158,
         "form" : "-aim"
@@ -3489,20 +3489,20 @@
       "form" : "-aim"
     },
     "translations" : [ {
-      "title" : "子音幹接尾辞",
+      "title" : "consonant stem suffix",
       "forms" : [ "人名を作る" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "伐ema,牌em,藍aimu"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*aaim"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 157,
         "form" : "-waim"
@@ -3514,32 +3514,32 @@
       "form" : "-m"
     },
     "translations" : [ {
-      "title" : "母音幹接尾辞",
+      "title" : "vowel stem suffix",
       "forms" : [ "人名を作る" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "伐-án,牌a,藍a,-na,-ni"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*anl"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 161,
         "form" : "-n"
       }
     }, {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 162,
         "form" : "-am"
       }
     }, {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 163,
         "form" : "-an"
@@ -3551,32 +3551,32 @@
       "form" : "-n"
     },
     "translations" : [ {
-      "title" : "母音幹接尾辞",
+      "title" : "vowel stem suffix",
       "forms" : [ "人名を作る" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "伐-án,牌a,藍a,-na,-ni"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*anl"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 159,
         "form" : "-m"
       }
     }, {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 162,
         "form" : "-am"
       }
     }, {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 163,
         "form" : "-an"
@@ -3588,32 +3588,32 @@
       "form" : "-am"
     },
     "translations" : [ {
-      "title" : "子音幹接尾辞",
+      "title" : "consonant stem suffix",
       "forms" : [ "人名を作る" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "伐-án,牌a,藍a,-na,-ni"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*anl"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 161,
         "form" : "-n"
       }
     }, {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 159,
         "form" : "-m"
       }
     }, {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 163,
         "form" : "-an"
@@ -3625,32 +3625,32 @@
       "form" : "-an"
     },
     "translations" : [ {
-      "title" : "子音幹接尾辞",
+      "title" : "consonant stem suffix",
       "forms" : [ "人名を作る" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "伐-án,牌a,藍a,-na,-ni"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*anl"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 159,
         "form" : "-m"
       }
     }, {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 162,
         "form" : "-am"
       }
     }, {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 161,
         "form" : "-n"
@@ -3662,17 +3662,17 @@
       "form" : "-ghi"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "〜し終わって；完了の状況副詞化語尾" ]
+      "title" : "verb suffix",
+      "forms" : [ "〜し終わって；perfective adverbial" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*-kjq-"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 165,
         "form" : "-aghi"
@@ -3684,17 +3684,17 @@
       "form" : "-aghi"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "〜し終わって；完了の状況副詞化語尾" ]
+      "title" : "verb suffix",
+      "forms" : [ "〜し終わって；perfective adverbial" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*-kjq-"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 164,
         "form" : "-ghi"
@@ -3706,17 +3706,17 @@
       "form" : "-ma"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "〜しながら；非完了の状況副詞化語尾" ]
+      "title" : "verb suffix",
+      "forms" : [ "while V-ing; imperfective adverbial" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*-mq-"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 167,
         "form" : "-ama"
@@ -3728,17 +3728,17 @@
       "form" : "-ama"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "〜しながら；非完了の状況副詞化語尾" ]
+      "title" : "verb suffix",
+      "forms" : [ "while V-ing; imperfective adverbial" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*-mq-"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 166,
         "form" : "-ma"
@@ -3750,12 +3750,12 @@
       "form" : "bhoṇau"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "小動物が地面に作る巣穴" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍pogau,理phornau"
     } ],
     "variations" : [ ],
@@ -3766,16 +3766,16 @@
       "form" : "bhá"
     },
     "translations" : [ {
-      "title" : "形容詞",
-      "forms" : [ "全ての", "すべての", "全部の" ]
+      "title" : "adjective",
+      "forms" : [ "all", "every" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌be1"
     }, {
-      "title" : "用法",
-      "text" : "直後に名詞を要求する。"
+      "title" : "usage",
+      "text" : "must be followed by a noun"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -3791,12 +3791,12 @@
       "form" : "zu"
     },
     "translations" : [ {
-      "title" : "副詞",
-      "forms" : [ "再び" ]
+      "title" : "adverb",
+      "forms" : [ "again" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌ty,藍tiu"
     } ],
     "variations" : [ ],
@@ -3807,12 +3807,12 @@
       "form" : "phúpen"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
-      "forms" : [ "兎", "うさぎ", "ウサギ" ]
+      "title" : "consonant stem noun",
+      "forms" : [ "rabbit", "hare" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "ヴェフィスfoupainからの借用"
     } ],
     "variations" : [ ],
@@ -3823,12 +3823,12 @@
       "form" : "kánatúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
-      "forms" : [ "走る" ]
+      "title" : "dynamic verb",
+      "forms" : [ "run" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍kanata"
     } ],
     "variations" : [ ],
@@ -3839,12 +3839,12 @@
       "form" : "gháni"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "火" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "fire" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌kan1,藍kani"
     } ],
     "variations" : [ ],
@@ -3855,12 +3855,12 @@
       "form" : "bházahúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
+      "title" : "stative verb",
       "forms" : [ "白い" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍bachau"
     } ],
     "variations" : [ ],
@@ -3871,16 +3871,16 @@
       "form" : "numíju"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "ピンク", "桃色", "ピンク色" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "pink" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍numiu"
     }, {
-      "title" : "用法",
-      "text" : "専ら属格で使う。"
+      "title" : "usage",
+      "text" : "専らgenitiveで使う。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3890,16 +3890,16 @@
       "form" : "díṣlo"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "花" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "flower" ]
     } ],
-    "tags" : [ "必ず単数曲用" ],
+    "tags" : [ "必ずsingular declension" ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌xuo1,藍tixuo"
     }, {
-      "title" : "用法",
-      "text" : "単複同形なので、複数であっても必ず単数曲用である。"
+      "title" : "usage",
+      "text" : "単複同形なので、plural であっても必ずsingular declensionである。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3909,7 +3909,7 @@
       "form" : "áṣá"
     },
     "translations" : [ {
-      "title" : "後置詞",
+      "title" : "postposition",
       "forms" : [ "〜を原因として" ]
     } ],
     "tags" : [ ],
@@ -3925,15 +3925,15 @@
       "title" : "文接続詞",
       "forms" : [ "そして" ]
     }, {
-      "title" : "名詞接続詞",
+      "title" : "noun接続詞",
       "forms" : [ "〜と〜" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "皇wa,藍iwa,牌ua"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*ya"
     } ],
     "variations" : [ ],
@@ -3950,12 +3950,12 @@
       "form" : "ídúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
-      "forms" : [ "〜(ghi)へ入る" ]
+      "title" : "dynamic verb",
+      "forms" : [ "to enter [ghi]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌lit1,藍rita"
     } ],
     "variations" : [ ],
@@ -3966,18 +3966,18 @@
       "form" : "deja"
     },
     "translations" : [ {
-      "title" : "間投詞",
+      "title" : "interjection",
       "forms" : [ "なんとまあ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍t'aitaiu,牌tai"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*taiq"
     }, {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "悲しみにのみ使われるアイル語t'aitaiuと異なり、嬉しいこと・単に驚いたことに使用できる。"
     } ],
     "variations" : [ ],
@@ -3988,15 +3988,15 @@
       "form" : "seṇa"
     },
     "translations" : [ {
-      "title" : "副詞",
-      "forms" : [ "突然" ]
+      "title" : "adverb",
+      "forms" : [ "suddenly" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍saingoai"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*sai^ngq"
     } ],
     "variations" : [ ],
@@ -4007,12 +4007,12 @@
       "form" : "bháṭámúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
-      "forms" : [ "珍しい" ]
+      "title" : "stative verb",
+      "forms" : [ "to be rare" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "語源不明。俗には伐bhá aṭam「全ての神」からという。"
     } ],
     "variations" : [ ],
@@ -4023,15 +4023,15 @@
       "form" : "dhíp"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
-      "forms" : [ "鎖" ]
+      "title" : "consonant stem noun",
+      "forms" : [ "chain" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍dibee"
     }, {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "あくまで輪などが繋がったものを指す語であり、「繋ぎ止める」「束縛する」というニュアンスは無い。"
     } ],
     "variations" : [ ],
@@ -4042,15 +4042,15 @@
       "form" : "recúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
-      "forms" : [ "〜(対格)を〜(oṣa)という包装・箱などの中から取り出す" ]
+      "title" : "dynamic verb",
+      "forms" : [ "〜(accusative)を〜(oṣa)という包装・箱などの中から取り出す" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍h^ecuai"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*recq"
     } ],
     "variations" : [ ],
@@ -4061,12 +4061,12 @@
       "form" : "zalloúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
-      "forms" : [ "〜(不定詞)すべきである" ]
+      "title" : "stative verb",
+      "forms" : [ "〜(infinitive)すべきである" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌zau+ly,藍chauchu+liwo"
     } ],
     "variations" : [ ],
@@ -4077,12 +4077,12 @@
       "form" : "háta"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "布" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "cloth" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "語源不明"
     } ],
     "variations" : [ ],
@@ -4093,12 +4093,12 @@
       "form" : "hátaṣom"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
-      "forms" : [ "ポケット" ]
+      "title" : "consonant stem noun",
+      "forms" : [ "pocket" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "伐háta+伐ṣomúḷ"
     } ],
     "variations" : [ ],
@@ -4109,15 +4109,15 @@
       "form" : "híja"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "心", "こころ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌hia1, 藍hiya"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*riya"
     } ],
     "variations" : [ ],
@@ -4128,17 +4128,17 @@
       "form" : "-z"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "名詞化第一接尾辞" ]
+      "title" : "verb suffix",
+      "forms" : [ "noun化第一suffix" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "伐zúḷと同根とされる"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 190,
         "form" : "-az"
@@ -4168,17 +4168,17 @@
       "form" : "-az"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "名詞化第一接尾辞" ]
+      "title" : "verb suffix",
+      "forms" : [ "noun化第一suffix" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "伐zúḷと同根とされる"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 189,
         "form" : "-z"
@@ -4196,12 +4196,12 @@
       "form" : "janáúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
-      "forms" : [ "〜(oṣa)を材料として〜(対格)を作る" ]
+      "title" : "dynamic verb",
+      "forms" : [ "to make/create [accusative] out of [oṣa]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌ian1,藍jani"
     } ],
     "variations" : [ ],
@@ -4224,12 +4224,12 @@
       "form" : "janúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
+      "title" : "dynamic verb",
       "forms" : [ "生じる", "発生する" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌ian1, 藍jani"
     } ],
     "variations" : [ ],
@@ -4246,12 +4246,12 @@
       "form" : "zíghúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
+      "title" : "stative verb",
       "forms" : [ "整然としている", "規則的である", "秩序がある" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "chigo.ar"
     } ],
     "variations" : [ ],
@@ -4268,15 +4268,15 @@
       "form" : "zíghíṣ"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
-      "forms" : [ "時計" ]
+      "title" : "consonant stem noun",
+      "forms" : [ "clock", "watch" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "「規則的に動くもの」が原義なので、zíghíṣは置き時計・腕時計・日時計・砂時計など全ての種類の時計を指せる。"
     }, {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "chixu.ar, chigo.ar"
     } ],
     "variations" : [ ],
@@ -4293,14 +4293,14 @@
       "form" : "-íṣ"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "名詞化第三接尾辞" ]
+      "title" : "verb suffix",
+      "forms" : [ "noun化第三suffix" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 196,
         "form" : "-ḍíṣ"
@@ -4312,14 +4312,14 @@
       "form" : "-ḍíṣ"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "名詞化第三接尾辞" ]
+      "title" : "verb suffix",
+      "forms" : [ "noun化第三suffix" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 195,
         "form" : "-íṣ"
@@ -4331,8 +4331,8 @@
       "form" : "nádítúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
-      "forms" : [ "眠い", "眠気のある", "寝たい" ]
+      "title" : "stative verb",
+      "forms" : [ "to be sleepy" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -4344,14 +4344,14 @@
       "form" : "-í"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "名詞化第四接尾辞" ]
+      "title" : "verb suffix",
+      "forms" : [ "noun化第四suffix" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 199,
         "form" : "-hí"
@@ -4363,14 +4363,14 @@
       "form" : "-hí"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "名詞化第四接尾辞" ]
+      "title" : "verb suffix",
+      "forms" : [ "noun化第四suffix" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 198,
         "form" : "-í"
@@ -4382,14 +4382,14 @@
       "form" : "-káta"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "名詞化第五接尾辞" ]
+      "title" : "verb suffix",
+      "forms" : [ "noun化第五suffix" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 201,
         "form" : "-akáta"
@@ -4413,14 +4413,14 @@
       "form" : "-akáta"
     },
     "translations" : [ {
-      "title" : "動詞接尾辞",
-      "forms" : [ "名詞化第五接尾辞" ]
+      "title" : "verb suffix",
+      "forms" : [ "noun化第五suffix" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 200,
         "form" : "-káta"
@@ -4432,12 +4432,12 @@
       "form" : "seseúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
+      "title" : "stative verb",
       "forms" : [ "面倒だ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "ヴェフィスjais jais"
     } ],
     "variations" : [ ],
@@ -4454,12 +4454,12 @@
       "form" : "sese"
     },
     "translations" : [ {
-      "title" : "間投詞",
+      "title" : "interjection",
       "forms" : [ "いやだ", "えー", "めんどい" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "ヴェフィスjais jais"
     } ],
     "variations" : [ ],
@@ -4476,12 +4476,12 @@
       "form" : "koṭ"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
-      "forms" : [ "草", "草本" ]
+      "title" : "consonant stem noun",
+      "forms" : [ "grass" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌kot,藍kotu"
     } ],
     "variations" : [ ],
@@ -4504,12 +4504,12 @@
       "form" : "dína"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "自身" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌tin1"
     } ],
     "variations" : [ ],
@@ -4520,12 +4520,12 @@
       "form" : "kit"
     },
     "translations" : [ {
-      "title" : "副詞",
+      "title" : "adverb",
       "forms" : [ "とても", "すごく", "非常に" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌kit,藍kitu"
     } ],
     "variations" : [ ],
@@ -4536,12 +4536,12 @@
       "form" : "dházúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
-      "forms" : [ "楽しい" ]
+      "title" : "stative verb",
+      "forms" : [ "to be fun" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍dacha"
     } ],
     "variations" : [ ],
@@ -4558,19 +4558,19 @@
       "form" : "rúṣ"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
+      "title" : "consonant stem noun",
       "forms" : [ "下" ]
     }, {
-      "title" : "子音幹名詞",
-      "forms" : [ "（属格で）新しい" ]
+      "title" : "consonant stem noun",
+      "forms" : [ "（genitiveで）新しい" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌ut2,藍utu"
     }, {
-      "title" : "用法",
-      "text" : "「Aの下」などを表すときには、Aを具格にする。（いわゆる基準具格）"
+      "title" : "usage",
+      "text" : "「Aの下」などを表すときには、Aをinstrumentalにする。（いわゆる基準instrumental）"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -4586,12 +4586,12 @@
       "form" : "ṣonáronáúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
-      "forms" : [ "〜(不定詞+ema", "または対格)を不思議に思う" ]
+      "title" : "dynamic verb",
+      "forms" : [ "to wonder [infinitive+ema / accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "(オノマトペ)"
     } ],
     "variations" : [ ],
@@ -4602,12 +4602,12 @@
       "form" : "bháheúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
-      "forms" : [ "遅刻である", "遅れている" ]
+      "title" : "stative verb",
+      "forms" : [ "to be late" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍baihaiu"
     } ],
     "variations" : [ ],
@@ -4618,12 +4618,12 @@
       "form" : "cainíju"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "チョッキ", "ベスト" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍sainiu"
     } ],
     "variations" : [ ],
@@ -4639,7 +4639,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "ja + rúṣ + -i"
     } ],
     "variations" : [ ],
@@ -4650,12 +4650,12 @@
       "form" : "daupha"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "限界", "端" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍taupwo,牌tau2"
     } ],
     "variations" : [ ],
@@ -4666,12 +4666,12 @@
       "form" : "ghánúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
-      "forms" : [ "暑い", "熱い", "温度が高い", "高温である" ]
+      "title" : "stative verb",
+      "forms" : [ "to be hot", "to be of high temperature" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌kan1,藍kani"
     } ],
     "variations" : [ ],
@@ -4688,13 +4688,13 @@
       "form" : "cákíkáta"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "幸運" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "luck", "fortune" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
-      "text" : "cákík- + -akátaが縮約したもの。"
+      "title" : "usage",
+      "text" : "contraction of cákík- and -akáta."
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -4716,15 +4716,15 @@
       "form" : "k"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
-      "forms" : [ "(第一形式名詞)", "もの" ]
+      "title" : "consonant stem noun",
+      "forms" : [ "(第一形式noun)", "もの" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
-      "text" : "属格・形容詞の直後にのみ現れる。主格のときにはゼロまたは複数形で現れるのが主流である。\nko ámaom hem? これはあなたのですか？\námaom kele sujamúha? あなたのを使いますか？"
+      "title" : "usage",
+      "text" : "genitive・adjectiveの直後にのみ現れる。主格のときにはゼロまたはplural 形で現れるのが主流である。\nko ámaom hem? Is this yours?\námaom kele sujamúha? Do you use yours?"
     }, {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌ku,アイルku"
     } ],
     "variations" : [ ],
@@ -4747,15 +4747,15 @@
       "form" : "cai"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "〜(具格)の近く" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "place that is close to [instrumental]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌cei2,藍ceixei"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*crqi"
     } ],
     "variations" : [ ],
@@ -4766,12 +4766,12 @@
       "form" : "lánahúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
-      "forms" : [ "〜(対格)を追う", "〜(対格)を追いかける" ]
+      "title" : "dynamic verb",
+      "forms" : [ "to chase [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍lanau"
     } ],
     "variations" : [ ],
@@ -4782,12 +4782,12 @@
       "form" : "úrajúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
-      "forms" : [ "普通である", "自然である" ]
+      "title" : "stative verb",
+      "forms" : [ "to be ordinary", "to be natural" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌huai2"
     } ],
     "variations" : [ ],
@@ -4798,12 +4798,12 @@
       "form" : "kánaghúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
+      "title" : "dynamic verb",
       "forms" : [ "跳ねる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍kanaka"
     } ],
     "variations" : [ ],
@@ -4814,12 +4814,12 @@
       "form" : "ṣoya"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "壁" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "wall" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍couyau"
     } ],
     "variations" : [ ],
@@ -4836,12 +4836,12 @@
       "form" : "bhajúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
+      "title" : "stative verb",
       "forms" : [ "心ひかれている", "興味がある", "知りたいと感じている" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍p'aibaia"
     } ],
     "variations" : [ ],
@@ -4852,15 +4852,15 @@
       "form" : "adheṣ"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
-      "forms" : [ "王" ]
+      "title" : "consonant stem noun",
+      "forms" : [ "king" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "理ales"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*atheisl"
     } ],
     "variations" : [ ],
@@ -4871,12 +4871,12 @@
       "form" : "bháṇúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
+      "title" : "stative verb",
       "forms" : [ "愚かである" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍pwugo,皇mugu"
     } ],
     "variations" : [ ],
@@ -4887,12 +4887,12 @@
       "form" : "bhog"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
-      "forms" : [ "色" ]
+      "title" : "consonant stem noun",
+      "forms" : [ "color" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍pogo,牌pok"
     } ],
     "variations" : [ ],
@@ -4903,12 +4903,12 @@
       "form" : "amúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
-      "forms" : [ "〜(対格)に（比喩的な意味で）勝る", "〜(対格)を上回っている", "〜(対格)より上位である" ]
+      "title" : "stative verb",
+      "forms" : [ "〜[accusative]に（比喩的な意味で）勝る", "〜[accusative]を上回っている", "〜[accusative]より上位である" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌ma1,藍amama,牌am,藍ami,伐amáma"
     } ],
     "variations" : [ ],
@@ -4919,12 +4919,12 @@
       "form" : "bhoṣahúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
+      "title" : "dynamic verb",
       "forms" : [ "起き上がる", "立ち上がる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍bwoxou"
     } ],
     "variations" : [ ],
@@ -4935,12 +4935,12 @@
       "form" : "díma"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "(第三形式名詞)", "(〜という)こと" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "(第三形式noun)", "(〜という)こと" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍tibaie"
     } ],
     "variations" : [ ],
@@ -4951,12 +4951,12 @@
       "form" : "ho"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "第二形式名詞", "(〜という)事象・出来事" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "第二形式noun", "(〜という)事象・出来事" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍wuo,牌uo1"
     } ],
     "variations" : [ ],
@@ -4967,15 +4967,15 @@
       "form" : "wákahúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
-      "forms" : [ "〜(対格)（という平面）を横切って進む", "〜(対格)（という平面）を通過する" ]
+      "title" : "dynamic verb",
+      "forms" : [ "〜(accusative)（という平面）を横切って進む", "〜(accusative)（という平面）を通過する" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "狭い道のようなものを対象としては（道に沿った方向の移動でも道を横切る方向の移動でも）使うことができない。"
     }, {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍weikhou"
     } ],
     "variations" : [ ],
@@ -4986,12 +4986,12 @@
       "form" : "káṇaisa"
     },
     "translations" : [ {
-      "title" : "副詞",
+      "title" : "adverb",
       "forms" : [ "折よく", "都合よく", "ちょうどよく" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "káṇa + 藍kaisa牌kait"
     } ],
     "variations" : [ ],
@@ -5002,12 +5002,12 @@
       "form" : "báṣi"
     },
     "translations" : [ {
-      "title" : "副詞",
+      "title" : "adverb",
       "forms" : [ "すっかり" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍mexi"
     } ],
     "variations" : [ ],
@@ -5018,12 +5018,12 @@
       "form" : "dheseúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
-      "forms" : [ "〜(対格)を聞いている", "〜(対格)が聞こえている" ]
+      "title" : "stative verb",
+      "forms" : [ "〜(accusative)を聞いている", "〜(accusative)が聞こえている" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍thaise"
     } ],
     "variations" : [ ],
@@ -5034,12 +5034,12 @@
       "form" : "dhezáúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
-      "forms" : [ "〜(対格)を見つけて抜き取る", "〜(対格)を抜き取る・抜き出す", "〜(対格)(花など)を摘む", "〜(対格)を見つけ出す" ]
+      "title" : "dynamic verb",
+      "forms" : [ "〜(accusative)を見つけて抜き取る", "〜(accusative)を抜き取る・抜き出す", "〜(accusative)(花など)を摘む", "〜(accusative)を見つけ出す" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍theicho"
     } ],
     "variations" : [ ],
@@ -5050,15 +5050,15 @@
       "form" : "ghíyo"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "塩" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "salt" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍quvoo,藍gio,牌kuo1"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*kyoo"
     } ],
     "variations" : [ ],
@@ -5069,12 +5069,12 @@
       "form" : "rásitúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
+      "title" : "stative verb",
       "forms" : [ "香る", "良い香りがする", "薫る", "いいにおいがする" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍asiti,理korniusti'e(←藍kaunyou asiti)"
     } ],
     "variations" : [ ],
@@ -5085,8 +5085,8 @@
       "form" : "okákúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
-      "forms" : [ "〜(対格)を見ている", "〜(対格)が〜(主格)には見えている" ]
+      "title" : "stative verb",
+      "forms" : [ "〜(accusative)を見ている", "〜(accusative)が〜(主格)には見えている" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5107,18 +5107,18 @@
       "form" : "rijúḷ"
     },
     "translations" : [ {
-      "title" : "瞬間動詞",
-      "forms" : [ "〜(対格)を願う", "〜(対格)を望む", "〜(不定詞+ema)したい", "〜(主文と異なる主語を伴う不定詞+ema)してほしい" ]
+      "title" : "instantaneous verb",
+      "forms" : [ "〜(accusative)を願う", "〜(accusative)を望む", "〜(infinitive+ema)したい", "〜(主文と異なる主語を伴うinfinitive+ema)してほしい" ]
     }, {
-      "title" : "状態動詞",
-      "forms" : [ "〜(対格)を願っている", "〜(対格)を望んでいる", "〜(不定詞+ema)したいと思っている", "〜(主文と異なる主語を伴う不定詞+ema)してほしいと思っている" ]
+      "title" : "stative verb",
+      "forms" : [ "〜(accusative)を願っている", "〜(accusative)を望んでいる", "〜(infinitive+ema)したいと思っている", "〜(主文と異なる主語を伴うinfinitive+ema)してほしいと思っている" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌hia1, 藍hiya"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*riya"
     } ],
     "variations" : [ ],
@@ -5141,8 +5141,8 @@
       "form" : "heyáz"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
-      "forms" : [ "思考" ]
+      "title" : "consonant stem noun",
+      "forms" : [ "thought" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -5166,13 +5166,13 @@
       "form" : "ríz"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
+      "title" : "consonant stem noun",
       "forms" : [ "希望", "明るい見通し" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
-      "text" : "元来rijúḷに名詞化第一接尾辞のついたrijz「願い事」と同一の語だが、意味の差により綴り分けられる。"
+      "title" : "usage",
+      "text" : "元来rijúḷにnoun化第一suffixのついたrijz「願い事」と同一の語だが、意味の差により綴り分けられる。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -5188,7 +5188,7 @@
         "form" : "-z"
       }
     }, {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 241,
         "form" : "rijz"
@@ -5200,7 +5200,7 @@
       "form" : "rijz"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
+      "title" : "consonant stem noun",
       "forms" : [ "願い事", "望み" ]
     } ],
     "tags" : [ ],
@@ -5213,7 +5213,7 @@
         "form" : "rijúḷ"
       }
     }, {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 240,
         "form" : "ríz"
@@ -5231,12 +5231,12 @@
       "form" : "ṣúsa"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "空" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "sky" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌syt2,藍siusa"
     } ],
     "variations" : [ ],
@@ -5253,16 +5253,16 @@
       "form" : "síyoúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
-      "forms" : [ "〜(不定詞)しすぎている", "〜(主格)は過度である" ]
+      "title" : "stative verb",
+      "forms" : [ "〜(infinitive)しすぎている", "〜(主格)は過度である" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍suvoo"
     }, {
-      "title" : "用法",
-      "text" : "不定詞または動詞+名詞化第四接尾辞を主語として取るのが基本である。"
+      "title" : "usage",
+      "text" : "infinitiveまたはverb +noun化第四suffixを主語として取るのが基本である。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5272,16 +5272,16 @@
       "form" : "námúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
-      "forms" : [ "〜(対格)を開く", "〜(対格)を打ち開く", "〜(対格)を開ける", "〜(対格)を切り開く", "〜(対格)という障害を打ち破る" ]
+      "title" : "dynamic verb",
+      "forms" : [ "〜(accusative)を開く", "〜(accusative)を打ち開く", "〜(accusative)を開ける", "〜(accusative)を切り開く", "〜(accusative)という障害を打ち破る" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌nam2, 藍name"
     }, {
-      "title" : "用法",
-      "text" : "「会議を開く」などの意味で用いることはできない。他動詞なので、「花が開く」などに使うのも不適である。\n「塞がっていたものに孔ができて通れるようになる」が中心語義なので、扉や窓、傷口などに用いるのが第一義であり、覆いが取れて中にアクセスできるようになるということから「包み紙を開く」「本を開く」などにも用いることができる。"
+      "title" : "usage",
+      "text" : "「会議を開く」などの意味で用いることはできない。transitive verb なので、「花が開く」などに使うのも不適である。\n「塞がっていたものに孔ができて通れるようになる」が中心語義なので、扉や窓、傷口などに用いるのが第一義であり、覆いが取れて中にアクセスできるようになるということから「包み紙を開く」「本を開く」などにも用いることができる。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5291,15 +5291,15 @@
       "form" : "lom"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
-      "forms" : [ "三", "3" ]
+      "title" : "consonant stem noun",
+      "forms" : [ "three", "3" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍umi, 牌om2"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*lumi"
     } ],
     "variations" : [ ],
@@ -5310,12 +5310,12 @@
       "form" : "ácahúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
-      "forms" : [ "〜(主格)には〜(対格/不定詞+ema)ができる", "〜(主格)は〜(不定詞+ema)することができる", "〜(主格)には〜(不定詞+ema)する能力がある", "〜(主格)は〜(対格/不定詞+ema)を実行できる" ]
+      "title" : "stative verb",
+      "forms" : [ "〜(主格)には〜(accusative/infinitive+ema)ができる", "〜(主格)は〜(infinitive+ema)することができる", "〜(主格)には〜(infinitive+ema)する能力がある", "〜(主格)は〜(accusative/infinitive+ema)を実行できる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍acau,皇ac-u"
     } ],
     "variations" : [ ],
@@ -5332,15 +5332,15 @@
       "form" : "bákúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
-      "forms" : [ "〜(対格)を我慢できている", "〜(対格)を耐えられている", "〜(対格)を許容・容認できている" ]
+      "title" : "stative verb",
+      "forms" : [ "〜(accusative)を我慢できている", "〜(accusative)を耐えられている", "〜(accusative)を許容・容認できている" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌mak1,藍maqui"
     }, {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "パイグやアイルにあるような、「抵抗し反撃・反抗する」のニュアンスはない。"
     } ],
     "variations" : [ ],
@@ -5357,12 +5357,12 @@
       "form" : "júgok"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
+      "title" : "consonant stem noun",
       "forms" : [ "ユーゴック" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "理yrgokkからの借用"
     } ],
     "variations" : [ ],
@@ -5373,12 +5373,12 @@
       "form" : "ohi"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "友", "友達", "友人" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "friend" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍ohi,牌hi1,皇oki"
     } ],
     "variations" : [ ],
@@ -5389,15 +5389,15 @@
       "form" : "bágha"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "数" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "number" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "類義語の使い分け",
       "text" : "「数字(数を表記するための文字)」ではなく「数(数字とかによって表される抽象概念)」を表す語である。数字を表すのはbhájabániである。"
     }, {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌mak2,藍maka"
     } ],
     "variations" : [ ],
@@ -5414,12 +5414,12 @@
       "form" : "bhájabáni"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "数字" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "numerical digit" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍buia + 伐báni"
     }, {
       "title" : "類義語の使い分け",
@@ -5439,12 +5439,12 @@
       "form" : "rauki"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "胸", "胸部" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌hauk1"
     } ],
     "variations" : [ ],
@@ -5460,10 +5460,10 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌tet,皇tetu,藍tata"
     }, {
-      "title" : "ラネーメ祖語形",
+      "title" : "Proto-Lanermic form",
       "text" : "*tqtq"
     } ],
     "variations" : [ ],
@@ -5474,17 +5474,17 @@
       "form" : "-a-"
     },
     "translations" : [ {
-      "title" : "動詞接中辞",
-      "forms" : [ "使役性他動詞化接辞", "〜させる" ]
+      "title" : "verb infix",
+      "forms" : [ "causative transitive verb 化接辞", "〜させる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
-      "text" : "自動詞の語幹に付き、使役性の他動詞を作る。\n例：cákíkúḷ「来る、訪れる」→cákíkaúḷ「訪れさせる、もたらす」"
+      "title" : "usage",
+      "text" : "intransitive verb の語幹に付き、causative transitive verb を作る。\n例：cákíkúḷ「来る、訪れる」→cákíkaúḷ「訪れさせる、もたらす」"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 255,
         "form" : "-á-"
@@ -5514,17 +5514,17 @@
       "form" : "-á-"
     },
     "translations" : [ {
-      "title" : "動詞接中辞",
-      "forms" : [ "使役性他動詞化接辞", "〜させる" ]
+      "title" : "verb infix",
+      "forms" : [ "causative transive verb 化接辞", "〜させる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
-      "text" : "自動詞の語幹に付き、使役性の他動詞を作る。\n例：janúḷ「生じる」→janáúḷ「作る」"
+      "title" : "usage",
+      "text" : "intransive verb の語幹に付き、causative のtransive verb を作る。\nExample: janúḷ「生じる」→janáúḷ「作る」"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 254,
         "form" : "-a-"
@@ -5542,20 +5542,20 @@
       "form" : "-bháp-"
     },
     "translations" : [ {
-      "title" : "動詞接中辞",
+      "title" : "verb infix",
       "forms" : [ "複合時制化接辞" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "大過去や前未来を作る。"
     }, {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "伐bhápúḷ"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 257,
         "form" : "-abháp-"
@@ -5567,20 +5567,20 @@
       "form" : "-abháp-"
     },
     "translations" : [ {
-      "title" : "動詞接中辞",
+      "title" : "verb infix",
       "forms" : [ "複合時制化接辞" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "大過去や前未来を作る。"
     }, {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "伐bhápúḷ"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "異形態",
+      "title" : "alternative form(s)",
       "entry" : {
         "id" : 256,
         "form" : "-bháp-"
@@ -5592,12 +5592,12 @@
       "form" : "amilahomá nutta"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "魚醤", "ナンプラー" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "理amilaformar"
     } ],
     "variations" : [ ],
@@ -5626,7 +5626,7 @@
       "form" : "sákahomá ḍáz"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
+      "title" : "consonant stem noun",
       "forms" : [ "路商", "露天商" ]
     } ],
     "tags" : [ ],
@@ -5657,12 +5657,12 @@
       "form" : "ṣúsahomá nutta"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "雨", "雨水" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "rain", "rainwater" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌syt2 nua2"
     } ],
     "variations" : [ ],
@@ -5691,7 +5691,7 @@
       "form" : "koṭáná epa"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "草地", "野原" ]
     } ],
     "tags" : [ ],
@@ -5722,12 +5722,12 @@
       "form" : "rúṣán káṇa"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "時間的な後" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌ut2 kak"
     } ],
     "variations" : [ ],
@@ -5756,7 +5756,7 @@
       "form" : "koṭáná ṣoya"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "垣根", "生け垣" ]
     } ],
     "tags" : [ ],
@@ -5787,7 +5787,7 @@
       "form" : "nímaṣáná taku"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "連邦" ]
     } ],
     "tags" : [ ],
@@ -5818,12 +5818,12 @@
       "form" : "rodúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
-      "forms" : [ "短い" ]
+      "title" : "stative verb",
+      "forms" : [ "to be short" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌lot2,藍lodu"
     } ],
     "variations" : [ ],
@@ -5834,12 +5834,12 @@
       "form" : "káṇahomá amila"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "エイプリルフール" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "April fool" ]
     } ],
-    "tags" : [ "ジョーク", "非真理設定" ],
+    "tags" : [ "joke", "非真理設定" ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "要するに「時の魚」。poisson d'avrilのcalqueであることは言うまでもなく、非真理設定であることも言うまでもない。"
     } ],
     "variations" : [ ],
@@ -5868,15 +5868,15 @@
       "form" : "lipakoḷ"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
+      "title" : "consonant stem noun",
       "forms" : [ "リパコール" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "理lipakorlからの借用。"
     }, {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "人名。一般にアレス・ラネーメ・リパコールを指す。"
     } ],
     "variations" : [ ],
@@ -5893,15 +5893,15 @@
       "form" : "lipakoúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
-      "forms" : [ "〜(対格)をリパコールする" ]
+      "title" : "dynamic verb",
+      "forms" : [ "〜(accusative)をリパコールする" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "理lipakorlesからの翻訳借用。"
     }, {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "理lipakorlesを参照せよ。"
     } ],
     "variations" : [ ],
@@ -5924,15 +5924,15 @@
       "form" : "ṣíyáúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
-      "forms" : [ "〜(対格)を裁く", "〜(対格)を判断する", "〜(対格)を評価する" ]
+      "title" : "dynamic verb",
+      "forms" : [ "to judge [accusative]", "to evaluate [accusative]" ]
     }, {
-      "title" : "動作動詞",
-      "forms" : [ "〜(対格)を〜(具格)とみなす" ]
+      "title" : "dynamic verb",
+      "forms" : [ "to render/think of/regard [accusative] as [instrumental]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍xiyu,牌xy1"
     } ],
     "variations" : [ ],
@@ -5943,12 +5943,12 @@
       "form" : "ásúka"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "人", "人間" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍asuka,牌cuk2"
     } ],
     "variations" : [ ],
@@ -5959,7 +5959,7 @@
       "form" : "bákaz"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
+      "title" : "consonant stem noun",
       "forms" : [ "我慢" ]
     } ],
     "tags" : [ ],
@@ -5984,12 +5984,12 @@
       "form" : "nautu"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "単語", "語", "言葉" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "word" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍nyautu,理pzeniatz(←藍bwuzei nyautu)"
     }, {
       "title" : "類義語の使い分け",
@@ -6009,8 +6009,8 @@
       "form" : "-i"
     },
     "translations" : [ {
-      "title" : "子音幹接尾辞",
-      "forms" : [ "子音幹単数無格" ]
+      "title" : "consonant stem suffix",
+      "forms" : [ "consonant stem singular 無格" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -6028,12 +6028,12 @@
       "form" : "danúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
-      "forms" : [ "〜(不定詞)してもよい", "〜(不定詞)は状況的に可能である", "〜(不定詞)しても問題ない", "〜(不定詞)しても構わない" ]
+      "title" : "stative verb",
+      "forms" : [ "〜(infinitive)してもよい", "〜(infinitive)は状況的に可能である", "〜(infinitive)しても問題ない", "〜(infinitive)しても構わない" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍tanu"
     } ],
     "variations" : [ ],
@@ -6050,8 +6050,8 @@
       "form" : "-ína"
     },
     "translations" : [ {
-      "title" : "子音幹接尾辞",
-      "forms" : [ "子音幹複数形後置格hína縮約形" ]
+      "title" : "consonant stem suffix",
+      "forms" : [ "consonant stem plural 形postpositional hína縮約形" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -6075,8 +6075,8 @@
       "form" : "-dhína"
     },
     "translations" : [ {
-      "title" : "母音幹接尾辞",
-      "forms" : [ "母音幹複数後置格hína縮約形" ]
+      "title" : "vowel stem suffix",
+      "forms" : [ "vowel stem plural postpositional hína縮約形" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -6100,12 +6100,12 @@
       "form" : "bháhepa"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "(属格で)国際的な" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "(in genitive) international" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌be1 huep2"
     } ],
     "variations" : [ ],
@@ -6134,12 +6134,12 @@
       "form" : "bháhepa"
     },
     "translations" : [ {
-      "title" : "副詞",
-      "forms" : [ "国際的に" ]
+      "title" : "adverb",
+      "forms" : [ "internationally" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌be1 huep2"
     } ],
     "variations" : [ ],
@@ -6156,15 +6156,15 @@
       "form" : "xízía"
     },
     "translations" : [ {
-      "title" : "間投詞",
+      "title" : "interjection",
       "forms" : [ "こんにちは", "やあ", "こんばんは", "おはよう" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌xi zi aからの借用"
     }, {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "パイグと異なり呼びかけには用いず、専ら挨拶としてのみ使う。"
     } ],
     "variations" : [ ],
@@ -6175,8 +6175,8 @@
       "form" : "kádaúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
-      "forms" : [ "〜(対格)を見せる", "〜(対格)を掲げる", "〜(対格)が人目につくようにする", "〜(対格)を目立たせる" ]
+      "title" : "dynamic verb",
+      "forms" : [ "〜(accusative)を見せる", "〜(accusative)を掲げる", "〜(accusative)が人目につくようにする", "〜(accusative)を目立たせる" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -6200,12 +6200,12 @@
       "form" : "ghau"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "刀" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "sword" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌gau2,藍ngongau"
     } ],
     "variations" : [ ],
@@ -6222,12 +6222,12 @@
       "form" : "ghá"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "弓" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "bow (weapon)" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌gua2,藍nguwa"
     } ],
     "variations" : [ ],
@@ -6244,12 +6244,12 @@
       "form" : "ghau ja ghá"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "武器" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "weapon" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌gau2 gua2"
     } ],
     "variations" : [ ],
@@ -6278,15 +6278,15 @@
       "form" : "bániṣom"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
+      "title" : "consonant stem noun",
       "forms" : [ "字積", "マニソマ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "皇manicoma,理manicoma"
     }, {
-      "title" : "文化",
+      "title" : "culture",
       "text" : "ラネーメ圏発祥のカードゲーム、基本的には山札から何枚かカードを引いて、それらに書いてある燐字を組み合わせて字を作って遊ぶ。ciurlを使って引くカードを制限したり、派生的なルールが多々ある。リパライン語圏では下にリパライン語で燐字の意味が書いてある場合がある。（以上リパライン語辞書からのコピペ）"
     } ],
     "variations" : [ ],
@@ -6297,12 +6297,12 @@
       "form" : "zádeúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
-      "forms" : [ "〜(対格)を恐れている", "〜(対格)を怖がっている", "〜(主格)は〜(対格)が怖い" ]
+      "title" : "stative verb",
+      "forms" : [ "〜(accusative)を恐れている", "〜(accusative)を怖がっている", "〜(主格)は〜(accusative)が怖い" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍chade,牌zat1"
     } ],
     "variations" : [ ],
@@ -6313,8 +6313,8 @@
       "form" : "seházúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
-      "forms" : [ "嬉しい", "喜んでいる" ]
+      "title" : "stative verb",
+      "forms" : [ "to be happy", "to be delighted" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -6332,12 +6332,12 @@
       "form" : "nonúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
-      "forms" : [ "〜(主格)は（質などが）劣悪である", "〜(主格)は劣っている" ]
+      "title" : "stative verb",
+      "forms" : [ "〜(主格)は（質などが）劣悪である", "[主格] is inferior" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍nonu,牌non1"
     } ],
     "variations" : [ ],
@@ -6348,12 +6348,12 @@
       "form" : "non"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
+      "title" : "consonant stem noun",
       "forms" : [ "劣悪なもの", "劣っているもの", "質の低いもの", "低質なもの" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "藍nonu,牌non1"
     } ],
     "variations" : [ ],
@@ -6369,10 +6369,10 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "牌t,皇t"
     }, {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "バート語の文法上は終助詞として扱うが、実際にtの音で発音されるわけではなく、あくまで感嘆を表すための記号である。故に、ラテン字転写では感嘆符で転写するが、バート文字で書く場合には、単語tを書きその後ろにピリオドを打つ必要がある。"
     } ],
     "variations" : [ ],
@@ -6383,8 +6383,8 @@
       "form" : "ghánaúḷ"
     },
     "translations" : [ {
-      "title" : "動作動詞",
-      "forms" : [ "〜(対格)を加熱する・温める・暖める・加温する・熱くする・暑がらせる" ]
+      "title" : "dynamic verb",
+      "forms" : [ "to heat/warm up/ [accusative]", "to make [accusative] feel hot" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -6414,15 +6414,15 @@
       "form" : "áṭam"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
-      "forms" : [ "(甘い)練り物", "ペースト" ]
+      "title" : "consonant stem noun",
+      "forms" : [ "(sweet) paste" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "理artar、伐aṭam"
     }, {
-      "title" : "文化",
+      "title" : "culture",
       "text" : "aṭamと同根である（餡や甘いものは昔は高価であり、高貴な身分と結び付けられたため）。「歴史的音韻変化により、かつての強勢（と思われる箇所）の音節は大体の語において伸びたが、『神』『皇帝』では変化しなかった」「元々祖語の語頭’はá-とa-で揺れる。ただそれだけである」などの説が提唱されている。"
     } ],
     "variations" : [ ],
@@ -6433,13 +6433,13 @@
       "form" : "ká"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
-      "forms" : [ "kの複数形" ]
+      "title" : "consonant stem noun",
+      "forms" : [ "the plural form of k" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
-      "text" : "子音幹名詞kの複数形。あまりに紛らわしいので見出し語として一応立てておく。"
+      "title" : "usage",
+      "text" : "consonant stem nounkのplural 形。あまりに紛らわしいので見出し語として一応立てておく。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -6455,13 +6455,13 @@
       "form" : "káná ká"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
-      "forms" : [ "káという発話のうちkの複数形を意味していることを明示する表現" ]
+      "title" : "consonant stem noun",
+      "forms" : [ "káという発話のうちkのplural 形を意味していることを明示する表現" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "類義語の使い分け",
-      "text" : "káには、三人称女性単数である可能性とk「物」の複数形である可能性があるので、それを区別するための表現。"
+      "text" : "káには、third person feminine singular である可能性とk「物」のplural 形である可能性があるので、それを区別するための表現。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -6495,13 +6495,13 @@
       "form" : "káom ká"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
-      "forms" : [ "káという発話のうち三人称女性単数を意味していることを明示する表現" ]
+      "title" : "vowel stem noun",
+      "forms" : [ "káという発話のうちthird person feminine singular を意味していることを明示する表現" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "類義語の使い分け",
-      "text" : "káには、三人称女性単数である可能性とk「物」の複数形である可能性があるので、それを区別するための表現。"
+      "text" : "káには、third person feminine singular である可能性とk「物」のplural 形である可能性があるので、それを区別するための表現。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -6527,7 +6527,7 @@
   "zpdic" : {
     "alphabetOrder" : "",
     "alphabetOrderType" : "UNICODE",
-    "punctuations" : [ ",", "　", "、", " ", " " ],
+    "punctuations" : [ "," ],
     "pronunciationTitle" : null,
     "plainInformationTitles" : [ ],
     "informationTitleOrder" : null,
