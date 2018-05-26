@@ -1227,7 +1227,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(accusative)を書く" ]
+      "forms" : [ "to write [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1271,7 +1271,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(accusative)を見る", "〜(accusative)を観測する" ]
+      "forms" : [ "to see [accusative]", "to watch [accusative]", "to observe [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1331,7 +1331,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(accusative)を読む" ]
+      "forms" : [ "to read [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1392,7 +1392,7 @@
       "title" : "Proto-Lanermic form",
       "text" : "*qmamq"
     }, {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "must be followed by a noun"
     } ],
     "variations" : [ ],
@@ -1546,7 +1546,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "私たち(除外)" ]
+      "forms" : [ "we (exclusive)" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1559,7 +1559,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "私たち(包括)" ]
+      "forms" : [ "we (inclusive)" ]
     } ],
     "tags" : [ "必ずsingular declension" ],
     "contents" : [ ],
@@ -1673,7 +1673,7 @@
       "forms" : [ "〜(ghi)に対して〜(accusative)を話す・喋る" ]
     }, {
       "title" : "stative verb",
-      "forms" : [ "〜(accusative)という言語を話す能力がある" ]
+      "forms" : [ "to have the ability to speak [accusative]" ]
     }, {
       "title" : "stative verb",
       "forms" : [ "喋っている", "声を出している" ]
@@ -1736,10 +1736,10 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "行く" ]
+      "forms" : [ "to go" ]
     }, {
       "title" : "instantaneous verb",
-      "forms" : [ "〜(oṣa)を去る" ]
+      "forms" : [ "to leave [oṣa]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1805,7 +1805,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(oṣa)から来る", "〜(hína)を訪れる", "〜(hína)を来訪する" ]
+      "forms" : [ "to come from [oṣa]", "to visit [hína]" ]
     }, {
       "title" : "stative verb",
       "forms" : [ "〜(oṣa)が出身地である" ]
@@ -1919,7 +1919,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "verb に後続して、文の内容が伝聞である事を表す。「まるで〜のようだ」の意味では用いることができない。\n\n"
     }, {
       "title" : "cognate(s)",
@@ -1950,7 +1950,7 @@
       "title" : "Proto-Lanermic form",
       "text" : "*aaim"
     }, {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "infinitiveまたはkoḍiが直前に来て、「〜を思う」など主に思考にまつわるverb の意味上のaccusativeを表すのが普通である。"
     } ],
     "variations" : [ ],
@@ -2074,12 +2074,12 @@
       "form" : "hem"
     },
     "translations" : [ {
-      "title" : "無変化verb ",
-      "forms" : [ "完了の無変化verb ", "ある", "～は～である" ]
+      "title" : "non-conjugating verb",
+      "forms" : [ "完了のnon-conjugating verb", "ある", "～は～である" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "主格 主格 hemと使うとコピュラ（〜である）としてふるまい、future participle・past participleに後置することで完了表現を作る。コピュラ自身の命令形・past participleなどを作るためには、同義語の通常verb bhápúḷを用いる。"
     }, {
       "title" : "cognate(s)",
@@ -2437,7 +2437,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "「彼ら」はkiṣloという語があるが、「あれら」「男たち」は規則plural でkízáである。"
     }, {
       "title" : "cognate(s)",
@@ -3323,12 +3323,12 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(hína)である" ]
+      "forms" : [ "to be [hína]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "類義語の使い分け",
-      "text" : "無変化verb hemの補充形として、「AはBになっているだろう」「BであったA」というような表現を表す際に使われる。hemで表せる状況でわざわざbhápúḷを使うと、少し堅苦しくなる。"
+      "text" : "Used as the suppletive form for the non-conjugating verb \"hem\"「AはBになっているだろう」「BであったA」というような表現を表す際に. hemで表せる状況でわざわざbhápúḷを使うと、少し堅苦しくなる。"
     }, {
       "title" : "cognate(s)",
       "text" : "牌bap,藍baibae"
@@ -3370,7 +3370,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(hína)に似ている・まるで〜(hína)のようである" ]
+      "forms" : [ "to be like [hína]", "to be as if (it) were [hína]" ]
     }, {
       "title" : "stative verb",
       "forms" : [ "〜(instrumental)の近くである・〜(instrumental)に空間的に近い" ]
@@ -3396,7 +3396,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "From ko + (genitive suffix)-om. Must be followed by a noun."
     } ],
     "variations" : [ ],
@@ -3729,7 +3729,7 @@
     },
     "translations" : [ {
       "title" : "verb suffix",
-      "forms" : [ "〜しながら；非完了の状況adverb化語尾" ]
+      "forms" : [ "while V-ing; 非完了の状況adverb化語尾" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3774,7 +3774,7 @@
       "title" : "cognate(s)",
       "text" : "牌be1"
     }, {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "must be followed by a noun"
     } ],
     "variations" : [ ],
@@ -3879,7 +3879,7 @@
       "title" : "cognate(s)",
       "text" : "藍numiu"
     }, {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "専らgenitiveで使う。"
     } ],
     "variations" : [ ],
@@ -3898,7 +3898,7 @@
       "title" : "cognate(s)",
       "text" : "牌xuo1,藍tixuo"
     }, {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "単複同形なので、plural であっても必ずsingular declensionである。"
     } ],
     "variations" : [ ],
@@ -3951,7 +3951,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "to enter (ghi)" ]
+      "forms" : [ "to enter [ghi]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3977,7 +3977,7 @@
       "title" : "Proto-Lanermic form",
       "text" : "*taiq"
     }, {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "悲しみにのみ使われるアイル語t'aitaiuと異なり、嬉しいこと・単に驚いたことに使用できる。"
     } ],
     "variations" : [ ],
@@ -4031,7 +4031,7 @@
       "title" : "cognate(s)",
       "text" : "藍dibee"
     }, {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "あくまで輪などが繋がったものを指す語であり、「繋ぎ止める」「束縛する」というニュアンスは無い。"
     } ],
     "variations" : [ ],
@@ -4197,7 +4197,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(oṣa)を材料として〜(accusative)を作る" ]
+      "forms" : [ "to make/create [accusative] out of [oṣa]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4273,7 +4273,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "「規則的に動くもの」が原義なので、zíghíṣは置き時計・腕時計・日時計・砂時計など全ての種類の時計を指せる。"
     }, {
       "title" : "cognate(s)",
@@ -4569,7 +4569,7 @@
       "title" : "cognate(s)",
       "text" : "牌ut2,藍utu"
     }, {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "「Aの下」などを表すときには、Aをinstrumentalにする。（いわゆる基準instrumental）"
     } ],
     "variations" : [ ],
@@ -4587,7 +4587,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "to wonder (infinitive+ema / accusative)" ]
+      "forms" : [ "to wonder [infinitive+ema / accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4693,7 +4693,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "contraction of cákík- and -akáta."
     } ],
     "variations" : [ ],
@@ -4721,8 +4721,8 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
-      "text" : "genitive・adjectiveの直後にのみ現れる。主格のときにはゼロまたはplural 形で現れるのが主流である。\nko ámaom hem? これはあなたのですか？\námaom kele sujamúha? あなたのを使いますか？"
+      "title" : "usage",
+      "text" : "genitive・adjectiveの直後にのみ現れる。主格のときにはゼロまたはplural 形で現れるのが主流である。\nko ámaom hem? Is this yours?\námaom kele sujamúha? Do you use yours?"
     }, {
       "title" : "cognate(s)",
       "text" : "牌ku,アイルku"
@@ -4767,7 +4767,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(accusative)を追う", "〜(accusative)を追いかける" ]
+      "forms" : [ "to chase [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4904,7 +4904,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(accusative)に（比喩的な意味で）勝る", "〜(accusative)を上回っている", "〜(accusative)より上位である" ]
+      "forms" : [ "〜[accusative]に（比喩的な意味で）勝る", "〜[accusative]を上回っている", "〜[accusative]より上位である" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4972,7 +4972,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "狭い道のようなものを対象としては（道に沿った方向の移動でも道を横切る方向の移動でも）使うことができない。"
     }, {
       "title" : "cognate(s)",
@@ -5171,7 +5171,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "元来rijúḷにnoun化第一suffixのついたrijz「願い事」と同一の語だが、意味の差により綴り分けられる。"
     } ],
     "variations" : [ ],
@@ -5261,7 +5261,7 @@
       "title" : "cognate(s)",
       "text" : "藍suvoo"
     }, {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "infinitiveまたはverb +noun化第四suffixを主語として取るのが基本である。"
     } ],
     "variations" : [ ],
@@ -5280,8 +5280,8 @@
       "title" : "cognate(s)",
       "text" : "牌nam2, 藍name"
     }, {
-      "title" : "用法",
-      "text" : "「会議を開く」などの意味で用いることはできない。他verb なので、「花が開く」などに使うのも不適である。\n「塞がっていたものに孔ができて通れるようになる」が中心語義なので、扉や窓、傷口などに用いるのが第一義であり、覆いが取れて中にアクセスできるようになるということから「包み紙を開く」「本を開く」などにも用いることができる。"
+      "title" : "usage",
+      "text" : "「会議を開く」などの意味で用いることはできない。transitive verb なので、「花が開く」などに使うのも不適である。\n「塞がっていたものに孔ができて通れるようになる」が中心語義なので、扉や窓、傷口などに用いるのが第一義であり、覆いが取れて中にアクセスできるようになるということから「包み紙を開く」「本を開く」などにも用いることができる。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5340,7 +5340,7 @@
       "title" : "cognate(s)",
       "text" : "牌mak1,藍maqui"
     }, {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "パイグやアイルにあるような、「抵抗し反撃・反抗する」のニュアンスはない。"
     } ],
     "variations" : [ ],
@@ -5475,12 +5475,12 @@
     },
     "translations" : [ {
       "title" : "verb infix",
-      "forms" : [ "使役性他verb 化接辞", "〜させる" ]
+      "forms" : [ "causative transitive verb 化接辞", "〜させる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
-      "text" : "自verb の語幹に付き、使役性の他verb を作る。\n例：cákíkúḷ「来る、訪れる」→cákíkaúḷ「訪れさせる、もたらす」"
+      "title" : "usage",
+      "text" : "intransitive verb の語幹に付き、causative transitive verb を作る。\n例：cákíkúḷ「来る、訪れる」→cákíkaúḷ「訪れさせる、もたらす」"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -5515,12 +5515,12 @@
     },
     "translations" : [ {
       "title" : "verb infix",
-      "forms" : [ "使役性transive verb 化接辞", "〜させる" ]
+      "forms" : [ "causative transive verb 化接辞", "〜させる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
-      "text" : "intransive verb の語幹に付き、使役性のtransive verb を作る。\nExample: janúḷ「生じる」→janáúḷ「作る」"
+      "title" : "usage",
+      "text" : "intransive verb の語幹に付き、causative のtransive verb を作る。\nExample: janúḷ「生じる」→janáúḷ「作る」"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -5547,7 +5547,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "大過去や前未来を作る。"
     }, {
       "title" : "cognate(s)",
@@ -5572,7 +5572,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "大過去や前未来を作る。"
     }, {
       "title" : "cognate(s)",
@@ -5839,7 +5839,7 @@
     } ],
     "tags" : [ "joke", "非真理設定" ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "要するに「時の魚」。poisson d'avrilのcalqueであることは言うまでもなく、非真理設定であることも言うまでもない。"
     } ],
     "variations" : [ ],
@@ -5876,7 +5876,7 @@
       "title" : "cognate(s)",
       "text" : "理lipakorlからの借用。"
     }, {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "人名。一般にアレス・ラネーメ・リパコールを指す。"
     } ],
     "variations" : [ ],
@@ -5901,7 +5901,7 @@
       "title" : "cognate(s)",
       "text" : "理lipakorlesからの翻訳借用。"
     }, {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "理lipakorlesを参照せよ。"
     } ],
     "variations" : [ ],
@@ -5928,7 +5928,7 @@
       "forms" : [ "〜(accusative)を裁く" ]
     }, {
       "title" : "dynamic verb",
-      "forms" : [ "to render/think of/regard (accusative) as (instrumental)" ]
+      "forms" : [ "to render/think of/regard [accusative] as [instrumental]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5985,7 +5985,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "単語", "語", "言葉" ]
+      "forms" : [ "word" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6164,7 +6164,7 @@
       "title" : "cognate(s)",
       "text" : "牌xi zi aからの借用"
     }, {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "パイグと異なり呼びかけには用いず、専ら挨拶としてのみ使う。"
     } ],
     "variations" : [ ],
@@ -6333,7 +6333,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(主格)は（質などが）劣悪である", "〜(主格)は劣っている" ]
+      "forms" : [ "〜(主格)は（質などが）劣悪である", "[主格] is inferior" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6372,7 +6372,7 @@
       "title" : "cognate(s)",
       "text" : "牌t,皇t"
     }, {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "バート語の文法上は終助詞として扱うが、実際にtの音で発音されるわけではなく、あくまで感嘆を表すための記号である。故に、ラテン字転写では感嘆符で転写するが、バート文字で書く場合には、単語tを書きその後ろにピリオドを打つ必要がある。"
     } ],
     "variations" : [ ],
@@ -6384,7 +6384,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(accusative)を加熱する・温める・暖める・加温する・熱くする・暑がらせる" ]
+      "forms" : [ "to heat/warm up/ [accusative]", "to make [accusative] feel hot" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -6438,7 +6438,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "usage",
       "text" : "consonant stem nounkのplural 形。あまりに紛らわしいので見出し語として一応立てておく。"
     } ],
     "variations" : [ ],
