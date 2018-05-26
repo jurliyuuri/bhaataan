@@ -1714,10 +1714,10 @@
     },
     "translations" : [ {
       "title" : "instantaneous verb",
-      "forms" : [ "〜(accusative)を取る", "〜(accusative)を持つ" ]
+      "forms" : [ "to take [accusative]", "to hold [accusative]" ]
     }, {
       "title" : "stative verb",
-      "forms" : [ "〜(accusative)を持っている" ]
+      "forms" : [ "to have [accusative]", "to possess [accusative]", "to be holding [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3373,7 +3373,7 @@
       "forms" : [ "to be like [hína]", "to be as if (it) were [hína]" ]
     }, {
       "title" : "stative verb",
-      "forms" : [ "〜(instrumental)の近くである・〜(instrumental)に空間的に近い" ]
+      "forms" : [ "to be (spatially) close to [instrumental]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4748,7 +4748,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "〜(instrumental)の近く" ]
+      "forms" : [ "place that is close to [instrumental]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5415,7 +5415,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "数字" ]
+      "forms" : [ "numerical digit" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
