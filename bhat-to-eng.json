@@ -582,7 +582,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 268,
         "form" : "lipakoúḷ"
@@ -613,7 +613,7 @@
         "form" : "-i"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 293,
         "form" : "káná ká"
@@ -706,7 +706,7 @@
         "form" : "-áná"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 262,
         "form" : "rúṣán káṇa"
@@ -749,25 +749,25 @@
         "form" : "-án"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 261,
         "form" : "koṭáná epa"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 263,
         "form" : "koṭáná ṣoya"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 264,
         "form" : "nímaṣáná taku"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 293,
         "form" : "káná ká"
@@ -873,7 +873,7 @@
         "form" : "-i"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 275,
         "form" : "-ína"
@@ -985,25 +985,25 @@
         "form" : "-omá"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 258,
         "form" : "amilahomá nutta"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 259,
         "form" : "sákahomá ḍáz"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 260,
         "form" : "ṣúsahomá nutta"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 266,
         "form" : "káṇahomá amila"
@@ -1077,7 +1077,7 @@
         "form" : "-án"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 294,
         "form" : "káom ká"
@@ -1214,7 +1214,7 @@
         "form" : "-ḍi"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 276,
         "form" : "-dhína"
@@ -1416,13 +1416,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 258,
         "form" : "amilahomá nutta"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 266,
         "form" : "káṇahomá amila"
@@ -1786,13 +1786,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 254,
         "form" : "-a-"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 81,
         "form" : "cákíkúḷ"
@@ -1820,13 +1820,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 215,
         "form" : "cákíkáta"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 80,
         "form" : "cákíkaúḷ"
@@ -1864,7 +1864,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 259,
         "form" : "sákahomá ḍáz"
@@ -1974,13 +1974,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 261,
         "form" : "koṭáná epa"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 277,
         "form" : "bháhepa"
@@ -2140,7 +2140,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 239,
         "form" : "heyáz"
@@ -2165,13 +2165,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 275,
         "form" : "-ína"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 276,
         "form" : "-dhína"
@@ -2269,7 +2269,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 294,
         "form" : "káom ká"
@@ -2297,7 +2297,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 280,
         "form" : "kádaúḷ"
@@ -2344,13 +2344,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 262,
         "form" : "rúṣán káṇa"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 266,
         "form" : "káṇahomá amila"
@@ -2684,7 +2684,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 264,
         "form" : "nímaṣáná taku"
@@ -2728,13 +2728,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 258,
         "form" : "amilahomá nutta"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 260,
         "form" : "ṣúsahomá nutta"
@@ -2851,7 +2851,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 259,
         "form" : "sákahomá ḍáz"
@@ -3062,7 +3062,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 140,
         "form" : "suúḷ"
@@ -3106,7 +3106,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 138,
         "form" : "su"
@@ -3128,7 +3128,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 264,
         "form" : "nímaṣáná taku"
@@ -3207,13 +3207,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 147,
         "form" : "zeúḷ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 200,
         "form" : "-káta"
@@ -3266,7 +3266,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 145,
         "form" : "zekáta"
@@ -3465,7 +3465,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem suffix",
-      "forms" : [ "人名を作る" ]
+      "forms" : [ "suffix used in names" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3490,7 +3490,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem suffix",
-      "forms" : [ "人名を作る" ]
+      "forms" : [ "suffix used in names" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3515,7 +3515,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem suffix",
-      "forms" : [ "人名を作る" ]
+      "forms" : [ "suffix used in names" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3552,7 +3552,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem suffix",
-      "forms" : [ "人名を作る" ]
+      "forms" : [ "suffix used in names" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3589,7 +3589,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem suffix",
-      "forms" : [ "人名を作る" ]
+      "forms" : [ "suffix used in names" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3626,7 +3626,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem suffix",
-      "forms" : [ "人名を作る" ]
+      "forms" : [ "suffix used in names" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3779,7 +3779,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 277,
         "form" : "bháhepa"
@@ -3938,7 +3938,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 283,
         "form" : "ghau ja ghá"
@@ -4129,7 +4129,7 @@
     },
     "translations" : [ {
       "title" : "verb suffix",
-      "forms" : [ "noun化第一suffix" ]
+      "forms" : [ "nominalization suffix #1" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4144,19 +4144,19 @@
         "form" : "-az"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 239,
         "form" : "heyáz"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 240,
         "form" : "ríz"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 241,
         "form" : "rijz"
@@ -4169,7 +4169,7 @@
     },
     "translations" : [ {
       "title" : "verb suffix",
-      "forms" : [ "noun化第一suffix" ]
+      "forms" : [ "nominalization suffix #1" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4184,7 +4184,7 @@
         "form" : "-z"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 271,
         "form" : "bákaz"
@@ -4206,13 +4206,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 192,
         "form" : "janúḷ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 255,
         "form" : "-á-"
@@ -4234,7 +4234,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 191,
         "form" : "janáúḷ"
@@ -4256,7 +4256,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 194,
         "form" : "zíghíṣ"
@@ -4281,7 +4281,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 193,
         "form" : "zíghúḷ"
@@ -4294,7 +4294,7 @@
     },
     "translations" : [ {
       "title" : "verb suffix",
-      "forms" : [ "noun化第三suffix" ]
+      "forms" : [ "nominalization suffix #3" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -4313,7 +4313,7 @@
     },
     "translations" : [ {
       "title" : "verb suffix",
-      "forms" : [ "noun化第三suffix" ]
+      "forms" : [ "nominalization suffix #3" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -4345,7 +4345,7 @@
     },
     "translations" : [ {
       "title" : "verb suffix",
-      "forms" : [ "noun化第四suffix" ]
+      "forms" : [ "nominalization suffix #4" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -4364,7 +4364,7 @@
     },
     "translations" : [ {
       "title" : "verb suffix",
-      "forms" : [ "noun化第四suffix" ]
+      "forms" : [ "nominalization suffix #4" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -4383,7 +4383,7 @@
     },
     "translations" : [ {
       "title" : "verb suffix",
-      "forms" : [ "noun化第五suffix" ]
+      "forms" : [ "nominalization suffix #5" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -4395,13 +4395,13 @@
         "form" : "-akáta"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 215,
         "form" : "cákíkáta"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 145,
         "form" : "zekáta"
@@ -4414,7 +4414,7 @@
     },
     "translations" : [ {
       "title" : "verb suffix",
-      "forms" : [ "noun化第五suffix" ]
+      "forms" : [ "nominalization suffix #5" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -4442,7 +4442,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 203,
         "form" : "sese"
@@ -4464,7 +4464,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 202,
         "form" : "seseúḷ"
@@ -4486,13 +4486,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 261,
         "form" : "koṭáná epa"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 263,
         "form" : "koṭáná ṣoya"
@@ -4574,7 +4574,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 262,
         "form" : "rúṣán káṇa"
@@ -4676,7 +4676,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 290,
         "form" : "ghánaúḷ"
@@ -4698,13 +4698,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 81,
         "form" : "cákíkúḷ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 200,
         "form" : "-káta"
@@ -4735,7 +4735,7 @@
         "form" : "ká"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 293,
         "form" : "káná ká"
@@ -4824,7 +4824,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 263,
         "form" : "koṭáná ṣoya"
@@ -5123,13 +5123,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 240,
         "form" : "ríz"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 241,
         "form" : "rijz"
@@ -5148,13 +5148,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 95,
         "form" : "heyáúḷ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 189,
         "form" : "-z"
@@ -5172,17 +5172,17 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "元来rijúḷにnoun化第一suffixのついたrijz「願い事」と同一の語だが、意味の差により綴り分けられる。"
+      "text" : "元来rijúḷにnominalization suffix #1のついたrijz「願い事」と同一の語だが、意味の差により綴り分けられる。"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 238,
         "form" : "rijúḷ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 189,
         "form" : "-z"
@@ -5207,7 +5207,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 238,
         "form" : "rijúḷ"
@@ -5219,7 +5219,7 @@
         "form" : "ríz"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 189,
         "form" : "-z"
@@ -5241,7 +5241,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 260,
         "form" : "ṣúsahomá nutta"
@@ -5262,7 +5262,7 @@
       "text" : "藍suvoo"
     }, {
       "title" : "usage",
-      "text" : "infinitiveまたはverb +noun化第四suffixを主語として取るのが基本である。"
+      "text" : "infinitiveまたはverb +nominalization suffix #4を主語として取るのが基本である。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5345,7 +5345,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 271,
         "form" : "bákaz"
@@ -5490,19 +5490,19 @@
         "form" : "-á-"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 80,
         "form" : "cákíkaúḷ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 280,
         "form" : "kádaúḷ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 290,
         "form" : "ghánaúḷ"
@@ -5530,7 +5530,7 @@
         "form" : "-a-"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 191,
         "form" : "janáúḷ"
@@ -5602,19 +5602,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 61,
         "form" : "amila"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 44,
         "form" : "-homá"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 122,
         "form" : "nutta"
@@ -5633,19 +5633,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 128,
         "form" : "sáka"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 44,
         "form" : "-homá"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 83,
         "form" : "ḍáz"
@@ -5667,19 +5667,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 242,
         "form" : "ṣúsa"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 44,
         "form" : "-homá"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 122,
         "form" : "nutta"
@@ -5698,19 +5698,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 204,
         "form" : "koṭ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 36,
         "form" : "-áná"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 88,
         "form" : "epa"
@@ -5732,19 +5732,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 208,
         "form" : "rúṣ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 35,
         "form" : "-án"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 104,
         "form" : "káṇa"
@@ -5763,19 +5763,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 204,
         "form" : "koṭ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 36,
         "form" : "-áná"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 221,
         "form" : "ṣoya"
@@ -5794,19 +5794,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 141,
         "form" : "taku"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 120,
         "form" : "nímaṣ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 36,
         "form" : "-áná"
@@ -5844,19 +5844,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 61,
         "form" : "amila"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 104,
         "form" : "káṇa"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 44,
         "form" : "-homá"
@@ -5881,7 +5881,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 268,
         "form" : "lipakoúḷ"
@@ -5906,13 +5906,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 267,
         "form" : "lipakoḷ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 31,
         "form" : "-úḷ"
@@ -5966,13 +5966,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 247,
         "form" : "bákúḷ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 190,
         "form" : "-az"
@@ -6057,13 +6057,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 96,
         "form" : "hína"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 40,
         "form" : "-iná"
@@ -6082,13 +6082,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 96,
         "form" : "hína"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 51,
         "form" : "-dhíná"
@@ -6110,19 +6110,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 169,
         "form" : "bhá"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 88,
         "form" : "epa"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 278,
         "form" : "bháhepa"
@@ -6144,7 +6144,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 277,
         "form" : "bháhepa"
@@ -6182,13 +6182,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 254,
         "form" : "-a-"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 102,
         "form" : "kádúḷ"
@@ -6210,7 +6210,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 283,
         "form" : "ghau ja ghá"
@@ -6232,7 +6232,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 283,
         "form" : "ghau ja ghá"
@@ -6254,19 +6254,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 281,
         "form" : "ghau"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 282,
         "form" : "ghá"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 178,
         "form" : "ja"
@@ -6390,19 +6390,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 214,
         "form" : "ghánúḷ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 254,
         "form" : "-a-"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 290,
         "form" : "ghánaúḷ"
@@ -6465,19 +6465,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 216,
         "form" : "k"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 32,
         "form" : "-á"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 36,
         "form" : "-áná"
@@ -6511,13 +6511,13 @@
         "form" : "káná ká"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 101,
         "form" : "ká"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 46,
         "form" : "-om"
