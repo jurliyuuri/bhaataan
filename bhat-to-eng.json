@@ -576,7 +576,7 @@
     },
     "translations" : [ {
       "title" : "verb suffix",
-      "forms" : [ "不定詞" ]
+      "forms" : [ "infinitive" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1382,7 +1382,7 @@
     },
     "translations" : [ {
       "title" : "adjective",
-      "forms" : [ "大きい", "偉大な" ]
+      "forms" : [ "large", "significant", "great", "grand", "magnificent" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1393,7 +1393,7 @@
       "text" : "*qmamq"
     }, {
       "title" : "用法",
-      "text" : "直後にnounを要求する。"
+      "text" : "must be followed by a noun"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1610,7 +1610,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "感染症", "風邪" ]
+      "forms" : [ "disease", "sickness", "infection" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1940,7 +1940,7 @@
       "forms" : [ "（稀）～のような", "～ように" ]
     }, {
       "title" : "postposition",
-      "forms" : [ "（不定詞またはkoḍiを受けて）〜を", "〜について", "(文末で用いて)～なんて" ]
+      "forms" : [ "（infinitiveまたはkoḍiを受けて）〜を", "〜について", "(文末で用いて)～なんて" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1951,7 +1951,7 @@
       "text" : "*aaim"
     }, {
       "title" : "用法",
-      "text" : "不定詞またはkoḍiが直前に来て、「〜を思う」など主に思考にまつわるverb の意味上のaccusativeを表すのが普通である。"
+      "text" : "infinitiveまたはkoḍiが直前に来て、「〜を思う」など主に思考にまつわるverb の意味上のaccusativeを表すのが普通である。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2106,7 +2106,7 @@
       "forms" : [ "to exist", "to be" ]
     }, {
       "title" : "stative verb",
-      "forms" : [ "〜(不定詞)している最中だ" ]
+      "forms" : [ "〜(infinitive)している最中だ" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2128,7 +2128,7 @@
       "forms" : [ "〜(ema)を思う・〜(ema)について考える" ]
     }, {
       "title" : "verb ",
-      "forms" : [ "(verb 不定詞+heyákáṣloで)～だろうか" ]
+      "forms" : [ "(verb infinitive+heyákáṣloで)～だろうか" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3392,12 +3392,12 @@
     },
     "translations" : [ {
       "title" : "adjective",
-      "forms" : [ "この" ]
+      "forms" : [ "this (as in \"this book\")" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "用法",
-      "text" : "koにgenitive語尾-omがついたものが1語化したもの。直後にnounを要求する。"
+      "text" : "From ko + (genitive suffix)-om. Must be followed by a noun."
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3408,7 +3408,7 @@
     },
     "translations" : [ {
       "title" : "instantaneous verb",
-      "forms" : [ "〜(verb 不定詞)が始まる" ]
+      "forms" : [ "〜(verb infinitive)が始まる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3767,7 +3767,7 @@
     },
     "translations" : [ {
       "title" : "adjective",
-      "forms" : [ "全ての", "すべての", "全部の" ]
+      "forms" : [ "all", "every" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3775,7 +3775,7 @@
       "text" : "牌be1"
     }, {
       "title" : "用法",
-      "text" : "直後にnounを要求する。"
+      "text" : "must be followed by a noun"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -4062,7 +4062,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(不定詞)すべきである" ]
+      "forms" : [ "〜(infinitive)すべきである" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4537,7 +4537,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "楽しい" ]
+      "forms" : [ "to be fun" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4587,7 +4587,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(不定詞+ema", "またはaccusative)を不思議に思う" ]
+      "forms" : [ "to wonder (infinitive+ema / accusative)" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5108,10 +5108,10 @@
     },
     "translations" : [ {
       "title" : "instantaneous verb",
-      "forms" : [ "〜(accusative)を願う", "〜(accusative)を望む", "〜(不定詞+ema)したい", "〜(主文と異なる主語を伴う不定詞+ema)してほしい" ]
+      "forms" : [ "〜(accusative)を願う", "〜(accusative)を望む", "〜(infinitive+ema)したい", "〜(主文と異なる主語を伴うinfinitive+ema)してほしい" ]
     }, {
       "title" : "stative verb",
-      "forms" : [ "〜(accusative)を願っている", "〜(accusative)を望んでいる", "〜(不定詞+ema)したいと思っている", "〜(主文と異なる主語を伴う不定詞+ema)してほしいと思っている" ]
+      "forms" : [ "〜(accusative)を願っている", "〜(accusative)を望んでいる", "〜(infinitive+ema)したいと思っている", "〜(主文と異なる主語を伴うinfinitive+ema)してほしいと思っている" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5254,7 +5254,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(不定詞)しすぎている", "〜(主格)は過度である" ]
+      "forms" : [ "〜(infinitive)しすぎている", "〜(主格)は過度である" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5262,7 +5262,7 @@
       "text" : "藍suvoo"
     }, {
       "title" : "用法",
-      "text" : "不定詞またはverb +noun化第四suffixを主語として取るのが基本である。"
+      "text" : "infinitiveまたはverb +noun化第四suffixを主語として取るのが基本である。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5311,7 +5311,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(主格)には〜(accusative/不定詞+ema)ができる", "〜(主格)は〜(不定詞+ema)することができる", "〜(主格)には〜(不定詞+ema)する能力がある", "〜(主格)は〜(accusative/不定詞+ema)を実行できる" ]
+      "forms" : [ "〜(主格)には〜(accusative/infinitive+ema)ができる", "〜(主格)は〜(infinitive+ema)することができる", "〜(主格)には〜(infinitive+ema)する能力がある", "〜(主格)は〜(accusative/infinitive+ema)を実行できる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5928,7 +5928,7 @@
       "forms" : [ "〜(accusative)を裁く" ]
     }, {
       "title" : "dynamic verb",
-      "forms" : [ "〜(accusative)を〜(instrumental)とみなす" ]
+      "forms" : [ "to render/think of/regard (accusative) as (instrumental)" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6029,7 +6029,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(不定詞)してもよい", "〜(不定詞)は状況的に可能である", "〜(不定詞)しても問題ない", "〜(不定詞)しても構わない" ]
+      "forms" : [ "〜(infinitive)してもよい", "〜(infinitive)は状況的に可能である", "〜(infinitive)しても問題ない", "〜(infinitive)しても構わない" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
