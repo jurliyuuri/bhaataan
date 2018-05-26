@@ -595,7 +595,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem suffix",
-      "forms" : [ "consonant stem plural 主格・無格" ]
+      "forms" : [ "consonant stem plural nominative・無格" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -886,7 +886,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem suffix",
-      "forms" : [ "vowel stem plural 主格・無格" ]
+      "forms" : [ "vowel stem plural nominative・無格" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2080,7 +2080,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "主格 主格 hemと使うとコピュラ（〜である）としてふるまい、future participle・past participleに後置することで完了表現を作る。コピュラ自身の命令形・past participleなどを作るためには、同義語の通常verb bhápúḷを用いる。"
+      "text" : "nominative nominative hemと使うとコピュラ（〜である）としてふるまい、future participle・past participleに後置することで完了表現を作る。コピュラ自身の命令形・past participleなどを作るためには、同義語の通常verb bhápúḷを用いる。"
     }, {
       "title" : "cognate(s)",
       "text" : "牌aim2,藍aima"
@@ -2820,7 +2820,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "オパール", "蛋白石" ]
+      "forms" : [ "opal" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4013,7 +4013,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
-      "text" : "Of uncertain origin. 俗には伐bhá aṭam「全ての神」からという。"
+      "text" : "Of uncertain origin. Folk etymology relates it to \"bhá aṭam\" (all gods)."
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4247,7 +4247,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "整然としている", "規則的である", "秩序がある" ]
+      "forms" : [ "to be steady", "to be systematic", "to be orderly" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4722,7 +4722,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "genitive・adjectiveの直後にのみ現れる。主格のときにはゼロまたはplural 形で現れるのが主流である。\nko ámaom hem? Is this yours?\námaom kele sujamúha? Do you use yours?"
+      "text" : "genitive・adjectiveの直後にのみ現れる。nominativeのときにはゼロまたはplural 形で現れるのが主流である。\nko ámaom hem? Is this yours?\námaom kele sujamúha? Do you use yours?"
     }, {
       "title" : "cognate(s)",
       "text" : "牌ku,アイルku"
@@ -4799,7 +4799,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "跳ねる" ]
+      "forms" : [ "to jump", "to leap" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4837,7 +4837,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "心ひかれている", "興味がある", "知りたいと感じている" ]
+      "forms" : [ "to be interested" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4920,7 +4920,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "起き上がる", "立ち上がる" ]
+      "forms" : [ "to get up", "to stand up" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5086,7 +5086,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(accusative)を見ている", "〜(accusative)が〜(主格)には見えている" ]
+      "forms" : [ "〜(accusative)を見ている", "〜(accusative)が〜(nominative)には見えている" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5254,7 +5254,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(infinitive)しすぎている", "〜(主格)は過度である" ]
+      "forms" : [ "〜(infinitive)しすぎている", "〜(nominative)は過度である" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5311,7 +5311,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(主格)には〜(accusative/infinitive+ema)ができる", "〜(主格)は〜(infinitive+ema)することができる", "〜(主格)には〜(infinitive+ema)する能力がある", "〜(主格)は〜(accusative/infinitive+ema)を実行できる" ]
+      "forms" : [ "〜(nominative)には〜(accusative/infinitive+ema)ができる", "〜(nominative)は〜(infinitive+ema)することができる", "〜(nominative)には〜(infinitive+ema)する能力がある", "〜(nominative)は〜(accusative/infinitive+ema)を実行できる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6298,7 +6298,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(accusative)を恐れている", "〜(accusative)を怖がっている", "〜(主格)は〜(accusative)が怖い" ]
+      "forms" : [ "〜(accusative)を恐れている", "〜(accusative)を怖がっている", "〜(nominative)は〜(accusative)が怖い" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6333,7 +6333,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(主格)は（質などが）劣悪である", "[主格] is inferior" ]
+      "forms" : [ "〜(nominative)は（質などが）劣悪である", "[nominative] is inferior" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
