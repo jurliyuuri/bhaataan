@@ -1877,7 +1877,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "連合", "連邦", "(political) party" ]
+      "forms" : [ "union", "federation", "(political) party" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2106,7 +2106,7 @@
       "forms" : [ "to exist", "to be" ]
     }, {
       "title" : "stative verb",
-      "forms" : [ "〜(infinitive)している最中だ" ]
+      "forms" : [ "to be [infinitive]-ing" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2128,7 +2128,7 @@
       "forms" : [ "〜(ema)を思う・〜(ema)について考える" ]
     }, {
       "title" : "verb ",
-      "forms" : [ "(verb infinitive+heyákáṣloで)～だろうか" ]
+      "forms" : [ "(verb infinitive+heyákáṣlo)～だろうか" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2282,10 +2282,10 @@
     },
     "translations" : [ {
       "title" : "instantaneous verb",
-      "forms" : [ "光る", "目立つ", "〜(accusative)が分かる" ]
+      "forms" : [ "to shine", "to stand out", "to come to understand [accusative]" ]
     }, {
       "title" : "stative verb",
-      "forms" : [ "光っている", "目立っている", "〜(accusative)を分かっている" ]
+      "forms" : [ "to be shining", "to be prominent", "to have understood [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2483,7 +2483,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "これ" ]
+      "forms" : [ "this" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2864,7 +2864,7 @@
     },
     "translations" : [ {
       "title" : "interjection",
-      "forms" : [ "万歳" ]
+      "forms" : [ "cheers" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3408,7 +3408,7 @@
     },
     "translations" : [ {
       "title" : "instantaneous verb",
-      "forms" : [ "〜(verb infinitive)が始まる" ]
+      "forms" : [ "[verb infinitive] starts" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4032,7 +4032,7 @@
       "text" : "藍dibee"
     }, {
       "title" : "usage",
-      "text" : "あくまで輪などが繋がったものを指す語であり、「繋ぎ止める」「束縛する」というニュアンスは無い。"
+      "text" : "Denotes series of interconnected rings; it does not have the connotation/nuance of binding/shackles/constraint."
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4062,7 +4062,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(infinitive)すべきである" ]
+      "forms" : [ "to ought to do [infinitive; nominative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4433,7 +4433,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "面倒だ" ]
+      "forms" : [ "to be troublesome/tiresome/bothersome" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4562,7 +4562,7 @@
       "forms" : [ "下" ]
     }, {
       "title" : "consonant stem noun",
-      "forms" : [ "（genitiveで）新しい" ]
+      "forms" : [ "(in genitive) new" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5333,7 +5333,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(accusative)を我慢できている", "〜(accusative)を耐えられている", "〜(accusative)を許容・容認できている" ]
+      "forms" : [ "to be able to endure/tolerate/bear [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5341,7 +5341,7 @@
       "text" : "牌mak1,藍maqui"
     }, {
       "title" : "usage",
-      "text" : "パイグやアイルにあるような、「抵抗し反撃・反抗する」のニュアンスはない。"
+      "text" : "Unlike cognates in 牌 or 藍, it does not have the nuance of resisting / giving a counterblow."
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -5723,7 +5723,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "時間的な後" ]
+      "forms" : [ "temporally after" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5788,7 +5788,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "連邦" ]
+      "forms" : [ "federation" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -5960,7 +5960,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "我慢" ]
+      "forms" : [ "endurance" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -6439,7 +6439,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "consonant stem nounkのplural 形。あまりに紛らわしいので見出し語として一応立てておく。"
+      "text" : "the plural form of the consonant stem noun k. Since this is extremely confusing, I added this as an entry of this dictionary."
     } ],
     "variations" : [ ],
     "relations" : [ {
