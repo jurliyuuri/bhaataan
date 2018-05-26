@@ -3663,7 +3663,7 @@
     },
     "translations" : [ {
       "title" : "verb suffix",
-      "forms" : [ "〜し終わって；完了の状況adverb化語尾" ]
+      "forms" : [ "〜し終わって；perfective adverbial" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3685,7 +3685,7 @@
     },
     "translations" : [ {
       "title" : "verb suffix",
-      "forms" : [ "〜し終わって；完了の状況adverb化語尾" ]
+      "forms" : [ "〜し終わって；perfective adverbial" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3707,7 +3707,7 @@
     },
     "translations" : [ {
       "title" : "verb suffix",
-      "forms" : [ "〜しながら；非完了の状況adverb化語尾" ]
+      "forms" : [ "while V-ing; imperfective adverbial" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3729,7 +3729,7 @@
     },
     "translations" : [ {
       "title" : "verb suffix",
-      "forms" : [ "while V-ing; 非完了の状況adverb化語尾" ]
+      "forms" : [ "while V-ing; imperfective adverbial" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5925,7 +5925,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(accusative)を裁く" ]
+      "forms" : [ "to judge [accusative]", "to evaluate [accusative]" ]
     }, {
       "title" : "dynamic verb",
       "forms" : [ "to render/think of/regard [accusative] as [instrumental]" ]
