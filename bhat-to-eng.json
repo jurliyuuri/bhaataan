@@ -1774,7 +1774,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(accusative)を訪れさせる", "〜(accusative)を到来させる", "〜(accusative)をもたらす" ]
+      "forms" : [ "to make [accusative] visit [hína]", "to bring about [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5475,12 +5475,12 @@
     },
     "translations" : [ {
       "title" : "verb infix",
-      "forms" : [ "causative transitive verb 化接辞", "〜させる" ]
+      "forms" : [ "causative infix" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "intransitive verb の語幹に付き、causative transitive verb を作る。\n例：cákíkúḷ「来る、訪れる」→cákíkaúḷ「訪れさせる、もたらす」"
+      "text" : "Attaches to the root of an intransitive verb and creates a causative, transitive verb.\nExample: cákíkúḷ \"to come, to visit\" → cákíkaúḷ \"to make [accusative] visit, to bring about [accusative]\""
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -5515,12 +5515,12 @@
     },
     "translations" : [ {
       "title" : "verb infix",
-      "forms" : [ "causative transive verb 化接辞", "〜させる" ]
+      "forms" : [ "causative infix" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "intransive verb の語幹に付き、causative のtransive verb を作る。\nExample: janúḷ「生じる」→janáúḷ「作る」"
+      "text" : "Attaches to the root of an intransitive verb and creates a causative, transitive verb.\nExample: janúḷ「生じる」→janáúḷ「作る」"
     } ],
     "variations" : [ ],
     "relations" : [ {
