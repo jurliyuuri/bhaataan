@@ -1508,7 +1508,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "文字" ]
+      "forms" : [ "character (as in \"Chinese character\" or \"character encoding\")" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1629,10 +1629,10 @@
     },
     "translations" : [ {
       "title" : "instantaneous verb",
-      "forms" : [ "風が吹く", "感染症にかかる", "風邪になる", "病気になる", "カビが生える" ]
+      "forms" : [ "for wind to blow", "to get sick", "to get moldy" ]
     }, {
       "title" : "stative verb",
-      "forms" : [ "風が吹いている", "感染症にかかっている", "風邪である", "病気である", "カビが生えている" ]
+      "forms" : [ "for wind to be blowing", "to be sick", "to be moldy" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3663,7 +3663,7 @@
     },
     "translations" : [ {
       "title" : "verb suffix",
-      "forms" : [ "〜し終わって；perfective adverbial" ]
+      "forms" : [ "having done V; perfective adverbial" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3685,7 +3685,7 @@
     },
     "translations" : [ {
       "title" : "verb suffix",
-      "forms" : [ "〜し終わって；perfective adverbial" ]
+      "forms" : [ "having done V; perfective adverbial" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4225,7 +4225,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "生じる", "発生する" ]
+      "forms" : [ "to arise", "to become generated" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5520,7 +5520,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "Attaches to the root of an intransitive verb and creates a causative, transitive verb.\nExample: janúḷ「生じる」→janáúḷ「作る」"
+      "text" : "Attaches to the root of an intransitive verb and creates a causative, transitive verb.\nExample: janúḷ \"to arise, to become generated\" → janáúḷ \"to make/create [accusative] out of [oṣa]\""
     } ],
     "variations" : [ ],
     "relations" : [ {
