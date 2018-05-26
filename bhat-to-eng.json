@@ -1350,7 +1350,7 @@
     },
     "translations" : [ {
       "title" : "adverb",
-      "forms" : [ "否定adverb", "〜でない" ]
+      "forms" : [ "negative adverb", "not" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1855,7 +1855,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "店", "商店" ]
+      "forms" : [ "shop", "store" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2203,7 +2203,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(accusative)を書く", "〜(accusative)を記録する" ]
+      "forms" : [ "to write [accusative]", "to record [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2747,7 +2747,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "フェディア" ]
+      "forms" : [ "fedi'a" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2801,7 +2801,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "女性", "女" ]
+      "forms" : [ "woman", "female" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2908,7 +2908,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "国", "国家" ]
+      "forms" : [ "country", "nation" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2974,7 +2974,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "土手", "堤" ]
+      "forms" : [ "bank (edge of river)", "dike" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3160,7 +3160,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "brother", "sister", "sibling", "同胞" ]
+      "forms" : [ "brother", "sister", "sibling" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3179,7 +3179,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "シェユ" ]
+      "forms" : [ "xeju" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3195,7 +3195,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "腰巻", "ルンギー" ]
+      "forms" : [ "lungi" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3254,7 +3254,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(accusative)を巻く", "〜(accusative)を回す" ]
+      "forms" : [ "to wind up [accusative]", "to roll [accusative]", "to turn [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3443,7 +3443,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "それ" ]
+      "forms" : [ "that" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3751,7 +3751,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "小動物が地面に作る巣穴" ]
+      "forms" : [ "burrow that small animals dig" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4619,7 +4619,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "チョッキ", "ベスト" ]
+      "forms" : [ "vest" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5003,7 +5003,7 @@
     },
     "translations" : [ {
       "title" : "adverb",
-      "forms" : [ "すっかり" ]
+      "forms" : [ "utterly", "completely", "entirely" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5167,7 +5167,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "希望", "明るい見通し" ]
+      "forms" : [ "wishful thinking", "positive prospect" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5201,7 +5201,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "願い事", "望み" ]
+      "forms" : [ "aspiration", "wish" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -5456,7 +5456,7 @@
     },
     "translations" : [ {
       "title" : "添詞",
-      "forms" : [ "〜だけ" ]
+      "forms" : [ "only", "nothing but" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6298,7 +6298,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(accusative)を恐れている", "〜(accusative)を怖がっている", "〜(nominative)は〜(accusative)が怖い" ]
+      "forms" : [ "to be scared of [accusative]", "to fear [accusative]", "for [nominative] to be scared of [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
