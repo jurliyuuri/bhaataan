@@ -1758,12 +1758,15 @@
     },
     "translations" : [ {
       "title" : "postposition",
-      "forms" : [ "～と共に" ]
+      "forms" : [ "with (in the sense of \"in the company of\")" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "Proto-Lanermic form",
       "text" : "*ca'yau"
+    }, {
+      "title" : "usage",
+      "text" : "Cannot be used in the sense of \"by means of\", for which the instrumental case is used."
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2547,7 +2550,7 @@
       "text" : "*las"
     }, {
       "title" : "difference between synonyms",
-      "text" : "一人の人を指す場合、ásúkaよりもlásiの方が好まれる。とはいえ、英語のoneなどと異なり、*lásizáでplural 人の人物を表すことはできない。"
+      "text" : "lási is preferred over ásúka when denoting a single person.Note, however, that, unlike the English word \"one\", *lásizá cannot be used to mean two or more persons."
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2752,7 +2755,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
-      "text" : "理語fedi'aからの借用"
+      "text" : "Borrowed from 理fedi'a"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2993,7 +2996,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "共産", "集産" ]
+      "forms" : [ "(used with aṭaza) communism/collectivism" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3094,7 +3097,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "商っている", "商売をしている", "商人である" ]
+      "forms" : [ "to be engaged in business", "to be doing a business", "to be a merchant" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3279,7 +3282,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(accusative)をする・行なう・行う" ]
+      "forms" : [ "to do/carry out/execute/perform [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3351,7 +3354,7 @@
     },
     "translations" : [ {
       "title" : "postposition",
-      "forms" : [ "〜から" ]
+      "forms" : [ "from" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3813,7 +3816,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
-      "text" : "ヴェフィスfoupainからの借用"
+      "text" : "Borrowed from ヴェフィスfoupain"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3872,7 +3875,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "pink" ]
+      "forms" : [ "(in genitive) pink" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3880,7 +3883,7 @@
       "text" : "藍numiu"
     }, {
       "title" : "usage",
-      "text" : "専らgenitiveで使う。"
+      "text" : "used solely in genitive."
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4110,7 +4113,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "心", "こころ" ]
+      "forms" : [ "mind" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4521,7 +4524,7 @@
     },
     "translations" : [ {
       "title" : "adverb",
-      "forms" : [ "とても", "すごく", "非常に" ]
+      "forms" : [ "very", "exceedingly", "really", "extremely", "considerably", "substantially" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5281,7 +5284,7 @@
       "text" : "牌nam2, 藍name"
     }, {
       "title" : "usage",
-      "text" : "「会議を開く」などの意味で用いることはできない。transitive verb なので、「花が開く」などに使うのも不適である。\n「塞がっていたものに孔ができて通れるようになる」が中心語義なので、扉や窓、傷口などに用いるのが第一義であり、覆いが取れて中にアクセスできるようになるということから「包み紙を開く」「本を開く」などにも用いることができる。"
+      "text" : "「会議を開く」などの意味で用いることはできない。Since it is a transitive verb, it is inadequate to use námúḷ to describe, for example,  the flower bloom.\n「塞がっていたものに孔ができて通れるようになる」が中心語義なので、扉や窓、傷口などに用いるのが第一義であり、覆いが取れて中にアクセスできるようになるということから「包み紙を開く」「本を開く」などにも用いることができる。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5692,7 +5695,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "草地", "野原" ]
+      "forms" : [ "grassland", "grass field" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -5757,7 +5760,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "垣根", "生け垣" ]
+      "forms" : [ "hedge" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -5944,7 +5947,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "人", "人間" ]
+      "forms" : [ "person", "people", "human" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5993,7 +5996,7 @@
       "text" : "藍nyautu,理pzeniatz(←藍bwuzei nyautu)"
     }, {
       "title" : "difference between synonyms",
-      "text" : "nautuは「単語」の意味であり、zephaはnautuや文法が集まってできる「言語」の意味である。bhátán zephaは「バート語」、bhátán nautuは「バート語の単語」である。"
+      "text" : "\"nautu\" means \"word\"; \"zepha\" denotes \"language\", composed of many \"nautu\" and grammar. \"bhátán zepha\" is \"bhátán language\"; \"bhátán nautu\" is \"bhátán words\"."
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -6029,7 +6032,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(infinitive)してもよい", "〜(infinitive)は状況的に可能である", "〜(infinitive)しても問題ない", "〜(infinitive)しても構わない" ]
+      "forms" : [ "for it to be permissible to do [infinitive]", "for it to be possible to do [infinitive] based on circumstances", "for there to be no problem doing [infinitive]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6279,7 +6282,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "字積", "マニソマ" ]
+      "forms" : [ "Manicoma" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
