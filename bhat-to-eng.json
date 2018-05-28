@@ -582,7 +582,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 268,
         "form" : "lipakoúḷ"
@@ -595,7 +595,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem suffix",
-      "forms" : [ "consonant stem plural 主格・無格" ]
+      "forms" : [ "consonant stem plural nominative/zero case" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -613,7 +613,7 @@
         "form" : "-i"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 293,
         "form" : "káná ká"
@@ -706,7 +706,7 @@
         "form" : "-áná"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 262,
         "form" : "rúṣán káṇa"
@@ -749,25 +749,25 @@
         "form" : "-án"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 261,
         "form" : "koṭáná epa"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 263,
         "form" : "koṭáná ṣoya"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 264,
         "form" : "nímaṣáná taku"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 293,
         "form" : "káná ká"
@@ -873,7 +873,7 @@
         "form" : "-i"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 275,
         "form" : "-ína"
@@ -886,7 +886,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem suffix",
-      "forms" : [ "vowel stem plural 主格・無格" ]
+      "forms" : [ "vowel stem plural nominative/zero case" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -985,25 +985,25 @@
         "form" : "-omá"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 258,
         "form" : "amilahomá nutta"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 259,
         "form" : "sákahomá ḍáz"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 260,
         "form" : "ṣúsahomá nutta"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 266,
         "form" : "káṇahomá amila"
@@ -1077,7 +1077,7 @@
         "form" : "-án"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 294,
         "form" : "káom ká"
@@ -1214,7 +1214,7 @@
         "form" : "-ḍi"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 276,
         "form" : "-dhína"
@@ -1239,7 +1239,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 98,
         "form" : "horúḷ"
@@ -1280,7 +1280,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 237,
         "form" : "okákúḷ"
@@ -1350,7 +1350,7 @@
     },
     "translations" : [ {
       "title" : "adverb",
-      "forms" : [ "否定adverb", "〜でない" ]
+      "forms" : [ "negative adverb", "not" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1416,13 +1416,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 258,
         "form" : "amilahomá nutta"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 266,
         "form" : "káṇahomá amila"
@@ -1448,7 +1448,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "神", "皇帝" ]
+      "forms" : [ "deity", "emperor" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1467,7 +1467,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "主義", "思想", "ideology" ]
+      "forms" : [ "doctrine", "ism", "ideology" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1508,7 +1508,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "文字" ]
+      "forms" : [ "character (as in \"Chinese character\" or \"character encoding\")" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1527,7 +1527,7 @@
     },
     "translations" : [ {
       "title" : "adverb",
-      "forms" : [ "だんだん", "ゆくゆく" ]
+      "forms" : [ "gradually", "eventually" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1561,7 +1561,7 @@
       "title" : "vowel stem noun",
       "forms" : [ "we (inclusive)" ]
     } ],
-    "tags" : [ "必ずsingular declension" ],
+    "tags" : [ "always singular declension" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -1572,7 +1572,7 @@
     },
     "translations" : [ {
       "title" : "postposition",
-      "forms" : [ "～を通って", "～と共に" ]
+      "forms" : [ "through", "with (in the sense of \"in the company of\")" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1581,9 +1581,18 @@
     }, {
       "title" : "Proto-Lanermic form",
       "text" : "*phaen"
+    }, {
+      "title" : "difference between synonyms",
+      "text" : "There isn't difference between bhán and cájau when denoting \"with\" (in the sense of \"in the company of\"), though cájau tends to be preferred. \"through\" can only be expressed with bhán."
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 79,
+        "form" : "cájau"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 71,
@@ -1629,10 +1638,10 @@
     },
     "translations" : [ {
       "title" : "instantaneous verb",
-      "forms" : [ "風が吹く", "感染症にかかる", "風邪になる", "病気になる", "カビが生える" ]
+      "forms" : [ "for wind to blow", "to get sick", "to get moldy" ]
     }, {
       "title" : "stative verb",
-      "forms" : [ "風が吹いている", "感染症にかかっている", "風邪である", "病気である", "カビが生えている" ]
+      "forms" : [ "for wind to be blowing", "to be sick", "to be moldy" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1651,7 +1660,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "バート人", "バート語" ]
+      "forms" : [ "bhátán language", "bhátán people" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1670,13 +1679,13 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(ghi)に対して〜(accusative)を話す・喋る" ]
+      "forms" : [ "to say [accusative] to [ghi]" ]
     }, {
       "title" : "stative verb",
-      "forms" : [ "to have the ability to speak [accusative]" ]
+      "forms" : [ "to have the ability to speak [accusative] (language)" ]
     }, {
       "title" : "stative verb",
-      "forms" : [ "喋っている", "声を出している" ]
+      "forms" : [ "to be uttering a voice", "to be speaking aloud", "to be not quiet" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1758,15 +1767,27 @@
     },
     "translations" : [ {
       "title" : "postposition",
-      "forms" : [ "～と共に" ]
+      "forms" : [ "with (in the sense of \"in the company of\")" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "Proto-Lanermic form",
       "text" : "*ca'yau"
+    }, {
+      "title" : "usage",
+      "text" : "Cannot be used in the sense of \"by means of\", for which the instrumental case is used."
+    }, {
+      "title" : "difference between synonyms",
+      "text" : "There isn't difference between bhán and cájau when denoting \"with\" (in the sense of \"in the company of\"), though cájau tends to be preferred. \"through\" can only be expressed with bhán."
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 70,
+        "form" : "bhán"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 80,
@@ -1774,7 +1795,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(accusative)を訪れさせる", "〜(accusative)を到来させる", "〜(accusative)をもたらす" ]
+      "forms" : [ "to make [accusative] visit [hína]", "to bring about [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1786,13 +1807,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 254,
         "form" : "-a-"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 81,
         "form" : "cákíkúḷ"
@@ -1808,7 +1829,7 @@
       "forms" : [ "to come from [oṣa]", "to visit [hína]" ]
     }, {
       "title" : "stative verb",
-      "forms" : [ "〜(oṣa)が出身地である" ]
+      "forms" : [ "for the hometown to be [oṣa]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1820,13 +1841,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 215,
         "form" : "cákíkáta"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 80,
         "form" : "cákíkaúḷ"
@@ -1855,7 +1876,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "店", "商店" ]
+      "forms" : [ "shop", "store" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1864,7 +1885,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 259,
         "form" : "sákahomá ḍáz"
@@ -1877,7 +1898,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "連合", "連邦", "(political) party" ]
+      "forms" : [ "union", "federation", "(political) party" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1915,12 +1936,12 @@
     },
     "translations" : [ {
       "title" : "終助詞",
-      "forms" : [ "〜らしい", "〜みたいだ" ]
+      "forms" : [ "I hear that ~", "People say that ~" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "verb に後続して、文の内容が伝聞である事を表す。「まるで〜のようだ」の意味では用いることができない。\n\n"
+      "text" : "Appended after the verb to denote that the speaker is speaking from hearsay."
     }, {
       "title" : "cognate(s)",
       "text" : "牌aik2,藍aika"
@@ -1962,7 +1983,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "土地", "領土", "領域", "場所", "ところ", "処", "所" ]
+      "forms" : [ "land", "territory", "domain", "region", "area (not as in \"the area of a square\")", "location", "place" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1974,13 +1995,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 261,
         "form" : "koṭáná epa"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 277,
         "form" : "bháhepa"
@@ -2050,7 +2071,7 @@
     },
     "translations" : [ {
       "title" : "interjection",
-      "forms" : [ "あー！えー", "それでは", "じゃあ" ]
+      "forms" : [ "oh", "um", "then", "well then" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2080,7 +2101,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "主格 主格 hemと使うとコピュラ（〜である）としてふるまい、future participle・past participleに後置することで完了表現を作る。コピュラ自身の命令形・past participleなどを作るためには、同義語の通常verb bhápúḷを用いる。"
+      "text" : "nominative nominative hemと使うとコピュラ（〜である）としてふるまい、future participle・past participleに後置することで完了表現を作る。コピュラ自身の命令形・past participleなどを作るためには、同義語の通常verb bhápúḷを用いる。"
     }, {
       "title" : "cognate(s)",
       "text" : "牌aim2,藍aima"
@@ -2090,7 +2111,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 150,
         "form" : "bhápúḷ"
@@ -2106,7 +2127,7 @@
       "forms" : [ "to exist", "to be" ]
     }, {
       "title" : "stative verb",
-      "forms" : [ "〜(infinitive)している最中だ" ]
+      "forms" : [ "to be [infinitive]-ing" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2128,7 +2149,7 @@
       "forms" : [ "〜(ema)を思う・〜(ema)について考える" ]
     }, {
       "title" : "verb ",
-      "forms" : [ "(verb infinitive+heyákáṣloで)～だろうか" ]
+      "forms" : [ "(verb infinitive+heyákáṣlo)～だろうか" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2140,7 +2161,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 239,
         "form" : "heyáz"
@@ -2165,13 +2186,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 275,
         "form" : "-ína"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 276,
         "form" : "-dhína"
@@ -2184,7 +2205,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "culture", "風俗" ]
+      "forms" : [ "culture", "manners", "customs" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2203,7 +2224,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(accusative)を書く", "〜(accusative)を記録する" ]
+      "forms" : [ "to write [accusative]", "to record [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2215,7 +2236,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 52,
         "form" : "accúḷ"
@@ -2227,8 +2248,8 @@
       "form" : "jo"
     },
     "translations" : [ {
-      "title" : "noun接続詞",
-      "forms" : [ "または", "もしくは" ]
+      "title" : "conjunction for nouns",
+      "forms" : [ "or" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2247,12 +2268,12 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "ユエスレオネ" ]
+      "forms" : [ "Yuesleone" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
-      "text" : "理語yuesleoneからの借用"
+      "text" : "Borrowed from 理yuesleone."
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2269,7 +2290,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 294,
         "form" : "káom ká"
@@ -2282,10 +2303,10 @@
     },
     "translations" : [ {
       "title" : "instantaneous verb",
-      "forms" : [ "光る", "目立つ", "〜(accusative)が分かる" ]
+      "forms" : [ "to shine", "to stand out", "to come to understand [accusative]" ]
     }, {
       "title" : "stative verb",
-      "forms" : [ "光っている", "目立っている", "〜(accusative)を分かっている" ]
+      "forms" : [ "to be shining", "to be prominent", "to have understood [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2297,7 +2318,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 280,
         "form" : "kádaúḷ"
@@ -2344,13 +2365,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 262,
         "form" : "rúṣán káṇa"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 266,
         "form" : "káṇahomá amila"
@@ -2379,7 +2400,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "永遠", "永久" ]
+      "forms" : [ "perpetuity", "eternity" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2397,7 +2418,7 @@
       "title" : "vowel stem noun",
       "forms" : [ "third person feminine plural " ]
     } ],
-    "tags" : [ "必ずsingular declension" ],
+    "tags" : [ "always singular declension" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2427,21 +2448,21 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "third person masculine singular " ]
+      "forms" : [ "third person masculine singular", "he" ]
     }, {
       "title" : "vowel stem noun",
-      "forms" : [ "あれ" ]
+      "forms" : [ "that one over there" ]
     }, {
       "title" : "vowel stem noun",
-      "forms" : [ "男" ]
+      "forms" : [ "man", "male" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "「彼ら」はkiṣloという語があるが、「あれら」「男たち」は規則plural でkízáである。"
+      "text" : "For \"they\", that is, the plural for \"he\", kiṣlo is the right word to use; on the other hand, \"those ones over there\" or \"men\" is expressed by the regular plural form kízá."
     }, {
       "title" : "cognate(s)",
-      "text" : "（third person masculine singular ・あれ）藍kisi、皇ki\n（男）牌ki1、藍uki、藍ki"
+      "text" : "(third person masculine singular, that one over there) 藍kisi,皇ki\n(man, male) 牌ki1,藍uki,藍ki"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -2451,7 +2472,7 @@
         "form" : "kiṣlo"
       }
     }, {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 111,
         "form" : "ko"
@@ -2466,7 +2487,7 @@
       "title" : "vowel stem noun",
       "forms" : [ "third person masculine plural " ]
     } ],
-    "tags" : [ "必ずsingular declension" ],
+    "tags" : [ "always singular declension" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -2483,7 +2504,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "これ" ]
+      "forms" : [ "this one" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2495,13 +2516,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 156,
         "form" : "dí"
       }
     }, {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 109,
         "form" : "kí"
@@ -2546,8 +2567,8 @@
       "title" : "Proto-Lanermic form",
       "text" : "*las"
     }, {
-      "title" : "類義語の使い分け",
-      "text" : "一人の人を指す場合、ásúkaよりもlásiの方が好まれる。とはいえ、英語のoneなどと異なり、*lásizáでplural 人の人物を表すことはできない。"
+      "title" : "difference between synonyms",
+      "text" : "lási is preferred over ásúka when denoting a single person.Note, however, that, unlike the English word \"one\", *lásizá cannot be used to mean two or more persons."
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2558,7 +2579,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "絵" ]
+      "forms" : [ "picture (does not include photographs)" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2577,7 +2598,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "絵を描く" ]
+      "forms" : [ "to draw (a picture)", "to paint (a picture)", "to sketch" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2598,7 +2619,7 @@
       "title" : "vowel stem noun",
       "forms" : [ "second person plural " ]
     } ],
-    "tags" : [ "必ずsingular declension" ],
+    "tags" : [ "always singular declension" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2672,7 +2693,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "民族", "部族" ]
+      "forms" : [ "ethnic group", "tribe" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2684,7 +2705,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 264,
         "form" : "nímaṣáná taku"
@@ -2697,7 +2718,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "貝葉" ]
+      "forms" : [ "palm-leaf manuscript" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2728,13 +2749,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 258,
         "form" : "amilahomá nutta"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 260,
         "form" : "ṣúsahomá nutta"
@@ -2747,12 +2768,12 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "フェディア" ]
+      "forms" : [ "Fedi'a" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
-      "text" : "理語fedi'aからの借用"
+      "text" : "Borrowed from 理fedi'a"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -2801,7 +2822,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "女性", "女" ]
+      "forms" : [ "woman", "female" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2820,7 +2841,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "オパール", "蛋白石" ]
+      "forms" : [ "opal" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2839,7 +2860,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "road", "歩道" ]
+      "forms" : [ "road", "sidewalk" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2851,7 +2872,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 259,
         "form" : "sákahomá ḍáz"
@@ -2864,7 +2885,7 @@
     },
     "translations" : [ {
       "title" : "interjection",
-      "forms" : [ "万歳" ]
+      "forms" : [ "cheers" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2895,7 +2916,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 131,
         "form" : "ṣibhai"
@@ -2908,7 +2929,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "国", "国家" ]
+      "forms" : [ "country", "nation" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2920,7 +2941,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 130,
         "form" : "síbha"
@@ -2954,7 +2975,7 @@
       "form" : "ṣiṇṇa"
     },
     "translations" : [ {
-      "title" : "文接続詞",
+      "title" : "conjunction for sentences",
       "forms" : [ "however" ]
     } ],
     "tags" : [ ],
@@ -2974,7 +2995,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "土手", "堤" ]
+      "forms" : [ "bank (edge of river)", "dike" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2993,7 +3014,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "共産", "集産" ]
+      "forms" : [ "(used with aṭaza) communism/collectivism" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3062,7 +3083,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 140,
         "form" : "suúḷ"
@@ -3094,7 +3115,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "商っている", "商売をしている", "商人である" ]
+      "forms" : [ "to be engaged in business", "to be doing a business", "to be a merchant" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3106,7 +3127,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 138,
         "form" : "su"
@@ -3128,7 +3149,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 264,
         "form" : "nímaṣáná taku"
@@ -3160,7 +3181,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "brother", "sister", "sibling", "同胞" ]
+      "forms" : [ "brother", "sister", "sibling" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3179,7 +3200,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "シェユ" ]
+      "forms" : [ "xeju" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3195,7 +3216,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "腰巻", "ルンギー" ]
+      "forms" : [ "lungi" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3207,13 +3228,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 147,
         "form" : "zeúḷ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 200,
         "form" : "-káta"
@@ -3236,12 +3257,12 @@
       "title" : "Proto-Lanermic form",
       "text" : "*zeepq"
     }, {
-      "title" : "類義語の使い分け",
-      "text" : "nautuは「単語」の意味であり、zephaはnautuや文法が集まってできる「言語」の意味である。bhátán zephaは「バート語」、bhátán nautuは「バート語の単語」である。"
+      "title" : "difference between synonyms",
+      "text" : "\"nautu\" means \"word\"; \"zepha\" denotes \"language\", composed of many \"nautu\" and grammar. \"bhátán zepha\" is \"bhátán language\"; \"bhátán nautu\" is \"bhátán words\"."
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 272,
         "form" : "nautu"
@@ -3254,7 +3275,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(accusative)を巻く", "〜(accusative)を回す" ]
+      "forms" : [ "to wind up [accusative]", "to roll [accusative]", "to turn [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3266,7 +3287,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 145,
         "form" : "zekáta"
@@ -3279,7 +3300,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(accusative)をする・行なう・行う" ]
+      "forms" : [ "to do/carry out/execute/perform [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3327,7 +3348,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "類義語の使い分け",
+      "title" : "difference between synonyms",
       "text" : "Used as the suppletive form for the non-conjugating verb \"hem\"「AはBになっているだろう」「BであったA」というような表現を表す際に. hemで表せる状況でわざわざbhápúḷを使うと、少し堅苦しくなる。"
     }, {
       "title" : "cognate(s)",
@@ -3338,7 +3359,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 93,
         "form" : "hem"
@@ -3351,7 +3372,7 @@
     },
     "translations" : [ {
       "title" : "postposition",
-      "forms" : [ "〜から" ]
+      "forms" : [ "from" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3408,7 +3429,7 @@
     },
     "translations" : [ {
       "title" : "instantaneous verb",
-      "forms" : [ "〜(verb infinitive)が始まる" ]
+      "forms" : [ "[verb infinitive] starts" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3424,10 +3445,10 @@
     },
     "translations" : [ {
       "title" : "instantaneous verb",
-      "forms" : [ "〜(accusative)に気づく", "〜(accusative)を知る" ]
+      "forms" : [ "to perceive [accusative]", "to come to know [accusative]" ]
     }, {
       "title" : "stative verb",
-      "forms" : [ "〜(accusative)に気づいている", "〜(accusative)を知っている" ]
+      "forms" : [ "to have found out [accusative]", "to know [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3443,7 +3464,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "それ" ]
+      "forms" : [ "that one" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3452,7 +3473,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 111,
         "form" : "ko"
@@ -3465,7 +3486,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem suffix",
-      "forms" : [ "人名を作る" ]
+      "forms" : [ "suffix used in names" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3490,7 +3511,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem suffix",
-      "forms" : [ "人名を作る" ]
+      "forms" : [ "suffix used in names" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3515,7 +3536,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem suffix",
-      "forms" : [ "人名を作る" ]
+      "forms" : [ "suffix used in names" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3552,7 +3573,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem suffix",
-      "forms" : [ "人名を作る" ]
+      "forms" : [ "suffix used in names" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3589,7 +3610,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem suffix",
-      "forms" : [ "人名を作る" ]
+      "forms" : [ "suffix used in names" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3626,7 +3647,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem suffix",
-      "forms" : [ "人名を作る" ]
+      "forms" : [ "suffix used in names" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3663,7 +3684,7 @@
     },
     "translations" : [ {
       "title" : "verb suffix",
-      "forms" : [ "〜し終わって；perfective adverbial" ]
+      "forms" : [ "having done V; perfective adverbial" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3685,7 +3706,7 @@
     },
     "translations" : [ {
       "title" : "verb suffix",
-      "forms" : [ "〜し終わって；perfective adverbial" ]
+      "forms" : [ "having done V; perfective adverbial" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3751,7 +3772,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "小動物が地面に作る巣穴" ]
+      "forms" : [ "burrow that small animals dig" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3779,7 +3800,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 277,
         "form" : "bháhepa"
@@ -3813,7 +3834,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
-      "text" : "ヴェフィスfoupainからの借用"
+      "text" : "Borrowed from ヴェフィスfoupain"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3856,7 +3877,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "白い" ]
+      "forms" : [ "to be white" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3872,7 +3893,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "pink" ]
+      "forms" : [ "(in genitive) pink" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3880,7 +3901,7 @@
       "text" : "藍numiu"
     }, {
       "title" : "usage",
-      "text" : "専らgenitiveで使う。"
+      "text" : "used solely in genitive."
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3893,13 +3914,13 @@
       "title" : "vowel stem noun",
       "forms" : [ "flower" ]
     } ],
-    "tags" : [ "必ずsingular declension" ],
+    "tags" : [ "always singular declension" ],
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "牌xuo1,藍tixuo"
     }, {
       "title" : "usage",
-      "text" : "単複同形なので、plural であっても必ずsingular declensionである。"
+      "text" : "singulare tantum noun; even when semantically plural, singular declensions are always used."
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3922,11 +3943,11 @@
       "form" : "ja"
     },
     "translations" : [ {
-      "title" : "文接続詞",
-      "forms" : [ "そして" ]
+      "title" : "conjunction for sentences",
+      "forms" : [ "~ and ~" ]
     }, {
-      "title" : "noun接続詞",
-      "forms" : [ "〜と〜" ]
+      "title" : "conjunction for nouns",
+      "forms" : [ "~ and ~" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3938,7 +3959,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 283,
         "form" : "ghau ja ghá"
@@ -4013,7 +4034,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
-      "text" : "語源不明。俗には伐bhá aṭam「全ての神」からという。"
+      "text" : "Of uncertain origin. Folk etymology relates it to \"bhá aṭam\" (all gods)."
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4032,7 +4053,7 @@
       "text" : "藍dibee"
     }, {
       "title" : "usage",
-      "text" : "あくまで輪などが繋がったものを指す語であり、「繋ぎ止める」「束縛する」というニュアンスは無い。"
+      "text" : "Denotes series of interconnected rings; it does not have the connotation/nuance of binding/shackles/constraint."
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4043,7 +4064,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(accusative)を〜(oṣa)という包装・箱などの中から取り出す" ]
+      "forms" : [ "to take [accusative] out of (box/wrapping) [oṣa]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4062,7 +4083,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(infinitive)すべきである" ]
+      "forms" : [ "to ought to do [infinitive; nominative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4078,12 +4099,12 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "cloth" ]
+      "forms" : [ "cloth", "fabric" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
-      "text" : "語源不明"
+      "text" : "Of unknown origin."
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4110,7 +4131,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "心", "こころ" ]
+      "forms" : [ "mind" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4129,12 +4150,12 @@
     },
     "translations" : [ {
       "title" : "verb suffix",
-      "forms" : [ "noun化第一suffix" ]
+      "forms" : [ "nominalization suffix #1" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
-      "text" : "伐zúḷと同根とされる"
+      "text" : "possibly cognate with zúḷ."
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -4144,19 +4165,19 @@
         "form" : "-az"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 239,
         "form" : "heyáz"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 240,
         "form" : "ríz"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 241,
         "form" : "rijz"
@@ -4169,12 +4190,12 @@
     },
     "translations" : [ {
       "title" : "verb suffix",
-      "forms" : [ "noun化第一suffix" ]
+      "forms" : [ "nominalization suffix #1" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
-      "text" : "伐zúḷと同根とされる"
+      "text" : "possibly cognate with zúḷ."
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -4184,7 +4205,7 @@
         "form" : "-z"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 271,
         "form" : "bákaz"
@@ -4206,13 +4227,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 192,
         "form" : "janúḷ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 255,
         "form" : "-á-"
@@ -4225,7 +4246,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "生じる", "発生する" ]
+      "forms" : [ "to arise", "to become generated" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4234,7 +4255,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 191,
         "form" : "janáúḷ"
@@ -4247,7 +4268,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "整然としている", "規則的である", "秩序がある" ]
+      "forms" : [ "to be steady", "to be systematic", "to be orderly" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4256,7 +4277,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 194,
         "form" : "zíghíṣ"
@@ -4281,7 +4302,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 193,
         "form" : "zíghúḷ"
@@ -4294,7 +4315,7 @@
     },
     "translations" : [ {
       "title" : "verb suffix",
-      "forms" : [ "noun化第三suffix" ]
+      "forms" : [ "nominalization suffix #3" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -4313,7 +4334,7 @@
     },
     "translations" : [ {
       "title" : "verb suffix",
-      "forms" : [ "noun化第三suffix" ]
+      "forms" : [ "nominalization suffix #3" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -4345,7 +4366,7 @@
     },
     "translations" : [ {
       "title" : "verb suffix",
-      "forms" : [ "noun化第四suffix" ]
+      "forms" : [ "nominalization suffix #4" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -4364,7 +4385,7 @@
     },
     "translations" : [ {
       "title" : "verb suffix",
-      "forms" : [ "noun化第四suffix" ]
+      "forms" : [ "nominalization suffix #4" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -4383,7 +4404,7 @@
     },
     "translations" : [ {
       "title" : "verb suffix",
-      "forms" : [ "noun化第五suffix" ]
+      "forms" : [ "nominalization suffix #5" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -4395,13 +4416,13 @@
         "form" : "-akáta"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 215,
         "form" : "cákíkáta"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 145,
         "form" : "zekáta"
@@ -4414,7 +4435,7 @@
     },
     "translations" : [ {
       "title" : "verb suffix",
-      "forms" : [ "noun化第五suffix" ]
+      "forms" : [ "nominalization suffix #5" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -4433,7 +4454,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "面倒だ" ]
+      "forms" : [ "to be troublesome/tiresome/bothersome" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4442,7 +4463,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 203,
         "form" : "sese"
@@ -4464,7 +4485,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 202,
         "form" : "seseúḷ"
@@ -4486,13 +4507,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 261,
         "form" : "koṭáná epa"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 263,
         "form" : "koṭáná ṣoya"
@@ -4505,7 +4526,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "自身" ]
+      "forms" : [ "oneself" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4521,7 +4542,7 @@
     },
     "translations" : [ {
       "title" : "adverb",
-      "forms" : [ "とても", "すごく", "非常に" ]
+      "forms" : [ "very", "exceedingly", "really", "extremely", "considerably", "substantially" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4546,7 +4567,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 286,
         "form" : "seházúḷ"
@@ -4562,7 +4583,7 @@
       "forms" : [ "下" ]
     }, {
       "title" : "consonant stem noun",
-      "forms" : [ "（genitiveで）新しい" ]
+      "forms" : [ "(in genitive) new" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4574,7 +4595,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 262,
         "form" : "rúṣán káṇa"
@@ -4592,7 +4613,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
-      "text" : "(オノマトペ)"
+      "text" : "(Onomatopoeic)"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4619,7 +4640,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "チョッキ", "ベスト" ]
+      "forms" : [ "vest" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4634,8 +4655,8 @@
       "form" : "jarúṣi"
     },
     "translations" : [ {
-      "title" : "文接続詞",
-      "forms" : [ "そしてその後" ]
+      "title" : "conjunction for sentences",
+      "forms" : [ "thenceforth", "thereafter", "ever since" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4651,7 +4672,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "限界", "端" ]
+      "forms" : [ "limit", "edge" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4676,7 +4697,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 290,
         "form" : "ghánaúḷ"
@@ -4698,13 +4719,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 81,
         "form" : "cákíkúḷ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 200,
         "form" : "-káta"
@@ -4722,7 +4743,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "genitive・adjectiveの直後にのみ現れる。主格のときにはゼロまたはplural 形で現れるのが主流である。\nko ámaom hem? Is this yours?\námaom kele sujamúha? Do you use yours?"
+      "text" : "genitive・adjectiveの直後にのみ現れる。nominativeのときにはゼロまたはplural 形で現れるのが主流である。\nko ámaom hem? Is this yours?\námaom kele sujamúha? Do you use yours?"
     }, {
       "title" : "cognate(s)",
       "text" : "牌ku,アイルku"
@@ -4735,7 +4756,7 @@
         "form" : "ká"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 293,
         "form" : "káná ká"
@@ -4799,7 +4820,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "跳ねる" ]
+      "forms" : [ "to jump", "to leap" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4824,7 +4845,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 263,
         "form" : "koṭáná ṣoya"
@@ -4837,7 +4858,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "心ひかれている", "興味がある", "知りたいと感じている" ]
+      "forms" : [ "to be interested" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4872,7 +4893,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "愚かである" ]
+      "forms" : [ "to be foolish", "to be stupid" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4920,7 +4941,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "起き上がる", "立ち上がる" ]
+      "forms" : [ "to get up", "to stand up" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4987,7 +5008,7 @@
     },
     "translations" : [ {
       "title" : "adverb",
-      "forms" : [ "折よく", "都合よく", "ちょうどよく" ]
+      "forms" : [ "fortunately", "luckily", "conveniently" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5003,7 +5024,7 @@
     },
     "translations" : [ {
       "title" : "adverb",
-      "forms" : [ "すっかり" ]
+      "forms" : [ "utterly", "completely", "entirely" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5019,7 +5040,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(accusative)を聞いている", "〜(accusative)が聞こえている" ]
+      "forms" : [ "to be listening to [accusative]", "to be able to hear [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5086,16 +5107,16 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(accusative)を見ている", "〜(accusative)が〜(主格)には見えている" ]
+      "forms" : [ "〜(accusative)を見ている", "〜(accusative)が〜(nominative)には見えている" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "類義語の使い分け",
+      "title" : "difference between synonyms",
       "text" : "aḍuhazoúḷは「見るために目とか顔とかを動かし、その結果として見て、見終わって顔などを戻す」みたいな一連の動作を指す。okákúḷはもっと語義が広く、意図性の有無に関わらず目から情報が入っている状態を指す。"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 54,
         "form" : "aḍuhazoúḷ"
@@ -5123,13 +5144,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 240,
         "form" : "ríz"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 241,
         "form" : "rijz"
@@ -5148,13 +5169,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 95,
         "form" : "heyáúḷ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 189,
         "form" : "-z"
@@ -5167,22 +5188,22 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "希望", "明るい見通し" ]
+      "forms" : [ "wishful thinking", "positive prospect" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "元来rijúḷにnoun化第一suffixのついたrijz「願い事」と同一の語だが、意味の差により綴り分けられる。"
+      "text" : "元来rijúḷにnominalization suffix #1のついたrijz「願い事」と同一の語だが、意味の差により綴り分けられる。"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 238,
         "form" : "rijúḷ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 189,
         "form" : "-z"
@@ -5201,13 +5222,13 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "願い事", "望み" ]
+      "forms" : [ "aspiration", "wish" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 238,
         "form" : "rijúḷ"
@@ -5219,7 +5240,7 @@
         "form" : "ríz"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 189,
         "form" : "-z"
@@ -5241,7 +5262,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 260,
         "form" : "ṣúsahomá nutta"
@@ -5254,7 +5275,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(infinitive)しすぎている", "〜(主格)は過度である" ]
+      "forms" : [ "〜(infinitive)しすぎている", "〜(nominative)は過度である" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5262,7 +5283,7 @@
       "text" : "藍suvoo"
     }, {
       "title" : "usage",
-      "text" : "infinitiveまたはverb +noun化第四suffixを主語として取るのが基本である。"
+      "text" : "infinitiveまたはverb +nominalization suffix #4を主語として取るのが基本である。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5281,7 +5302,7 @@
       "text" : "牌nam2, 藍name"
     }, {
       "title" : "usage",
-      "text" : "「会議を開く」などの意味で用いることはできない。transitive verb なので、「花が開く」などに使うのも不適である。\n「塞がっていたものに孔ができて通れるようになる」が中心語義なので、扉や窓、傷口などに用いるのが第一義であり、覆いが取れて中にアクセスできるようになるということから「包み紙を開く」「本を開く」などにも用いることができる。"
+      "text" : "「会議を開く」などの意味で用いることはできない。Since it is a transitive verb, it is inadequate to use námúḷ to describe, for example,  the flower bloom.\n「塞がっていたものに孔ができて通れるようになる」が中心語義なので、扉や窓、傷口などに用いるのが第一義であり、覆いが取れて中にアクセスできるようになるということから「包み紙を開く」「本を開く」などにも用いることができる。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5311,7 +5332,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(主格)には〜(accusative/infinitive+ema)ができる", "〜(主格)は〜(infinitive+ema)することができる", "〜(主格)には〜(infinitive+ema)する能力がある", "〜(主格)は〜(accusative/infinitive+ema)を実行できる" ]
+      "forms" : [ "〜(nominative)には〜(accusative/infinitive+ema)ができる", "〜(nominative)は〜(infinitive+ema)することができる", "〜(nominative)には〜(infinitive+ema)する能力がある", "〜(nominative)は〜(accusative/infinitive+ema)を実行できる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5320,7 +5341,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 274,
         "form" : "danúḷ"
@@ -5333,7 +5354,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(accusative)を我慢できている", "〜(accusative)を耐えられている", "〜(accusative)を許容・容認できている" ]
+      "forms" : [ "to be able to endure/tolerate/bear [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5341,11 +5362,11 @@
       "text" : "牌mak1,藍maqui"
     }, {
       "title" : "usage",
-      "text" : "パイグやアイルにあるような、「抵抗し反撃・反抗する」のニュアンスはない。"
+      "text" : "Unlike cognates in 牌 or 藍, it does not have the nuance of resisting / giving a counterblow."
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 271,
         "form" : "bákaz"
@@ -5358,12 +5379,12 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "ユーゴック" ]
+      "forms" : [ "Yuugokku" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
-      "text" : "理yrgokkからの借用"
+      "text" : "Borrowed from 理yrgokk."
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5394,15 +5415,15 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "類義語の使い分け",
-      "text" : "「数字(数を表記するための文字)」ではなく「数(数字とかによって表される抽象概念)」を表す語である。数字を表すのはbhájabániである。"
+      "title" : "difference between synonyms",
+      "text" : "Denotes not \"digit (characters used to describe numbers)\" but \"number (an abstract concept which is frequently represented using digits)\". \"Digit\" is denoted by \"bhájabáni\"."
     }, {
       "title" : "cognate(s)",
       "text" : "牌mak2,藍maka"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 251,
         "form" : "bhájabáni"
@@ -5422,12 +5443,12 @@
       "title" : "cognate(s)",
       "text" : "藍buia + 伐báni"
     }, {
-      "title" : "類義語の使い分け",
-      "text" : "「数(数字とかによって表される抽象概念)」ではなく「数字(数を表記するための文字)」を表す語である。数を表すのはbághaである。"
+      "title" : "difference between synonyms",
+      "text" : "Denotes not \"number (an abstract concept which is frequently represented using digits)\" but \"digit (characters used to describe numbers)\". \"Number\" is denoted by \"bágha\"."
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 250,
         "form" : "bágha"
@@ -5440,7 +5461,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "胸", "胸部" ]
+      "forms" : [ "breast", "chest" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5456,7 +5477,7 @@
     },
     "translations" : [ {
       "title" : "添詞",
-      "forms" : [ "〜だけ" ]
+      "forms" : [ "only", "nothing but" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5475,12 +5496,12 @@
     },
     "translations" : [ {
       "title" : "verb infix",
-      "forms" : [ "causative transitive verb 化接辞", "〜させる" ]
+      "forms" : [ "causative infix" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "intransitive verb の語幹に付き、causative transitive verb を作る。\n例：cákíkúḷ「来る、訪れる」→cákíkaúḷ「訪れさせる、もたらす」"
+      "text" : "Attaches to the root of an intransitive verb and creates a causative, transitive verb.\nExample: cákíkúḷ \"to come, to visit\" → cákíkaúḷ \"to make [accusative] visit, to bring about [accusative]\""
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -5490,19 +5511,19 @@
         "form" : "-á-"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 80,
         "form" : "cákíkaúḷ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 280,
         "form" : "kádaúḷ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 290,
         "form" : "ghánaúḷ"
@@ -5515,12 +5536,12 @@
     },
     "translations" : [ {
       "title" : "verb infix",
-      "forms" : [ "causative transive verb 化接辞", "〜させる" ]
+      "forms" : [ "causative infix" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "intransive verb の語幹に付き、causative のtransive verb を作る。\nExample: janúḷ「生じる」→janáúḷ「作る」"
+      "text" : "Attaches to the root of an intransitive verb and creates a causative, transitive verb.\nExample: janúḷ \"to arise, to become generated\" → janáúḷ \"to make/create [accusative] out of [oṣa]\""
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -5530,7 +5551,7 @@
         "form" : "-a-"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 191,
         "form" : "janáúḷ"
@@ -5543,12 +5564,12 @@
     },
     "translations" : [ {
       "title" : "verb infix",
-      "forms" : [ "複合時制化接辞" ]
+      "forms" : [ "infix for compound tense" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "大過去や前未来を作る。"
+      "text" : "Creates pluperfect or future perfect."
     }, {
       "title" : "cognate(s)",
       "text" : "伐bhápúḷ"
@@ -5568,12 +5589,12 @@
     },
     "translations" : [ {
       "title" : "verb infix",
-      "forms" : [ "複合時制化接辞" ]
+      "forms" : [ "infix for compound tense" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "大過去や前未来を作る。"
+      "text" : "Creates pluperfect or future perfect."
     }, {
       "title" : "cognate(s)",
       "text" : "伐bhápúḷ"
@@ -5593,7 +5614,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "魚醤", "ナンプラー" ]
+      "forms" : [ "fish sauce" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5602,19 +5623,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 61,
         "form" : "amila"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 44,
         "form" : "-homá"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 122,
         "form" : "nutta"
@@ -5633,19 +5654,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 128,
         "form" : "sáka"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 44,
         "form" : "-homá"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 83,
         "form" : "ḍáz"
@@ -5667,19 +5688,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 242,
         "form" : "ṣúsa"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 44,
         "form" : "-homá"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 122,
         "form" : "nutta"
@@ -5692,25 +5713,25 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "草地", "野原" ]
+      "forms" : [ "grassland", "grass field" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 204,
         "form" : "koṭ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 36,
         "form" : "-áná"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 88,
         "form" : "epa"
@@ -5723,7 +5744,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "時間的な後" ]
+      "forms" : [ "temporally after" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5732,19 +5753,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 208,
         "form" : "rúṣ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 35,
         "form" : "-án"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 104,
         "form" : "káṇa"
@@ -5757,25 +5778,25 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "垣根", "生け垣" ]
+      "forms" : [ "hedge" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 204,
         "form" : "koṭ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 36,
         "form" : "-áná"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 221,
         "form" : "ṣoya"
@@ -5788,25 +5809,25 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "連邦" ]
+      "forms" : [ "federation" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 141,
         "form" : "taku"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 120,
         "form" : "nímaṣ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 36,
         "form" : "-áná"
@@ -5840,23 +5861,23 @@
     "tags" : [ "joke", "非真理設定" ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "要するに「時の魚」。poisson d'avrilのcalqueであることは言うまでもなく、非真理設定であることも言うまでもない。"
+      "text" : "Joke word, coined as the calque of \"poisson d'avril\"."
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 61,
         "form" : "amila"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 104,
         "form" : "káṇa"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 44,
         "form" : "-homá"
@@ -5869,19 +5890,19 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "リパコール" ]
+      "forms" : [ "Lipakorl" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
-      "text" : "理lipakorlからの借用。"
+      "text" : "Borrowed from 理lipakorl."
     }, {
       "title" : "usage",
-      "text" : "人名。一般にアレス・ラネーメ・リパコールを指す。"
+      "text" : "Name. See 理lipakorl."
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 268,
         "form" : "lipakoúḷ"
@@ -5894,25 +5915,25 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(accusative)をリパコールする" ]
+      "forms" : [ "to lipakorl [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
-      "text" : "理lipakorlesからの翻訳借用。"
+      "text" : "Calque from 理lipakorles."
     }, {
       "title" : "usage",
-      "text" : "理lipakorlesを参照せよ。"
+      "text" : "See 理lipakorles."
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 267,
         "form" : "lipakoḷ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 31,
         "form" : "-úḷ"
@@ -5944,7 +5965,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "人", "人間" ]
+      "forms" : [ "person", "people", "human" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5960,19 +5981,19 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "我慢" ]
+      "forms" : [ "endurance" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 247,
         "form" : "bákúḷ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 190,
         "form" : "-az"
@@ -5992,12 +6013,12 @@
       "title" : "cognate(s)",
       "text" : "藍nyautu,理pzeniatz(←藍bwuzei nyautu)"
     }, {
-      "title" : "類義語の使い分け",
-      "text" : "nautuは「単語」の意味であり、zephaはnautuや文法が集まってできる「言語」の意味である。bhátán zephaは「バート語」、bhátán nautuは「バート語の単語」である。"
+      "title" : "difference between synonyms",
+      "text" : "\"nautu\" means \"word\"; \"zepha\" denotes \"language\", composed of many \"nautu\" and grammar. \"bhátán zepha\" is \"bhátán language\"; \"bhátán nautu\" is \"bhátán words\"."
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 146,
         "form" : "zepha"
@@ -6010,7 +6031,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem suffix",
-      "forms" : [ "consonant stem singular 無格" ]
+      "forms" : [ "consonant stem singular zero case" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -6029,7 +6050,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(infinitive)してもよい", "〜(infinitive)は状況的に可能である", "〜(infinitive)しても問題ない", "〜(infinitive)しても構わない" ]
+      "forms" : [ "for it to be permissible to do [infinitive]", "for it to be possible to do [infinitive] based on circumstances", "for there to be no problem doing [infinitive]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6038,7 +6059,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 246,
         "form" : "ácahúḷ"
@@ -6051,19 +6072,19 @@
     },
     "translations" : [ {
       "title" : "consonant stem suffix",
-      "forms" : [ "consonant stem plural 形postpositional hína縮約形" ]
+      "forms" : [ "contraction of consonant stem plural postpositional and hína" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 96,
         "form" : "hína"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 40,
         "form" : "-iná"
@@ -6076,19 +6097,19 @@
     },
     "translations" : [ {
       "title" : "vowel stem suffix",
-      "forms" : [ "vowel stem plural postpositional hína縮約形" ]
+      "forms" : [ "contraction of vowel stem plural postpositional and hína" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 96,
         "form" : "hína"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 51,
         "form" : "-dhíná"
@@ -6110,19 +6131,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 169,
         "form" : "bhá"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 88,
         "form" : "epa"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 278,
         "form" : "bháhepa"
@@ -6144,7 +6165,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 277,
         "form" : "bháhepa"
@@ -6176,19 +6197,19 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(accusative)を見せる", "〜(accusative)を掲げる", "〜(accusative)が人目につくようにする", "〜(accusative)を目立たせる" ]
+      "forms" : [ "to show [accusative]", "to hang out [accusative]", "to hoist [accusative]", "to make [accusative] stand out" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 254,
         "form" : "-a-"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 102,
         "form" : "kádúḷ"
@@ -6210,7 +6231,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 283,
         "form" : "ghau ja ghá"
@@ -6232,7 +6253,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 283,
         "form" : "ghau ja ghá"
@@ -6254,19 +6275,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 281,
         "form" : "ghau"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 282,
         "form" : "ghá"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 178,
         "form" : "ja"
@@ -6279,7 +6300,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "字積", "マニソマ" ]
+      "forms" : [ "Manicoma" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6287,7 +6308,7 @@
       "text" : "皇manicoma,理manicoma"
     }, {
       "title" : "culture",
-      "text" : "ラネーメ圏発祥のカードゲーム、基本的には山札から何枚かカードを引いて、それらに書いてある燐字を組み合わせて字を作って遊ぶ。ciurlを使って引くカードを制限したり、派生的なルールが多々ある。リパライン語圏では下にリパライン語で燐字の意味が書いてある場合がある。（以上リパライン語辞書からのコピペ）"
+      "text" : "See 理manicoma."
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -6298,7 +6319,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(accusative)を恐れている", "〜(accusative)を怖がっている", "〜(主格)は〜(accusative)が怖い" ]
+      "forms" : [ "to be scared of [accusative]", "to fear [accusative]", "for [nominative] to be scared of [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6320,7 +6341,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 207,
         "form" : "dházúḷ"
@@ -6333,7 +6354,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(主格)は（質などが）劣悪である", "[主格] is inferior" ]
+      "forms" : [ "〜(nominative)は（質などが）劣悪である", "[nominative] is inferior" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6390,19 +6411,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 214,
         "form" : "ghánúḷ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 254,
         "form" : "-a-"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 290,
         "form" : "ghánaúḷ"
@@ -6439,7 +6460,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "consonant stem nounkのplural 形。あまりに紛らわしいので見出し語として一応立てておく。"
+      "text" : "the plural form of the consonant stem noun k. Since this is extremely confusing, I added this as an entry of this dictionary."
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -6460,30 +6481,30 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "類義語の使い分け",
+      "title" : "difference between synonyms",
       "text" : "káには、third person feminine singular である可能性とk「物」のplural 形である可能性があるので、それを区別するための表現。"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 216,
         "form" : "k"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 32,
         "form" : "-á"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 36,
         "form" : "-áná"
       }
     }, {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 294,
         "form" : "káom ká"
@@ -6500,24 +6521,24 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "類義語の使い分け",
+      "title" : "difference between synonyms",
       "text" : "káには、third person feminine singular である可能性とk「物」のplural 形である可能性があるので、それを区別するための表現。"
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "類義語",
+      "title" : "synonym(s)",
       "entry" : {
         "id" : 293,
         "form" : "káná ká"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 101,
         "form" : "ká"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 46,
         "form" : "-om"
