@@ -1581,9 +1581,18 @@
     }, {
       "title" : "ラネーメ祖語形",
       "text" : "*phaen"
+    }, {
+      "title" : "類義語の使い分け",
+      "text" : "「～と共に」という意味においては特にbhánとcájauで使い分けは無いが、cájauが用いられることのほうが多い。「〜を通って」はbhánでのみ表すことができる。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 79,
+        "form" : "cájau"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 71,
@@ -1764,9 +1773,18 @@
     "contents" : [ {
       "title" : "ラネーメ祖語形",
       "text" : "*ca'yau"
+    }, {
+      "title" : "類義語の使い分け",
+      "text" : "「～と共に」という意味においては特にbhánとcájauで使い分けは無いが、cájauが用いられることのほうが多い。「〜を通って」はbhánでのみ表すことができる。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 70,
+        "form" : "bhán"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 80,

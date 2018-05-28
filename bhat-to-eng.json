@@ -1572,7 +1572,7 @@
     },
     "translations" : [ {
       "title" : "postposition",
-      "forms" : [ "～を通って", "～と共に" ]
+      "forms" : [ "through", "with (in the sense of \"in the company of\")" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1581,9 +1581,18 @@
     }, {
       "title" : "Proto-Lanermic form",
       "text" : "*phaen"
+    }, {
+      "title" : "difference between synonyms",
+      "text" : "There isn't difference between bhán and cájau when denoting \"with\" (in the sense of \"in the company of\"), though cájau tends to be preferred. \"through\" can only be expressed with bhán."
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 79,
+        "form" : "cájau"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 71,
@@ -1670,13 +1679,13 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(ghi)に対して〜(accusative)を話す・喋る" ]
+      "forms" : [ "to say [accusative] to [ghi]" ]
     }, {
       "title" : "stative verb",
-      "forms" : [ "to have the ability to speak [accusative]" ]
+      "forms" : [ "to have the ability to speak [accusative] (language)" ]
     }, {
       "title" : "stative verb",
-      "forms" : [ "喋っている", "声を出している" ]
+      "forms" : [ "to be uttering a voice", "to be speaking aloud", "to be not quiet" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1767,9 +1776,18 @@
     }, {
       "title" : "usage",
       "text" : "Cannot be used in the sense of \"by means of\", for which the instrumental case is used."
+    }, {
+      "title" : "difference between synonyms",
+      "text" : "There isn't difference between bhán and cájau when denoting \"with\" (in the sense of \"in the company of\"), though cájau tends to be preferred. \"through\" can only be expressed with bhán."
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 70,
+        "form" : "bhán"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 80,
@@ -1918,12 +1936,12 @@
     },
     "translations" : [ {
       "title" : "終助詞",
-      "forms" : [ "〜らしい", "〜みたいだ" ]
+      "forms" : [ "I hear that ~", "People say that ~" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "verb に後続して、文の内容が伝聞である事を表す。「まるで〜のようだ」の意味では用いることができない。\n\n"
+      "text" : "Appended after the verb to denote that the speaker is speaking from hearsay."
     }, {
       "title" : "cognate(s)",
       "text" : "牌aik2,藍aika"
@@ -1965,7 +1983,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "土地", "領土", "領域", "場所", "ところ", "処", "所" ]
+      "forms" : [ "land", "territory", "domain", "region", "area (not as in \"the area of a square\")", "location", "place" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2053,7 +2071,7 @@
     },
     "translations" : [ {
       "title" : "interjection",
-      "forms" : [ "あー！えー", "それでは", "じゃあ" ]
+      "forms" : [ "oh", "um", "then", "well then" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2430,10 +2448,10 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "third person masculine singular " ]
+      "forms" : [ "third person masculine singular", "he" ]
     }, {
       "title" : "vowel stem noun",
-      "forms" : [ "あれ" ]
+      "forms" : [ "that one over there" ]
     }, {
       "title" : "vowel stem noun",
       "forms" : [ "man", "male" ]
@@ -2441,10 +2459,10 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "「彼ら」はkiṣloという語があるが、「あれら」「男たち」は規則plural でkízáである。"
+      "text" : "For \"they\", that is, the plural for \"he\", kiṣlo is the right word to use; on the other hand, \"those ones over there\" or \"men\" is expressed by the regular plural form kízá."
     }, {
       "title" : "cognate(s)",
-      "text" : "（third person masculine singular ・あれ）藍kisi、皇ki\n（男）牌ki1、藍uki、藍ki"
+      "text" : "(third person masculine singular, that one over there) 藍kisi,皇ki\n(man, male) 牌ki1,藍uki,藍ki"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -2486,7 +2504,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "this" ]
+      "forms" : [ "this one" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3446,7 +3464,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "that" ]
+      "forms" : [ "that one" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4990,7 +5008,7 @@
     },
     "translations" : [ {
       "title" : "adverb",
-      "forms" : [ "折よく", "都合よく", "ちょうどよく" ]
+      "forms" : [ "fortunately", "luckily", "conveniently" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5022,7 +5040,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(accusative)を聞いている", "〜(accusative)が聞こえている" ]
+      "forms" : [ "to be listening to [accusative]", "to be able to hear [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5843,7 +5861,7 @@
     "tags" : [ "joke", "非真理設定" ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "要するに「時の魚」。poisson d'avrilのcalqueであることは言うまでもなく、非真理設定であることも言うまでもない。"
+      "text" : "Joke word, coined as the calque of \"poisson d'avril\"."
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -6290,7 +6308,7 @@
       "text" : "皇manicoma,理manicoma"
     }, {
       "title" : "culture",
-      "text" : "ラネーメ圏発祥のカードゲーム、基本的には山札から何枚かカードを引いて、それらに書いてある燐字を組み合わせて字を作って遊ぶ。ciurlを使って引くカードを制限したり、派生的なルールが多々ある。リパライン語圏では下にリパライン語で燐字の意味が書いてある場合がある。（以上リパライン語辞書からのコピペ）"
+      "text" : "See 理manicoma."
     } ],
     "variations" : [ ],
     "relations" : [ ]
