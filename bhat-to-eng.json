@@ -1236,6 +1236,9 @@
     }, {
       "title" : "Proto-Lanermic form",
       "text" : "*acii"
+    }, {
+      "title" : "difference between synonyms",
+      "text" : "accúḷ is an act of producing words and alphabets by moving writing instruments. On the other hand, horúḷ focuses more on writing as a means of recording information, having the connotation of somewhat long, coherent writing."
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -2233,6 +2236,9 @@
     }, {
       "title" : "Proto-Lanermic form",
       "text" : "*furoo"
+    }, {
+      "title" : "difference between synonyms",
+      "text" : "accúḷ is an act of producing words and alphabets by moving writing instruments. On the other hand, horúḷ focuses more on writing as a means of recording information, having the connotation of somewhat long, coherent writing."
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -3988,7 +3994,7 @@
     },
     "translations" : [ {
       "title" : "interjection",
-      "forms" : [ "なんとまあ" ]
+      "forms" : [ "interjection of surprise" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3999,7 +4005,7 @@
       "text" : "*taiq"
     }, {
       "title" : "usage",
-      "text" : "悲しみにのみ使われるアイル語t'aitaiuと異なり、嬉しいこと・単に驚いたことに使用できる。"
+      "text" : "Unlike 藍t'aitaiu, which is used solely to express sadness, deja can also be used for positive situations."
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4738,12 +4744,12 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "(第一形式noun)", "もの" ]
+      "forms" : [ "(形式noun #1)", "thing" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "genitive・adjectiveの直後にのみ現れる。nominativeのときにはゼロまたはplural 形で現れるのが主流である。\nko ámaom hem? Is this yours?\námaom kele sujamúha? Do you use yours?"
+      "text" : "Appears only after a genitive or an adjective. Singular nominative tends to appear as zero.\nko ámaom hem? Is this yours?\námaom kele sujamúha? Do you use yours?"
     }, {
       "title" : "cognate(s)",
       "text" : "牌ku,アイルku"
@@ -4957,7 +4963,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "(第三形式noun)", "(〜という)こと" ]
+      "forms" : [ "(形式noun #3)", "the fact (that S V)", "that (S V)" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4973,7 +4979,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "第二形式noun", "(〜という)事象・出来事" ]
+      "forms" : [ "形式noun #2", "the event/situation (that S V)" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
