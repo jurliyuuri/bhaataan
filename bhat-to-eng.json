@@ -1961,10 +1961,10 @@
     },
     "translations" : [ {
       "title" : "postposition",
-      "forms" : [ "（稀）～のような", "～ように" ]
+      "forms" : [ "(rare)～のような", "～ように" ]
     }, {
       "title" : "postposition",
-      "forms" : [ "（infinitiveまたはkoḍiを受けて）〜を", "〜について", "(文末で用いて)～なんて" ]
+      "forms" : [ "(after an infinitive or koḍi) 〜を", "〜について", "(文末で用いて)～なんて" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3039,7 +3039,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(instrumental)に対して敬礼する" ]
+      "forms" : [ "to salute [instrumental]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3058,7 +3058,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(accusative)を積む", "〜(accusative)を積み上げる", "功績を上げる", "結果を出す" ]
+      "forms" : [ "to stack/pile up [accusative]", "功績を上げる", "結果を出す" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3146,12 +3146,12 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "流れ", "繋がり" ]
+      "forms" : [ "流れ", "link", "connection" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
-      "text" : "牌tak1,藍taku;比較的最近の借用語"
+      "text" : "relatively recent borrowing of 牌tak1,藍taku"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -6189,7 +6189,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
-      "text" : "牌xi zi aからの借用"
+      "text" : "borrowing of 牌xi zi a"
     }, {
       "title" : "usage",
       "text" : "パイグと異なり呼びかけには用いず、専ら挨拶としてのみ使う。"
@@ -6360,7 +6360,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(nominative)は（質などが）劣悪である", "[nominative] is inferior" ]
+      "forms" : [ "[nominative] is of poor quality", "[nominative] is inferior" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6376,7 +6376,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "劣悪なもの", "劣っているもの", "質の低いもの", "低質なもの" ]
+      "forms" : [ "something of poor quality", "something that is inferior" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6483,12 +6483,12 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "káという発話のうちkのplural 形を意味していることを明示する表現" ]
+      "forms" : [ "the phrase used to denote the phrase \"ká\" to mean the plural of \"k\"" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "difference between synonyms",
-      "text" : "káには、third person feminine singular である可能性とk「物」のplural 形である可能性があるので、それを区別するための表現。"
+      "text" : "Since the phrase \"ká\" can either be the third person feminine singular pronoun or the plural of \"k\" (thing), this phrase can be used to disambiguate them."
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -6523,12 +6523,12 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "káという発話のうちthird person feminine singular を意味していることを明示する表現" ]
+      "forms" : [ "the phrase used to denote the phrase \"ká\" to mean the third person feminine singular pronoun" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "difference between synonyms",
-      "text" : "káには、third person feminine singular である可能性とk「物」のplural 形である可能性があるので、それを区別するための表現。"
+      "text" : "Since the phrase \"ká\" can either be the third person feminine singular pronoun or the plural of \"k\" (thing), this phrase can be used to disambiguate them."
     } ],
     "variations" : [ ],
     "relations" : [ {
