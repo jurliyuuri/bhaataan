@@ -3211,7 +3211,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
-      "text" : "理語xejuからの借用"
+      "text" : "borrowed from 理xeju"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4744,7 +4744,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "(形式noun #1)", "thing" ]
+      "forms" : [ "(dependent noun #1)", "thing" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4752,7 +4752,7 @@
       "text" : "Appears only after a genitive or an adjective. Singular nominative tends to appear as zero.\nko ámaom hem? Is this yours?\námaom kele sujamúha? Do you use yours?"
     }, {
       "title" : "cognate(s)",
-      "text" : "牌ku,アイルku"
+      "text" : "牌ku,藍ku"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -4963,7 +4963,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "(形式noun #3)", "the fact (that S V)", "that (S V)" ]
+      "forms" : [ "(dependent noun #3)", "the fact (that S V)", "that (S V)" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4979,7 +4979,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "形式noun #2", "the event/situation (that S V)" ]
+      "forms" : [ "dependent noun #2", "the event/situation (that S V)" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
