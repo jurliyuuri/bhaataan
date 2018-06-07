@@ -3325,7 +3325,7 @@
     },
     "translations" : [ {
       "title" : "interjection",
-      "forms" : [ "あー！", "えー", "それでは", "じゃあ" ]
+      "forms" : [ "oh", "um", "then", "well then" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3937,7 +3937,7 @@
     },
     "translations" : [ {
       "title" : "postposition",
-      "forms" : [ "〜を原因として" ]
+      "forms" : [ "due to", "because of", "owing to" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -4586,7 +4586,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "下" ]
+      "forms" : [ "the place under/beneath/below [instrumental]" ]
     }, {
       "title" : "consonant stem noun",
       "forms" : [ "(in genitive) new" ]
@@ -4597,7 +4597,7 @@
       "text" : "牌ut2,藍utu"
     }, {
       "title" : "usage",
-      "text" : "「Aの下」などを表すときには、Aをinstrumentalにする。（いわゆる基準instrumental）"
+      "text" : "to say \"somewhere under A\", you use A's instrumental case followed by rúṣ.\nṣoyabhau rúṣán bhoṇau \"a burrow under a wall\""
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -5062,7 +5062,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(accusative)を見つけて抜き取る", "〜(accusative)を抜き取る・抜き出す", "〜(accusative)(花など)を摘む", "〜(accusative)を見つけ出す" ]
+      "forms" : [ "to find out/spot and extract [accusative]", "to pull out/extract [accusative]", "to pick [accusative] (flowers and the like)", "to discover [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5113,7 +5113,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(accusative)を見ている", "〜(accusative)が〜(nominative)には見えている" ]
+      "forms" : [ "to be looking at/watching [accusative]", "for [nominative] to be able to see/observe [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
