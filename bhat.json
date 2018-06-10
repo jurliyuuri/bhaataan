@@ -3165,7 +3165,7 @@
     },
     "translations" : [ {
       "title" : "母音幹名詞",
-      "forms" : [ "墨" ]
+      "forms" : [ "墨", "墨汁" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3174,6 +3174,9 @@
     }, {
       "title" : "ラネーメ祖語形",
       "text" : "*furoo"
+    }, {
+      "title" : "用法",
+      "text" : "燐字から見て取れるように、液状の墨汁が第一義である。"
     } ],
     "variations" : [ ],
     "relations" : [ ]

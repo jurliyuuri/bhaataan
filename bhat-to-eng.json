@@ -3168,7 +3168,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "墨" ]
+      "forms" : [ "carbon ink" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3177,6 +3177,9 @@
     }, {
       "title" : "Proto-Lanermic form",
       "text" : "*furoo"
+    }, {
+      "title" : "usage",
+      "text" : "As can be seen from the Lin character, the primary meaning is the ink, not the inkstick."
     } ],
     "variations" : [ ],
     "relations" : [ ]
