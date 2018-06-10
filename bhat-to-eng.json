@@ -2661,7 +2661,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "何", "どれ" ]
+      "forms" : [ "what", "which" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3102,7 +3102,7 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(hína)のために〜(accusative)を使う・利用する" ]
+      "forms" : [ "to use/utilize [accusative] for the purpose of [hína]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5281,7 +5281,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(infinitive)しすぎている", "〜(nominative)は過度である" ]
+      "forms" : [ "to be doing [infinitive] too much", "[nominative] is excessive" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5289,7 +5289,7 @@
       "text" : "藍suvoo"
     }, {
       "title" : "usage",
-      "text" : "infinitiveまたはverb +nominalization suffix #4を主語として取るのが基本である。"
+      "text" : "Usually takes an infinitive or [verb + nominalization suffix #4] as the subject."
     } ],
     "variations" : [ ],
     "relations" : [ ]
