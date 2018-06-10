@@ -2036,7 +2036,7 @@
     },
     "translations" : [ {
       "title" : "postposition",
-      "forms" : [ "～へ", "～に" ]
+      "forms" : [ "toward", "for", "to" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2099,7 +2099,7 @@
     },
     "translations" : [ {
       "title" : "non-conjugating verb",
-      "forms" : [ "完了のnon-conjugating verb", "ある", "～は～である" ]
+      "forms" : [ "完了のnon-conjugating verb", "ある", "for [nominative] to be [nominative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2127,7 +2127,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "to exist", "to be" ]
+      "forms" : [ "to exist", "for there to be [nominative]", "for [hína] to have [nominative]" ]
     }, {
       "title" : "stative verb",
       "forms" : [ "to be [infinitive]-ing" ]
@@ -2177,7 +2177,7 @@
     },
     "translations" : [ {
       "title" : "postposition",
-      "forms" : [ "～に", "～で" ]
+      "forms" : [ "at/in/on (time/place)", "(other miscellaneous usages)" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
