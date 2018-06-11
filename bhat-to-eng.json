@@ -2910,7 +2910,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "出身", "故郷", "(我が)国" ]
+      "forms" : [ "hometown", "homeland", "birthplace", "fatherland", "motherland", "native country" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5138,10 +5138,10 @@
     },
     "translations" : [ {
       "title" : "instantaneous verb",
-      "forms" : [ "〜(accusative)を願う", "〜(accusative)を望む", "〜(infinitive+ema)したい", "〜(主文と異なる主語を伴うinfinitive+ema)してほしい" ]
+      "forms" : [ "for [nominative] to think/feel that he/she/they himself/herself/themselves want [accusative]", "(and the like; basically the instantaneous versions of the same verb)" ]
     }, {
       "title" : "stative verb",
-      "forms" : [ "〜(accusative)を願っている", "〜(accusative)を望んでいる", "〜(infinitive+ema)したいと思っている", "〜(主文と異なる主語を伴うinfinitive+ema)してほしいと思っている" ]
+      "forms" : [ "to desire/wish/hope/want [accusative]", "to want/wish/be eager to do [infinitive+ema]", "to want (someone) to do [infinitive that has the different subject from the main clause+ema]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5202,7 +5202,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "元来rijúḷにnominalization suffix #1のついたrijz「願い事」と同一の語だが、意味の差により綴り分けられる。"
+      "text" : "It is originally the same word as \"rijz\" (aspiration, wish), which is formed by appending the nominalization suffix #1 to \"rijúḷ\". However, it is spelled differently owing to the subtle difference in the meaning."
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -5341,7 +5341,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜(nominative)には〜(accusative/infinitive+ema)ができる", "〜(nominative)は〜(infinitive+ema)することができる", "〜(nominative)には〜(infinitive+ema)する能力がある", "〜(nominative)は〜(accusative/infinitive+ema)を実行できる" ]
+      "forms" : [ "for [nominative] to be able to do [accusative/infinitive+ema]", "for [nominative] to be capable of doing [infinitive+ema]", "for [nominative] to have the ability to do [infinitive+ema]", "for [nominative] to be able to perform [accusative/infinitive+ema]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6187,7 +6187,7 @@
     },
     "translations" : [ {
       "title" : "interjection",
-      "forms" : [ "こんにちは", "やあ", "こんばんは", "おはよう" ]
+      "forms" : [ "hello", "hi", "good morning", "good afternoon", "hello there", "howdy", "good evening" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6195,7 +6195,7 @@
       "text" : "borrowing of 牌xi zi a"
     }, {
       "title" : "usage",
-      "text" : "パイグと異なり呼びかけには用いず、専ら挨拶としてのみ使う。"
+      "text" : "Unlike in 牌, this phrase is not used for calling/addressing to someone, but used exclusively for greeting."
     } ],
     "variations" : [ ],
     "relations" : [ ]
