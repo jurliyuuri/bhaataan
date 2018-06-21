@@ -6630,6 +6630,22 @@
         "form" : "rásit"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 297,
+      "form" : "wephise"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "ヴェフィス language", "the people of ヴェフィス" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "borrowed from 理vefise"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

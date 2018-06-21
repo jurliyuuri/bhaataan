@@ -6627,6 +6627,22 @@
         "form" : "rásit"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 297,
+      "form" : "wephise"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "ヴェフィス語", "ヴェフィス人" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理vefiseからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
