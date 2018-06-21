@@ -711,6 +711,12 @@
         "id" : 262,
         "form" : "rúṣán káṇa"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 296,
+        "form" : "bhátán rásit"
+      }
     } ]
   }, {
     "entry" : {
@@ -1674,7 +1680,13 @@
       "text" : "*phed"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 296,
+        "form" : "bhátán rásit"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 75,
@@ -6579,6 +6591,43 @@
       "entry" : {
         "id" : 236,
         "form" : "rásitúḷ"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 296,
+        "form" : "bhátán rásit"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 296,
+      "form" : "bhátán rásit"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "\"bhát-ness\"", "phonological feature of bhát language and its vocabulary" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 74,
+        "form" : "bhát"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 35,
+        "form" : "-án"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 295,
+        "form" : "rásit"
       }
     } ]
   } ],
