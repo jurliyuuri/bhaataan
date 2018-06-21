@@ -5108,7 +5108,13 @@
       "text" : "藍asiti,理korniusti'e(←藍kaunyou asiti)"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 295,
+        "form" : "rásit"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 237,
@@ -6551,6 +6557,28 @@
       "entry" : {
         "id" : 46,
         "form" : "-om"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 295,
+      "form" : "rásit"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "香り", "良い香り", "いいにおい", "匂い", "(肯定的な)特徴" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍asiti,理korniusti'e(←藍kaunyou asiti)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 236,
+        "form" : "rásitúḷ"
       }
     } ]
   } ],

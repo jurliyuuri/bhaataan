@@ -711,6 +711,12 @@
         "id" : 262,
         "form" : "rúṣán káṇa"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 296,
+        "form" : "bhátán rásit"
+      }
     } ]
   }, {
     "entry" : {
@@ -1674,7 +1680,13 @@
       "text" : "*phed"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 296,
+        "form" : "bhátán rásit"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 75,
@@ -5105,7 +5117,13 @@
       "text" : "藍asiti,理korniusti'e(←藍kaunyou asiti)"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 295,
+        "form" : "rásit"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 237,
@@ -6548,6 +6566,65 @@
       "entry" : {
         "id" : 46,
         "form" : "-om"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 295,
+      "form" : "rásit"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "香り", "良い香り", "いいにおい", "匂い", "(肯定的な)特徴" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍asiti,理korniusti'e(←藍kaunyou asiti)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 236,
+        "form" : "rásitúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 296,
+        "form" : "bhátán rásit"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 296,
+      "form" : "bhátán rásit"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "「バートらしさ」", "バート語の音韻的特徴" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 74,
+        "form" : "bhát"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 35,
+        "form" : "-án"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 295,
+        "form" : "rásit"
       }
     } ]
   } ],
