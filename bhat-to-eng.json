@@ -1313,7 +1313,13 @@
       "text" : "*akq"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 299,
+        "form" : "aghauṭawaim"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 56,
@@ -1528,7 +1534,13 @@
       "text" : "*many"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 300,
+        "form" : "bánim"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 67,
@@ -2360,7 +2372,13 @@
       "text" : "*raikqt"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 301,
+        "form" : "kádan"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 104,
@@ -2870,7 +2888,13 @@
       "text" : "*saphaku"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 298,
+        "form" : "ṣabhahum"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 128,
@@ -3524,6 +3548,12 @@
         "id" : 158,
         "form" : "-aim"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 299,
+        "form" : "aghauṭawaim"
+      }
     } ]
   }, {
     "entry" : {
@@ -3585,6 +3615,18 @@
       "entry" : {
         "id" : 163,
         "form" : "-an"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 298,
+        "form" : "ṣabhahum"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 300,
+        "form" : "bánim"
       }
     } ]
   }, {
@@ -6649,6 +6691,137 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 298,
+      "form" : "ṣabhahum"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "(name)" ]
+    } ],
+    "tags" : [ "name" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 127,
+        "form" : "ṣabhahu"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 159,
+        "form" : "-m"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 299,
+      "form" : "aghauṭawaim"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "(name)" ]
+    } ],
+    "tags" : [ "name" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 55,
+        "form" : "aghauṭa"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 157,
+        "form" : "-waim"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 300,
+      "form" : "bánim"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "(name)" ]
+    } ],
+    "tags" : [ "name" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 66,
+        "form" : "báni"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 159,
+        "form" : "-m"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 159,
+        "form" : "-m"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 301,
+      "form" : "kádan"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "(name)" ]
+    } ],
+    "tags" : [ "name" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 103,
+        "form" : "kád"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 163,
+        "form" : "-an"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 302,
+      "form" : "rízan"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "(name)" ]
+    } ],
+    "tags" : [ "name" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 240,
+        "form" : "ríz"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 163,
+        "form" : "-an"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

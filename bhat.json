@@ -1313,7 +1313,13 @@
       "text" : "*akq"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 299,
+        "form" : "aghauṭawaim"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 56,
@@ -1528,7 +1534,13 @@
       "text" : "*many"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 300,
+        "form" : "bánim"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 67,
@@ -2357,7 +2369,13 @@
       "text" : "*raikqt"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 301,
+        "form" : "kádan"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 104,
@@ -2867,7 +2885,13 @@
       "text" : "*saphaku"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 298,
+        "form" : "ṣabhahum"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 128,
@@ -3521,6 +3545,12 @@
         "id" : 158,
         "form" : "-aim"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 299,
+        "form" : "aghauṭawaim"
+      }
     } ]
   }, {
     "entry" : {
@@ -3582,6 +3612,18 @@
       "entry" : {
         "id" : 163,
         "form" : "-an"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 298,
+        "form" : "ṣabhahum"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 300,
+        "form" : "bánim"
       }
     } ]
   }, {
@@ -3693,6 +3735,18 @@
       "entry" : {
         "id" : 161,
         "form" : "-n"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 301,
+        "form" : "kádan"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 302,
+        "form" : "rízan"
       }
     } ]
   }, {
@@ -5238,6 +5292,12 @@
         "id" : 241,
         "form" : "rijz"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 302,
+        "form" : "rízan"
+      }
     } ]
   }, {
     "entry" : {
@@ -5916,7 +5976,7 @@
       "title" : "子音幹名詞",
       "forms" : [ "リパコール" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "人名" ],
     "contents" : [ {
       "title" : "同根語",
       "text" : "理lipakorlからの借用。"
@@ -6646,6 +6706,131 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 298,
+      "form" : "ṣabhahum"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 127,
+        "form" : "ṣabhahu"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 159,
+        "form" : "-m"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 299,
+      "form" : "aghauṭawaim"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 55,
+        "form" : "aghauṭa"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 157,
+        "form" : "-waim"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 300,
+      "form" : "bánim"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 66,
+        "form" : "báni"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 159,
+        "form" : "-m"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 301,
+      "form" : "kádan"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 103,
+        "form" : "kád"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 163,
+        "form" : "-an"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 302,
+      "form" : "rízan"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 240,
+        "form" : "ríz"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 163,
+        "form" : "-an"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
