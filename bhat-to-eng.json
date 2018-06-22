@@ -607,7 +607,7 @@
         "form" : "-zá"
       }
     }, {
-      "title" : "単複",
+      "title" : "singular / plural",
       "entry" : {
         "id" : 273,
         "form" : "-i"
@@ -638,7 +638,7 @@
         "form" : "-dhel"
       }
     }, {
-      "title" : "単複",
+      "title" : "singular / plural",
       "entry" : {
         "id" : 34,
         "form" : "-elená"
@@ -663,7 +663,7 @@
         "form" : "-dhelá"
       }
     }, {
-      "title" : "単複",
+      "title" : "singular / plural",
       "entry" : {
         "id" : 33,
         "form" : "-ele"
@@ -700,7 +700,7 @@
         "form" : "-om"
       }
     }, {
-      "title" : "単複",
+      "title" : "singular / plural",
       "entry" : {
         "id" : 36,
         "form" : "-áná"
@@ -749,7 +749,7 @@
         "form" : "-omá"
       }
     }, {
-      "title" : "単複",
+      "title" : "singular / plural",
       "entry" : {
         "id" : 35,
         "form" : "-án"
@@ -798,7 +798,7 @@
         "form" : "-bhau"
       }
     }, {
-      "title" : "単複",
+      "title" : "singular / plural",
       "entry" : {
         "id" : 38,
         "form" : "-ainá"
@@ -817,7 +817,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "単複",
+      "title" : "singular / plural",
       "entry" : {
         "id" : 37,
         "form" : "-ai"
@@ -842,7 +842,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "単複",
+      "title" : "singular / plural",
       "entry" : {
         "id" : 40,
         "form" : "-iná"
@@ -873,7 +873,7 @@
         "form" : "-dhíná"
       }
     }, {
-      "title" : "単複",
+      "title" : "singular / plural",
       "entry" : {
         "id" : 39,
         "form" : "-i"
@@ -917,7 +917,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "単複",
+      "title" : "singular / plural",
       "entry" : {
         "id" : 43,
         "form" : "-dhelá"
@@ -942,7 +942,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "単複",
+      "title" : "singular / plural",
       "entry" : {
         "id" : 42,
         "form" : "-dhel"
@@ -967,7 +967,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "単複",
+      "title" : "singular / plural",
       "entry" : {
         "id" : 45,
         "form" : "-home"
@@ -985,7 +985,7 @@
         "form" : "-án"
       }
     }, {
-      "title" : "単複",
+      "title" : "singular / plural",
       "entry" : {
         "id" : 47,
         "form" : "-omá"
@@ -1040,13 +1040,13 @@
         "form" : "-áná"
       }
     }, {
-      "title" : "単複",
+      "title" : "singular / plural",
       "entry" : {
         "id" : 44,
         "form" : "-homá"
       }
     }, {
-      "title" : "単複",
+      "title" : "singular / plural",
       "entry" : {
         "id" : 46,
         "form" : "-om"
@@ -1065,7 +1065,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "単複",
+      "title" : "singular / plural",
       "entry" : {
         "id" : 45,
         "form" : "-home"
@@ -1108,7 +1108,7 @@
         "form" : "-home"
       }
     }, {
-      "title" : "単複",
+      "title" : "singular / plural",
       "entry" : {
         "id" : 44,
         "form" : "-homá"
@@ -1139,7 +1139,7 @@
         "form" : "-ai"
       }
     }, {
-      "title" : "単複",
+      "title" : "singular / plural",
       "entry" : {
         "id" : 49,
         "form" : "-bhauná"
@@ -1164,7 +1164,7 @@
         "form" : "-ainá"
       }
     }, {
-      "title" : "単複",
+      "title" : "singular / plural",
       "entry" : {
         "id" : 48,
         "form" : "-bhau"
@@ -1183,7 +1183,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "単複",
+      "title" : "singular / plural",
       "entry" : {
         "id" : 51,
         "form" : "-dhíná"
@@ -1214,7 +1214,7 @@
         "form" : "-iná"
       }
     }, {
-      "title" : "単複",
+      "title" : "singular / plural",
       "entry" : {
         "id" : 50,
         "form" : "-ḍi"
@@ -2502,7 +2502,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "単複",
+      "title" : "singular / plural",
       "entry" : {
         "id" : 110,
         "form" : "kiṣlo"
@@ -2527,7 +2527,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "単複",
+      "title" : "singular / plural",
       "entry" : {
         "id" : 109,
         "form" : "kí"
@@ -4813,7 +4813,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "単複",
+      "title" : "singular / plural",
       "entry" : {
         "id" : 292,
         "form" : "ká"
@@ -6109,7 +6109,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "単複",
+      "title" : "singular / plural",
       "entry" : {
         "id" : 32,
         "form" : "-á"
@@ -6536,7 +6536,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "単複",
+      "title" : "singular / plural",
       "entry" : {
         "id" : 216,
         "form" : "k"
