@@ -2175,7 +2175,7 @@
       "title" : "dynamic verb",
       "forms" : [ "〜(ema)を思う・〜(ema)について考える" ]
     }, {
-      "title" : "verb ",
+      "title" : "verb",
       "forms" : [ "(verb infinitive+heyákáṣlo)～だろうか" ]
     } ],
     "tags" : [ ],
@@ -4358,7 +4358,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "「規則的に動くもの」が原義なので、zíghíṣは置き時計・腕時計・日時計・砂時計など全ての種類の時計を指せる。"
+      "text" : "Since this word comes from zíghúḷ \"to move steadily\", zíghíṣ can refer to any kind of time-measuring device that has to do with steady motion, whether it is a table clock, a wristwatch, a sundial or an hourglass."
     }, {
       "title" : "cognate(s)",
       "text" : "chixu.ar, chigo.ar"
@@ -5717,7 +5717,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "路商", "露天商" ]
+      "forms" : [ "street vendor" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -6513,10 +6513,10 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
-      "text" : "理artar、伐aṭam"
+      "text" : "理artar, 伐aṭam"
     }, {
       "title" : "culture",
-      "text" : "aṭamと同根である（餡や甘いものは昔は高価であり、高貴な身分と結び付けられたため）。「歴史的音韻変化により、かつての強勢（と思われる箇所）の音節は大体の語において伸びたが、『神』『皇帝』では変化しなかった」「元々祖語の語頭’はá-とa-で揺れる。ただそれだけである」などの説が提唱されている。"
+      "text" : "etymologically related to aṭam."
     } ],
     "variations" : [ ],
     "relations" : [ ]
