@@ -6822,6 +6822,22 @@
         "form" : "-an"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 303,
+      "form" : "dákínúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to give [accusative] to [ghi]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍takina"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

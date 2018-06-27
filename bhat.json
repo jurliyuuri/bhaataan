@@ -6831,6 +6831,22 @@
         "form" : "-an"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 303,
+      "form" : "dákínúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)を〜(ghi)に与える" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍takina"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
