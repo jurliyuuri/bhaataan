@@ -1,0 +1,387 @@
+
+jekto vatimeliju [00:20]
+jekto vatimeliju
+＊名詞エリア：格（主格・無格・対格・属格・具格・後置格）・後置詞
+＊動詞エリア：状態動詞・動作動詞・活用（人称・性・不定詞・終止詞・過去分詞・未来分詞・命令形）
+バート語はだいたいこの二つで構成できるので、この二つの用語をしっかり定めれば問題はなさそう
+#言語学 への投稿5月3日
+こいつら確定させれば一応書けそうだな
+
+Fafs falira [00:22]
+格は大体行けそうか？
+無格ってどうする
+
+jekto vatimeliju [00:23]
+lsans 主格
+tsans 対格
+diursans 属格 
+iusans ...? 無格
+iursansにしとくか
+
+Fafs falira [00:23]
+ok
+
+jekto vatimeliju [00:24]
+ユーゴック語のを訳すときにも使えるわな
+
+Fafs falira [00:24]
+ほう
+
+jekto vatimeliju [00:25]
+ユーゴック語にも無格があるんですよ
+
+Fafs falira [00:26]
+後置格、emaltlese'd sansってのがわかりやすいが長いな
+
+jekto vatimeliju [00:26]
+まあ英語もpostpositional caseで十分長いので
+前置詞は無いし良さそうですな
+
+Fafs falira [00:27]
+なるほど
+名詞はそんなあたりか
+
+jekto vatimeliju [00:28]
+この画像をアップロードしました: 用語集 
+
+
+jekto vatimeliju [00:29]
+具格どうします？「〜を使って」以外の意味で広く用いられ、「〜を使って」の意味で用いられた例がまだ無いことで私の中で話題ですが
+
+Fafs falira [00:30]
+具格の幅広い用法というと
+
+jekto vatimeliju [00:30]
+「〜(具格)に敬礼する」
+「〜(具格)の近く」
+「〜(具格)の下」
+「〜(対格)を〜(具格)とみなす」
+「〜(具格)の近くである・〜(具格)に空間的に近い」
+
+Fafs falira [00:32]
+具格とはって状態だ
+
+jekto vatimeliju [00:33]
+「〜を使って」の意味での例文も今後書いていく予定だけどね
+
+Fafs falira [00:35]
+結局どうするんだこれ、leusursansでいいのか
+
+jekto vatimeliju [00:36]
+もうそれでいいでしょ（てきとう）
+対案思いつかんし
+一応対案考えてみるか？うーん
+「名詞も動詞も修飾できる格」
+んーー
+んー
+leusursansでいいんじゃないですか
+
+Fafs falira [00:38]
+よし
+
+jekto vatimeliju [00:39]
+はい格は揃った
+
+Fafs falira [00:39]
+人称・性・不定詞・終止詞・過去分詞・未来分詞・命令形
+
+jekto vatimeliju [00:39]
+状態動詞・動作動詞
+
+Fafs falira [00:40]
+ftusurla 人称
+(mien/(knaen/knanerfe)coen/nien/alsen) ftusurla　(一人称/(直接/間接)二人称/三人称/四人称)代名詞 （編集済み）
+
+jekto vatimeliju [00:42]
+snosti'd/sytene'd ftona  状態動詞
+とかかね （編集済み）
+いや、こういうのは-enか
+sytenen ftonaかな
+tsansen ftona「他動詞」、分かりやすくていいですな
+
+Fafs falira [00:44]
+lexef 名詞性
+
+jekto vatimeliju [00:45]
+とはいえバート語は生物学性だからなぁ（果たしてあれを名詞クラスとして見るのだろうかという疑問はある）
+印欧言語が生えているわけでもないしなぁ
+
+Fafs falira [00:46]
+一番近いクラス持ち言語がヴェフィス語なのでな
+
+jekto vatimeliju [00:46]
+ふむふむ
+
+Fafs falira [00:47]
+するとsnostiでも良いんだがな
+
+jekto vatimeliju [00:48]
+なら「状態動詞」はsytenで処理するか
+
+Fafs falira [00:54]
+うむ
+
+Fafs falira [15:15]
+終止詞って何？
+
+jekto vatimeliju [15:17]
+（fafs文法書から取ってきた用語なんだよなぁ）
+まあ現在終止形みたいなもんよ、動詞の活用であって、主文の述語でのみ使える
+
+Fafs falira [15:17]
+辞書型と同じならgyleryみたいな感じでどうだろう
+あ、いや、人称変化してるから違うのか、よくわからないな（作った本人）
+
+jekto vatimeliju [15:18]
+辞書形は不定詞で載せるんよ
+「終止詞」とは言っても文末に来る保証も無いしなぁ
+
+Fafs falira [15:21]
+ftonajtとかどうでしょう
+
+jekto vatimeliju [15:23]
+よさそう
+知らんと何も伝わらない（代わりに誤解も与えにくい）感じの用語のほうが確かに向いていそう
+
+Fafs falira [15:23]
+それ
+
+jekto vatimeliju [15:24]
+さて
+「「「未来分詞」」」
+「「「過去分詞」」」
+未来分詞は未来だけど過去分詞は必ずしも過去ではないという
+
+Fafs falira [15:24]
+とりあえずなんとかtiliesterloやろな
+
+jekto vatimeliju [15:25]
+微粒子・粉・分詞・部品
+ふむふむ
+(nestile'd/noen/velen) tiliesterlo　(過去/現在/受動)分詞
+まあバート語のはnestilとは限らんのが問題ですな
+
+Fafs falira [15:28]
+具体的に
+
+jekto vatimeliju [15:29]
+この画像をアップロードしました: tense_aspect.png 
+
+
+Fafs falira [15:32]
+時々現在になるの笑うが
+
+jekto vatimeliju [15:32]
+この画像をアップロードし、コメントしました: tense1.png 
+
+一応理由はある
+
+Fafs falira [15:34]
+もうnornestile'dとかでよくね（適当）
+
+jekto vatimeliju [15:34]
+「「分詞その1」」
+「「分詞その2」」
+nornestile'dもまあアリかもですな
+
+Fafs falira [15:35]
+あー第二接続法みたいの好きだから数字採用しようよ
+1te/2te tiliesterlo
+
+jekto vatimeliju [15:36]
+なるほどね。既に「名詞化第一接尾辞」〜「名詞化第五接尾辞」とかがあるし
+さてどっちが1でどっちが2か
+まあ使用頻度が高いのは明らかに過去分詞
+
+Fafs falira [15:37]
+すると1が過去分詞ってことかな
+
+jekto vatimeliju [15:37]
+じゃあそれで
+
+Fafs falira [15:37]
+未来過去って並んでたらそれはそれで学習者が発狂しそう
+1te/2te tiliesterlo 過去/未来分詞
+
+jekto vatimeliju [15:38]
+あとは何が残ってたっけな
+関係代名詞とかか
+
+Fafs falira [15:39]
+zumelerlだそうだ
+
+jekto vatimeliju [15:40]
+ほんとだ
+diursans 属格 
+iursans 無格
+紛らわしい気がしてきた
+
+Fafs falira [15:40]
+たしかに
+
+jekto vatimeliju [15:41]
+とはいえieselは不適かなぁ？
+
+Fafs falira [15:41]
+ここでgyleryの出番では？
+
+jekto vatimeliju [15:42]
+いいえ。無格は原形/辞書形/ゼロ形ではないのです
+
+Fafs falira [15:42]
+うーん
+
+jekto vatimeliju [15:42]
+https://docs.google.com/spreadsheets/d/1cCVMhX8EDpge4qGaOFbGdtXqgyj13Mf0Qftc-4f8orY/edit#gid=0
+
+Fafs falira [15:43]
+うーん？（zeroって書いてある（詳細な説明求む））
+fanklavoloは良いんだが、eustiraは良くないかもしれない
+
+jekto vatimeliju [15:48]
+そうなんよね
+バート語の複数は義務的なので
+（ただし数詞と「多くの」の後は単数形縛り）
+
+Fafs falira [15:49]
+lolervelとかですかね
+
+jekto vatimeliju [15:59]
+不定詞
+まあ節の名詞化なんですよねこれ
+実質-oというところがある
+
+Fafs falira [16:01]
+krachi'a'd klapalsだ。
+動詞連体形名詞語尾
+
+jekto vatimeliju [16:01]
+ただし連体形に当たるのは分詞というのが悩ましい
+
+Fafs falira [16:02]
+あ、これ伝統的なアレなのでkrachi'aってのは慣用的な使い方になっている。まあでも、それをそのまま持ってきてもアか。
+
+jekto vatimeliju [16:02]
+なるほどね
+リパラオネ人は分詞がlex Vで不定詞がV-oだと教わりそう
+
+Fafs falira [16:03]
+分かりやすい（わかりやすい）
+
+jekto vatimeliju [16:04]
+あと、krachi'a'd klapalsに当たるのは接辞たる-úḷだろうけど、不定詞ってのは「aḍuhazoúḷ」全体を指すので、その意味でも不適ですな
+
+Fafs falira [16:05]
+そうなるとkranchi'aって言い切るのはまずいな
+
+jekto vatimeliju [16:06]
+la ftona-ad-o（は？）
+
+Fafs falira [16:07]
+F T O N A R A D R O （　は　？）
+
+jekto vatimeliju [16:08]
+ftlexisa方面とか
+
+Fafs falira [16:10]
+ftlexisa'd ftlexestriselとかどうでしょう。名詞化接尾辞に被るけど
+
+jekto vatimeliju [16:11]
+なるほど-el
+名詞化接尾辞は-erにすればいいのでは
+んーでも紛らわしいなぁ
+不定詞と名詞化接尾辞の違いですが、まあ要するに、
+
+Fafs falira [16:12]
+-erを人以外に使うのは古語的なんですよね
+
+jekto vatimeliju [16:13]
+あー
+不定詞はV-oなのでV-o N's N'i N'cとかができ、かつ元の動詞の義をそっくり引き継ぐけれど、
+名詞化接尾辞は「定期的に動く」を名詞化して「時計」、「巻く」を名詞化して「腰巻き」、「書く」を名詞化して「文化」、みたいに使うんよ
+
+Fafs falira [16:16]
+お前派生してるやんけ！！！
+
+jekto vatimeliju [16:16]
+-zはあんまり意味変わらんけどね
+
+Fafs falira [16:16]
+jujolelにしような
+
+jekto vatimeliju [16:17]
+この画像をアップロードしました: Capture d’écran 2018-06-17 à 16.16.58.png 
+
+
+jekto vatimeliju [16:17]
+「痕跡的にしか残っていない」っていうけど設定してないんよね
+
+Fafs falira [16:17]
+草
+名詞化接尾辞はn-te jujojel、ftlexisa'd ftlexestriselで不定形でどうだろう
+
+jekto vatimeliju [16:18]
+多分自然と適切なのがいつか生えてくれる
+jujojelいいね
+
+Fafs falira [16:20]
+無変化動詞はhermで
+
+jekto vatimeliju [16:20]
+うむ、hermでいいな
+
+Fafs falira [16:20]
+これ多分文法の日本語名ヴェフィス語文法に影響されてるでしょうな
+
+jekto vatimeliju [16:20]
+㍂
+「指示・固有」ってのもそれかね（三人称中性のことだと解釈しているけど）
+
+Fafs falira [16:21]
+あー
+それは古理文法っぽい
+
+jekto vatimeliju [16:22]
+なるほど。まあ三人称中性でいいですよな
+
+Fafs falira [16:23]
+結局無格ってどうするんだろう？
+
+jekto vatimeliju [16:24]
+んー
+iursansは紛らわしいこと以外には欠点無いからなぁ
+
+Fafs falira [16:25]
+まあ、それはそれとして、代替の単語をどうするかということですが
+
+jekto vatimeliju [16:25]
+ieselersans
+んー無の感じが出ないのかなぁ
+一応無格を説明しておくか
+
+Fafs falira [16:25]
+tuan - gentuan、sans - gensans（？？？？？？？？？）
+
+jekto vatimeliju [16:25]
+無格は、「名詞接続詞で繋がれた名詞のうち最後の名詞以外」など、後続の語に付いた格語尾で意味上の格が判別できる場合に用いる。
+gensansたのしいかもな
+「AとBを」→ A(無格) jo B(対格)
+「Aだけを」→ A(無格) dat(だけ)-ele(対格語尾)
+
+Fafs falira [16:29]
+うーむ
+あれ？これって接続格って言ってもよくね？
+
+jekto vatimeliju [16:30]
+たしかに
+多分
+一応確認する
+
+Fafs falira [16:30]
+もしそうならolorsansなど
+
+jekto vatimeliju [16:30]
+問題なさそう
+
+Fafs falira [16:30]
+ではolorsansでいきましょう
