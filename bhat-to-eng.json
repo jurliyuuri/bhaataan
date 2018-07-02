@@ -1845,6 +1845,12 @@
         "id" : 81,
         "form" : "cákíkúḷ"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 215,
+        "form" : "cákíkáta"
+      }
     } ]
   }, {
     "entry" : {
@@ -1868,12 +1874,6 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "derived term(s) / derived from",
-      "entry" : {
-        "id" : 215,
-        "form" : "cákíkáta"
-      }
-    }, {
       "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 80,
@@ -2243,7 +2243,19 @@
       "text" : "*furoo"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 304,
+        "form" : "-abát"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 98,
+        "form" : "horúḷ"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 98,
@@ -2270,6 +2282,12 @@
       "entry" : {
         "id" : 52,
         "form" : "accúḷ"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 97,
+        "form" : "horabát"
       }
     } ]
   }, {
@@ -4778,14 +4796,14 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "contraction of cákík- and -akáta."
+      "text" : "contraction of cákíka- and -káta."
     } ],
     "variations" : [ ],
     "relations" : [ {
       "title" : "derived term(s) / derived from",
       "entry" : {
-        "id" : 81,
-        "form" : "cákíkúḷ"
+        "id" : 80,
+        "form" : "cákíkaúḷ"
       }
     }, {
       "title" : "derived term(s) / derived from",
@@ -6838,6 +6856,50 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 304,
+      "form" : "-abát"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "nominalization suffix #5" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 305,
+        "form" : "-bát"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 97,
+        "form" : "horabát"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 305,
+      "form" : "-bát"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "nominalization suffix #5" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 304,
+        "form" : "-abát"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

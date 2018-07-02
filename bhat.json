@@ -1842,6 +1842,12 @@
         "id" : 81,
         "form" : "cákíkúḷ"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 215,
+        "form" : "cákíkáta"
+      }
     } ]
   }, {
     "entry" : {
@@ -1865,12 +1871,6 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "派生関係",
-      "entry" : {
-        "id" : 215,
-        "form" : "cákíkáta"
-      }
-    }, {
       "title" : "派生関係",
       "entry" : {
         "id" : 80,
@@ -2240,7 +2240,19 @@
       "text" : "*furoo"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 304,
+        "form" : "-abát"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 98,
+        "form" : "horúḷ"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 98,
@@ -2267,6 +2279,12 @@
       "entry" : {
         "id" : 52,
         "form" : "accúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 97,
+        "form" : "horabát"
       }
     } ]
   }, {
@@ -4787,14 +4805,14 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "用法",
-      "text" : "cákík- + -akátaが縮約したもの。"
+      "text" : "cákíka- + -kátaが縮約したもの。"
     } ],
     "variations" : [ ],
     "relations" : [ {
       "title" : "派生関係",
       "entry" : {
-        "id" : 81,
-        "form" : "cákíkúḷ"
+        "id" : 80,
+        "form" : "cákíkaúḷ"
       }
     }, {
       "title" : "派生関係",
@@ -6850,6 +6868,50 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 304,
+      "form" : "-abát"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "名詞化第五接尾辞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 305,
+        "form" : "-bát"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 97,
+        "form" : "horabát"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 305,
+      "form" : "-bát"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "名詞化第五接尾辞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 304,
+        "form" : "-abát"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
