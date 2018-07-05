@@ -1253,6 +1253,12 @@
         "id" : 98,
         "form" : "horúḷ"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 306,
+        "form" : "accabát"
+      }
     } ]
   }, {
     "entry" : {
@@ -6880,6 +6886,12 @@
         "id" : 97,
         "form" : "horabát"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 306,
+        "form" : "accabát"
+      }
     } ]
   }, {
     "entry" : {
@@ -6895,6 +6907,31 @@
     "variations" : [ ],
     "relations" : [ {
       "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 304,
+        "form" : "-abát"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 306,
+      "form" : "accabát"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "(grammatical) sentence" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 52,
+        "form" : "accúḷ"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 304,
         "form" : "-abát"

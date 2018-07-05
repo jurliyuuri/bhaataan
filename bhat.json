@@ -1253,6 +1253,12 @@
         "id" : 98,
         "form" : "horúḷ"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 306,
+        "form" : "accabát"
+      }
     } ]
   }, {
     "entry" : {
@@ -6892,6 +6898,12 @@
         "id" : 97,
         "form" : "horabát"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 306,
+        "form" : "accabát"
+      }
     } ]
   }, {
     "entry" : {
@@ -6907,6 +6919,31 @@
     "variations" : [ ],
     "relations" : [ {
       "title" : "異形態",
+      "entry" : {
+        "id" : 304,
+        "form" : "-abát"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 306,
+      "form" : "accabát"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "(文法上の)文" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 52,
+        "form" : "accúḷ"
+      }
+    }, {
+      "title" : "派生関係",
       "entry" : {
         "id" : 304,
         "form" : "-abát"
