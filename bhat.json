@@ -6949,10 +6949,26 @@
         "form" : "-abát"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 307,
+      "form" : "zámúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "優しい", "親切である" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍chame"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
-    "alphabetOrderType" : "UNICODE",
+    "wordOrderType" : "UNICODE",
     "punctuations" : [ ",", "　", "、", " ", " " ],
     "pronunciationTitle" : null,
     "plainInformationTitles" : [ ],

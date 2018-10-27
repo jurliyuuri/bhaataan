@@ -6937,10 +6937,26 @@
         "form" : "-abát"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 307,
+      "form" : "zámúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to be kind" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍chame"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
-    "alphabetOrderType" : "UNICODE",
+    "wordOrderType" : "UNICODE",
     "punctuations" : [ "," ],
     "pronunciationTitle" : null,
     "plainInformationTitles" : [ ],
