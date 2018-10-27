@@ -6953,6 +6953,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 308,
+      "form" : "ceṣlo"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "dog" ]
+    } ],
+    "tags" : [ "always singular declension" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
