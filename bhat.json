@@ -2436,6 +2436,12 @@
         "id" : 266,
         "form" : "káṇahomá amila"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 309,
+        "form" : "bhákáṇa"
+      }
     } ]
   }, {
     "entry" : {
@@ -2450,9 +2456,18 @@
     "contents" : [ {
       "title" : "ラネーメ祖語形",
       "text" : "*ka^nga+*'munq"
+    }, {
+      "title" : "類義語の使い分け",
+      "text" : "káṇámはどちらかというと未来に無限に続くことを意図するのに対し、bhákáṇaは単に「常である」様を表す。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 310,
+        "form" : "bhákáṇa"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 106,
@@ -2466,9 +2481,18 @@
     "contents" : [ {
       "title" : "ラネーメ祖語形",
       "text" : "*ka^nga+*'munq"
+    }, {
+      "title" : "類義語の使い分け",
+      "text" : "名詞bhákáṇaは属格でしか使えないが、káṇámは全ての格で使える。また、káṇámはどちらかというと未来に無限に続くことを意図するのに対し、bhákáṇaは単に「常である」様を表す。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 309,
+        "form" : "bhákáṇa"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 107,
@@ -6981,6 +7005,74 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 309,
+      "form" : "bhákáṇa"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "(属格で)常なる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "類義語の使い分け",
+      "text" : "名詞句「全ての時」はbhá káṇaと2単語で綴る。\n名詞bhákáṇaは属格でしか使えないが、káṇámは全ての格で使える。また、káṇámはどちらかというと未来に無限に続くことを意図するのに対し、bhákáṇaは単に「常である」様を表す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 169,
+        "form" : "bhá"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 104,
+        "form" : "káṇa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 106,
+        "form" : "káṇám"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 310,
+        "form" : "bhákáṇa"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 310,
+      "form" : "bhákáṇa"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "常に" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "類義語の使い分け",
+      "text" : "káṇámはどちらかというと未来に無限に続くことを意図するのに対し、bhákáṇaは単に「常である」様を表す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 309,
+        "form" : "bhákáṇa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 105,
+        "form" : "káṇám"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
