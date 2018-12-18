@@ -15,6 +15,10 @@ var id=0;
 function anchor(element){return '<a href="#'+element.id+'">'+element.innerText+'</a><br>'}
 
 for(var i=0;i<length;i++){
+	if (hs[i].classList.contains("do_not_create_header")) {
+		continue;
+	}
+
 	if(!hs[i].id){
 		hs[i].id="id"+id++;
 	}
