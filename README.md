@@ -10,6 +10,7 @@
 * [バート語の造語をするpart2](http://jurliyuuri.com/bhaataan/coin2.html) - バート語の単語の創作の様子を記したログpart2
 * [Githubリポジトリ](https://github.com/jurliyuuri/bhaataan) - このサイトの進捗や更新履歴などが確認できる
 * [バート語辞書](https://zpdic.herokuapp.com/dictionary/24) - 辞書が引ける(外部サイト)
+* [bhátán dictionary](https://zpdic.herokuapp.com/dictionary/52) - bhátán → English dictionary (external link)
 * [バート文字フォント](https://haar-you.github.io/BhaataanFont/) - [@HaarLangLove様](https://twitter.com/HaarLangLove)によるバート文字のフォント(外部サイト)
 
 以下旧ファイル（一部設定が古い）
