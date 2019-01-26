@@ -7067,6 +7067,22 @@
         "form" : "káṇám"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 311,
+      "form" : "nautuhomá e"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "シローレーカー", "バート語の単語を繋ぐ上の線" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "culture",
+      "text" : "eはアイル語reae、パイグ語la1などと同根であるが、現在では単独では死語である。ただし、nautuhomá eの構成要素としては残っており、またaṭam_kádなどと異なり文法上の制約には反していないことから、この連語自体をnautuhomá eでくっつけてnautuhomá_eと書くことはない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
