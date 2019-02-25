@@ -7099,6 +7099,64 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 313,
+      "form" : "líṇabáni"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "燐字", "燐帝字母" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 314,
+      "form" : "ehai"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "crown" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍aihei, 牌ai2"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 315,
+      "form" : "aṭam_kád"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "divine light", "divine act" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 316,
+      "form" : "bhoúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "〜(hína)は〜(主格)で溢れている", "〜(hína)は〜(主格)で満ちている", "〜(主格)は〜(hína)という場所にあるものを満たしている" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌bo1, 藍bowa"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
@@ -7119,5 +7177,5 @@
       "relations" : [ ]
     }
   },
-  "snoj" : "\nPUNCTUATION = \".\" | \",\";\n\nretroflex = \"ṇ\" | \"ṭ\" | \"ḍ\" | \"ṣ\" | \"ḷ\"\nvowel = \"au\" | \"ai\" | \"á\"  | \"í\"  | \"ú\"  | \"e\"  | \"o\"  | \"a\"  | \"i\"  | \"u\" \n\n\"ph\" -> /pʰ/\n\"bh\" -> /bʱ/\n\"dh\" -> /dʱ/\n\"ṣl\" -> /ʂɻ/\n\"l\" ^ -> /ɾə/\n\"kh\" -> /kʰ/\n\"gh\" -> /ɣ/\n\n\"aj\" !vowel -> /aj/\n\"ij\" !vowel -> /iː/\nretroflex \"í\" -> $ /ɨː/\nretroflex \"i\" -> $ /ɨ/\n\n\"ll\" -> /ll/\n\n\"au\" -> /aw/\n\"ai\" -> /aj/\n\"á\" -> /aː/\n\"í\" -> /iː/\n\"ú\" -> /uː/\n\"e\" -> /ɛː/\n\"o\" -> /ɔː/\n\n\"a\" -> /a/ \n\"i\" -> /i/\n\"u\" -> /u/\n\n\n\n\"ṭ\" -> /ʈ/\n\"ḍ\" -> /ɖ/\n\"ṣ\" -> /ʂ/\n\"ḷ\" -> /ɭ/\n\"ṇ\" -> /ɳ/\n\n\n\"-\" -> /-/\n\n\"w\" -> /ʋ/\n\"p\" -> /p/\n\"b\" -> /b/\n\"m\" -> /m/\n\n\"t\" -> /t/\n\"d\" -> /d/\n\"n\" -> /n/\n\"c\" -> /s/\n\"s\" -> /z/\n\"l\" -> /ɾ/\n\"r\" -> /r/\n\n\"x\" -> /ʃ/\n\"z\" -> /tʃ/\n\"j\" -> /j/\n\"y\" -> /ɥ/\n\n\"k\" -> /k/\n\"g\" -> /ɡ/\n\"h\" -> /x/\n"
+  "snoj" : "\nPUNCTUATION = \".\" | \",\" | \"_\";\n\nretroflex = \"ṇ\" | \"ṭ\" | \"ḍ\" | \"ṣ\" | \"ḷ\"\nvowel = \"au\" | \"ai\" | \"á\"  | \"í\"  | \"ú\"  | \"e\"  | \"o\"  | \"a\"  | \"i\"  | \"u\" \n\n\"ph\" -> /pʰ/\n\"bh\" -> /bʱ/\n\"dh\" -> /dʱ/\n\"ṣl\" -> /ʂɻ/\n\"l\" ^ -> /ɾə/\n\"kh\" -> /kʰ/\n\"gh\" -> /ɣ/\n\n\"aj\" !vowel -> /aj/\n\"ij\" !vowel -> /iː/\nretroflex \"í\" -> $ /ɨː/\nretroflex \"i\" -> $ /ɨ/\n\n\"ll\" -> /ll/\n\n\"au\" -> /aw/\n\"ai\" -> /aj/\n\"á\" -> /aː/\n\"í\" -> /iː/\n\"ú\" -> /uː/\n\"e\" -> /ɛː/\n\"o\" -> /ɔː/\n\n\"a\" -> /a/ \n\"i\" -> /i/\n\"u\" -> /u/\n\n\n\n\"ṭ\" -> /ʈ/\n\"ḍ\" -> /ɖ/\n\"ṣ\" -> /ʂ/\n\"ḷ\" -> /ɭ/\n\"ṇ\" -> /ɳ/\n\n\n\"-\" -> /-/\n\n\"w\" -> /ʋ/\n\"p\" -> /p/\n\"b\" -> /b/\n\"m\" -> /m/\n\n\"t\" -> /t/\n\"d\" -> /d/\n\"n\" -> /n/\n\"c\" -> /s/\n\"s\" -> /z/\n\"l\" -> /ɾ/\n\"r\" -> /r/\n\n\"x\" -> /ʃ/\n\"z\" -> /tʃ/\n\"j\" -> /j/\n\"y\" -> /ɥ/\n\n\"k\" -> /k/\n\"g\" -> /ɡ/\n\"h\" -> /x/\n"
 }
