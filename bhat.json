@@ -1483,7 +1483,13 @@
       "text" : "*'tqram"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 315,
+        "form" : "aṭam_kád"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 64,
@@ -2404,6 +2410,12 @@
       "entry" : {
         "id" : 301,
         "form" : "kádan"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 315,
+        "form" : "aṭam_kád"
       }
     } ]
   }, {
@@ -7155,7 +7167,19 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 63,
+        "form" : "aṭam"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 103,
+        "form" : "kád"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 316,

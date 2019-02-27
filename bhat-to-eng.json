@@ -1483,7 +1483,13 @@
       "text" : "*'tqram"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 315,
+        "form" : "aṭam_kád"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 64,
@@ -2407,6 +2413,12 @@
       "entry" : {
         "id" : 301,
         "form" : "kádan"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 315,
+        "form" : "aṭam_kád"
       }
     } ]
   }, {
@@ -7143,7 +7155,19 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 63,
+        "form" : "aṭam"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 103,
+        "form" : "kád"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 316,
