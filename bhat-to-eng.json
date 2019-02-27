@@ -7165,9 +7165,11 @@
     "alphabetOrder" : "",
     "wordOrderType" : "UNICODE",
     "punctuations" : [ "," ],
+    "ignoredTranslationRegex" : "",
     "pronunciationTitle" : null,
     "plainInformationTitles" : [ ],
     "informationTitleOrder" : null,
+    "formFontFamily" : null,
     "defaultWord" : {
       "entry" : {
         "id" : -1,
