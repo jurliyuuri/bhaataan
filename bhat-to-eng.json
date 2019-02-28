@@ -1014,6 +1014,12 @@
         "id" : 266,
         "form" : "káṇahomá amila"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 317,
+        "form" : "ehaihomá kád"
+      }
     } ]
   }, {
     "entry" : {
@@ -2419,6 +2425,12 @@
       "entry" : {
         "id" : 315,
         "form" : "aṭam_kád"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 317,
+        "form" : "ehaihomá kád"
       }
     } ]
   }, {
@@ -7142,7 +7154,13 @@
       "text" : "藍aihei, 牌ai2"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 317,
+        "form" : "ehaihomá kád"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 315,
@@ -7184,6 +7202,37 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 317,
+      "form" : "ehaihomá kád"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "the light of the crown", "\"The Light of the Crown\" (national anthem of Ai'ren Republic)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 314,
+        "form" : "ehai"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 44,
+        "form" : "-homá"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 103,
+        "form" : "kád"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

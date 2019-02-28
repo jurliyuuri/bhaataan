@@ -1014,6 +1014,12 @@
         "id" : 266,
         "form" : "káṇahomá amila"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 317,
+        "form" : "ehaihomá kád"
+      }
     } ]
   }, {
     "entry" : {
@@ -2416,6 +2422,12 @@
       "entry" : {
         "id" : 315,
         "form" : "aṭam_kád"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 317,
+        "form" : "ehaihomá kád"
       }
     } ]
   }, {
@@ -7154,7 +7166,13 @@
       "text" : "藍aihei, 牌ai2"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 317,
+        "form" : "ehaihomá kád"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 315,
@@ -7196,6 +7214,37 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 317,
+      "form" : "ehaihomá kád"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "冠の光", "王冠の光", "アイル共和国国歌「冠光」" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 314,
+        "form" : "ehai"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 44,
+        "form" : "-homá"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 103,
+        "form" : "kád"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
