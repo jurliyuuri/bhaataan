@@ -7236,6 +7236,38 @@
         "form" : "kád"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 318,
+      "form" : "yám"
+    },
+    "translations" : [ {
+      "title" : "終助詞",
+      "forms" : [ "(creates explicit yes-or-no question)", "is it true that ~ ?", "is it that ~ ?" ]
+    } ],
+    "tags" : [ "colloquial" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "jo ám"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 319,
+      "form" : "jám"
+    },
+    "translations" : [ {
+      "title" : "終助詞",
+      "forms" : [ "(creates explicit yes-or-no question)", "is it true that ~ ?", "is it that ~ ?" ]
+    } ],
+    "tags" : [ "colloquial" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "jo ám"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

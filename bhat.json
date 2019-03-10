@@ -7248,6 +7248,38 @@
         "form" : "kád"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 318,
+      "form" : "yám"
+    },
+    "translations" : [ {
+      "title" : "終助詞",
+      "forms" : [ "(肯否疑問文の明示)", "〜か？" ]
+    } ],
+    "tags" : [ "口語的" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "jo ám"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 319,
+      "form" : "jám"
+    },
+    "translations" : [ {
+      "title" : "終助詞",
+      "forms" : [ "(肯否疑問文の明示)", "〜か？" ]
+    } ],
+    "tags" : [ "口語的" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "jo ám"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
