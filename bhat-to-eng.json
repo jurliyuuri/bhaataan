@@ -717,6 +717,18 @@
         "id" : 296,
         "form" : "bhátán rásit"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 320,
+        "form" : "bhátán zepha"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 322,
+        "form" : "wátán zepha"
+      }
     } ]
   }, {
     "entry" : {
@@ -1718,6 +1730,18 @@
       "entry" : {
         "id" : 296,
         "form" : "bhátán rásit"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 320,
+        "form" : "bhátán zepha"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 321,
+        "form" : "wát"
       }
     } ]
   }, {
@@ -3392,6 +3416,18 @@
       "entry" : {
         "id" : 272,
         "form" : "nautu"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 320,
+        "form" : "bhátán zepha"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 322,
+        "form" : "wátán zepha"
       }
     } ]
   }, {
@@ -7268,6 +7304,111 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 320,
+      "form" : "bhátán zepha"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "bhátán language" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 74,
+        "form" : "bhát"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 35,
+        "form" : "-án"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 146,
+        "form" : "zepha"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 322,
+        "form" : "wátán zepha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 321,
+      "form" : "wát"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "wátán dialect", "speakers of wátan dialect" ]
+    } ],
+    "tags" : [ "colloquial" ],
+    "contents" : [ {
+      "title" : "culture",
+      "text" : "bhとwの対立が消えている地域変種の俗な総称。多くの場合、帯気音が摩擦音などに吸収され失われている。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 74,
+        "form" : "bhát"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 322,
+        "form" : "wátán zepha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 322,
+      "form" : "wátán zepha"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "wátán dialect" ]
+    } ],
+    "tags" : [ "colloquial" ],
+    "contents" : [ {
+      "title" : "culture",
+      "text" : "bhとwの対立が消えている地域変種の俗な総称。多くの場合、帯気音が摩擦音などに吸収され失われている。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 321,
+        "form" : "wát"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 35,
+        "form" : "-án"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 146,
+        "form" : "zepha"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 320,
+        "form" : "bhátán zepha"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

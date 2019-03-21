@@ -717,6 +717,18 @@
         "id" : 296,
         "form" : "bhátán rásit"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 320,
+        "form" : "bhátán zepha"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 322,
+        "form" : "wátán zepha"
+      }
     } ]
   }, {
     "entry" : {
@@ -1718,6 +1730,18 @@
       "entry" : {
         "id" : 296,
         "form" : "bhátán rásit"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 320,
+        "form" : "bhátán zepha"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 321,
+        "form" : "wát"
       }
     } ]
   }, {
@@ -3389,6 +3413,18 @@
       "entry" : {
         "id" : 272,
         "form" : "nautu"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 320,
+        "form" : "bhátán zepha"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 322,
+        "form" : "wátán zepha"
       }
     } ]
   }, {
@@ -7280,6 +7316,111 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 320,
+      "form" : "bhátán zepha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "バート語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 74,
+        "form" : "bhát"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 35,
+        "form" : "-án"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 146,
+        "form" : "zepha"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 322,
+        "form" : "wátán zepha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 321,
+      "form" : "wát"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "ワート弁", "ワート弁話者" ]
+    } ],
+    "tags" : [ "口語的" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "bhとwの対立が消えている地域変種の俗な総称。多くの場合、帯気音が摩擦音などに吸収され失われている。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 74,
+        "form" : "bhát"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 322,
+        "form" : "wátán zepha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 322,
+      "form" : "wátán zepha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "ワート弁" ]
+    } ],
+    "tags" : [ "口語的" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "bhとwの対立が消えている地域変種の俗な総称。多くの場合、帯気音が摩擦音などに吸収され失われている。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 321,
+        "form" : "wát"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 35,
+        "form" : "-án"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 146,
+        "form" : "zepha"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 320,
+        "form" : "bhátán zepha"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
