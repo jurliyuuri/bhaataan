@@ -7577,6 +7577,56 @@
         "form" : "cahúḷ"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 329,
+      "form" : "-boh-"
+    },
+    "translations" : [ {
+      "title" : "verb infix",
+      "forms" : [ "to plan to ~", "to try to ~", "to intend to~" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "Used as a stative verb; that is, \"I have the plan to ~\""
+    }, {
+      "title" : "cognate(s)",
+      "text" : "伐bohúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 330,
+        "form" : "-aboh-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 330,
+      "form" : "-aboh-"
+    },
+    "translations" : [ {
+      "title" : "verb infix",
+      "forms" : [ "to plan to ~", "to try to ~", "to intend to~" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "Used as a stative verb; that is, \"I have the plan to ~\""
+    }, {
+      "title" : "cognate(s)",
+      "text" : "伐bohúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 329,
+        "form" : "-boh-"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

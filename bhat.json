@@ -7589,6 +7589,56 @@
         "form" : "cahúḷ"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 329,
+      "form" : "-boh-"
+    },
+    "translations" : [ {
+      "title" : "動詞接中辞",
+      "forms" : [ "将然相" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "「〜しようとしている」「〜するつもりである」という意味を表す状態動詞を作る。"
+    }, {
+      "title" : "同根語",
+      "text" : "伐bohúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 330,
+        "form" : "-aboh-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 330,
+      "form" : "-aboh-"
+    },
+    "translations" : [ {
+      "title" : "動詞接中辞",
+      "forms" : [ "将然相" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "「〜しようとしている」「〜するつもりである」という意味を表す状態動詞を作る。"
+    }, {
+      "title" : "同根語",
+      "text" : "伐bohúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 329,
+        "form" : "-boh-"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
