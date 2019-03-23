@@ -1286,6 +1286,12 @@
         "id" : 306,
         "form" : "accabát"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 121,
+        "form" : "nínaccú"
+      }
     } ]
   }, {
     "entry" : {
@@ -2868,9 +2874,30 @@
     }, {
       "title" : "ラネーメ祖語形",
       "text" : "*ninq+*acii"
+    }, {
+      "title" : "用法",
+      "text" : "筆記媒体そのものではなく、文書が書き込まれたものを指す。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 331,
+        "form" : "nín"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 52,
+        "form" : "accúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 332,
+        "form" : "-ú"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 122,
@@ -7637,6 +7664,53 @@
       "entry" : {
         "id" : 329,
         "form" : "-boh-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 331,
+      "form" : "nín"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "紙" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌nin1,藍ninu"
+    }, {
+      "title" : "ラネーメ祖語形",
+      "text" : "*ninq"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 121,
+        "form" : "nínaccú"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 332,
+      "form" : "-ú"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "名詞化第二接尾辞(痕跡的)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "nínaccúなどの語に痕跡的に残るだけであり、現在では生産的ではない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 121,
+        "form" : "nínaccú"
       }
     } ]
   } ],

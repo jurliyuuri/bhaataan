@@ -1286,6 +1286,12 @@
         "id" : 306,
         "form" : "accabát"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 121,
+        "form" : "nínaccú"
+      }
     } ]
   }, {
     "entry" : {
@@ -2873,7 +2879,25 @@
       "text" : "*ninq+*acii"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 331,
+        "form" : "nín"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 52,
+        "form" : "accúḷ"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 332,
+        "form" : "-ú"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 122,
@@ -7625,6 +7649,53 @@
       "entry" : {
         "id" : 329,
         "form" : "-boh-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 331,
+      "form" : "nín"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "paper" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌nin1,藍ninu"
+    }, {
+      "title" : "Proto-Lanermic form",
+      "text" : "*ninq"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 121,
+        "form" : "nínaccú"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 332,
+      "form" : "-ú"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "nominalization suffix #3" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "nínaccúなどの語に痕跡的に残るだけであり、; it is currently not a productive suffix."
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 121,
+        "form" : "nínaccú"
       }
     } ]
   } ],
