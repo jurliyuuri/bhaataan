@@ -7409,6 +7409,25 @@
         "form" : "bhátán zepha"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 323,
+      "form" : "cahúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to capture [accusative]", "to apprehend [accusative]", "to catch [accusative]", "to arrest [accusative]" ]
+    }, {
+      "title" : "dynamic verb",
+      "forms" : [ "to dam up [accusative]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "\"capture\", \"apprehend\", \"catch\", \"arrest\": 藍cwaho\n\"dam up\": 藍cahu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -7421,6 +7421,25 @@
         "form" : "bhátán zepha"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 323,
+      "form" : "cahúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)をつかまえる", "〜(対格)を捕まえる", "〜(対格)をとらえる", "〜(対格)を捕らえる", "〜(対格)を逮捕する" ]
+    }, {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)をせきとめる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "「せきとめる」: 藍cahu\n「つかまえる・とらえる」: 藍cwaho"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
