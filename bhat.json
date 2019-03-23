@@ -790,6 +790,12 @@
         "id" : 293,
         "form" : "káná ká"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 324,
+        "form" : "káná"
+      }
     } ]
   }, {
     "entry" : {
@@ -3251,7 +3257,13 @@
       "text" : "*sui"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 327,
+        "form" : "sú-"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 140,
@@ -3470,7 +3482,13 @@
       "text" : "*zau"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 326,
+        "form" : "zau-"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 149,
@@ -4956,6 +4974,12 @@
         "id" : 293,
         "form" : "káná ká"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 324,
+        "form" : "káná"
+      }
     } ]
   }, {
     "entry" : {
@@ -5023,7 +5047,13 @@
       "text" : "藍kanaka"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 325,
+        "form" : "káná"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 221,
@@ -6667,7 +6697,7 @@
       "form" : "ká"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
+      "title" : "変化形",
       "forms" : [ "kの複数形" ]
     } ],
     "tags" : [ ],
@@ -6721,6 +6751,12 @@
       "entry" : {
         "id" : 294,
         "form" : "káom ká"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 324,
+        "form" : "káná"
       }
     } ]
   }, {
@@ -7439,7 +7475,120 @@
       "text" : "「せきとめる」: 藍cahu\n「つかまえる・とらえる」: 藍cwaho"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 328,
+        "form" : "cau-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 324,
+      "form" : "káná"
+    },
+    "translations" : [ {
+      "title" : "変化形",
+      "forms" : [ "kの複数属格" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 293,
+        "form" : "káná ká"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 216,
+        "form" : "k"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 36,
+        "form" : "-áná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 325,
+      "form" : "káná"
+    },
+    "translations" : [ {
+      "title" : "変化形",
+      "forms" : [ "kánaghúḷの命令形" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 220,
+        "form" : "kánaghúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 326,
+      "form" : "zau-"
+    },
+    "translations" : [ {
+      "title" : "強語幹",
+      "forms" : [ "zúḷの強語幹" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 148,
+        "form" : "zúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 327,
+      "form" : "sú-"
+    },
+    "translations" : [ {
+      "title" : "強語幹",
+      "forms" : [ "sujúḷの強語幹" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 139,
+        "form" : "sujúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 328,
+      "form" : "cau-"
+    },
+    "translations" : [ {
+      "title" : "強語幹",
+      "forms" : [ "cahúḷの強語幹" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 323,
+        "form" : "cahúḷ"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

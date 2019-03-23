@@ -790,6 +790,12 @@
         "id" : 293,
         "form" : "káná ká"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 324,
+        "form" : "káná"
+      }
     } ]
   }, {
     "entry" : {
@@ -3254,7 +3260,13 @@
       "text" : "*sui"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 327,
+        "form" : "sú-"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 140,
@@ -3473,7 +3485,13 @@
       "text" : "*zau"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 326,
+        "form" : "zau-"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 149,
@@ -4947,6 +4965,12 @@
         "id" : 293,
         "form" : "káná ká"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 324,
+        "form" : "káná"
+      }
     } ]
   }, {
     "entry" : {
@@ -5014,7 +5038,13 @@
       "text" : "藍kanaka"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 325,
+        "form" : "káná"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 221,
@@ -6649,7 +6679,7 @@
       "form" : "ká"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "inflected form",
       "forms" : [ "the plural form of k" ]
     } ],
     "tags" : [ ],
@@ -6703,6 +6733,12 @@
       "entry" : {
         "id" : 294,
         "form" : "káom ká"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 324,
+        "form" : "káná"
       }
     } ]
   }, {
@@ -7231,7 +7267,7 @@
       "form" : "bhoúḷ"
     },
     "translations" : [ {
-      "title" : "状態動詞",
+      "title" : "stative verb",
       "forms" : [ "〜(hína)は〜(主格)で溢れている", "〜(hína)は〜(主格)で満ちている", "〜(主格)は〜(hína)という場所にあるものを満たしている" ]
     } ],
     "tags" : [ ],
@@ -7423,11 +7459,124 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "\"capture\", \"apprehend\", \"catch\", \"arrest\": 藍cwaho\n\"dam up\": 藍cahu"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 328,
+        "form" : "cau-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 324,
+      "form" : "káná"
+    },
+    "translations" : [ {
+      "title" : "inflected form",
+      "forms" : [ "plural genitive of \"k\"" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 293,
+        "form" : "káná ká"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 216,
+        "form" : "k"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 36,
+        "form" : "-áná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 325,
+      "form" : "káná"
+    },
+    "translations" : [ {
+      "title" : "inflected form",
+      "forms" : [ "the imperative of \"kánaghúḷ\"" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 220,
+        "form" : "kánaghúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 326,
+      "form" : "zau-"
+    },
+    "translations" : [ {
+      "title" : "strengthened root",
+      "forms" : [ "strengthend root of \"zúḷ\"" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 148,
+        "form" : "zúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 327,
+      "form" : "sú-"
+    },
+    "translations" : [ {
+      "title" : "strengthened root",
+      "forms" : [ "strengthened root of \"sujúḷ\"" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 139,
+        "form" : "sujúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 328,
+      "form" : "cau-"
+    },
+    "translations" : [ {
+      "title" : "strengthened root",
+      "forms" : [ "strengthend root of \"cahúḷ\"" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 323,
+        "form" : "cahúḷ"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
