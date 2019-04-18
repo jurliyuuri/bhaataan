@@ -1,0 +1,3 @@
+y=a_0+\sum_{n=1}^{35}\cos\left(nx\right)y_1\left[n\right]+\sum_{n=1}^{35}\sin\left(nx\right)y_2\left[n\right]
+
+https://www.desmos.com/calculator/9tfaegrvu4
