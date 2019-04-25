@@ -6138,7 +6138,7 @@
       "title" : "consonant stem noun",
       "forms" : [ "Lipakorl" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "name" ],
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "Borrowed from 理lipakorl."
@@ -7698,6 +7698,25 @@
         "form" : "nínaccú"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 333,
+      "form" : "lexeḷ"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "Lexerl" ]
+    } ],
+    "tags" : [ "name" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理lexerl."
+    }, {
+      "title" : "usage",
+      "text" : "Name. See 理lexerl."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
