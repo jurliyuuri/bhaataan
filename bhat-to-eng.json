@@ -3315,6 +3315,12 @@
         "id" : 138,
         "form" : "su"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 334,
+        "form" : "su_zau-"
+      }
     } ]
   }, {
     "entry" : {
@@ -7551,7 +7557,7 @@
     },
     "translations" : [ {
       "title" : "strengthened root",
-      "forms" : [ "strengthend root of \"zúḷ\"" ]
+      "forms" : [ "strengthened root of \"zúḷ\"" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -7717,6 +7723,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 334,
+      "form" : "su_zau-"
+    },
+    "translations" : [ {
+      "title" : "strengthened root",
+      "forms" : [ "strengthened root of \"suúḷ\"" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 140,
+        "form" : "suúḷ"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

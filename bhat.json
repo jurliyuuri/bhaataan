@@ -3315,6 +3315,12 @@
         "id" : 138,
         "form" : "su"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 334,
+        "form" : "su_zau-"
+      }
     } ]
   }, {
     "entry" : {
@@ -7732,6 +7738,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 334,
+      "form" : "su_zau-"
+    },
+    "translations" : [ {
+      "title" : "強語幹",
+      "forms" : [ "suúḷの強語幹" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 140,
+        "form" : "suúḷ"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
