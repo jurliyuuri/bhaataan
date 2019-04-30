@@ -7757,6 +7757,41 @@
         "form" : "suúḷ"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 335,
+      "form" : "otúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)を〜(具格)で置き換える" ]
+    }, {
+      "title" : "状態動詞",
+      "forms" : [ "〜(主格)は〜(対格)に取って代わるものである" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍hotei"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 336,
+      "form" : "bhoheúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)(二つ以上のもの)を交換する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍bohai"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

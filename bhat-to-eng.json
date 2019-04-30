@@ -7742,6 +7742,41 @@
         "form" : "suúḷ"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 335,
+      "form" : "otúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to replace [accusative] with [instrumental]" ]
+    }, {
+      "title" : "stative verb",
+      "forms" : [ "for [nominative] to be a replacement of [accusative]", "for [nominative] to be able to replace [accusative]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍hotei"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 336,
+      "form" : "bhoheúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to swap [accusative] (two or more things)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍bohai"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
