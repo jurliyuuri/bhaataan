@@ -5,6 +5,7 @@
 
 ## メインコンテンツ
 * [バート語文法](grammar.html) - 文法などのまとめ
+* [バート語の仮名への転写法](transcription.html) - バート語の仮名への転写法
 * [バート語について考察する](./investigate.html) - バート語創作の様子を記したログ
 * [バート語の造語をする](http://jurliyuuri.com/bhaataan/coin.html) - バート語の単語の創作の様子を記したログ(完結)
 * [バート語の造語をするpart2](http://jurliyuuri.com/bhaataan/coin2.html) - バート語の単語の創作の様子を記したログpart2
