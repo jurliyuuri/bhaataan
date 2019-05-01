@@ -1,0 +1,27 @@
+.bhaataim, .jv{padding: 20px 0px 0px 20px; overflow: hidden;}
+.bhaataim:after {clear: both;}
+.bhaataim:before, .bhaataim:after,.jv:before,.jv:after  {content: "";display: table;}
+
+
+div.bhaataim > div { float:left; background-image:url("bhaataim2.jpg"); background-size: 73px; width: 73px; height:73px; margin: 15px 0 0 0;}
+div.bhaataim > p, div.jv > p  { float:left; padding: 0 0 0 10px; width: 700px;}
+
+div.jv > div { float:left; background-image:url("jv2.jpg"); background-size: 73px;  width: 73px; height:73px; margin: 15px 0 0 0;}
+
+
+
+
+[lang="conlang_lpa"] { font-family: "Cirlipa"; font-size:130%; margin: 0 2px;}
+
+[lang="conlang_bht"] { font-family: "Bhaataan"; font-size:200%; margin: 0 2px;}
+
+@font-face {
+    font-family: "Cirlipa";
+    src: url("./cirlxarli_liparxe_1.woff");  format('woff');
+}
+
+@font-face {
+    font-family: "Bhaataan";
+    src: url("./Bhaataan.woff");  format('woff');
+}
+
