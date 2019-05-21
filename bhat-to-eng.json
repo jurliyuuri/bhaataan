@@ -3521,6 +3521,12 @@
         "id" : 326,
         "form" : "zau-"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 337,
+        "form" : "záúḷ"
+      }
     } ]
   }, {
     "entry" : {
@@ -5808,6 +5814,12 @@
         "id" : 191,
         "form" : "janáúḷ"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 337,
+        "form" : "záúḷ"
+      }
     } ]
   }, {
     "entry" : {
@@ -6468,6 +6480,12 @@
       "entry" : {
         "id" : 102,
         "form" : "kádúḷ"
+      }
+    }, {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 339,
+        "form" : "aḍuhazáúḷ"
       }
     } ]
   }, {
@@ -7777,6 +7795,69 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 337,
+      "form" : "záúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to make [instrumental] do [accusative]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 148,
+        "form" : "zúḷ"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 255,
+        "form" : "-á-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 338,
+      "form" : "-zá-"
+    },
+    "translations" : [ {
+      "title" : "verb infix",
+      "forms" : [ "causative infix" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "Attaches to the root of both an intransitive verb and a transitive verb and creates a causative verb. 動詞が自動詞である場合、元の動詞の行為者は目的語となる。動詞が他動詞である場合、元の動詞の目的語は目的語のままであり、元の動詞の行為者は具格となる。"
+    }, {
+      "title" : "cognate(s)",
+      "text" : "伐záúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 339,
+      "form" : "aḍuhazáúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to make [instrumental] see [accusative]", "to show [accusative] to [instrumental]", "to make [instrumental] watch [accusative]", "to make [instrumental] observe [accusative]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 280,
+        "form" : "kádaúḷ"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
