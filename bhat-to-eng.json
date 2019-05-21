@@ -2524,7 +2524,7 @@
       "text" : "*ka^nga+*'munq"
     }, {
       "title" : "difference between synonyms",
-      "text" : "káṇámはどちらかというと未来に無限に続くことを意図するのに対し、bhákáṇaは単に「常である」様を表す。"
+      "text" : "While káṇám implies the notion of infinite eternity, bhákáṇa simply signifies that something always holds."
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -3565,7 +3565,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "difference between synonyms",
-      "text" : "Used as the suppletive form for the non-conjugating verb \"hem\"「AはBになっているだろう」「BであったA」というような表現を表す際に. hemで表せる状況でわざわざbhápúḷを使うと、少し堅苦しくなる。"
+      "text" : "Used as the suppletive form for the non-conjugating verb \"hem\". Using bhápúḷ in the situation where hem suffices has the slight connotation of formality."
     }, {
       "title" : "cognate(s)",
       "text" : "牌bap,藍baibae"
@@ -7196,12 +7196,12 @@
     },
     "translations" : [ {
       "title" : "adverb",
-      "forms" : [ "常に" ]
+      "forms" : [ "always" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "difference between synonyms",
-      "text" : "káṇámはどちらかというと未来に無限に続くことを意図するのに対し、bhákáṇaは単に「常である」様を表す。"
+      "text" : "While káṇám implies the notion of infinite eternity, bhákáṇa simply signifies that something always holds."
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -7437,7 +7437,7 @@
     "tags" : [ "colloquial" ],
     "contents" : [ {
       "title" : "culture",
-      "text" : "bhとwの対立が消えている地域変種の俗な総称。多くの場合、帯気音が摩擦音などに吸収され失われている。"
+      "text" : "The general term for the dialects in which the distinction between bh and w is not maintained. Many of such dialects lack the aspirates; the aspirates in the standard language have become fricatives, approximants, and so on."
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -7465,7 +7465,7 @@
     "tags" : [ "colloquial" ],
     "contents" : [ {
       "title" : "culture",
-      "text" : "bhとwの対立が消えている地域変種の俗な総称。多くの場合、帯気音が摩擦音などに吸収され失われている。"
+      "text" : "The general term for the dialects in which the distinction between bh and w is not maintained. Many of such dialects lack the aspirates; the aspirates in the standard language have become fricatives, approximants, and so on."
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -7832,7 +7832,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "Attaches to the root of both an intransitive verb and a transitive verb and creates a causative verb. 動詞が自動詞である場合、元の動詞の行為者は目的語となる。動詞が他動詞である場合、元の動詞の目的語は目的語のままであり、元の動詞の行為者は具格となる。"
+      "text" : "Attaches to the root of both an intransitive verb and a transitive verb and creates a causative verb. If the original verb is intransitive, the agent (causee) is marked in the accusative case; if the original verb is transitive, the original object remains in the accusative case and the agent (causee) is marked in the instrumental."
     }, {
       "title" : "cognate(s)",
       "text" : "伐záúḷ"
