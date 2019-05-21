@@ -7858,6 +7858,25 @@
         "form" : "kádaúḷ"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 340,
+      "form" : "-azá-"
+    },
+    "translations" : [ {
+      "title" : "verb infix",
+      "forms" : [ "causative infix" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "Attaches to the root of both an intransitive verb and a transitive verb and creates a causative verb. If the original verb is intransitive, the agent (causee) is marked in the accusative case; if the original verb is transitive, the original object remains in the accusative case and the agent (causee) is marked in the instrumental."
+    }, {
+      "title" : "cognate(s)",
+      "text" : "伐záúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
