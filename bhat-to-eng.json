@@ -1038,6 +1038,12 @@
         "id" : 317,
         "form" : "ehaihomá kád"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 342,
+        "form" : "phaigahomá zepha"
+      }
     } ]
   }, {
     "entry" : {
@@ -2440,6 +2446,9 @@
     "translations" : [ {
       "title" : "consonant stem noun",
       "forms" : [ "light" ]
+    }, {
+      "title" : "consonant stem noun",
+      "forms" : [ "視線", "注目" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3470,6 +3479,12 @@
       "entry" : {
         "id" : 322,
         "form" : "wátán zepha"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 342,
+        "form" : "phaigahomá zepha"
       }
     } ]
   }, {
@@ -7874,6 +7889,72 @@
     }, {
       "title" : "cognate(s)",
       "text" : "伐záúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 341,
+      "form" : "phaiga"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "(属格で)パイグの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 342,
+        "form" : "phaigahomá zepha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 342,
+      "form" : "phaigahomá zepha"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "パイグ語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 341,
+        "form" : "phaiga"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 44,
+        "form" : "-homá"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 146,
+        "form" : "zepha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 343,
+      "form" : "xághaika"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "目立ちたがり屋" ]
+    } ],
+    "tags" : [ "colloquial" ],
+    "contents" : [ {
+      "title" : "culture",
+      "text" : "牌 hia1 + 牌 aik2 + 牌 a。パイグ語 aik2 と異なり、バート語kádには「光」の他にもkádúḷ「目立つ」の名詞化として「視線・注目」という意味がある。また、バート語では、「属格 + k」の主格が単体の属格で現れるため、属格接辞が結果として単立できるが、パイグ語ではこれは不可能であり、この位置のaは感嘆詞として解釈される。よってパイグ語 hia1 aik2 a. は「光りたいです。」という意味にしかならない、言うなれば「伐製牌語」である。hi- が x- で借用されているのは、ワート弁の影響である。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
