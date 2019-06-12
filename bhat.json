@@ -1456,7 +1456,13 @@
       "text" : "直後に名詞を要求する。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 345,
+        "form" : "amáma bohú"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 61,
@@ -1849,7 +1855,13 @@
       "text" : "*morq"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 345,
+        "form" : "amáma bohú"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 79,
@@ -7751,6 +7763,12 @@
         "id" : 121,
         "form" : "nínaccú"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 345,
+        "form" : "amáma bohú"
+      }
     } ]
   }, {
     "entry" : {
@@ -7989,6 +8007,40 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 345,
+      "form" : "amáma bohú"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "「大移住」", "「大退去」" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "「大移住」。「大退去」とも。バート人がグォン・アルト藩国を去らなくてはいけなくなった2000年の痛ましい事件とそれに次ぐ混乱を指す。単に「行く」の意味もあれば「(永久に)去る」の意味を持つbohúḷは（訳語が揺れるのはそのため）、心の故郷であるグォン・アルト藩国に帰れる見込みの乏しいバート人の思いをよく表現しているともいえよう。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 60,
+        "form" : "amáma"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 78,
+        "form" : "bohúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 332,
+        "form" : "-ú"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
