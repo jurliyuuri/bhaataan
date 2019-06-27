@@ -8,6 +8,18 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/leipzig/latest/leipzig.min.css">
 <style>
 .modifier {background-color: #eeeeff}
+.alpha{background-color: #ffeeee}
+.beta{background-color: #eeeeff}
+.gamma{background-color: #eeeeee}
+.delta{background-color: #eeffee}
+.vow{color:red}
+.cons{color:blue}
+.qq i {
+	font-family: "Times New Roman";
+}
+i.bhateme {
+	font-family: "Times New Roman";
+}
 </style>
 <script src="print_bhat.js"></script>
 </head>
@@ -180,7 +192,7 @@ bháma(一人称複数包括)
 cákík(来る　訪れる　来訪する) -adíha(一人称未来分詞)
 hem(～は～である)</pre>
 <p>káṇaが関係節の内側のcákíkuḷとどう関係するかは明示されていないことがわかる。ということで、明示しないという設定で確定としよう。</p>
-<p>ちなみに、外側の動詞とのやりとりは先行詞が格変化することで示される。その例としてはká aghauṭadhel nána sáhomá woghit ákaze aḍuhazozená hem.「彼女は姉が読む本を見た。」がある。
+<p>ちなみに、外側の動詞とのやりとりは先行詞が格変化することで示される。その例としてはká aghauṭadhel nána sáhomá woghit ákaze aḍuhazozená hem.「彼女は姉が読む本を見た。」がある。</p>
 <pre>
 ká(三人称女性単数)
 aghauṭa(本、図書) -dhel(母音幹単数対格)
@@ -282,7 +294,7 @@ fafs「kに点を打つのが統一感あってよさげ」
 <p>さて、takuが解決したので、ついに暫定辞書をver2にできる。</p>
 <p><a href="old/語彙集(ver2).csv">語彙集(ver2)csv</a> <a href="old/語彙集(ver2).csv">語彙集(ver2)csv</a> <a href="https://docs.google.com/spreadsheets/d/1B9Oa4Atte8cyUk7z7ir45v586IN718gXhp1oPeU7GCY/edit#gid=0">Googleスプレッドシート</a></p>
 <p>さて、とりあえずOTM-JSON化しますかね</p>
-<p><a href="bhat.json">しました</a>。
+<p><a href="bhat.json">しました</a>。</p>
 
 <h2>9. -omと-homá</h2>
 <p>特に違いは意図していないらしい。ただ、コーパス見るに一般名詞は-homáになりやすく代名詞は-omになりやすいらしい。</p>
@@ -379,14 +391,13 @@ j.v「タカンも」
 </li>
 <li>
 祖語の語頭bは…他に用例なしか。じゃあdはどうだろう。祖語dkoop > dhoḷop、祖語dradqng > dháradなので、なんか知らんがとりあえず有声有気になるっぽい。じゃあbhか。</li>
-</li>
 </ul>
 <p>ということで、bhápúḷ「〜と(hína)同じである」を立てることにしよう。hemの補充形としての役割も果たすという感じで。</p>
 <p>んー、もっと漂白してコピュラにしてもいいか。ラテン語stō「私は立つ」が後世でコピュラ化した例もあることだし。</p>
 <p>ということで、面白いのでコピュラにしていきたいと思う。bhápúḷ「〜(hína)である」なので、例えば「かつて土手であった土地・領域」はṣomaḍi hína bhápakátá epaとかepa nána ṣomaḍi hína bhápakátáとか表せることになる。</p>
 
 <h3>19-2. 時間あたりの情報量密度</h3>
-<p>「バート語、時間あたりの情報量密度がかなり低くないか？」と思ったので「アリス」で検証してみよう。単母音・ai・auを1、長母音を2として数えると、"alic sáhomá woghiti cájau ṣomaḍi hína ṣíkahazená hem. ṣiṇṇa, baukká kolidhel cákíkakátá hem."は53で、
+<p>「バート語、時間あたりの情報量密度がかなり低くないか？」と思ったので「アリス」で検証してみよう。単母音・ai・auを1、長母音を2として数えると、"alic sáhomá woghiti cájau ṣomaḍi hína ṣíkahazená hem. ṣiṇṇa, baukká kolidhel cákíkakátá hem."は53で、</p>
 <blockquote>
 <pre>
 	アリスは川辺でおねえさんのよこにすわって、なんにもすることがないのでとても退屈しはじめていました。
@@ -432,17 +443,17 @@ tadu.tk[名詞]集まり、集団、団体
 <p>「AのBに似たB」（「火の色に似た色」「子供の振る舞いに似た振る舞い」）パターンと、「Aそのものに比喩的に似たB」（「宝石箱のような景色」）パターンがあるな。比況と例示の違いなのか？（わかっていない）</p>
 <p>「子供のような振る舞い」は「子供のように振る舞う」の名詞化として捉えられるから、emaの意味範囲に収まりそうだよなぁ。「子供のように描く」＝「子供が描くように描く」はghátuḍi ema leghúḷだが、「子供のような絵」はどうするか。「子供の描いたような絵」をそのまま訳せばghátuḍi ema leghadína/leghamúná/leghazená/leghabáta leghaと冗長である。まあ代動詞を使えばghátuḍi ema zadína/zamúná/zazená/zabáta leghaと、人称変化がある言語なので過去分詞を使うと作者を特定することになってしまう。</p>
 <p>目の前に「子供のような絵」があってもその作者は明らかとは限らないわけで、もっと動作主を漂白した表現が必要である。</p>
-<p>別の方面で考えてみよう。
+<p>別の方面で考えてみよう。</p>
 <p>パイグなら「彼は子供のように描く」が「彼如子筆絵」で「子供のような絵」が「如子絵」とか「如子之絵」とかだろう。「タカンのような人」を「如takan」と書いている用例もあるなぁ。とはいえ、「如子之絵」を*ghátuḍi emahomá leghaみたいするのもアレだし。</p>
 <p>となると、普通に「AはBに似ている・AはまるでBのようである」（Bは対格）という動詞を立てるのが無難な気がしてきた。なんか使えるのないかなーと思ったら牌cei2,藍ceixei「近」が使えそうだということになった。</p>
 <p>ラネーメ祖語に再構されていないので、<a href="http://jurliyuuri.com/praige-zerp/siar_prek.html#i8">古パイグsrei</a>を基準にしよう。</p>
 <p>s.yと話し合ったところ、祖語形はcrqiでよかろうということになった。その過程で参考にした要素は以下の通り。</p>
 <ul>
-	<li>アイルsh <- *sljoomq, *sloqsa</li>
-	<li>アイルx <- *xqmo（なおshとxにどう区別があるのかは不明）</li>
+	<li>アイルsh &lt;- *sljoomq, *sloqsa</li>
+	<li>アイルx &lt;- *xqmo（なおshとxにどう区別があるのかは不明）</li>
 	<li>*crophi > 牌cuop2</li>
 	<li>*airy, *iinq, *li^ngq > -eiアイル</li>
-	<li>ceeアイル < *zee</li>
+	<li>ceeアイル &lt; *zee</li>
 </ul>
 <p>さてこれがバートでどうなることやら。動詞なので-úḷがつくことを考えると、*sui > sujúḷから類推するに-júḷなのは確定だろう。末尾でない*qはaになりやすい(*qtaa > adha、*pqra > bhára、*sipql > síbha, ṣibhai）のでaかáかだな、さてどうしよう。</p>
 <p>ダイスロールするか。奇数ならa、偶数ならá。3。ということで-ajúḷ。</p>
@@ -959,7 +970,7 @@ díom káṇaḍi hína 突然 kábhau 〜近くḍi hína ピンクhomá adhadh
 	<li>祖語が*raikqtであるので、kádはありそうだがḷが入る理由が見当たらず、改定前ファスマレーkodの残滓ぐらいしか思い当たる節がなさそう。そして改定前ファスマレーは廃止対象である。</li>
 </ul>
 <p>kádなら全て解決できる。</p>
-<p>ちなみに、私は最初káḷdaにすることも考えていたが、結局体系に合わない（-ḷd-はともかく、長母音の開音節縛り(言語学ではsuperheavy syllableの禁則と言うらしい)は強いので）し、語源に合わないし、あと「冠光」の音節数にも合わなかったりする。</li>
+<p>ちなみに、私は最初káḷdaにすることも考えていたが、結局体系に合わない（-ḷd-はともかく、長母音の開音節縛り(言語学ではsuperheavy syllableの禁則と言うらしい)は強いので）し、語源に合わないし、あと「冠光」の音節数にも合わなかったりする。</p>
 
 <p>ちなみに理語辞書とかで参照されていないことは確認済みである。</p>
 
@@ -998,28 +1009,28 @@ fafs「bliciは鳥の巣とかも指しそう」
 </blockquote>
 <p>ということでpogauかyotue。ダイスロールしたところpogau。</p>
 <pre>
-pouje.ar <=> bhán.bt
-phedu.ar <=> bhát.bt
-phoobo.ar <=> bhoma.bt
-pura.ar <=> bhára.bt
+pouje.ar &lt;=> bhán.bt
+phedu.ar &lt;=> bhát.bt
+phoobo.ar &lt;=> bhoma.bt
+pura.ar &lt;=> bhára.bt
 </pre>
-<p>とまあ、根拠しかないので頭子音はbh。foku.ar <=> woghit.bt を見てもkoli.ar <=> koli.btを見ても、po-はbho-でまあよさそう。</p>
+<p>とまあ、根拠しかないので頭子音はbh。foku.ar &lt;=> woghit.bt を見てもkoli.ar &lt;=> koli.btを見ても、po-はbho-でまあよさそう。</p>
 
 <blockquote>
 <pre>
-j.v「gについてはkaga.ar <=> káṇa.btがあったりする。」
+j.v「gについてはkaga.ar &lt;=> káṇa.btがあったりする。」
 fafs「あ、gがṇになるのか」
 j.v「祖語^ng由来ですね」
 fafs「なるほどね」
 j.v「ちなみに、私も今知りましたが、実はバートに現在gは無いです」
 </pre></blockquote>
 
-<p>auについては、cikau.ar <=> ṣíkahúḷ.bt；chauchu.ar <=> zúḷ.bt。うーん。</p>
+<p>auについては、cikau.ar &lt;=> ṣíkahúḷ.bt；chauchu.ar &lt;=> zúḷ.bt。うーん。</p>
 <p>hはどこから生えてきたのだろうか。</p>
 
 <blockquote>
 <pre>
-j.v「最後のauは前例も理由もないし-auでいいと思うが、cikau.ar <=> ṣíkahúḷ.btが気になるなぁ。これ *ṣíkawúḷ > ṣíkahúḷかなぁ。」
+j.v「最後のauは前例も理由もないし-auでいいと思うが、cikau.ar &lt;=> ṣíkahúḷ.btが気になるなぁ。これ *ṣíkawúḷ > ṣíkahúḷかなぁ。」
 fafs「なるほどなぁ」
 j.v「となると、命令形はṣíkauにしたいですよね」
 fafs「あーー言語だ、いいぞー」
@@ -1252,7 +1263,7 @@ díom káṇaḍi hína seṇa kábhau 〜近くḍi hína numíjuhomá adhadhel
 
 <table border="1" cellspacing="0" cellpadding="3">
 	<tr><td></td><td>伝統表記(非縮約)</td><td>伝統表記(縮約)</td></tr>
-	<tr><td>rakkúḷ</td><td><img src="long_cons/1.png" height="80"/></td><td></td></td></tr>
+	<tr><td>rakkúḷ</td><td><img src="long_cons/1.png" height="80"/></td><td></td></tr>
 	<tr><td>nutta</td><td><img src="long_cons/2.png" height="80"/></td><td><img src="long_cons/6.png" height="80"/></td></tr>
 	<tr><td>ṣiṇṇa</td><td><img src="long_cons/3.png" height="80"/></td><td><img src="long_cons/7.png" height="80"/></td></tr>
 	<tr><td>baukká</td><td><img src="long_cons/4.png" height="80"/></td><td><img src="long_cons/8.png" height="80"/></td></tr></table>
@@ -1260,7 +1271,7 @@ díom káṇaḍi hína seṇa kábhau 〜近くḍi hína numíjuhomá adhadhel
 <p>波線にします。</p>
 <table border="1" cellspacing="0" cellpadding="3">
 	<tr><td></td><td>伝統表記(非縮約)</td><td>伝統表記(縮約)</td></tr>
-	<tr><td>rakkúḷ</td><td><img src="long_cons/1.png" height="80"/></td><td><img src="long_cons/5.png" height="80"/></td></td></tr></table>
+	<tr><td>rakkúḷ</td><td><img src="long_cons/1.png" height="80"/></td><td><img src="long_cons/5.png" height="80"/></td></tr></table>
 
 <p>で、現代表記ではどうするかというと、当然無子音字<img src="bhat_font/bhat_a.png" height="60" />にこれらの符号を適用するのだから、aQは<img src="long_cons/aq.png" height="40" />、auQは<img src="long_cons/auq.png" height="70" />、iQは<img src="long_cons/iq.png" height="60" />でuQは<img src="long_cons/uq.png" height="40" />。</p>
 <p>文法書にも書いてきた。</p>
@@ -1303,12 +1314,6 @@ printBhat2('"há,koDel- nánḍi hín sujúḷ- heyákáṣ-loQ');
 
 <h2>37. phonotactics</h2>
 
-<style>
-.alpha{background-color: #ffeeee}
-.beta{background-color: #eeeeff}
-.gamma{background-color: #eeeeee}
-.delta{background-color: #eeffee}
-</style>
 
 <h3>37-1. eの前に立つ子音</h3>
 <p><a href="#i33_2">33-2.</a>で唇音の後にeが来ないという話をしたが、もうちょい制約が厳しいという説があるので調べてみよう。</p>
@@ -1522,7 +1527,6 @@ j.v「ṭはzみたいなもんだからです」
 <p>sujakátáとかは微妙に違和感が無くもないが、bházahakátáの後半部分とリズムが同じだし、まあそこまで問題はなさそう。それよりは規則化意識の方が強く働きそう。</p>
 <p>-zについては、音節としてsujが立てないのでsúzかなぁ。súzemと同様である。</p>
 <p>あれか、「後述する形態素に含まれる母音が1つ以下で短母音である場合は母音語幹判定」とすればいいのか。</p>
-<style>.vow{color:red}.cons{color:blue}</style>
 <table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
 	<tr><td></td><td>heyáúḷ</td><td>hemúḷ</td><td>cánajúḷ</td><td>cajúḷ</td><td>rijúḷ</td><td>sujúḷ</td></tr>
 	<tr><td><span class="vow">-úḷ</span> / <span class="cons">-úḷ</span></td><td>heyá<span class="vow">-úḷ</span></td><td>hem<span class="cons">-úḷ</span></td><td>cánaj<span class="cons">-úḷ</span></td><td>caj<span class="cons">-úḷ</span></td><td>rij<span class="cons">-úḷ</span></td><td>suj<span class="cons">-úḷ</span></td>
@@ -1886,7 +1890,7 @@ Wikipedia contributors, "Grammatical number," Wikipedia, The Free Encyclopedia, 
 </ul>
 
 <h3>64-2. 子音幹名詞</h3>
-<h4>64-2-1. 子音の種類</h3>
+<h4>64-2-1. 子音の種類</h4>
 <table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
 <tr><td>-m</td><td>5</td><td>aṭam, hátaṣom, káṇám, lom, ákíjam</td></tr>
 <tr><td>-z</td><td>4 ~ 5</td><td>bákaz, heyáz, rijz, ríz, ḍáz</td></tr>
@@ -2856,21 +2860,8 @@ Wikipedia contributors, "Grammatical number," Wikipedia, The Free Encyclopedia, 
 
 <p>なお、ラテン字転写では上付きと下付きの0を使って表すことにする。便利だからね。</p>
 
-<style>
-.qq i {
-	font-family: "Times New Roman";
-}
-i.bhateme {
-	font-family: "Times New Roman";
-}
-</style>
 
 <p>祖語との対応は次のような感じ。</p>
-<table class="qq" border=1 style="font-family: Arial">
-	<tr></tr>
-	<tr></tr>
-	<tr></tr>
-</table>
 
 <table class="qq" border=1 style="font-family: Arial">
 	<tr><td><i>p⁰</i> : *b</td><td><i>t⁰</i> : *d</td><td><i>k⁰</i> : *g</td></tr>
@@ -2988,11 +2979,11 @@ i.bhateme {
 <p>だいたいこんな感じだろうな。</p>
 <img src="img/bhat_4corners.png" width="700"/>
 
-<h3>95-2. 面白い話</h2>
+<h3>95-2. 面白い話</h3>
 
 <p>タカンも右上の点で濁音らしい。へー。どっちかがどっちかに影響したということにできるな。</p>
 
-<h3>95-3. なぜ<i class="bhateme">₀pa₀pa</i>と口唱しないのか</h2>
+<h3>95-3. なぜ<i class="bhateme">₀pa₀pa</i>と口唱しないのか</h3>
 
 <p>/bʱabʱa/は[bʱaba]だからですね。</p>
 
@@ -3038,7 +3029,7 @@ i.bhateme {
 
 <p>そもそも類推する方向が違うよね。bhá + kとかで「すべて」、bhá + káṇaとかで「常に」とかの副詞を生むんじゃないの？用言用法なんてなかったんや。（あ、amámaは用言用法あってもいいかもね。）</p>
 
-<p>さてどういう複合語になるんだろう。まあbháhepa (< bhá *fuepq) 見ても分かるように名詞句から派生した副詞なので、名詞の語末短縮は起こっているとしてよさそう。</p>
+<p>さてどういう複合語になるんだろう。まあbháhepa (&lt; bhá *fuepq) 見ても分かるように名詞句から派生した副詞なので、名詞の語末短縮は起こっているとしてよさそう。</p>
 
 <p>さて<s>bhágháṇaは一応禁則ではないが（現代のghは有気じゃないので）、kが反映形として許されている以上類推上も不利だし、まあbhákáṇaでしょう。問題はbhá + kで、というのもこれはbhágが許される。3.の時代（いい加減名前付けたいですね）bhogが許されるので</s>語中ならなおさら濁らないんだが？bhákáṇaとbhákで確定。</p>
 
