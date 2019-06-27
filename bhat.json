@@ -2467,7 +2467,10 @@
       "title" : "ラネーメ祖語形",
       "text" : "*raikqt"
     } ],
-    "variations" : [ ],
+    "variations" : [ {
+      "title" : "旧正書法",
+      "form" : "káḷd"
+    } ],
     "relations" : [ {
       "title" : "派生関係",
       "entry" : {
@@ -7032,7 +7035,10 @@
     } ],
     "tags" : [ "人名" ],
     "contents" : [ ],
-    "variations" : [ ],
+    "variations" : [ {
+      "title" : "旧正書法",
+      "form" : "káḷdan"
+    } ],
     "relations" : [ {
       "title" : "派生関係",
       "entry" : {
@@ -7779,7 +7785,7 @@
       "title" : "子音幹名詞",
       "forms" : [ "レシェール" ]
     } ],
-    "tags" : [ "人名" ],
+    "tags" : [ "人名", "姓", "外来姓" ],
     "contents" : [ {
       "title" : "同根語",
       "text" : "理lexerlからの借用。"
@@ -8041,6 +8047,19 @@
         "form" : "-ú"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 346,
+      "form" : "ghitto"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "jekto姓" ]
+    } ],
+    "tags" : [ "人名", "姓", "外来姓" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

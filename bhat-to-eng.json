@@ -2470,7 +2470,10 @@
       "title" : "Proto-Lanermic form",
       "text" : "*raikqt"
     } ],
-    "variations" : [ ],
+    "variations" : [ {
+      "title" : "historical spelling",
+      "form" : "káḷd"
+    } ],
     "relations" : [ {
       "title" : "derived term(s) / derived from",
       "entry" : {
@@ -7017,7 +7020,10 @@
     } ],
     "tags" : [ "name" ],
     "contents" : [ ],
-    "variations" : [ ],
+    "variations" : [ {
+      "title" : "historical spelling",
+      "form" : "káḷdan"
+    } ],
     "relations" : [ {
       "title" : "derived term(s) / derived from",
       "entry" : {
@@ -7764,7 +7770,7 @@
       "title" : "consonant stem noun",
       "forms" : [ "Lexerl" ]
     } ],
-    "tags" : [ "name" ],
+    "tags" : [ "name", "family name", "foreign family name" ],
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "Borrowed from 理lexerl."
@@ -8026,6 +8032,19 @@
         "form" : "-ú"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 346,
+      "form" : "ghitto"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "Family name: jekto" ]
+    } ],
+    "tags" : [ "name", "family name", "foreign family name" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
