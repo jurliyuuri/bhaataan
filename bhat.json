@@ -2108,6 +2108,12 @@
         "id" : 277,
         "form" : "bháhepa"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 347,
+        "form" : "epam"
+      }
     } ]
   }, {
     "entry" : {
@@ -3408,7 +3414,19 @@
       "text" : "*fokjut"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 348,
+        "form" : "woghitam"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 349,
+        "form" : "woghitaim"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 144,
@@ -3780,6 +3798,12 @@
         "id" : 157,
         "form" : "-waim"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 349,
+        "form" : "woghitaim"
+      }
     } ]
   }, {
     "entry" : {
@@ -3828,6 +3852,12 @@
       "entry" : {
         "id" : 300,
         "form" : "bánim"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 347,
+        "form" : "epam"
       }
     } ]
   }, {
@@ -3902,6 +3932,12 @@
       "entry" : {
         "id" : 163,
         "form" : "-an"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 348,
+        "form" : "woghitam"
       }
     } ]
   }, {
@@ -8060,6 +8096,81 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 347,
+      "form" : "epam"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 88,
+        "form" : "epa"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 159,
+        "form" : "-m"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 348,
+      "form" : "woghitam"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 143,
+        "form" : "woghit"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 162,
+        "form" : "-am"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 349,
+      "form" : "woghitaim"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 143,
+        "form" : "woghit"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 158,
+        "form" : "-aim"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

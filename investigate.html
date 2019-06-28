@@ -3394,6 +3394,41 @@ https://en.wikipedia.org/wiki/Voiceless_bilabial_stop
 
 <p>とりあえずまずこれで一旦コミット。あー第三課さっさと書いてコミットしないと。</p>
 
+<h3>131-2. 姓と名</h3>
+
+<p>第三課も復習回とすることでとりあえずコミットできたし、えーあとはwoghitam, woghitaim, epamを辞書に足せばいいかな。</p>
+
+<p>さて話を戻すと、フルネームは「父親の名前 ghátu 名前 (苗字/bhátnímaṣ)」という形式だけど、今の所観測されているフルネームって「父親の名前 ghátu 名前」か「父親の名前 ghátu 名前 bhátnímaṣ」であって、苗字が明示的に出てきている例というのはない。</p>
+
+<p>ということで、バート人は本来的には「姓」というシステムを用いず、外来姓と対比する形で「bhátnímaṣ」と付けて呼ぶのであって、bhátnímaṣというのが他民族の「姓」に当たる、という運用のされかたをしているのではなかろうか。</p>
+
+<p>これを支持する証拠として、<a href="https://kakuyomu.jp/works/1177354054883808252/episodes/1177354054888067009">いせにほ#184</a>にある</p>
+<div class="box">
+	<div data-gloss>
+		<p>Jeska ad jumili'a-'d adkonsterlz-en lertasal-∅ reto letix-er-∅ ferlk-∅ zu es &lt;xelken>-∅. </p>
+		<p>イェスカ ～と～ ユミリア-GEN 共産主義-ADJR 政党-NOM 殺す 持つ-する者-ACC 名前-ACC REL である シェルケン-DAT</p>
+		<p>イェスカとユミリアの共産党はシェルケンって名を持っている人間を殺している。
+			</p>
+	</div>
+	<hr>
+	<div data-gloss>
+		<p>Cun, letix-o-∅ ferlk-e-stan-∅ es es-o-∅ fentexoler-∅ fal siss.</p>
+		<p>なぜなら 持つ-すること-NOM 名前-EPE-定性-ACC である である-すること-DAT 反革命主義者-DAT にとって→ 彼-PL</p>
+		<p>その名前を持っている人間は彼らにとって反革命主義者だから。</p>
+	</div>
+	<hr>
+	<div data-gloss>
+			<p>&lt;Hinggenferl> adit &lt;bartnirmax>-∅, &lt;kjaska>-∅ at veles reto-o-∅. </p>
+			<p>ヒンゲンファール ～や→など バートニーマシュ-NOM キャスカ-NOM 同じく～も される 殺す-すること-ACC</p>
+			<p>ヒンゲンファールもバートニーマシュもキャスカも殺された。</p>
+		</div>
+</div>
+
+<p>とまあ、明らかにバートニーマシュが姓として扱われている。</p>
+
+<p>（対訳は<a href="https://sites.google.com/site/good0think/1st/4/t#TOC-184">第四部対訳 - いせにほ資料集積所</a>より引用）</p>
+
+
 <hr>
 <h3 class="do_not_create_header">to do:</h3>
 「これ」「それ」の使い分け、<br>
@@ -3429,7 +3464,8 @@ bhátnímaṣ<br>
 <script>
  document.addEventListener('DOMContentLoaded', function() {
   	var leipzig = Leipzig();
-    leipzig.addAbbreviations({REAL:"realis",ZERO:"zero",POST:"postpositional",REL:"relativizer"});
+    leipzig.addAbbreviations({REAL:"realis",ZERO:"zero",POST:"postpositional",REL:"relativizer", ADJR: "adjectiviser" 
+	/* https://pdfs.semanticscholar.org/12eb/3bf8d3e1ec63d5d97ded07438a63b66ee1e0.pdf */, EPE:"緩衝音; epenthetic",J:"方向変化の-j",LEX:"連体形のlex",ELX:"助動詞遮断のelx",LALEX:"la lex",NLL: "ny la lex"});
     leipzig.gloss()
   });
 </script>

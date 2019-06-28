@@ -2111,6 +2111,12 @@
         "id" : 277,
         "form" : "bháhepa"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 347,
+        "form" : "epam"
+      }
     } ]
   }, {
     "entry" : {
@@ -3408,7 +3414,19 @@
       "text" : "*fokjut"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 348,
+        "form" : "woghitam"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 349,
+        "form" : "woghitaim"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 144,
@@ -3780,6 +3798,12 @@
         "id" : 157,
         "form" : "-waim"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 349,
+        "form" : "woghitaim"
+      }
     } ]
   }, {
     "entry" : {
@@ -3828,6 +3852,12 @@
       "entry" : {
         "id" : 300,
         "form" : "bánim"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 347,
+        "form" : "epam"
       }
     } ]
   }, {
@@ -3903,6 +3933,12 @@
         "id" : 163,
         "form" : "-an"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 348,
+        "form" : "woghitam"
+      }
     } ]
   }, {
     "entry" : {
@@ -3939,6 +3975,18 @@
       "entry" : {
         "id" : 161,
         "form" : "-n"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 301,
+        "form" : "kádan"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 302,
+        "form" : "rízan"
       }
     } ]
   }, {
@@ -5502,6 +5550,12 @@
         "id" : 241,
         "form" : "rijz"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 302,
+        "form" : "rízan"
+      }
     } ]
   }, {
     "entry" : {
@@ -7036,6 +7090,12 @@
         "id" : 163,
         "form" : "-an"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 163,
+        "form" : "-an"
+      }
     } ]
   }, {
     "entry" : {
@@ -7060,6 +7120,12 @@
       "entry" : {
         "id" : 163,
         "form" : "-an"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 240,
+        "form" : "ríz"
       }
     } ]
   }, {
@@ -8045,6 +8111,81 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 347,
+      "form" : "epam"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "(name)" ]
+    } ],
+    "tags" : [ "name" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 88,
+        "form" : "epa"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 159,
+        "form" : "-m"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 348,
+      "form" : "woghitam"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "(name)" ]
+    } ],
+    "tags" : [ "name" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 143,
+        "form" : "woghit"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 162,
+        "form" : "-am"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 349,
+      "form" : "woghitaim"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "(name)" ]
+    } ],
+    "tags" : [ "name" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 143,
+        "form" : "woghit"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 158,
+        "form" : "-aim"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
