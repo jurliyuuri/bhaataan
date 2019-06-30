@@ -8171,6 +8171,25 @@
         "form" : "-aim"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 350,
+      "form" : "khem"
+    },
+    "translations" : [ {
+      "title" : "無変化動詞",
+      "forms" : [ "～(主格)は～(属格・形容詞)のものである" ]
+    } ],
+    "tags" : [ "口語的" ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "形式名詞 k とコピュラ hem（〜である）が縮約して成立した単語。"
+    }, {
+      "title" : "同根語",
+      "text" : "k hem"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

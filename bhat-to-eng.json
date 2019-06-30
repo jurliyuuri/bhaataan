@@ -8186,6 +8186,25 @@
         "form" : "-aim"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 350,
+      "form" : "khem"
+    },
+    "translations" : [ {
+      "title" : "non-conjugating verb",
+      "forms" : [ "[nominative] is something that belongs to [genitive]" ]
+    } ],
+    "tags" : [ "colloquial" ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "the contraction of the dependent noun \"k\" followed by the copula \"hem\"."
+    }, {
+      "title" : "cognate(s)",
+      "text" : "k hem"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
