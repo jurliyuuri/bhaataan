@@ -6374,6 +6374,12 @@
         "id" : 146,
         "form" : "zepha"
       }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 351,
+        "form" : "nauṭu"
+      }
     } ]
   }, {
     "entry" : {
@@ -8205,6 +8211,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 351,
+      "form" : "nauṭu"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "dialectal form of \"nautu\"" ]
+    } ],
+    "tags" : [ "colloquial" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 272,
+        "form" : "nautu"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
