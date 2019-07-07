@@ -8215,6 +8215,32 @@
         "form" : "nautu"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 352,
+      "form" : "ea"
+    },
+    "translations" : [ {
+      "title" : "間投詞",
+      "forms" : [ "えーっと", "えー", "あのー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 353,
+      "form" : "aḍí"
+    },
+    "translations" : [ {
+      "title" : "間投詞",
+      "forms" : [ "えーっと", "あのー", "えー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

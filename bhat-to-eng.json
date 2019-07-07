@@ -8230,6 +8230,32 @@
         "form" : "nautu"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 352,
+      "form" : "ea"
+    },
+    "translations" : [ {
+      "title" : "interjection",
+      "forms" : [ "uh", "um", "er" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 353,
+      "form" : "aḍí"
+    },
+    "translations" : [ {
+      "title" : "interjection",
+      "forms" : [ "um", "uh", "er" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
