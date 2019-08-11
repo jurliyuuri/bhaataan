@@ -8256,6 +8256,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 354,
+      "form" : "elameniác"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "worker", "someone who works and receives wage or board members' compensation or whatever" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "As a result of semantic widening, the word \"elameniác\" not only includes the members of the working class but can also include entrepreneurs, CEOs or owners of a company, unlike the original word \"elmen'iars\"."
+    }, {
+      "title" : "cognate(s)",
+      "text" : "理elmen'iars"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
