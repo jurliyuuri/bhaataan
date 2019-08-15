@@ -8335,6 +8335,25 @@
         "form" : "nához"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 358,
+      "form" : "elameniác"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "労働者", "働く人", "社員", "実業家", "経営者", "給与所得者" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "リパライン語elmen'iarsよりも語義は広く、経営者とかも含むので、「労働者階級」みたいなのを指すのには適さない。"
+    }, {
+      "title" : "同根語",
+      "text" : "理elmen'iars"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
