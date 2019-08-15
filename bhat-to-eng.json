@@ -4528,6 +4528,12 @@
         "id" : 271,
         "form" : "bákaz"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 355,
+        "form" : "náhaz"
+      }
     } ]
   }, {
     "entry" : {
@@ -8256,6 +8262,94 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 354,
+      "form" : "náhúḷ"
+    },
+    "translations" : [ {
+      "title" : "instantaneous verb",
+      "forms" : [ "to add [accusative] to [ghi]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍naho"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 355,
+        "form" : "náhaz"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 355,
+      "form" : "náhaz"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "addition (both mathematic and non-mathematic)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 354,
+        "form" : "náhúḷ"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 190,
+        "form" : "-az"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 356,
+      "form" : "nához"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "the act of adding a case ending to a noun", "the act of declining a noun", "the act of declension" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍naho, 伐náhúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 357,
+        "form" : "náhozúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 357,
+      "form" : "náhozúḷ"
+    },
+    "translations" : [ {
+      "title" : "instantaneous verb",
+      "forms" : [ "to add a case ending to the noun [accusative] to make it into the case [instrumental]", "to decline a noun [accusative] to the [instrumental] case" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 356,
+        "form" : "nához"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
