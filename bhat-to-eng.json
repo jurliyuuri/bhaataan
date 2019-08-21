@@ -8369,6 +8369,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 359,
+      "form" : "kádakáná"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "spark", "incandescent particle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "伐kád- + 伐kánagh-"
+    }, {
+      "title" : "culture",
+      "text" : "Fire is traditionally considered to be a collection of kádakáná."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

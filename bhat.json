@@ -8354,6 +8354,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 359,
+      "form" : "kádakáná"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "火花", "火の粉" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐kád- + 伐kánagh-"
+    }, {
+      "title" : "文化",
+      "text" : "kádakánáが集まって火が成る、と考えられている。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
