@@ -4108,7 +4108,7 @@
       "text" : "牌be1"
     }, {
       "title" : "usage",
-      "text" : "must be followed by a noun"
+      "text" : "must be followed by a singular noun. Even though semantically plural, the noun following \"bhá\" should be in its singular form."
     } ],
     "variations" : [ ],
     "relations" : [ {
