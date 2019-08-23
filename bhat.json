@@ -5064,7 +5064,7 @@
       "title" : "子音幹名詞",
       "forms" : [ "(第一形式名詞)", "もの" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "形式名詞", "抽象的形式名詞" ],
     "contents" : [ {
       "title" : "用法",
       "text" : "属格・形容詞の直後にのみ現れる。主格のときにはゼロまたは複数形で現れるのが主流である。\nko ámaom hem? これはあなたのですか？\námaom kele sujamúha? あなたのを使いますか？"
@@ -5295,7 +5295,7 @@
       "title" : "母音幹名詞",
       "forms" : [ "(第三形式名詞)", "(〜という)こと" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "形式名詞", "抽象的形式名詞" ],
     "contents" : [ {
       "title" : "同根語",
       "text" : "藍tibaie"
@@ -5311,7 +5311,7 @@
       "title" : "母音幹名詞",
       "forms" : [ "第二形式名詞", "(〜という)事象・出来事" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "形式名詞", "抽象的形式名詞" ],
     "contents" : [ {
       "title" : "同根語",
       "text" : "藍wuo,牌uo1"
@@ -6829,7 +6829,7 @@
       "title" : "変化形",
       "forms" : [ "kの複数形" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "形式名詞", "抽象的形式名詞" ],
     "contents" : [ {
       "title" : "用法",
       "text" : "子音幹名詞kの複数形。あまりに紛らわしいので見出し語として一応立てておく。"
@@ -8371,6 +8371,54 @@
       "title" : "文化",
       "text" : "kádakánáが集まって火が成る、と考えられている。"
     } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 360,
+      "form" : "nau"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "(属格で修飾し)～のすべて" ]
+    } ],
+    "tags" : [ "形式名詞", "選択性形式名詞" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "アイツォnau1"
+    }, {
+      "title" : "類義語の使い分け",
+      "text" : "bhá + 名詞：「全てのN」（例：bhá ákíjami hína「毎日」）\n\t\t→ どんな ákíjam を取ってきても、文の主張が成り立つ\n\n名詞属格 + nau：「Nの全て」（例：ákíjamán nauḍi hína「一日中」）\n\t\t→ ákíjam のどの部分を取ってきても、文の主張が成り立つ\n\nbhá + 名詞属格 + nau：「全てのNの全て」（例：bhá ákíjamán nauḍi hína「24時間年中無休で」）\n\t\t→ どんな ákíjam のどの部分を取ってきても、文の主張が成り立つ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 361,
+      "form" : "ṣahe"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "(属格で修飾し)～の両方" ]
+    } ],
+    "tags" : [ "形式名詞", "選択性形式名詞" ],
+    "contents" : [ {
+      "title" : "類義語の使い分け",
+      "text" : "adhaomá ṣahe「両目」\nríkahomá adha「2つの目」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 362,
+      "form" : "ṣe"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "(属格で修飾し)～の両方" ]
+    } ],
+    "tags" : [ "形式名詞", "選択性形式名詞", "口語的" ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   } ],

@@ -5064,7 +5064,7 @@
       "title" : "consonant stem noun",
       "forms" : [ "(dependent noun #1)", "thing" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "dependent noun", "abstract dependent noun" ],
     "contents" : [ {
       "title" : "usage",
       "text" : "Appears only after a genitive or an adjective. Singular nominative tends to appear as zero.\nko ámaom hem? Is this yours?\námaom kele sujamúha? Do you use yours?"
@@ -5295,7 +5295,7 @@
       "title" : "vowel stem noun",
       "forms" : [ "(dependent noun #3)", "the fact (that S V)", "that (S V)" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "dependent noun", "abstract dependent noun" ],
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "藍tibaie"
@@ -5311,7 +5311,7 @@
       "title" : "vowel stem noun",
       "forms" : [ "dependent noun #2", "the event/situation (that S V)" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "dependent noun", "abstract dependent noun" ],
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "藍wuo,牌uo1"
@@ -6826,7 +6826,7 @@
       "title" : "inflected form",
       "forms" : [ "the plural form of k" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "dependent noun", "abstract dependent noun" ],
     "contents" : [ {
       "title" : "usage",
       "text" : "the plural form of the consonant stem noun k. Since this is extremely confusing, I added this as an entry of this dictionary."
@@ -8386,6 +8386,54 @@
       "title" : "culture",
       "text" : "Fire is traditionally considered to be a collection of kádakáná."
     } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 360,
+      "form" : "nau"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "all of ... (following a genitive)", "the entirety of ... (following a genitive)" ]
+    } ],
+    "tags" : [ "dependent noun", "dependent noun of choice" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "アイツォnau1"
+    }, {
+      "title" : "difference between synonyms",
+      "text" : "bhá + noun :  \"all (noun)\" (e.g. bhá ákíjami hína: \"every day (someone does something)\"）\n\t\t-> for any ákíjam, the statement holds\n\ngenitive + nau : \"all of (noun), the entirety of (noun)\" (e.g. ákíjamán nauḍi hína: \"all day long\" )\n\t\t-> for any part of an ákíjam, the statement holds\n\nbhá + genitive + nau：\"the entirety of all (noun)\" (e.g. bhá ákíjamán nauḍi hína: \"24/7\")\n\t\t-> the combination of the two above"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 361,
+      "form" : "ṣahe"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "both of ... (following a genitive)" ]
+    } ],
+    "tags" : [ "dependent noun", "dependent noun of choice" ],
+    "contents" : [ {
+      "title" : "difference between synonyms",
+      "text" : "adhaomá ṣahe \"both eyes\"\nríkahomá adha \"two eyes\""
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 362,
+      "form" : "ṣe"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "both of ... (following a genitive)" ]
+    } ],
+    "tags" : [ "dependent noun", "abstract dependent noun", "colloquial" ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
