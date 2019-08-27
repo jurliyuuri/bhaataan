@@ -3557,6 +3557,62 @@ https://en.wikipedia.org/wiki/Voiceless_bilabial_stop
 <p>翻訳率の計算に使う正規表現が<pre>[^\s!-~áíúṭḍṣṇḷ藍牌→←伐理ヴェフィス皇]</pre>から<pre>[^\s!-~áíúṭḍṣṇḷ藍牌→←伐理ヴェフィス皇アイツォ]</pre>になった。</p>
 <p>えー未翻訳は 25/361 だから 93.07% 翻訳済か。</p>
 
+<h2>143. 引用符と句読点</h2>
+<p>東島通商語の「上行<span style="font-size:70%">LT</span>論」を書いている際、句読点と引用符が組み合わさったときの振る舞いについて「他言語どうなる？」とSYと話した。</p>
+<p>ゆえに、バートでどうなるかを決めねばならない。</p>
+<p>前例に基づき、そもそも「文の引用」と「単語列リテラル」の2種の用法があることを明文化し、</p>
+<ul>
+	<li>単語列リテラルにおいては例外なく「閉じ引用符の後にスペースを置いてから後続要素」</li>
+	<li>ただし、ラテン字転写においては単語列リテラルの直後に来る句読点の前のスペースを省く</li>
+	<li>文の引用においては、閉じ引用符はデフォルトでは外側の文をも終わらせるので閉じ引用符の直後にはピリオドを打たない。これを打ち消すにはカンマを打つ。それ以外は「閉じ引用符の後にスペースを置いてから後続要素」</li>
+	<li>ただし、ラテン字転写においては文引用の直後に来る<strong style="font-size: 120%">カンマ</strong>の前のスペースを省く</li>
+</ul>
+<p>となった。表にするとこんな感じ。</p>
+
+<table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
+	<tr>
+		<td>↓用法＼後続→</td>
+		<td>ピリオド</td>
+		<td>疑問符</td>
+		<td>カンマ</td>
+		<td>普通の単語</td>
+		<td>終助詞t + ピリオド</td>
+	</tr>
+	<tr>
+		<td>文の引用</td>
+		<td><strong style="color:blue">引用符 + スペース</strong></td>
+		<td>引用符 + スペース + 疑問符</td>
+		<td>引用符 + スペース + カンマ</td>
+		<td><strong style="color:blue">引用符 + スペース + カンマ + 単語</strong></td>
+		<td>引用符 + スペース + 終助詞t + ピリオド</td>
+	</tr>
+	<tr>
+		<td>文の引用（ラテン字転写）</td>
+		<td><strong style="color:blue">引用符 + スペース</strong> (U+0022 U+0020)</td>
+		<td>引用符 + スペース + 疑問符 (U+0022 U+0020 U+003F)</td>
+		<td><strong style="color:blue">引用符 + カンマ</strong> (U+0022 U+002C)</td>
+		<td><strong style="color:blue">引用符 + カンマ + 単語</strong> (U+0022 U+002C ...)</td>
+		<td>引用符 + スペース + 感嘆符 (U+0022 U+0020 U+0021)</td>
+	</tr>
+	
+	<tr>
+		<td>単語列リテラル</td>
+		<td>引用符 + スペース + ピリオド</td>
+		<td>引用符 + スペース + 疑問符</td>
+		<td>引用符 + スペース + カンマ</td>
+		<td>引用符 + スペース + 単語</td>
+		<td>引用符 + スペース + 終助詞t + ピリオド</td>
+	</tr>
+	<tr>
+		<td>単語列リテラル（ラテン字転写）</td>
+		<td><strong style="color:blue">引用符 + ピリオド</strong> (U+0022 U+002E)</td>
+		<td><strong style="color:blue">引用符 + 疑問符</strong> (U+0022 U+003F)</td>
+		<td><strong style="color:blue">引用符 + カンマ</strong> (U+0022 U+002C)</td>
+		<td>引用符 + スペース + 単語 (U+0022 U+0020 ...)</td>
+		<td><strong style="color:blue">引用符 + 感嘆符</strong> (U+0022 U+0021)</td>
+	</tr>
+</table>
+
 <hr>
 <h3 class="do_not_create_header">to do:</h3>
 「これ」「それ」の使い分け、<br>
