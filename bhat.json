@@ -3382,6 +3382,9 @@
     "translations" : [ {
       "title" : "母音幹名詞",
       "forms" : [ "墨", "墨汁" ]
+    }, {
+      "title" : "母音幹名詞",
+      "forms" : [ "(属格で)黒い" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -8434,6 +8437,73 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "藍situsu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 364,
+      "form" : "bházau"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "(属格で)白い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍bachau"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 365,
+      "form" : "úroúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "黒い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌huo2,藍huroo"
+    }, {
+      "title" : "ラネーメ祖語形",
+      "text" : "*furoo"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 366,
+      "form" : "kujacú"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "(属格で)黄色い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍khaicwi,藍kasui"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 367,
+      "form" : "kúcú"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "(属格で)黄色い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍khaicwi,藍kasui"
     } ],
     "variations" : [ ],
     "relations" : [ ]

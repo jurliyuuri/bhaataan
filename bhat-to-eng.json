@@ -3382,6 +3382,9 @@
     "translations" : [ {
       "title" : "vowel stem noun",
       "forms" : [ "carbon ink" ]
+    }, {
+      "title" : "vowel stem noun",
+      "forms" : [ "(in genitive) black" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -8449,6 +8452,73 @@
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "藍situsu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 364,
+      "form" : "bházau"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "(in genitive) white" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍bachau"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 365,
+      "form" : "úroúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to be black" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌huo2,藍huroo"
+    }, {
+      "title" : "Proto-Lanermic form",
+      "text" : "*furoo"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 366,
+      "form" : "kujacú"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "(in genitive) yellow" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍khaicwi,藍kasui"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 367,
+      "form" : "kúcú"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "(in genitive) yellow" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍khaicwi,藍kasui"
     } ],
     "variations" : [ ],
     "relations" : [ ]
