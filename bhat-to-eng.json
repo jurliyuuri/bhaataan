@@ -8522,6 +8522,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 368,
+      "form" : "kúcujúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to be yellow" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍khaicwi,藍kasui"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
