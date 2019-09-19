@@ -2077,7 +2077,7 @@
       "text" : "*aaim"
     }, {
       "title" : "usage",
-      "text" : "infinitiveまたはkoḍiが直前に来て、「〜を思う」など主に思考にまつわるverb の意味上のaccusativeを表すのが普通である。"
+      "text" : "infinitiveまたはkoḍiが直前に来て、「〜を思う」など主に思考にまつわるverb や機能語的性質が強いverb の意味上のaccusativeを表すのが普通である。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3382,6 +3382,9 @@
     "translations" : [ {
       "title" : "vowel stem noun",
       "forms" : [ "carbon ink" ]
+    }, {
+      "title" : "vowel stem noun",
+      "forms" : [ "(in genitive) black" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4108,7 +4111,7 @@
       "text" : "牌be1"
     }, {
       "title" : "usage",
-      "text" : "must be followed by a noun"
+      "text" : "must be followed by a singular noun. Even though semantically plural, the noun following \"bhá\" should be in its singular form."
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -5064,7 +5067,7 @@
       "title" : "consonant stem noun",
       "forms" : [ "(dependent noun #1)", "thing" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "dependent noun", "abstract dependent noun" ],
     "contents" : [ {
       "title" : "usage",
       "text" : "Appears only after a genitive or an adjective. Singular nominative tends to appear as zero.\nko ámaom hem? Is this yours?\námaom kele sujamúha? Do you use yours?"
@@ -5295,7 +5298,7 @@
       "title" : "vowel stem noun",
       "forms" : [ "(dependent noun #3)", "the fact (that S V)", "that (S V)" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "dependent noun", "abstract dependent noun" ],
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "藍tibaie"
@@ -5311,7 +5314,7 @@
       "title" : "vowel stem noun",
       "forms" : [ "dependent noun #2", "the event/situation (that S V)" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "dependent noun", "abstract dependent noun" ],
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "藍wuo,牌uo1"
@@ -6826,7 +6829,7 @@
       "title" : "inflected form",
       "forms" : [ "the plural form of k" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "dependent noun", "abstract dependent noun" ],
     "contents" : [ {
       "title" : "usage",
       "text" : "the plural form of the consonant stem noun k. Since this is extremely confusing, I added this as an entry of this dictionary."
@@ -7267,7 +7270,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "(属格で)常なる" ]
+      "forms" : [ "(in genitive)常なる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -8001,7 +8004,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "(属格で)パイグの" ]
+      "forms" : [ "(in genitive)パイグの" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -8350,6 +8353,191 @@
         "form" : "nához"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 358,
+      "form" : "elameniác"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "worker", "someone who works and receives wage or board members' compensation or whatever" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "As a result of semantic widening, the word \"elameniác\" not only includes the members of the working class but can also include entrepreneurs, CEOs or owners of a company, unlike the original word \"elmen'iars\"."
+    }, {
+      "title" : "cognate(s)",
+      "text" : "理elmen'iars"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 359,
+      "form" : "kádakáná"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "spark", "incandescent particle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "伐kád- + 伐kánagh-"
+    }, {
+      "title" : "culture",
+      "text" : "Fire is traditionally considered to be a collection of kádakáná."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 360,
+      "form" : "nau"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "all of ... (following a genitive)", "the entirety of ... (following a genitive)" ]
+    } ],
+    "tags" : [ "dependent noun", "dependent noun of choice" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "アイツォnau1, 藍anau"
+    }, {
+      "title" : "difference between synonyms",
+      "text" : "bhá + noun :  \"all (noun)\" (e.g. bhá ákíjami hína: \"every day (someone does something)\")\n\t\t-> for any ákíjam, the statement holds\n\ngenitive + nau : \"all of (noun), the entirety of (noun)\" (e.g. ákíjamán nauḍi hína: \"all day long\" )\n\t\t-> for any part of an ákíjam, the statement holds\n\nbhá + genitive + nau : \"the entirety of all (noun)\" (e.g. bhá ákíjamán nauḍi hína: \"24/7\")\n\t\t-> the combination of the two above"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 361,
+      "form" : "ṣahe"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "both of ... (following a genitive)" ]
+    } ],
+    "tags" : [ "dependent noun", "dependent noun of choice" ],
+    "contents" : [ {
+      "title" : "difference between synonyms",
+      "text" : "adhaomá ṣahe \"both eyes\"\nríkahomá adha \"two eyes\""
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 362,
+      "form" : "ṣe"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "both of ... (following a genitive)" ]
+    } ],
+    "tags" : [ "dependent noun", "abstract dependent noun", "colloquial" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 363,
+      "form" : "sít"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "clay" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍situsu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 364,
+      "form" : "bházau"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "(in genitive) white" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍bachau"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 365,
+      "form" : "úroúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to be black" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌huo2,藍huroo"
+    }, {
+      "title" : "Proto-Lanermic form",
+      "text" : "*furoo"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 366,
+      "form" : "kujacú"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "(in genitive) yellow" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍khaicwi,藍kasui"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 367,
+      "form" : "kúcú"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "(in genitive) yellow" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍khaicwi,藍kasui"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 368,
+      "form" : "kúcujúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to be yellow" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍khaicwi,藍kasui"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

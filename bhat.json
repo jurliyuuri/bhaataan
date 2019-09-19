@@ -2074,7 +2074,7 @@
       "text" : "*aaim"
     }, {
       "title" : "用法",
-      "text" : "不定詞またはkoḍiが直前に来て、「〜を思う」など主に思考にまつわる動詞の意味上の対格を表すのが普通である。"
+      "text" : "不定詞またはkoḍiが直前に来て、「〜を思う」など主に思考にまつわる動詞や機能語的性質が強い動詞の意味上の対格を表すのが普通である。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -3382,6 +3382,9 @@
     "translations" : [ {
       "title" : "母音幹名詞",
       "forms" : [ "墨", "墨汁" ]
+    }, {
+      "title" : "母音幹名詞",
+      "forms" : [ "(属格で)黒い" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4108,7 +4111,7 @@
       "text" : "牌be1"
     }, {
       "title" : "用法",
-      "text" : "直後に名詞を要求する。"
+      "text" : "直後に単数名詞を要求する。意味上複数であっても単数形を用いる。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -5064,7 +5067,7 @@
       "title" : "子音幹名詞",
       "forms" : [ "(第一形式名詞)", "もの" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "形式名詞", "抽象的形式名詞" ],
     "contents" : [ {
       "title" : "用法",
       "text" : "属格・形容詞の直後にのみ現れる。主格のときにはゼロまたは複数形で現れるのが主流である。\nko ámaom hem? これはあなたのですか？\námaom kele sujamúha? あなたのを使いますか？"
@@ -5295,7 +5298,7 @@
       "title" : "母音幹名詞",
       "forms" : [ "(第三形式名詞)", "(〜という)こと" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "形式名詞", "抽象的形式名詞" ],
     "contents" : [ {
       "title" : "同根語",
       "text" : "藍tibaie"
@@ -5311,7 +5314,7 @@
       "title" : "母音幹名詞",
       "forms" : [ "第二形式名詞", "(〜という)事象・出来事" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "形式名詞", "抽象的形式名詞" ],
     "contents" : [ {
       "title" : "同根語",
       "text" : "藍wuo,牌uo1"
@@ -6829,7 +6832,7 @@
       "title" : "変化形",
       "forms" : [ "kの複数形" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "形式名詞", "抽象的形式名詞" ],
     "contents" : [ {
       "title" : "用法",
       "text" : "子音幹名詞kの複数形。あまりに紛らわしいので見出し語として一応立てておく。"
@@ -8335,6 +8338,191 @@
         "form" : "nához"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 358,
+      "form" : "elameniác"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "労働者", "働く人", "社員", "実業家", "経営者", "給与所得者" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "リパライン語elmen'iarsよりも語義は広く、経営者とかも含むので、「労働者階級」みたいなのを指すのには適さない。"
+    }, {
+      "title" : "同根語",
+      "text" : "理elmen'iars"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 359,
+      "form" : "kádakáná"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "火花", "火の粉" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐kád- + 伐kánagh-"
+    }, {
+      "title" : "文化",
+      "text" : "kádakánáが集まって火が成る、と考えられている。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 360,
+      "form" : "nau"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "(属格で修飾し)～のすべて" ]
+    } ],
+    "tags" : [ "形式名詞", "選択性形式名詞" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "アイツォnau1, 藍anau"
+    }, {
+      "title" : "類義語の使い分け",
+      "text" : "bhá + 名詞：「全てのN」（例：bhá ákíjami hína「毎日」）\n\t\t→ どんな ákíjam を取ってきても、文の主張が成り立つ\n\n名詞属格 + nau：「Nの全て」（例：ákíjamán nauḍi hína「一日中」）\n\t\t→ ákíjam のどの部分を取ってきても、文の主張が成り立つ\n\nbhá + 名詞属格 + nau：「全てのNの全て」（例：bhá ákíjamán nauḍi hína「24時間年中無休で」）\n\t\t→ どんな ákíjam のどの部分を取ってきても、文の主張が成り立つ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 361,
+      "form" : "ṣahe"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "(属格で修飾し)～の両方" ]
+    } ],
+    "tags" : [ "形式名詞", "選択性形式名詞" ],
+    "contents" : [ {
+      "title" : "類義語の使い分け",
+      "text" : "adhaomá ṣahe「両目」\nríkahomá adha「2つの目」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 362,
+      "form" : "ṣe"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "(属格で修飾し)～の両方" ]
+    } ],
+    "tags" : [ "形式名詞", "選択性形式名詞", "口語的" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 363,
+      "form" : "sít"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "粘土" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍situsu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 364,
+      "form" : "bházau"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "(属格で)白い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍bachau"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 365,
+      "form" : "úroúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "黒い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌huo2,藍huroo"
+    }, {
+      "title" : "ラネーメ祖語形",
+      "text" : "*furoo"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 366,
+      "form" : "kujacú"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "(属格で)黄色い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍khaicwi,藍kasui"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 367,
+      "form" : "kúcú"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "(属格で)黄色い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍khaicwi,藍kasui"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 368,
+      "form" : "kúcujúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "黄色い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍khaicwi,藍kasui"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

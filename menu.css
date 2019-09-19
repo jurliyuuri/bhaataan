@@ -1,5 +1,7 @@
 .indent{text-indent:2em}
 .double-indent{text-indent:4em}
+.triple-indent{text-indent:6em}
+.quadruple-indent{text-indent:8em}
 #menu{
 	position:fixed;
 	left:-450px;
