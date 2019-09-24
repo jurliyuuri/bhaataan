@@ -1410,7 +1410,7 @@
     },
     "translations" : [ {
       "title" : "副詞",
-      "forms" : [ "否定副詞", "〜でない" ]
+      "forms" : [ "否定副詞", "〜でない", "～しない" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -8521,6 +8521,19 @@
       "title" : "同根語",
       "text" : "藍khaicwi,藍kasui"
     } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 369,
+      "form" : "bom"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "不可能副詞", "〜できない" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   } ],

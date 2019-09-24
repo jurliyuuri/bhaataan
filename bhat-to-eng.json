@@ -4803,7 +4803,7 @@
     },
     "translations" : [ {
       "title" : "interjection",
-      "forms" : [ "いやだ", "えー", "めんどい" ]
+      "forms" : [ "What a pain!", "What the heck!", "What the hell!", "I hate it." ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -8536,6 +8536,19 @@
       "title" : "cognate(s)",
       "text" : "藍khaicwi,藍kasui"
     } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 369,
+      "form" : "bom"
+    },
+    "translations" : [ {
+      "title" : "adverb",
+      "forms" : [ "cannot" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
