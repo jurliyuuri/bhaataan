@@ -8608,6 +8608,81 @@
         "form" : "bákatú"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 373,
+      "form" : "ákíjamán dhoḷopáná ṣibhaiomá dhárad"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "東諸島共和国連合", "PMCF" ]
+    } ],
+    "tags" : [ "必ず単数曲用" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 374,
+        "form" : "dhoḷopáná dhárad"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 375,
+        "form" : "pemecepe"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 374,
+      "form" : "dhoḷopáná dhárad"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "東諸島共和国連合", "PMCF" ]
+    } ],
+    "tags" : [ "必ず単数曲用" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 373,
+        "form" : "ákíjamán dhoḷopáná ṣibhaiomá dhárad"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 375,
+        "form" : "pemecepe"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 375,
+      "form" : "pemecepe"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "東諸島共和国連合", "PMCF" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 374,
+        "form" : "dhoḷopáná dhárad"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 373,
+        "form" : "ákíjamán dhoḷopáná ṣibhaiomá dhárad"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
