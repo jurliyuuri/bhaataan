@@ -1410,7 +1410,7 @@
     },
     "translations" : [ {
       "title" : "副詞",
-      "forms" : [ "否定副詞", "〜でない" ]
+      "forms" : [ "否定副詞", "〜でない", "～しない" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -7826,6 +7826,12 @@
         "id" : 345,
         "form" : "amáma bohú"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 371,
+        "form" : "bákatú"
+      }
     } ]
   }, {
     "entry" : {
@@ -8523,6 +8529,160 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 369,
+      "form" : "bom"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "不可能副詞", "〜できない" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 370,
+      "form" : "áphíyo"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "マーク", "ロゴ", "シンボル" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理afi'orj"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 371,
+      "form" : "bákatú"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "勇敢な者" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍makutu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 332,
+        "form" : "-ú"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 372,
+        "form" : "bákatúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 372,
+      "form" : "bákatúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "勇ましい" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍makutu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 371,
+        "form" : "bákatú"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 373,
+      "form" : "ákíjamán dhoḷopáná ṣibhaiomá dhárad"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "東諸島共和国連合", "PMCF" ]
+    } ],
+    "tags" : [ "必ず単数曲用" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 374,
+        "form" : "dhoḷopáná dhárad"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 375,
+        "form" : "pemecepe"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 374,
+      "form" : "dhoḷopáná dhárad"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "東諸島共和国連合", "PMCF" ]
+    } ],
+    "tags" : [ "必ず単数曲用" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 373,
+        "form" : "ákíjamán dhoḷopáná ṣibhaiomá dhárad"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 375,
+        "form" : "pemecepe"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 375,
+      "form" : "pemecepe"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "東諸島共和国連合", "PMCF" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 374,
+        "form" : "dhoḷopáná dhárad"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 373,
+        "form" : "ákíjamán dhoḷopáná ṣibhaiomá dhárad"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

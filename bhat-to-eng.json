@@ -4803,7 +4803,7 @@
     },
     "translations" : [ {
       "title" : "interjection",
-      "forms" : [ "いやだ", "えー", "めんどい" ]
+      "forms" : [ "What a pain!", "What the heck!", "What the hell!", "I hate it." ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -7841,6 +7841,12 @@
         "id" : 345,
         "form" : "amáma bohú"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 371,
+        "form" : "bákatú"
+      }
     } ]
   }, {
     "entry" : {
@@ -8538,6 +8544,85 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 369,
+      "form" : "bom"
+    },
+    "translations" : [ {
+      "title" : "adverb",
+      "forms" : [ "cannot" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 370,
+      "form" : "áphíyo"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "mark", "logo", "symbol" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理afi'orj"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 371,
+      "form" : "bákatú"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "someone who is brave" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍makutu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 332,
+        "form" : "-ú"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 372,
+        "form" : "bákatúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 372,
+      "form" : "bákatúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to be brave" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍makutu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 371,
+        "form" : "bákatú"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
