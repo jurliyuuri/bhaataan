@@ -2937,13 +2937,16 @@
       "title" : "母音幹名詞",
       "forms" : [ "液体", "水" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "複数の標準発音" ],
     "contents" : [ {
       "title" : "同根語",
       "text" : "牌nua2,藍nua"
     }, {
       "title" : "ラネーメ祖語形",
       "text" : "*nu'a'"
+    }, {
+      "title" : "発音",
+      "text" : "nutta/, /nuʔʔa"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -5973,10 +5976,13 @@
       "title" : "母音幹名詞",
       "forms" : [ "魚醤", "ナンプラー" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "複数の標準発音" ],
     "contents" : [ {
       "title" : "同根語",
       "text" : "理amilaformar"
+    }, {
+      "title" : "発音",
+      "text" : "amiɾaxɔːmaː nutta/, /amiɾaxɔːmaː nuʔʔa"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -6038,10 +6044,13 @@
       "title" : "母音幹名詞",
       "forms" : [ "雨", "雨水" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "複数の標準発音" ],
     "contents" : [ {
       "title" : "同根語",
       "text" : "牌syt2 nua2"
+    }, {
+      "title" : "発音",
+      "text" : "ʂuːzaxɔːmaː nutta/, /ʂuːzaxɔːmaː nuʔʔa"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -8689,7 +8698,7 @@
     "wordOrderType" : "UNICODE",
     "punctuations" : [ ",", "　", "、", " ", " " ],
     "ignoredTranslationRegex" : "",
-    "pronunciationTitle" : null,
+    "pronunciationTitle" : "発音",
     "plainInformationTitles" : [ ],
     "informationTitleOrder" : null,
     "formFontFamily" : null,

@@ -2937,13 +2937,16 @@
       "title" : "vowel stem noun",
       "forms" : [ "liquid", "water" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "multiple standard pronunciation" ],
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "牌nua2,藍nua"
     }, {
       "title" : "Proto-Lanermic form",
       "text" : "*nu'a'"
+    }, {
+      "title" : "pronunciation",
+      "text" : "nutta/, /nuʔʔa"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -5973,10 +5976,13 @@
       "title" : "vowel stem noun",
       "forms" : [ "fish sauce" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "multiple standard pronunciation" ],
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "理amilaformar"
+    }, {
+      "title" : "pronunciation",
+      "text" : "amiɾaxɔːmaː nutta/, /amiɾaxɔːmaː nuʔʔa"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -6038,10 +6044,13 @@
       "title" : "vowel stem noun",
       "forms" : [ "rain", "rainwater" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "multiple standard pronunciation" ],
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "牌syt2 nua2"
+    }, {
+      "title" : "pronunciation",
+      "text" : "ʂuːzaxɔːmaː nutta/, /ʂuːzaxɔːmaː nuʔʔa"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -8629,7 +8638,7 @@
     "wordOrderType" : "UNICODE",
     "punctuations" : [ "," ],
     "ignoredTranslationRegex" : "",
-    "pronunciationTitle" : null,
+    "pronunciationTitle" : "pronunciation",
     "plainInformationTitles" : [ ],
     "informationTitleOrder" : null,
     "formFontFamily" : null,
