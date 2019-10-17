@@ -8105,7 +8105,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "文化",
+      "title" : "culture",
       "text" : "「大移住」。「大退去」とも。バート人がグォン・アルト藩国を去らなくてはいけなくなった2000年の痛ましい事件とそれに次ぐ混乱を指す。単に「行く」の意味もあれば「(永久に)去る」の意味を持つbohúḷは（訳語が揺れるのはそのため）、心の故郷であるグォン・アルト藩国に帰れる見込みの乏しいバート人の思いをよく表現しているともいえよう。"
     } ],
     "variations" : [ ],
@@ -8630,6 +8630,81 @@
       "entry" : {
         "id" : 371,
         "form" : "bákatú"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 373,
+      "form" : "ákíjamán dhoḷopáná ṣibhaiomá dhárad"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "東諸島共和国連合", "PMCF" ]
+    } ],
+    "tags" : [ "always singular declension" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 374,
+        "form" : "dhoḷopáná dhárad"
+      }
+    }, {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 375,
+        "form" : "pemecepe"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 374,
+      "form" : "dhoḷopáná dhárad"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "東諸島共和国連合", "PMCF" ]
+    } ],
+    "tags" : [ "always singular declension" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 373,
+        "form" : "ákíjamán dhoḷopáná ṣibhaiomá dhárad"
+      }
+    }, {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 375,
+        "form" : "pemecepe"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 375,
+      "form" : "pemecepe"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "東諸島共和国連合", "PMCF" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 374,
+        "form" : "dhoḷopáná dhárad"
+      }
+    }, {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 373,
+        "form" : "ákíjamán dhoḷopáná ṣibhaiomá dhárad"
       }
     } ]
   } ],
