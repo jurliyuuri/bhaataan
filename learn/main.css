@@ -17,11 +17,11 @@ div.jv > div { float:left; background-image:url("jv2.jpg"); background-size: 73p
 
 @font-face {
     font-family: "Cirlipa";
-    src: url("./cirlxarli_liparxe_1.woff");  format('woff');
+    src: url("./cirlxarli_liparxe_1.woff")  format('woff');
 }
 
 @font-face {
     font-family: "Bhaataan";
-    src: url("./Bhaataan.woff");  format('woff');
+    src: url("./Bhaataan.woff")  format('woff');
 }
 
