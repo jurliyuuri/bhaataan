@@ -549,6 +549,12 @@
         "id" : 26,
         "form" : "-kátá"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 378,
+        "form" : "aumakátá rod"
+      }
     } ]
   }, {
     "entry" : {
@@ -3364,7 +3370,7 @@
       "title" : "vowel stem noun",
       "forms" : [ "流れ", "link", "connection" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "learned word" ],
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "relatively recent borrowing of 牌tak1,藍taku"
@@ -6214,7 +6220,13 @@
       "text" : "牌lot2,藍lodu"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 379,
+        "form" : "rod"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 266,
@@ -8720,6 +8732,87 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 377,
+      "form" : "aumúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to be (geometrically) inclined", "to be slanted", "to be oblique" ]
+    } ],
+    "tags" : [ "learned word" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌aum2,藍aumi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 378,
+        "form" : "aumakátá rod"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 378,
+      "form" : "aumakátá rod"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "halant", "virama", "vowel-suppressing diacritic" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "culture",
+      "text" : "Literally \"oblique, short one,\" this diacritic originally represented a vowel but is now used to remove the inherent vowel."
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 377,
+        "form" : "aumúḷ"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 29,
+        "form" : "-akátá"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 379,
+        "form" : "rod"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 379,
+      "form" : "rod"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "something that is short", "the short one" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 265,
+        "form" : "rodúḷ"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 378,
+        "form" : "aumakátá rod"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

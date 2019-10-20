@@ -549,6 +549,12 @@
         "id" : 26,
         "form" : "-kátá"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 378,
+        "form" : "aumakátá rod"
+      }
     } ]
   }, {
     "entry" : {
@@ -3364,7 +3370,7 @@
       "title" : "母音幹名詞",
       "forms" : [ "流れ", "繋がり" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "mot savant" ],
     "contents" : [ {
       "title" : "同根語",
       "text" : "牌tak1,藍taku;比較的最近の借用語"
@@ -6214,7 +6220,13 @@
       "text" : "牌lot2,藍lodu"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 379,
+        "form" : "rod"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 266,
@@ -8705,6 +8717,87 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 377,
+      "form" : "aumúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "傾いている" ]
+    } ],
+    "tags" : [ "mot savant" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌aum2,藍aumi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 378,
+        "form" : "aumakátá rod"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 378,
+      "form" : "aumakátá rod"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "ハラント", "ヴィラーマ", "無母音化記号" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "「傾いた短いやつ」の義で、もともとは、他の記号と同様、母音を表す記号であったとされている。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 377,
+        "form" : "aumúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 29,
+        "form" : "-akátá"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 379,
+        "form" : "rod"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 379,
+      "form" : "rod"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "短いやつ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 265,
+        "form" : "rodúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 378,
+        "form" : "aumakátá rod"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
