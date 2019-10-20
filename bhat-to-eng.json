@@ -8707,6 +8707,19 @@
         "form" : "ákíjamán dhoḷopáná ṣibhaiomá dhárad"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 376,
+      "form" : "makati"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "アイル共和国首都" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
