@@ -1716,10 +1716,10 @@
     },
     "translations" : [ {
       "title" : "instantaneous verb",
-      "forms" : [ "for wind to blow", "to get sick", "to get moldy" ]
+      "forms" : [ "for the wind to blow", "to get sick", "to get moldy" ]
     }, {
       "title" : "stative verb",
-      "forms" : [ "for wind to be blowing", "to be sick", "to be moldy" ]
+      "forms" : [ "for the wind to be blowing", "to be sick", "to be moldy" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1940,7 +1940,7 @@
       "forms" : [ "to come from [oṣa]", "to visit [hína]" ]
     }, {
       "title" : "stative verb",
-      "forms" : [ "for the hometown to be [oṣa]" ]
+      "forms" : [ "for the hometown (of [nominative]) to be [oṣa]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
