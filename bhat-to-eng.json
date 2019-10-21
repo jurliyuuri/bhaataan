@@ -8813,6 +8813,25 @@
         "form" : "aumakátá rod"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 380,
+      "form" : "bátat"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "the place outside [instrumental]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍matutu"
+    }, {
+      "title" : "usage",
+      "text" : "to say \"somewhere outside A\", you use A's instrumental case followed by bátat."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

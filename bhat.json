@@ -8798,6 +8798,25 @@
         "form" : "aumakátá rod"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 380,
+      "form" : "bátat"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "外", "外部", "そと" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍matutu"
+    }, {
+      "title" : "用法",
+      "text" : "「Aの外」などを表すときには、Aを具格にする。（いわゆる基準具格）"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
