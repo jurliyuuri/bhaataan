@@ -549,6 +549,12 @@
         "id" : 26,
         "form" : "-kátá"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 378,
+        "form" : "aumakátá rod"
+      }
     } ]
   }, {
     "entry" : {
@@ -1597,6 +1603,12 @@
         "id" : 300,
         "form" : "bánim"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 313,
+        "form" : "líṇabáni"
+      }
     } ]
   }, {
     "entry" : {
@@ -1937,7 +1949,7 @@
       "forms" : [ "〜(oṣa)から来る", "〜(hína)を訪れる", "〜(hína)を来訪する" ]
     }, {
       "title" : "状態動詞",
-      "forms" : [ "〜(oṣa)が出身地である" ]
+      "forms" : [ "〜(oṣa)が～(主格)の出身地である" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2937,13 +2949,16 @@
       "title" : "母音幹名詞",
       "forms" : [ "液体", "水" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "複数の標準発音" ],
     "contents" : [ {
       "title" : "同根語",
       "text" : "牌nua2,藍nua"
     }, {
       "title" : "ラネーメ祖語形",
       "text" : "*nu'a'"
+    }, {
+      "title" : "発音",
+      "text" : "nutta/, /nuʔʔa"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -3361,7 +3376,7 @@
       "title" : "母音幹名詞",
       "forms" : [ "流れ", "繋がり" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "mot savant" ],
     "contents" : [ {
       "title" : "同根語",
       "text" : "牌tak1,藍taku;比較的最近の借用語"
@@ -4918,7 +4933,7 @@
       "text" : "牌ut2,藍utu"
     }, {
       "title" : "用法",
-      "text" : "「Aの下」などを表すときには、Aを具格にする。（いわゆる基準具格）"
+      "text" : "「Aの下」などを表すときには、Aを具格にする。（いわゆる基準具格）\nṣoyabhau rúṣán bhoṇau 「壁の下の巣穴」"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -5973,10 +5988,13 @@
       "title" : "母音幹名詞",
       "forms" : [ "魚醤", "ナンプラー" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "複数の標準発音" ],
     "contents" : [ {
       "title" : "同根語",
       "text" : "理amilaformar"
+    }, {
+      "title" : "発音",
+      "text" : "amiɾaxɔːmaː nutta/, /amiɾaxɔːmaː nuʔʔa"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -6038,10 +6056,13 @@
       "title" : "母音幹名詞",
       "forms" : [ "雨", "雨水" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "複数の標準発音" ],
     "contents" : [ {
       "title" : "同根語",
       "text" : "牌syt2 nua2"
+    }, {
+      "title" : "発音",
+      "text" : "ʂuːzaxɔːmaː nutta/, /ʂuːzaxɔːmaː nuʔʔa"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -6205,7 +6226,13 @@
       "text" : "牌lot2,藍lodu"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 379,
+        "form" : "rod"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 266,
@@ -6391,6 +6418,12 @@
       "entry" : {
         "id" : 351,
         "form" : "nauṭu"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 381,
+        "form" : "-ṇauṭu"
       }
     } ]
   }, {
@@ -7360,7 +7393,19 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 384,
+        "form" : "líṇa-"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 66,
+        "form" : "báni"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 314,
@@ -8683,13 +8728,273 @@
         "form" : "ákíjamán dhoḷopáná ṣibhaiomá dhárad"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 376,
+      "form" : "makati"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "アイル共和国首都" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 377,
+      "form" : "aumúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "傾いている" ]
+    } ],
+    "tags" : [ "mot savant" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌aum2,藍aumi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 378,
+        "form" : "aumakátá rod"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 378,
+      "form" : "aumakátá rod"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "ハラント", "ヴィラーマ", "無母音化記号" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "「傾いた短いやつ」の義で、もともとは、他の記号と同様、母音を表す記号であったとされている。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 377,
+        "form" : "aumúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 29,
+        "form" : "-akátá"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 379,
+        "form" : "rod"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 379,
+      "form" : "rod"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "短いやつ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 265,
+        "form" : "rodúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 378,
+        "form" : "aumakátá rod"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 380,
+      "form" : "bátat"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "外", "外部", "そと" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍matutu"
+    }, {
+      "title" : "用法",
+      "text" : "「Aの外」などを表すときには、Aを具格にする。（いわゆる基準具格）"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 382,
+        "form" : "bátatṇauṭu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 381,
+      "form" : "-ṇauṭu"
+    },
+    "translations" : [ {
+      "title" : "左接被覆形",
+      "forms" : [ "nautuの左接被覆形" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 272,
+        "form" : "nautu"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 382,
+        "form" : "bátatṇauṭu"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 383,
+        "form" : "líṇaṇauṭu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 382,
+      "form" : "bátatṇauṭu"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "借用語", "外来語" ]
+    } ],
+    "tags" : [ "複数の標準発音" ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "baːtaʈɳawʈu/, /baːtaɳɳawʈu/, /baːtatəɳawʈu/, /baːtaʔɳawʈu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 380,
+        "form" : "bátat"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 381,
+        "form" : "-ṇauṭu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 383,
+      "form" : "líṇaṇauṭu"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "ラネーメ系の単語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 381,
+        "form" : "-ṇauṭu"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 384,
+        "form" : "líṇa-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 384,
+      "form" : "líṇa-"
+    },
+    "translations" : [ {
+      "title" : "右接被覆形",
+      "forms" : [ "ラネーメ・燐帝字母などを表す右接被覆形" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 313,
+        "form" : "líṇabáni"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 383,
+        "form" : "líṇaṇauṭu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 385,
+      "form" : "eghi"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "石" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍hewe"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 386,
+      "form" : "ammúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "降りる", "下降する", "下る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌aum2,藍aumi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
     "wordOrderType" : "UNICODE",
     "punctuations" : [ ",", "　", "、", " ", " " ],
     "ignoredTranslationRegex" : "",
-    "pronunciationTitle" : null,
+    "pronunciationTitle" : "発音",
     "plainInformationTitles" : [ ],
     "informationTitleOrder" : null,
     "formFontFamily" : null,
