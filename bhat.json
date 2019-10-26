@@ -1603,6 +1603,12 @@
         "id" : 300,
         "form" : "bánim"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 313,
+        "form" : "líṇabáni"
+      }
     } ]
   }, {
     "entry" : {
@@ -6413,6 +6419,12 @@
         "id" : 351,
         "form" : "nauṭu"
       }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 381,
+        "form" : "-ṇauṭu"
+      }
     } ]
   }, {
     "entry" : {
@@ -7381,7 +7393,19 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 384,
+        "form" : "líṇa-"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 66,
+        "form" : "báni"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 314,
@@ -8816,7 +8840,122 @@
       "text" : "「Aの外」などを表すときには、Aを具格にする。（いわゆる基準具格）"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 382,
+        "form" : "bátatṇauṭu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 381,
+      "form" : "-ṇauṭu"
+    },
+    "translations" : [ {
+      "title" : "左接被覆形",
+      "forms" : [ "nautuの左接被覆形" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 272,
+        "form" : "nautu"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 382,
+        "form" : "bátatṇauṭu"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 383,
+        "form" : "líṇaṇauṭu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 382,
+      "form" : "bátatṇauṭu"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "借用語", "外来語" ]
+    } ],
+    "tags" : [ "複数の標準発音" ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "baːtaʈɳawʈu/, /baːtaɳɳawʈu/, /baːtatəɳawʈu/, /baːtaʔɳawʈu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 380,
+        "form" : "bátat"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 381,
+        "form" : "-ṇauṭu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 383,
+      "form" : "líṇaṇauṭu"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "ラネーメ系の単語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 381,
+        "form" : "-ṇauṭu"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 384,
+        "form" : "líṇa-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 384,
+      "form" : "líṇa-"
+    },
+    "translations" : [ {
+      "title" : "右接被覆形",
+      "forms" : [ "ラネーメ・燐帝字母などを表す右接被覆形" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 313,
+        "form" : "líṇabáni"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 383,
+        "form" : "líṇaṇauṭu"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

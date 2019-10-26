@@ -1603,6 +1603,12 @@
         "id" : 300,
         "form" : "bánim"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 313,
+        "form" : "líṇabáni"
+      }
     } ]
   }, {
     "entry" : {
@@ -6410,6 +6416,12 @@
         "id" : 351,
         "form" : "nauṭu"
       }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 381,
+        "form" : "-ṇauṭu"
+      }
     } ]
   }, {
     "entry" : {
@@ -7396,7 +7408,19 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 384,
+        "form" : "líṇa-"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 66,
+        "form" : "báni"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 314,
@@ -8831,7 +8855,122 @@
       "text" : "to say \"somewhere outside A\", you use A's instrumental case followed by bátat."
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 382,
+        "form" : "bátatṇauṭu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 381,
+      "form" : "-ṇauṭu"
+    },
+    "translations" : [ {
+      "title" : "left-connecting form",
+      "forms" : [ "left-connecting form of the word \"nautu\"" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 272,
+        "form" : "nautu"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 382,
+        "form" : "bátatṇauṭu"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 383,
+        "form" : "líṇaṇauṭu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 382,
+      "form" : "bátatṇauṭu"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "borrowed word", "loanword", "loan word" ]
+    } ],
+    "tags" : [ "multiple standard pronunciation" ],
+    "contents" : [ {
+      "title" : "pronunciation",
+      "text" : "baːtaʈɳawʈu/, /baːtaɳɳawʈu/, /baːtatəɳawʈu/, /baːtaʔɳawʈu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 380,
+        "form" : "bátat"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 381,
+        "form" : "-ṇauṭu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 383,
+      "form" : "líṇaṇauṭu"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "word of Lanermic origin" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 381,
+        "form" : "-ṇauṭu"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 384,
+        "form" : "líṇa-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 384,
+      "form" : "líṇa-"
+    },
+    "translations" : [ {
+      "title" : "right-connecting form",
+      "forms" : [ "ラネーメ・燐帝字母などを表す右接被覆形" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 313,
+        "form" : "líṇabáni"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 383,
+        "form" : "líṇaṇauṭu"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
