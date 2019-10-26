@@ -8988,6 +8988,38 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 387,
+      "form" : "bháṣ"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "ちなみに〜" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "「ちなみに～である」という挿入句を表すために挿入句の先頭に置く副詞であり、常に副詞bhaṣと併用して用いる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 388,
+      "form" : "bhaṣ"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "ちなみに〜" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "「ちなみに～である」という挿入句を表すために挿入句末尾の動詞直前に置く副詞であり、常に副詞bháṣと併用して用いる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
