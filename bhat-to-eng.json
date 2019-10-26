@@ -8971,6 +8971,22 @@
         "form" : "líṇaṇauṭu"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 385,
+      "form" : "eghi"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "rock", "stone" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍hewe"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
