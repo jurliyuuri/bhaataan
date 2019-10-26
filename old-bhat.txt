@@ -59,7 +59,7 @@ wə > u
 
 su-ñu-ña-le-re-rəj-jo-ze-bə-ze-bə-ni-nə-a-su-li-ə-na-ə-ə-mə-aj-mə-kə-ə-ta-a-aj-mi
 [suɲ.ɲa.leɣ.ɣəj.joː.t͡seː.pə t͡seː.pə.niː.nə.ʔa.su.liʔ.na.əʔ.mʷə.ħaj.mʷə.kəʔ.ta.ħa.ħaj.mi] 
-suɲɲa leɣɣə-j joː t͡seː.pə t͡seː.pə niːnə-ʔasuɫ-iʔna əʔmʷə ħajm-ə-kəʔ-ta-ħa ħajm-i
+suɲɲa leɣɣə-j joː t͡seː.pə t͡seː.pə niːnə-ʔasuɫ-iʔna əʔmʷə ħajm-ə-kəʔ-ta-ħ-a ħajm-i
 
 su-ñu-ña [suɲ.ɲa] suɲɲa
 le-re-rəj [leɣ.ɣəj] leɣɣə-j	
@@ -67,7 +67,7 @@ jo [joː] joː
 ze-bə ze-bə [t͡seː.pə t͡seː.pə] t͡seː.pə t͡seː.pə (借用)
 ni-nə-a-su-li-ə-na [niː.nə.ʔa.su.liʔ.na] niːnə-ʔasuɫ-iʔna
 ə-ə-mə [əʔ.mʷə] əʔmʷə
-aj-mə-kə-ə-ta-a [ħaj.mʷə.kəʔ.ta.ħa] ħajm-ə-kəʔ-ta-ħa
+aj-mə-kə-ə-ta-a [ħaj.mʷə.kəʔ.ta.ħa] ħajm-ə-kəʔ-ta-ħ-a
 aj-mi [ħaj.mi] ħajm-i
 
 
@@ -93,7 +93,7 @@ accúḷは類推
 
 ə-ə-ki-ja-a-ñə-na-wi-ə-na [əʔ.ki.jaː.ɲə.na.wiʔ.na] əʔkijaː-ɲ ənaw-iʔna
 kaj-ku-lə [kaj.ku.ɫə] kajk-uɫə
-a-sa-wə-mə-ə-na-a [aː.sa.wə.mʷəʔ.na.ħa] aːsaw-ə-mʷəʔ-na-ħa
+a-sa-wə-mə-ə-na-a [aː.sa.wə.mʷəʔ.na.ħa] aːsaw-ə-mʷəʔ-na-ħ-a
 
 古伐 → 伐
 文法語の語頭シュワー脱落
@@ -124,8 +124,80 @@ ma-ba [ᵐbaː.bʱa] ᵐbaːbʱa
 be-ta-ña [bʱeː.taɲ] bʱeːt-aɲ
 ze-bə-te-e-le[t͡ɕeː.pʰə.dʱeː.le] t͡ɕeːpʰə-dʱeːle
 su-ju-lə-te-e-le [zu.ju.ɫə.dʱeː.le] zuj-uɫə-dʱeːle
-ri-ju-wa-ti-ə-na [χi.jʷa.dʱiʔ.na]
+ri-ju-wa-ti-ə-na [χi.jʷa.dʱiʔ.na] χijʷa-dʱiʔ-na
 
 古伐 → 伐
 不定詞に格語尾がつくことができなくなった。
 
+
+------------------------------------------------------------------
+メイン翻訳
+------------------------------------------------------------------
+「何処から来たのですか？」
+現代語: cákíkamúná epa?（あなたが(そこから)来た(のである)場所は？）
+
+sa-ka-kə-mə-ə-na-a-ma [zaː.ka.kə.mʷəʔ.na.ħam] zaːkak-ə-mʷəʔ-na-ħ-aɲ
+vu-we-e-bə [βweːpə] βweːpə
+
+古伐 → 伐
+当時から重子音だった可能性もあるが、長音の後に重子音来るかなぁ？
+名詞を修飾する分詞には属格語尾が付いていたが、現代に至る過程で喪失。
+cákíkúl は mot savant では？sáka, sakká, rakkúlから考えても。
+
+
+
+「なんて言いました？」
+現代語: bhátamúná nautuzá?（あなたが言った詞(複数形)は？）
+
+be-tə-mə-ə-na-a-ña [bʱeː.tə.mʷəʔ.na.ħaɲ] bʱeːt-ə-mʷəʔ-na-ħ-aɲ
+ña-u-tu-kə [ɲaw.tu.gə] ɲawtu-gə 
+
+古伐 → 伐
+複数接辞/g/は後に代償延長と類推で現在の -á / -zá へと化ける
+
+
+
+「何？」
+現代語: zu bhát?（再び言って？）
+
+be-te-ti-ju [bʱet.tju] bʱeːt{短音化}-tju
+
+古伐 → 伐
+命令形に副詞を後続させなくなった。
+
+
+
+「ごめんなさい、あなたの言語はわかりません」
+現代語: ámaom zephadhel bom sujúl [kouai]dhí.（あなたの言語を使えないことを私は謝罪する。）
+
+mo-mo [moː.mo] moːmo
+ə-ə-mə-ñə [əʔ.mʷəɲ] əʔmʷə-ɲ
+ze-bə-te-e-le [t͡ɕeː.pʰə.dʱeː.le] t͡ɕeːpʰə-dʱeːle
+ə-ə-mə [əʔ.mʷə] əʔmʷə
+su-ju-lə-te-e-le [zu.ju.ɫə.dʱeː.le] zuj-uɫə-dʱeːle
+ko-waj-ti-ə [ko.waj.dʱiʔ]
+
+祖語 → 古伐
+二人称単数と否定副詞が同音であることに注意。地獄。となると人称語尾で分からん否定命令には別の形が要るな。
+不可能副詞は否定副詞と呼応して使う。
+
+古伐 → 伐
+kouai形態素はすっかり使われなくなった。
+不可能副詞は否定副詞と呼応して使わなくなった。
+
+
+
+「また来てください！」
+現代語: zu cákík t.「また来て。」
+
+sa-ka-ta-ti-ju [zaː.kat.tju] zaːkak{同化}-tju
+
+
+
+「お元気で！」
+現代語: rakk.「生きて。」
+
+ra-ka-kə [ʀa.ka.kə] ʀakak-ə
+
+古伐
+当時から重子音だった可能性もあるが、表記上判定のしようがないので詳しくは分からない。
