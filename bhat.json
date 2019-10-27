@@ -9020,10 +9020,1155 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 389,
+      "form" : "-lo"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称受動終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 390,
+        "form" : "-ḷo"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 404,
+        "form" : "-aḷo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 390,
+      "form" : "-ḷo"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称受動終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 389,
+        "form" : "-lo"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 404,
+        "form" : "-aḷo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 391,
+      "form" : "-ní"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称受動終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 405,
+        "form" : "-aní"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 392,
+      "form" : "-sá"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称女性受動終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 406,
+        "form" : "-asá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 393,
+      "form" : "-ṣí"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称男性受動終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 407,
+        "form" : "-aṣí"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 394,
+      "form" : "-ho"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "指示・固有受動終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 408,
+        "form" : "-aho"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 395,
+      "form" : "-loná"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称受動過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 396,
+        "form" : "-ḷoná"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 409,
+        "form" : "-aḷoná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 396,
+      "form" : "-ḷoná"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称受動過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 395,
+        "form" : "-loná"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 409,
+        "form" : "-aḷoná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 397,
+      "form" : "-nína"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称受動過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 410,
+        "form" : "-anína"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 398,
+      "form" : "-sátá"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称女性受動過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 411,
+        "form" : "-asátá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 399,
+      "form" : "-ṣíná"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称男性受動過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 412,
+        "form" : "-aṣíná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 400,
+      "form" : "-honá"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "指示・固有受動過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 413,
+        "form" : "-ahoná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 401,
+      "form" : "-níha"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称受動未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 414,
+        "form" : "-aníha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 402,
+      "form" : "-sáṣlo"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称女性受動未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 415,
+        "form" : "-asáṣlo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 403,
+      "form" : "-hobá"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "指示・固有受動未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 416,
+        "form" : "-ahobá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 404,
+      "form" : "-aḷo"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称受動終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 389,
+        "form" : "-lo"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 390,
+        "form" : "-ḷo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 405,
+      "form" : "-aní"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称受動終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 391,
+        "form" : "-ní"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 406,
+      "form" : "-asá"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称女性受動終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 392,
+        "form" : "-sá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 407,
+      "form" : "-aṣí"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称男性受動終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 393,
+        "form" : "-ṣí"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 408,
+      "form" : "-aho"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "指示・固有受動終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 394,
+        "form" : "-ho"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 409,
+      "form" : "-aḷoná"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称受動過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 396,
+        "form" : "-ḷoná"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 395,
+        "form" : "-loná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 410,
+      "form" : "-anína"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称受動過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 397,
+        "form" : "-nína"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 411,
+      "form" : "-asátá"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称女性受動過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 398,
+        "form" : "-sátá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 412,
+      "form" : "-aṣíná"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称男性受動過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 399,
+        "form" : "-ṣíná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 413,
+      "form" : "-ahoná"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "指示・固有受動過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 400,
+        "form" : "-honá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 414,
+      "form" : "-aníha"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称受動未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 401,
+        "form" : "-níha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 415,
+      "form" : "-asáṣlo"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称女性受動未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 402,
+        "form" : "-sáṣlo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 416,
+      "form" : "-ahobá"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "指示・固有受動未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 403,
+        "form" : "-hobá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 417,
+      "form" : "-ladhí"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称丁寧終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 418,
+        "form" : "-ḷadhí"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 419,
+        "form" : "-aḷadhí"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 418,
+      "form" : "-ḷadhí"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称丁寧終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 417,
+        "form" : "-ladhí"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 419,
+        "form" : "-aḷadhí"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 419,
+      "form" : "-aḷadhí"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称丁寧終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 417,
+        "form" : "-ladhí"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 418,
+        "form" : "-ḷadhí"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 420,
+      "form" : "-lamú"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称丁寧終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 422,
+        "form" : "-aḷamú"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 421,
+        "form" : "-ḷamú"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 421,
+      "form" : "-ḷamú"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称丁寧終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 420,
+        "form" : "-lamú"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 422,
+        "form" : "-aḷamú"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 422,
+      "form" : "-aḷamú"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称丁寧終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 420,
+        "form" : "-lamú"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 421,
+        "form" : "-ḷamú"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 423,
+      "form" : "-cai"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称有生丁寧終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 424,
+        "form" : "-acai"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 424,
+      "form" : "-acai"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称有生丁寧終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 423,
+        "form" : "-cai"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 425,
+      "form" : "-ladína"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称丁寧過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 426,
+        "form" : "-ḷadína"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 427,
+        "form" : "-aḷadína"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 426,
+      "form" : "-ḷadína"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称丁寧過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 425,
+        "form" : "-ladína"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 427,
+        "form" : "-aḷadína"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 427,
+      "form" : "-aḷadína"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称丁寧過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 425,
+        "form" : "-ladína"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 426,
+        "form" : "-ḷadína"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 428,
+      "form" : "-lamúná"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称丁寧過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 429,
+        "form" : "-ḷamúná"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 430,
+        "form" : "-aḷamúná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 429,
+      "form" : "-ḷamúná"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称丁寧過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 428,
+        "form" : "-lamúná"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 430,
+        "form" : "-aḷamúná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 430,
+      "form" : "-aḷamúná"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称丁寧過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 428,
+        "form" : "-lamúná"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 429,
+        "form" : "-ḷamúná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 431,
+      "form" : "-cainá"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称有生丁寧過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 432,
+        "form" : "-acainá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 432,
+      "form" : "-acainá"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称有生丁寧過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 431,
+        "form" : "-cainá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 433,
+      "form" : "-ladíha"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称丁寧未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 434,
+        "form" : "-ḷadíha"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 435,
+        "form" : "-aḷadíha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 434,
+      "form" : "-ḷadíha"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称丁寧未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 433,
+        "form" : "-ladíha"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 435,
+        "form" : "-aḷadíha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 435,
+      "form" : "-aḷadíha"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称丁寧未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 433,
+        "form" : "-ladíha"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 434,
+        "form" : "-ḷadíha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 436,
+      "form" : "-lamúha"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称丁寧未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 437,
+        "form" : "-ḷamúha"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 438,
+        "form" : "-aḷamúha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 437,
+      "form" : "-ḷamúha"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称丁寧未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 436,
+        "form" : "-lamúha"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 438,
+        "form" : "-aḷamúha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 438,
+      "form" : "-aḷamúha"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称丁寧未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 436,
+        "form" : "-lamúha"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 437,
+        "form" : "-ḷamúha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 439,
+      "form" : "-caiha"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称有生丁寧未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 440,
+        "form" : "-acaiha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 440,
+      "form" : "-acaiha"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称有生丁寧未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 439,
+        "form" : "-caiha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 441,
+      "form" : "-áḷ"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "受動不定詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
-    "wordOrderType" : "UNICODE",
+    "wordOrderType" : "IDENTIFIER",
     "punctuations" : [ ",", "　", "、", " ", " " ],
     "ignoredTranslationRegex" : "",
     "pronunciationTitle" : "発音",

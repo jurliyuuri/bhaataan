@@ -9035,6 +9035,1151 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 389,
+      "form" : "-lo"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "first person passive realis" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 390,
+        "form" : "-ḷo"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 404,
+        "form" : "-aḷo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 390,
+      "form" : "-ḷo"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "first person passive realis" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 389,
+        "form" : "-lo"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 404,
+        "form" : "-aḷo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 391,
+      "form" : "-ní"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "second person passive realis" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 405,
+        "form" : "-aní"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 392,
+      "form" : "-sá"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "third person feminine passive realis" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 406,
+        "form" : "-asá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 393,
+      "form" : "-ṣí"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "third person masculine passive realis" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 407,
+        "form" : "-aṣí"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 394,
+      "form" : "-ho"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "third person neuter passive realis" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 408,
+        "form" : "-aho"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 395,
+      "form" : "-loná"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "first person passive past participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 396,
+        "form" : "-ḷoná"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 409,
+        "form" : "-aḷoná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 396,
+      "form" : "-ḷoná"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "first person passive past participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 395,
+        "form" : "-loná"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 409,
+        "form" : "-aḷoná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 397,
+      "form" : "-nína"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "second person passive past participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 410,
+        "form" : "-anína"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 398,
+      "form" : "-sátá"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "third person feminine passive past participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 411,
+        "form" : "-asátá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 399,
+      "form" : "-ṣíná"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "third person masculine passive past participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 412,
+        "form" : "-aṣíná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 400,
+      "form" : "-honá"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "third person neuter passive past participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 413,
+        "form" : "-ahoná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 401,
+      "form" : "-níha"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "second person passive future participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 414,
+        "form" : "-aníha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 402,
+      "form" : "-sáṣlo"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "third person feminine passive future participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 415,
+        "form" : "-asáṣlo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 403,
+      "form" : "-hobá"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "third person neuter passive future participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 416,
+        "form" : "-ahobá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 404,
+      "form" : "-aḷo"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "first person passive realis" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 389,
+        "form" : "-lo"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 390,
+        "form" : "-ḷo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 405,
+      "form" : "-aní"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "second person passive realis" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 391,
+        "form" : "-ní"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 406,
+      "form" : "-asá"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "third person feminine passive realis" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 392,
+        "form" : "-sá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 407,
+      "form" : "-aṣí"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "third person masculine passive realis" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 393,
+        "form" : "-ṣí"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 408,
+      "form" : "-aho"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "third person neuter passive realis" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 394,
+        "form" : "-ho"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 409,
+      "form" : "-aḷoná"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "first person passive past participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 396,
+        "form" : "-ḷoná"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 395,
+        "form" : "-loná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 410,
+      "form" : "-anína"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "second person passive past participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 397,
+        "form" : "-nína"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 411,
+      "form" : "-asátá"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "third person feminine passive past participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 398,
+        "form" : "-sátá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 412,
+      "form" : "-aṣíná"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "third person masculine passive past participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 399,
+        "form" : "-ṣíná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 413,
+      "form" : "-ahoná"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "third person neuter passive past participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 400,
+        "form" : "-honá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 414,
+      "form" : "-aníha"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "second person passive future participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 401,
+        "form" : "-níha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 415,
+      "form" : "-asáṣlo"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "third person feminine passive future participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 402,
+        "form" : "-sáṣlo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 416,
+      "form" : "-ahobá"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "third person neuter passive future participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 403,
+        "form" : "-hobá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 417,
+      "form" : "-ladhí"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "first person polite realis" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 418,
+        "form" : "-ḷadhí"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 419,
+        "form" : "-aḷadhí"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 418,
+      "form" : "-ḷadhí"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "first person polite realis" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 417,
+        "form" : "-ladhí"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 419,
+        "form" : "-aḷadhí"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 419,
+      "form" : "-aḷadhí"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "first person polite realis" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 417,
+        "form" : "-ladhí"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 418,
+        "form" : "-ḷadhí"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 420,
+      "form" : "-lamú"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "second person polite realis" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 422,
+        "form" : "-aḷamú"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 421,
+        "form" : "-ḷamú"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 421,
+      "form" : "-ḷamú"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "second person polite realis" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 420,
+        "form" : "-lamú"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 422,
+        "form" : "-aḷamú"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 422,
+      "form" : "-aḷamú"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "second person polite realis" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 420,
+        "form" : "-lamú"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 421,
+        "form" : "-ḷamú"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 423,
+      "form" : "-cai"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "third person animate polite realis" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 424,
+        "form" : "-acai"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 424,
+      "form" : "-acai"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "third person animate polite realis" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 423,
+        "form" : "-cai"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 425,
+      "form" : "-ladína"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "first person polite past participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 426,
+        "form" : "-ḷadína"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 427,
+        "form" : "-aḷadína"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 426,
+      "form" : "-ḷadína"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "first person polite past participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 425,
+        "form" : "-ladína"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 427,
+        "form" : "-aḷadína"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 427,
+      "form" : "-aḷadína"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "first person polite past participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 425,
+        "form" : "-ladína"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 426,
+        "form" : "-ḷadína"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 428,
+      "form" : "-lamúná"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "second person polite past participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 429,
+        "form" : "-ḷamúná"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 430,
+        "form" : "-aḷamúná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 429,
+      "form" : "-ḷamúná"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "second person polite past participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 428,
+        "form" : "-lamúná"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 430,
+        "form" : "-aḷamúná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 430,
+      "form" : "-aḷamúná"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "second person polite past participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 428,
+        "form" : "-lamúná"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 429,
+        "form" : "-ḷamúná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 431,
+      "form" : "-cainá"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "third person animate polite past participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 432,
+        "form" : "-acainá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 432,
+      "form" : "-acainá"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "third person animate polite past participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 431,
+        "form" : "-cainá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 433,
+      "form" : "-ladíha"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "first person polite future participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 434,
+        "form" : "-ḷadíha"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 435,
+        "form" : "-aḷadíha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 434,
+      "form" : "-ḷadíha"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "first person polite future participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 433,
+        "form" : "-ladíha"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 435,
+        "form" : "-aḷadíha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 435,
+      "form" : "-aḷadíha"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "first person polite future participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 433,
+        "form" : "-ladíha"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 434,
+        "form" : "-ḷadíha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 436,
+      "form" : "-lamúha"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "second person polite future participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 437,
+        "form" : "-ḷamúha"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 438,
+        "form" : "-aḷamúha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 437,
+      "form" : "-ḷamúha"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "second person polite future participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 436,
+        "form" : "-lamúha"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 438,
+        "form" : "-aḷamúha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 438,
+      "form" : "-aḷamúha"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "second person polite future participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 436,
+        "form" : "-lamúha"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 437,
+        "form" : "-ḷamúha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 439,
+      "form" : "-caiha"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "third person animate polite future participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 440,
+        "form" : "-acaiha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 440,
+      "form" : "-acaiha"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "third person animate polite future participle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 439,
+        "form" : "-caiha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 441,
+      "form" : "-áḷ"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "passive infinitive" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
