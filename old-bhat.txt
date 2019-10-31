@@ -206,7 +206,9 @@ ra-ka-kə [ʀa.ka.kə] ʀakak-ə
 「そちらの藩国のことを教えてくれよ」
 現代語: ámaom síbhahomá hodhel bhát.（あなたの国のことを話して。）
 
-ə-ə-mə-nə-si-bəj-i-ə-na-be-te [əʔ.mʷən.ziː.bʱʷə.iʔ.na.bʱet] əʔmʷə-ɲ ziːbʱʷəj-iʔna bʱet
+ə-ə-mə-nə-si-bəj-i-ə-na-be-te 
+[əʔ.mʷən.ziː.bʱʷə.iʔ.na.bʱet] 
+əʔmʷə-ɲ ziːbʱʷəj-iʔna bʱet
 
 ə-ə-mə-nə [əʔ.mʷən] əʔmʷə-ɲ
 si-bə-i-ə-na [ziː.bʱʷə.jiʔ.na]   ziːbʱʷəj-iʔna
@@ -222,17 +224,16 @@ bhátúḷは現代語では話す内容も話す言語も対格で取るが、�
 
 
 「ユフィア様※は大軍を率いるのだろう？」
-現代語 [ngaitwa]homá júpheja amáma núsudhel eyáúḷ ema ám bhátamú? (ユフィア様は大きな軍を指揮するとあなたなら言わんかね？)
+現代語 [ngaitwa]homá júpheja amáma núsudhel eyáúḷ ám bhátamú? (ユフィア様は大きな軍を指揮するとあなたなら言わんかね？)
 
-ka-jə-tu-wa-ñu-vi-ja-ə-ma-a-mə-nə-nu-wəj-su-te-e-le-e-ju-wa-ju-lə-te-e-le
-[ka.jə.twa.ɲuː.βi.ja.ə.maː.mən.nwəj.zu.dʱeː.le] 
-kajətwa-ɲ juː.βi.ja əmaːmə-ɲ nwəjzu-dʱeːle 
+ka-jə-tu-wa-ñu-vi-ja-ə-ma-a-mə-nə-nu-wəj-su-te-e-le-e-ju-wa-ja-mə-ə-tə 
+[ᵑga.jə.twa.ɲuː.βi.ja.ə.maː.mən.nwəj.zu.dʱeː.le.e.jʷa.ja.mʷəʔ.tə] 
+kajətwa-ɲ juː.βi.ja əmaːmə-ɲ nwəjzu-dʱeːle ejʷaj-a-mʷəʔ-tə
 
-
-ka-jə-tu-wa-ñu-vi-ja [ka.jə.twa.ɲuː.βi.ja] kajətwa-ɲ juː.βi.ja
+ka-jə-tu-wa-ñu-vi-ja [ᵑga.jə.twa.ɲuː.βi.ja] kajətwa-ɲ juː.βi.ja
 ə-ma-a-mə-nə [ə.maː.mən] əmaːmə-ɲ
 nu-wəj-su-te-e-le [nwəj.zu.dʱeː.le] nwəjzu-dʱeːle 
-e-ju-wa-j■■■■■■■■
+e-ju-wa-ja-mə-ə-tə [e.jʷa.ja.mʷəʔ.tə] ejʷaj-a-mʷəʔ-tə
 
 
 
@@ -242,7 +243,11 @@ e-ju-wa-j■■■■■■■■
 
 古伐 → 伐
 ə-ma-a-mə には属格語尾が要らなくなった。バート語側で言うなら形容詞化。要するに連体詞化。
-藍ewaiはheyáúḷの類推を喰らい eyáúḷ へ。まあ eyajúḷ とかちょっとつらいし。 
+藍ewaiはheyáúḷの類推を喰らい eyáúḷ へ。まあ eyajúḷ とかちょっとつらいし。
+
+-a-mʷəʔ- は 「～ね？」のような You-Know-What-I-Know を表現できるかたち。(cf. https://nihongotopics.wordpress.com/2015/07/31/the-friendship-particle-ne-ね/ ) e-ju-wa-j を行う三人称女性主語は末尾の -tə で示し（単独のときの現 -ze と大きく異なる理由は謎。そもそも現 -ze の当時の形ってどうなっとるんだろ）（そもそもこのときには人称に依存せず終止詞が -tə になるという可能性もある）、語幹を -a- で拡張して二人称を挿入することで聞き手にとって既知であることを期待する形が作れる。この語幹を -a- で拡張する形は -ə- との合流により絶滅し、現代語では迂言法を使うことになった。
+現代語の形は日本語の「～と思わんかね？」のような感じで文法化している。 文法化しており主語が明確なので ema を落としてよいし、普通は落として使う。口語ではまるで ámbhát'mú [aːmbʱaːʔmuː] という終助詞であるかのように使われるのだろう。
+
 
 
 ------------------------------------------
@@ -256,7 +261,7 @@ e-ju-wa-j■■■■■■■■
 ☑「何処から来たのですか？」
 ☐「昼飯が余ったんだけど、食べる？」
 ☑「そちらの藩国のことを教えてくれよ」
-☐「ユフィア様※は大軍を率いるのだろう？」
+☑「ユフィア様※は大軍を率いるのだろう？」
 
 ※ナジャールト藩国ヴェフィサイト主のユフィア・ド・スキュリオーティエのこと。
 
