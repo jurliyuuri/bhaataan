@@ -10168,7 +10168,7 @@
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
-    "wordOrderType" : "IDENTIFIER",
+    "wordOrderType" : "UNICODE",
     "punctuations" : [ ",", "　", "、", " ", " " ],
     "ignoredTranslationRegex" : "",
     "pronunciationTitle" : "発音",
