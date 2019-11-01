@@ -10215,6 +10215,22 @@
         "form" : "cákíkúḷ"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 444,
+      "form" : "táphíyot"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "なんかちょっとかっこいい感じのケース", "おしゃれな箱" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理stafiortからの借用。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

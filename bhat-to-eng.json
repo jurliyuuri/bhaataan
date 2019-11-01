@@ -10230,6 +10230,25 @@
         "form" : "cákíkúḷ"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 444,
+      "form" : "táphíyot"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "fancy box", "fancy case" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "borrowed from 理stafiort"
+    }, {
+      "title" : "usage",
+      "text" : "a cool but possibly pretentious way of saying 'a box'."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
