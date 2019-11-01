@@ -1969,6 +1969,12 @@
         "id" : 80,
         "form" : "cákíkaúḷ"
       }
+    }, {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 443,
+        "form" : "dháradúḷ"
+      }
     } ]
   }, {
     "entry" : {
@@ -10193,6 +10199,37 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 443,
+      "form" : "dháradúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to assemble at a place", "to congregate", "to come together and form something" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌dat2,藍dado"
+    }, {
+      "title" : "Proto-Lanermic form",
+      "text" : "*dradq"
+    }, {
+      "title" : "difference between synonyms",
+      "text" : "cákíkúḷ is used when you gather at some place and leave that place to go to another location as a group once everyone has arrived."
+    }, {
+      "title" : "usage",
+      "text" : "The subject of this verb does not take the plural suffix because the plurality is obvious from the meaning of the verb."
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 81,
+        "form" : "cákíkúḷ"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -1966,6 +1966,12 @@
         "id" : 80,
         "form" : "cákíkaúḷ"
       }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 443,
+        "form" : "dháradúḷ"
+      }
     } ]
   }, {
     "entry" : {
@@ -10177,7 +10183,38 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : []
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 443,
+      "form" : "dháradúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "（一つの場所に）集まる", "集合する", "集まって何かを成す" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌dat2,藍dado"
+    }, {
+      "title" : "ラネーメ祖語形",
+      "text" : "*dradq"
+    }, {
+      "title" : "類義語の使い分け",
+      "text" : "「共に移動するために一旦何らかの場所で集まる」という意味の際はcákíkúḷを用いる。"
+    }, {
+      "title" : "用法",
+      "text" : "多数性を明示する表現であるので、主語が複数であっても複数形接辞を用いない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 81,
+        "form" : "cákíkúḷ"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
