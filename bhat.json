@@ -10165,6 +10165,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 442,
+      "form" : "-áká"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "〜して；無アスペクトの状況副詞化語尾" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : []
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

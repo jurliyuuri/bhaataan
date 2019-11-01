@@ -10180,6 +10180,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 442,
+      "form" : "-áká"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "V-ing; S does V and; zero aspect adverbial" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
