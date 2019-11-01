@@ -10247,6 +10247,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 446,
+      "form" : "wáḷa"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "互いに互いを" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍falaa,牌huat1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
