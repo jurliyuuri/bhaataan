@@ -1,6 +1,6 @@
 function openClose() {
-    var men = document.getElementById("menu");
-    var but = document.getElementById("menuButton");
+    var men = document.getElementById("menu")!;
+    var but = document.getElementById("menuButton")!;
     men.style.left = (men.style.left == "0px") ? "-450px" : "0px";
     but.innerText = (but.innerText == "≡") ? "×" : "≡";
     but.style.left = (men.style.left == "0px") ? "450px" : "10px";
@@ -35,4 +35,4 @@ for (var i = 0; i < length; i++) {
             break;
     }
 }
-document.getElementById("menu").innerHTML = menu;
+document.getElementById("menu")!.innerHTML = menu;
