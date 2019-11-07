@@ -1,3 +1,4 @@
+"use strict";
 function openClose() {
     var men = document.getElementById("menu");
     var but = document.getElementById("menuButton");

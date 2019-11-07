@@ -8,12 +8,12 @@ var single_char = ["i", "a", "u", "á", "í", "ú", "o", "e", "-", "ä",
     "w", "r", "g", "l", "j", "p", "b", "n", "ṭ", "D",
     "ḍ", "ṣ", "G", "ḷ", "y", "P", "B", "ṇ", "K", ",",
     "\"", "Q", "?", "I", "A", "U", "Å", "_", " ", "."];
-function printBhat(gefak, size) {
+function printBhat(gefak: string[], size?: number) {
     size = size || 60;
     for (var i = 0; i < gefak.length; i++) {
         document.write('<img src="bhat_font/bhat_' + gefak[i] + '.png" height="' + size + '" />');
     }
 }
-function printBhat2(fistir, size) {
+function printBhat2(fistir: string, size?: number) {
     printBhat(fistir.split("").map(a => bhat_list[single_char.indexOf(a)]), size);
 }
