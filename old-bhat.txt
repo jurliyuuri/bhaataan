@@ -70,6 +70,7 @@ ni-nə-a-su-li-ə-na [niː.nə.ʔa.su.liʔ.na] niːnə-ʔasuɫ-iʔna
 ə-ə-mə [əʔ.mʷə] əʔmʷə
 aj-mə-kə-ə-ta-a [ħaj.mʷə.kəʔ.ta.ħa] ħajm-ə-kəʔ-ta-ħ-a
 aj-mi [ħaj.mi] ħajm-i
+【備考： əʔmʷə ħajm- ではなく「わす」方面を使っていた可能性がある】
 
 
 無気幹にだけつく[ħa]（ただのtaːである説もある）
@@ -126,6 +127,7 @@ be-ta-ña [bʱeː.taɲ] bʱeːt-aɲ
 ze-bə-te-e-le[t͡ɕeː.pʰə.dʱeː.le] t͡ɕeːpʰə-dʱeːle
 su-ju-lə-te-e-le [zu.ju.ɫə.dʱeː.le] zuj-uɫə-dʱeːle
 ri-ju-wa-ti-ə-na [χi.jʷa.dʱiʔ.na] χijʷa-dʱiʔ-na
+【備考：人称代名詞の主格は当時なかった可能性がある。もしくは「皆」のような内容語の文法化か。】
 
 古伐 → 伐
 不定詞に格語尾がつくことができなくなった。
