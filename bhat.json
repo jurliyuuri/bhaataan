@@ -10263,6 +10263,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 447,
+      "form" : "khak khak"
+    },
+    "translations" : [ {
+      "title" : "間投詞",
+      "forms" : [ "咳の擬音" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌kuak1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
