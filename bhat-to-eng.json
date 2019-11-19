@@ -10281,6 +10281,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 447,
+      "form" : "khak khak"
+    },
+    "translations" : [ {
+      "title" : "interjection",
+      "forms" : [ "coughing onomatopoeia" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌kuak1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
