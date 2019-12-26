@@ -3797,6 +3797,12 @@
         "id" : 299,
         "form" : "aghauṭawaim"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 449,
+        "form" : "záwaim"
+      }
     } ]
   }, {
     "entry" : {
@@ -3882,6 +3888,18 @@
       "entry" : {
         "id" : 347,
         "form" : "epam"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 453,
+        "form" : "rúkasam"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 454,
+        "form" : "ághim"
       }
     } ]
   }, {
@@ -4322,7 +4340,13 @@
       "text" : "牌lit1,藍rita"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 450,
+        "form" : "íditaim"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 180,
@@ -7103,12 +7127,6 @@
       "entry" : {
         "id" : 66,
         "form" : "báni"
-      }
-    }, {
-      "title" : "derived term(s) / derived from",
-      "entry" : {
-        "id" : 159,
-        "form" : "-m"
       }
     }, {
       "title" : "derived term(s) / derived from",
@@ -10297,6 +10315,166 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 448,
+      "form" : "rúkasa"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "old woman" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍jukha + 伐sá"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 453,
+        "form" : "rúkasam"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 449,
+      "form" : "záwaim"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "(name)" ]
+    } ],
+    "tags" : [ "name" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Some say that the etymology is zau- + -waim, followed by compensatory lengthening of geminate semivowel, but since -waim usually does not attach to vowel stem, this is somewhat unclear."
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 157,
+        "form" : "-waim"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 450,
+      "form" : "íditaim"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "(name)" ]
+    } ],
+    "tags" : [ "name" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 179,
+        "form" : "ídúḷ"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 451,
+        "form" : "-itaim"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 451,
+      "form" : "-itaim"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "suffix used in names" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 450,
+        "form" : "íditaim"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 452,
+      "form" : "ághi"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "blood" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌kai1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 454,
+        "form" : "ághim"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 453,
+      "form" : "rúkasam"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "(name)" ]
+    } ],
+    "tags" : [ "name" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 448,
+        "form" : "rúkasa"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 159,
+        "form" : "-m"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 454,
+      "form" : "ághim"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "(name)" ]
+    } ],
+    "tags" : [ "name" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 452,
+        "form" : "ághi"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 159,
+        "form" : "-m"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

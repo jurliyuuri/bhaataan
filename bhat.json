@@ -3797,6 +3797,12 @@
         "id" : 299,
         "form" : "aghauṭawaim"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 449,
+        "form" : "záwaim"
+      }
     } ]
   }, {
     "entry" : {
@@ -3882,6 +3888,18 @@
       "entry" : {
         "id" : 347,
         "form" : "epam"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 453,
+        "form" : "rúkasam"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 454,
+        "form" : "ághim"
       }
     } ]
   }, {
@@ -4322,7 +4340,13 @@
       "text" : "牌lit1,藍rita"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 450,
+        "form" : "íditaim"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 180,
@@ -10279,6 +10303,166 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 448,
+      "form" : "rúkasa"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "年老いた女性", "老婆", "高齢の女性" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍jukha + 伐sá"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 453,
+        "form" : "rúkasam"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 449,
+      "form" : "záwaim"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "zau- + -waim からの二重半母音の代償延長とも言われるが、-waimは通常動詞語幹に付かないので疑問が残る。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 157,
+        "form" : "-waim"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 450,
+      "form" : "íditaim"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 179,
+        "form" : "ídúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 451,
+        "form" : "-itaim"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 451,
+      "form" : "-itaim"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "人名を作る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 450,
+        "form" : "íditaim"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 452,
+      "form" : "ághi"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "血", "血液" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌kai1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 454,
+        "form" : "ághim"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 453,
+      "form" : "rúkasam"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 448,
+        "form" : "rúkasa"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 159,
+        "form" : "-m"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 454,
+      "form" : "ághim"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 452,
+        "form" : "ághi"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 159,
+        "form" : "-m"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
