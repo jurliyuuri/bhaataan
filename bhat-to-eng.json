@@ -2524,10 +2524,10 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "時間", "時" ]
+      "forms" : [ "time" ]
     }, {
       "title" : "vowel stem noun",
-      "forms" : [ "（数詞genitiveで修飾しhínaを付け）〜回" ]
+      "forms" : [ "(modified with the genitive of a numeral and is followed by hína) times (as in once", "twice", "three times...)" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6272,7 +6272,7 @@
       "title" : "vowel stem noun",
       "forms" : [ "April fool" ]
     } ],
-    "tags" : [ "joke", "非真理設定" ],
+    "tags" : [ "joke", "NOT CANON" ],
     "contents" : [ {
       "title" : "usage",
       "text" : "Joke word, coined as the calque of \"poisson d'avril\"."
@@ -7895,7 +7895,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "nínaccúなどの語に痕跡的に残るだけであり、; it is currently not a productive suffix."
+      "text" : "fossilized suffix, used in words such as nínaccú; it is currently not a productive suffix."
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -8699,7 +8699,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "東諸島共和国連合", "PMCF" ]
+      "forms" : [ "Republic Union of the Eastern Islands", "PMCF" ]
     } ],
     "tags" : [ "always singular declension" ],
     "contents" : [ ],
@@ -8724,7 +8724,7 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "東諸島共和国連合", "PMCF" ]
+      "forms" : [ "Republic Union of the Eastern Islands", "PMCF" ]
     } ],
     "tags" : [ "always singular declension" ],
     "contents" : [ ],
@@ -8749,7 +8749,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "東諸島共和国連合", "PMCF" ]
+      "forms" : [ "Republic Union of the Eastern Islands", "PMCF" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -8774,7 +8774,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "アイル共和国首都" ]
+      "forms" : [ "Makati", "the capital of the Ai'r Republic" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
