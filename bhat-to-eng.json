@@ -10475,6 +10475,22 @@
         "form" : "-m"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 455,
+      "form" : "koḷorúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "for the material to be degraded due to the long-time use" ]
+    } ],
+    "tags" : [ "-ḷor stem" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "皇kolilu, 藍koli, 伐koli"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

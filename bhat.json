@@ -10463,6 +10463,22 @@
         "form" : "-m"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 455,
+      "form" : "koḷorúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "長年の使用により材料が劣化している" ]
+    } ],
+    "tags" : [ "-ḷor語幹" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "皇kolilu, 藍koli, 伐koli"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
