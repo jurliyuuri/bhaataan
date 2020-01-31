@@ -5310,6 +5310,9 @@
     "translations" : [ {
       "title" : "状態動詞",
       "forms" : [ "〜(対格)に（比喩的な意味で）勝る", "〜(対格)を上回っている", "〜(対格)より上位である" ]
+    }, {
+      "title" : "瞬間動詞",
+      "forms" : [ "試合で〜(対格)に対する勝利条件を満たす" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5823,6 +5826,12 @@
       "entry" : {
         "id" : 251,
         "form" : "bhájabáni"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 460,
+        "form" : "núdhabágha"
       }
     } ]
   }, {
@@ -10476,6 +10485,155 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "皇kolilu, 藍koli, 伐koli"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 458,
+      "form" : "sápúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "古い", "昔からのものである", "伝統的である" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍sap'ea"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 456,
+      "form" : "núdha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "遊び", "遊戯", "ゲーム" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍nutha"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 460,
+        "form" : "núdhabágha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 457,
+      "form" : "nudhorúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "遊ぶ", "遊戯を行う" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍nutha"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 459,
+      "form" : "dácúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "〜(対格)に後続している", "〜(対格)の後ろにいる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍tacoa"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 460,
+      "form" : "núdhabágha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "（遊戯の）点数" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 456,
+        "form" : "núdha"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 250,
+        "form" : "bágha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 461,
+      "form" : "ghikísa"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "木の小片" ]
+    } ],
+    "tags" : [ "mot savant" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍ikisa;比較的最近の借用語"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 462,
+      "form" : "lásijúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "統一する" ]
+    }, {
+      "title" : "状態動詞",
+      "forms" : [ "統一されている" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐lási"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 463,
+      "form" : "cekhai"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "セットカイク", "パイグ将棋", "机戦" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌cet2 kaik"
+    }, {
+      "title" : "文化",
+      "text" : "伝統的ボードゲーム。 https://sites.google.com/view/cet2kaik/ などを参照せよ。"
     } ],
     "variations" : [ ],
     "relations" : [ ]

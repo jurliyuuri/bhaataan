@@ -5310,6 +5310,9 @@
     "translations" : [ {
       "title" : "stative verb",
       "forms" : [ "〜[accusative]に（比喩的な意味で）勝る", "〜[accusative]を上回っている", "〜[accusative]より上位である" ]
+    }, {
+      "title" : "instantaneous verb",
+      "forms" : [ "to win the game against [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5823,6 +5826,12 @@
       "entry" : {
         "id" : 251,
         "form" : "bhájabáni"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 460,
+        "form" : "núdhabágha"
       }
     } ]
   }, {
@@ -10488,6 +10497,155 @@
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "皇kolilu, 藍koli, 伐koli"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 458,
+      "form" : "sápúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to be old", "to be traditional" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍sap'ea"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 456,
+      "form" : "núdha"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "game" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍nutha"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 460,
+        "form" : "núdhabágha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 457,
+      "form" : "nudhorúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to play a game" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍nutha"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 459,
+      "form" : "dácúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to follow [accusative] (in sequence or series)", "to be located after [accusative]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍tacoa"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 460,
+      "form" : "núdhabágha"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "game's score", "game's point" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 456,
+        "form" : "núdha"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 250,
+        "form" : "bágha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 461,
+      "form" : "ghikísa"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "wood piece", "wood chip" ]
+    } ],
+    "tags" : [ "learned word" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍ikisa; a relatively recent borrowing"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 462,
+      "form" : "lásijúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to unify" ]
+    }, {
+      "title" : "stative verb",
+      "forms" : [ "to be unified" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "伐lási"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 463,
+      "form" : "cekhai"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "Cetkaik" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌cet2 kaik"
+    }, {
+      "title" : "culture",
+      "text" : "A traditional board game. See https://sites.google.com/view/cet2kaik/ ."
     } ],
     "variations" : [ ],
     "relations" : [ ]
