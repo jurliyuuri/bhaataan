@@ -10681,6 +10681,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 466,
+      "form" : "ṣot"
+    },
+    "translations" : [ {
+      "title" : "adjective",
+      "forms" : [ "many" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌xo2, 藍xoudo"
+    }, {
+      "title" : "usage",
+      "text" : "must be followed by a singular noun. Even though semantically plural, the noun following \"ṣot\" should be in its singular form."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

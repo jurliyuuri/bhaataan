@@ -10669,6 +10669,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 466,
+      "form" : "ṣot"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "多くの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌xo2, 藍xoudo"
+    }, {
+      "title" : "用法",
+      "text" : "直後に単数名詞を要求する。意味上複数であっても単数形を用いる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
