@@ -10650,6 +10650,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 465,
+      "form" : "dáṣ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "〜(具格)の後ろ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍tacoa"
+    }, {
+      "title" : "用法",
+      "text" : "基準となるものが人や動物である場合は基準にとっての背中側にあることを、そうでない場合は対象を話し手または聞き手が見ようとするとき基準となるものが対象への視線を大まかに遮っていることを表す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

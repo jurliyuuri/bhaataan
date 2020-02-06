@@ -10662,6 +10662,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 465,
+      "form" : "dáṣ"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "behind [instrumental]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍tacoa"
+    }, {
+      "title" : "usage",
+      "text" : "If whatever is in the instrumental case is a human or an animal, \"behind\" is defined in the human's or the animal's point of view. Otherwise, \"behind\" is defined by either the speaker's or the listener's point of view."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
