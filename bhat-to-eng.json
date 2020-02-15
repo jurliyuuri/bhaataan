@@ -5548,6 +5548,12 @@
         "id" : 241,
         "form" : "rijz"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 467,
+        "form" : "ríla-"
+      }
     } ]
   }, {
     "entry" : {
@@ -9785,6 +9791,12 @@
         "id" : 421,
         "form" : "-ḷamú"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 467,
+        "form" : "ríla-"
+      }
     } ]
   }, {
     "entry" : {
@@ -9898,6 +9910,12 @@
         "id" : 426,
         "form" : "-ḷadína"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 467,
+        "form" : "ríla-"
+      }
     } ]
   }, {
     "entry" : {
@@ -9922,6 +9940,12 @@
       "entry" : {
         "id" : 430,
         "form" : "-aḷamúná"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 467,
+        "form" : "ríla-"
       }
     } ]
   }, {
@@ -9972,6 +9996,12 @@
       "entry" : {
         "id" : 429,
         "form" : "-ḷamúná"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 467,
+        "form" : "ríla-"
       }
     } ]
   }, {
@@ -10036,6 +10066,12 @@
         "id" : 435,
         "form" : "-aḷadíha"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 467,
+        "form" : "ríla-"
+      }
     } ]
   }, {
     "entry" : {
@@ -10086,6 +10122,12 @@
         "id" : 434,
         "form" : "-ḷadíha"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 467,
+        "form" : "ríla-"
+      }
     } ]
   }, {
     "entry" : {
@@ -10110,6 +10152,12 @@
       "entry" : {
         "id" : 438,
         "form" : "-aḷamúha"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 467,
+        "form" : "ríla-"
       }
     } ]
   }, {
@@ -10160,6 +10208,12 @@
       "entry" : {
         "id" : 437,
         "form" : "-ḷamúha"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 467,
+        "form" : "ríla-"
       }
     } ]
   }, {
@@ -10700,6 +10754,64 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 467,
+      "form" : "ríla-"
+    },
+    "translations" : [ {
+      "title" : "inflected form",
+      "forms" : [ "contraction of rijaḷa-" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "See rijúḷ, -aḷadhí, etc."
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 238,
+        "form" : "rijúḷ"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 419,
+        "form" : "-aḷadhí"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 435,
+        "form" : "-aḷadíha"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 427,
+        "form" : "-aḷadína"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 422,
+        "form" : "-aḷamú"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 438,
+        "form" : "-aḷamúha"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 430,
+        "form" : "-aḷamúná"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

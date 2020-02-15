@@ -9701,6 +9701,12 @@
         "id" : 418,
         "form" : "-ḷadhí"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 467,
+        "form" : "ríla-"
+      }
     } ]
   }, {
     "entry" : {
@@ -9775,6 +9781,12 @@
       "entry" : {
         "id" : 421,
         "form" : "-ḷamú"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 467,
+        "form" : "ríla-"
       }
     } ]
   }, {
@@ -9889,6 +9901,12 @@
         "id" : 426,
         "form" : "-ḷadína"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 467,
+        "form" : "ríla-"
+      }
     } ]
   }, {
     "entry" : {
@@ -9963,6 +9981,12 @@
       "entry" : {
         "id" : 429,
         "form" : "-ḷamúná"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 467,
+        "form" : "ríla-"
       }
     } ]
   }, {
@@ -10077,6 +10101,12 @@
         "id" : 434,
         "form" : "-ḷadíha"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 467,
+        "form" : "ríla-"
+      }
     } ]
   }, {
     "entry" : {
@@ -10151,6 +10181,12 @@
       "entry" : {
         "id" : 437,
         "form" : "-ḷamúha"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 467,
+        "form" : "ríla-"
       }
     } ]
   }, {
@@ -10688,6 +10724,64 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 467,
+      "form" : "ríla-"
+    },
+    "translations" : [ {
+      "title" : "変化形",
+      "forms" : [ "rijaḷa-の縮約" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "rijúḷ、-ladhíなどを参照せよ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 238,
+        "form" : "rijúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 419,
+        "form" : "-aḷadhí"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 435,
+        "form" : "-aḷadíha"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 427,
+        "form" : "-aḷadína"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 422,
+        "form" : "-aḷamú"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 438,
+        "form" : "-aḷamúha"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 430,
+        "form" : "-aḷamúná"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
