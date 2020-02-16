@@ -10785,6 +10785,41 @@
         "form" : "-aḷamúná"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 468,
+      "form" : "bacú"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "液体の植物油" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍masuni、藍macwe"
+    }, {
+      "title" : "文化",
+      "text" : "「生と非生の境目の、生側にあるもの」とされる。ゆえに性・生殖のメタファーでもある。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 469,
+      "form" : "bácujúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)に油を注ぐ", "〜(対格)に油を塗る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐bacú"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

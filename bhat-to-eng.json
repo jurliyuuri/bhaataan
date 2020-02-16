@@ -10815,6 +10815,41 @@
         "form" : "-aḷamúná"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 468,
+      "form" : "bacú"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "liquid vegetable oil" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍masuni、藍macwe"
+    }, {
+      "title" : "culture",
+      "text" : "Traditionally treated as what lies at the \"life\" side of the boundary between \"life\" and \"non-life\". Hence it is also a metaphor of procreation and sexual reproduction."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 469,
+      "form" : "bácujúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to pour oil over [accusative]", "to smear oil to [accusative]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "伐bacú"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
