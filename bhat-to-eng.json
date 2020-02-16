@@ -2275,10 +2275,10 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "〜(ema)を思う・〜(ema)について考える" ]
+      "forms" : [ "to think of [ema]", "to think about [ema]" ]
     }, {
       "title" : "verb",
-      "forms" : [ "(verb infinitive+heyákáṣlo)～だろうか" ]
+      "forms" : [ "(verb infinitive+heyákáṣlo)I wonder", "is it that ...?" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5309,7 +5309,7 @@
     },
     "translations" : [ {
       "title" : "stative verb",
-      "forms" : [ "〜[accusative]に（比喩的な意味で）勝る", "〜[accusative]を上回っている", "〜[accusative]より上位である" ]
+      "forms" : [ "to be (figuratively) superior to [accusative]", "to exceed [accusative]", "to rank higher than [accusative]" ]
     }, {
       "title" : "instantaneous verb",
       "forms" : [ "to win the game against [accusative]" ]
