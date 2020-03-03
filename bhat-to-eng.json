@@ -10850,6 +10850,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 470,
+      "form" : "ṣásubhozúḷ"
+    },
+    "translations" : [ {
+      "title" : "instantaneous verb",
+      "forms" : [ "for [nominative] to allow [accusative] to enter [ghi]" ]
+    }, {
+      "title" : "stative verb",
+      "forms" : [ "for [nominative] to allow [accusative] to enter [ghi]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

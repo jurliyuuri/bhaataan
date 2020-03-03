@@ -10820,6 +10820,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 470,
+      "form" : "ṣásubhozúḷ"
+    },
+    "translations" : [ {
+      "title" : "瞬間動詞",
+      "forms" : [ "〜(主格)は〜(対格)が〜(ghi)に入るのを許可する" ]
+    }, {
+      "title" : "状態動詞",
+      "forms" : [ "〜(主格)は〜(対格)が〜(ghi)に入るのを許可している" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
