@@ -11029,6 +11029,22 @@
         "form" : "-amú"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 478,
+      "form" : "ammán"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "morpheme" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 牌et2 man1 (a single character). The meaning is derived from the fact that a single morpheme is generally written as a single Lanermic logogram."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

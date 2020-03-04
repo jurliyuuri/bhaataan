@@ -10999,6 +10999,22 @@
         "form" : "-amú"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 478,
+      "form" : "ammán"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "形態素" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌et2 man1（一文字）からの借用。一形態素は燐字でたいてい一文字であるところから発生した。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
