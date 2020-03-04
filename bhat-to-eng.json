@@ -188,6 +188,12 @@
         "id" : 7,
         "form" : "-mú"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 477,
+        "form" : "-úḷ ám bhátamú"
+      }
     } ]
   }, {
     "entry" : {
@@ -592,6 +598,12 @@
       "entry" : {
         "id" : 268,
         "form" : "lipakoúḷ"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 477,
+        "form" : "-úḷ ám bhátamú"
       }
     } ]
   }, {
@@ -1804,7 +1816,13 @@
       "text" : "*phed"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 477,
+        "form" : "-úḷ ám bhátamú"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 76,
@@ -10977,6 +10995,40 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 477,
+      "form" : "-úḷ ám bhátamú"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "〜するのだろう？" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "直訳は「〜するとあなたなら言わんかね？」。話し手が知っていることについて、聞き手にとって既知であることを期待する形。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 31,
+        "form" : "-úḷ"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 75,
+        "form" : "bhátúḷ"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 10,
+        "form" : "-amú"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
