@@ -10880,6 +10880,22 @@
         "form" : "núḷ"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 473,
+      "form" : "asíjaúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)へ石を投げる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍asiu,牌sy2"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
