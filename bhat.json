@@ -10836,6 +10836,50 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 471,
+      "form" : "núḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)を洗う" ]
+    } ],
+    "tags" : [ "núḷ型活用" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐nutta"
+    }, {
+      "title" : "用法",
+      "text" : "歯磨きの類も含む。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 472,
+        "form" : "nú-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 472,
+      "form" : "nú-"
+    },
+    "translations" : [ {
+      "title" : "強語幹",
+      "forms" : [ "núḷの強語幹" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 471,
+        "form" : "núḷ"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

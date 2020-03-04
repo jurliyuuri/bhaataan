@@ -10866,6 +10866,50 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 471,
+      "form" : "núḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to wash [accusative]" ]
+    } ],
+    "tags" : [ "núḷ conjugation" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "伐nutta"
+    }, {
+      "title" : "usage",
+      "text" : "can be used to mean \"brush one's tooth\"."
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 472,
+        "form" : "nú-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 472,
+      "form" : "nú-"
+    },
+    "translations" : [ {
+      "title" : "strengthened root",
+      "forms" : [ "strengthened root of \"núḷ\"" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 471,
+        "form" : "núḷ"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
