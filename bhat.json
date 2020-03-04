@@ -10896,6 +10896,57 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 474,
+      "form" : "eyáúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "〜(対格)を率いている", "〜(対格)の統率者である", "〜(対格)を指揮するものである" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍ewai,牌uai1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 475,
+      "form" : "júpheja"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "ユフィア" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理jurfheijaからの借用。"
+    }, {
+      "title" : "用法",
+      "text" : "人名。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 476,
+      "form" : "núsu"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "軍" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍nuisu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

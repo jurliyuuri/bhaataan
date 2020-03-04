@@ -10926,6 +10926,57 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 474,
+      "form" : "eyáúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to be leading [accusative]", "to be the commander of [accusative]", "to be the leader of [accusative]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍ewai,牌uai1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 475,
+      "form" : "júpheja"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "(name)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理jurfheija."
+    }, {
+      "title" : "usage",
+      "text" : "Name. See 理jurfheija."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 476,
+      "form" : "núsu"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "army" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍nuisu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
