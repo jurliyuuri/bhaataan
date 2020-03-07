@@ -11015,6 +11015,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 479,
+      "form" : "dhez"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "一息つくこと", "小休憩" ]
+    }, {
+      "title" : "子音幹名詞",
+      "forms" : [ "バート語で語中の短音節を高く読むこと" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

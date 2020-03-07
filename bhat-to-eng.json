@@ -11045,6 +11045,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 479,
+      "form" : "dhez"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "short break", "breathing time" ]
+    }, {
+      "title" : "consonant stem noun",
+      "forms" : [ "the act of reading a word-internal short syllable in high pitch" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
