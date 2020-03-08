@@ -2260,6 +2260,18 @@
         "id" : 150,
         "form" : "bhápúḷ"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 481,
+        "form" : "hemijoya"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 483,
+        "form" : "hemasá"
+      }
     } ]
   }, {
     "entry" : {
@@ -11029,6 +11041,119 @@
     } ],
     "tags" : [ ],
     "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 480,
+      "form" : "joya"
+    },
+    "translations" : [ {
+      "title" : "文接続詞",
+      "forms" : [ "もし〜(前文)なら〜(後文)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍yuwiu + 藍yuwiu"
+    } ],
+    "variations" : [ {
+      "title" : "旧正書法",
+      "form" : "júju"
+    } ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 481,
+        "form" : "hemijoya"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 481,
+      "form" : "hemijoya"
+    },
+    "translations" : [ {
+      "title" : "無変化動詞",
+      "forms" : [ "hemとjoyaの連語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 93,
+        "form" : "hem"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 480,
+        "form" : "joya"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 482,
+      "form" : "-sá"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "〜ならば" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "人称語尾より後ろにつく。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 483,
+        "form" : "hemasá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 483,
+      "form" : "hemasá"
+    },
+    "translations" : [ {
+      "title" : "無変化動詞",
+      "forms" : [ "hemと-sáの連語。" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 93,
+        "form" : "hem"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 482,
+        "form" : "-sá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 484,
+      "form" : "-ni-"
+    },
+    "translations" : [ {
+      "title" : "動詞接中辞",
+      "forms" : [ "反実仮想" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "主節にのみ置く。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   } ],

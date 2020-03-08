@@ -2263,6 +2263,18 @@
         "id" : 150,
         "form" : "bhápúḷ"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 483,
+        "form" : "hemasá"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 481,
+        "form" : "hemijoya"
+      }
     } ]
   }, {
     "entry" : {
@@ -11059,6 +11071,119 @@
     } ],
     "tags" : [ ],
     "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 480,
+      "form" : "joya"
+    },
+    "translations" : [ {
+      "title" : "conjunction for sentences",
+      "forms" : [ "if ~ then ~" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍yuwiu + 藍yuwiu"
+    } ],
+    "variations" : [ {
+      "title" : "historical spelling",
+      "form" : "júju"
+    } ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 481,
+        "form" : "hemijoya"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 481,
+      "form" : "hemijoya"
+    },
+    "translations" : [ {
+      "title" : "non-conjugating verb",
+      "forms" : [ "\"hem\" followed by \"joya\"" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 93,
+        "form" : "hem"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 480,
+        "form" : "joya"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 482,
+      "form" : "-sá"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "if ..." ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "comes after the person-dependent verb suffix."
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 483,
+        "form" : "hemasá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 483,
+      "form" : "hemasá"
+    },
+    "translations" : [ {
+      "title" : "non-conjugating verb",
+      "forms" : [ "\"hem\" followed by \"-sá\"" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 93,
+        "form" : "hem"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 482,
+        "form" : "-sá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 484,
+      "form" : "-ni-"
+    },
+    "translations" : [ {
+      "title" : "verb infix",
+      "forms" : [ "counterfactual conditional" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "used in the main clause."
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
