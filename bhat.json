@@ -11156,6 +11156,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 485,
+      "form" : "pautawauta"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "能力レベル", "質的水準" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理falvelta > faltvelta"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

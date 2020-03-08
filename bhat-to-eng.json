@@ -11186,6 +11186,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 485,
+      "form" : "pautawauta"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "skill level" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理falvelta > faltvelta"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
