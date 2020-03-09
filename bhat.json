@@ -8022,7 +8022,13 @@
       "text" : "藍bohai"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 489,
+        "form" : "bhoheáḷ"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 337,
@@ -10272,7 +10278,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 489,
+        "form" : "bhoheáḷ"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 442,
@@ -11172,6 +11184,79 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 486,
+      "form" : "bhoḷorúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "法を定める" ]
+    } ],
+    "tags" : [ "-ḷor語幹" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍blohai"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 487,
+      "form" : "bhoheáḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "法により制限されている" ]
+    } ],
+    "tags" : [ "受動専用" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍blohai"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 488,
+      "form" : "bhoḷog"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "法" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍blohai"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 489,
+      "form" : "bhoheáḷ"
+    },
+    "translations" : [ {
+      "title" : "変化形",
+      "forms" : [ "bhoheúḷの受動形" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 336,
+        "form" : "bhoheúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 441,
+        "form" : "-áḷ"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

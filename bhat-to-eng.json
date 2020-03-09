@@ -8037,7 +8037,13 @@
       "text" : "藍bohai"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 489,
+        "form" : "bhoheáḷ"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 337,
@@ -10299,7 +10305,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 489,
+        "form" : "bhoheáḷ"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 442,
@@ -11202,6 +11214,79 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 486,
+      "form" : "bhoḷorúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to make a law" ]
+    } ],
+    "tags" : [ "-ḷor stem" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍blohai"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 487,
+      "form" : "bhoheáḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to be regulated by law" ]
+    } ],
+    "tags" : [ "passive only" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍blohai"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 488,
+      "form" : "bhoḷog"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "law" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍blohai"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 489,
+      "form" : "bhoheáḷ"
+    },
+    "translations" : [ {
+      "title" : "inflected form",
+      "forms" : [ "passive of bhoheúḷ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 336,
+        "form" : "bhoheúḷ"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 441,
+        "form" : "-áḷ"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
