@@ -11287,6 +11287,47 @@
         "form" : "-áḷ"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 490,
+      "form" : "suḷorúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to mask the odor of [accusative] with the strong scent of [instrumental]", "to distract people's attention from [accusative] by making [instrumental] the scapegoat" ]
+    }, {
+      "title" : "dynamic verb",
+      "forms" : [ "to hold a funeral for [accusative]", "to make [accusative] a thing of the past" ]
+    } ],
+    "tags" : [ "-ḷor stem" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍sulou"
+    }, {
+      "title" : "usage",
+      "text" : "When used figuratively against some kind of a trouble or a difficulty, this verb can be used either when the trouble is not actually solved but merely buried, or when the trouble is actually dealt with and is resolved."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 491,
+      "form" : "súḷa"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "aromatic plants and seeds of grasses" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "includes a wide variety of plants, such as schesnast, alasakīfinaz, labasfina, finatz and fhinostrivasn."
+    }, {
+      "title" : "cognate(s)",
+      "text" : "藍sulou"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
