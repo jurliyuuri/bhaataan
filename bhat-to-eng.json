@@ -11328,6 +11328,88 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 492,
+      "form" : "nauṇaghúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to fight", "to compete", "to contend", "for two groups of people to confront each other with both of them fighting each other to take advantage of themselves" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍nyaunei + 藍kaika"
+    }, {
+      "title" : "difference between synonyms",
+      "text" : "Cannot be used to mean \"to strive to overcome a non-human hurdle\"; use kaikúḷ for that purpose."
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 493,
+        "form" : "kaikúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 493,
+      "form" : "kaikúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to fight against [accusative]", "to try to overcome [accusative] (pain or hurdle)", "to strive to overcome [accusative]" ]
+    } ],
+    "tags" : [ "learned word" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌kaik, 藍kaika"
+    }, {
+      "title" : "difference between synonyms",
+      "text" : "\"nauṇaghúḷ\" cannot be used for non-human hurdles / difficulties (such as natural disasters) and requires \"kaikúḷ\" instead. When two people / two groups of people are fighting against each other, \"nauṇaghúḷ\" is preferred, especially when describing from neither side's point of view."
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 492,
+        "form" : "nauṇaghúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 494,
+      "form" : "jápáeo"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "Japan" ]
+    } ],
+    "tags" : [ "NOT CANON" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理japaeo"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 495,
+      "form" : "naunilorúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to stab [accusative]", "to pierce [accusative]", "to stick [instrumental] into [accusative]" ]
+    } ],
+    "tags" : [ "-lor stem" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍nyaunei + 藍dili"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

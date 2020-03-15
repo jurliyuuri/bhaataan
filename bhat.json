@@ -11298,6 +11298,88 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 492,
+      "form" : "nauṇaghúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "争う", "人と人が対立してどちらも自らが優位に立とうと互いと戦う" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍nyaunei + 藍kaika"
+    }, {
+      "title" : "類義語の使い分け",
+      "text" : "「苦痛や障害を乗りきろうとする、打ち勝とうと努力する」の用法はなく、それにはkaikúḷを用いる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 493,
+        "form" : "kaikúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 493,
+      "form" : "kaikúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)と戦う", "〜(対格)という苦痛や障害を乗りきろうとする", "〜(対格)に対して打ち勝とうと努力する" ]
+    } ],
+    "tags" : [ "mot savant" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌kaik, 藍kaika"
+    }, {
+      "title" : "類義語の使い分け",
+      "text" : "自然災害などの人智に依らない脅威に対してはnauṇaghúḷは使えず、kaikúḷを使う必要がある。人と人が対立するときには、特に第三者の目線から語るときはnauṇaghúḷの方がよく使われがちである。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 492,
+        "form" : "nauṇaghúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 494,
+      "form" : "jápáeo"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "日本", "日本国" ]
+    } ],
+    "tags" : [ "非真理設定" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理japaeo"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 495,
+      "form" : "naunilorúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)を刺す", "〜(対格)を貫く", "〜(具格)を〜(対格)に突き刺す" ]
+    } ],
+    "tags" : [ "-lor語幹" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍nyaunei + 藍dili"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
