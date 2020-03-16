@@ -3608,7 +3608,7 @@
       "title" : "動作動詞",
       "forms" : [ "〜(対格)をする・行なう・行う" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "zúḷ型活用" ],
     "contents" : [ {
       "title" : "同根語",
       "text" : "牌zau,藍chauchu"
@@ -11377,6 +11377,38 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "藍nyaunei + 藍dili"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 496,
+      "form" : "ásijacazúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "彫刻する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍asiu + 藍cache"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 497,
+      "form" : "cazúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "深くする", "〜(具格)との関係を深める" ]
+    } ],
+    "tags" : [ "zúḷ型活用" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍cache"
     } ],
     "variations" : [ ],
     "relations" : [ ]

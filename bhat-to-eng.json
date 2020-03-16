@@ -3608,7 +3608,7 @@
       "title" : "dynamic verb",
       "forms" : [ "to do/carry out/execute/perform [accusative]" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "zúḷ conjugation" ],
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "牌zau,藍chauchu"
@@ -11407,6 +11407,38 @@
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "藍nyaunei + 藍dili"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 496,
+      "form" : "ásijacazúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to carve" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍asiu + 藍cache"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 497,
+      "form" : "cazúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to make deep", "to deepen the relationship with [instrumental]" ]
+    } ],
+    "tags" : [ "zúḷ conjugation" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍cache"
     } ],
     "variations" : [ ],
     "relations" : [ ]
