@@ -1242,6 +1242,12 @@
         "id" : 39,
         "form" : "-i"
       }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 498,
+        "form" : "cákíkátaḍi cájau"
+      }
     } ]
   }, {
     "entry" : {
@@ -1921,6 +1927,12 @@
       "entry" : {
         "id" : 70,
         "form" : "bhán"
+      }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 498,
+        "form" : "cákíkátaḍi cájau"
       }
     } ]
   }, {
@@ -5131,6 +5143,12 @@
       "entry" : {
         "id" : 200,
         "form" : "-káta"
+      }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 498,
+        "form" : "cákíkátaḍi cájau"
       }
     } ]
   }, {
@@ -11442,6 +11460,37 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 498,
+      "form" : "cákíkátaḍi cájau"
+    },
+    "translations" : [ {
+      "title" : "adverbial phrase",
+      "forms" : [ "luckily" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 215,
+        "form" : "cákíkáta"
+      }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 50,
+        "form" : "-ḍi"
+      }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 79,
+        "form" : "cájau"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

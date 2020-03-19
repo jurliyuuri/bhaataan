@@ -1242,6 +1242,12 @@
         "id" : 39,
         "form" : "-i"
       }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 498,
+        "form" : "cákíkátaḍi cájau"
+      }
     } ]
   }, {
     "entry" : {
@@ -1918,6 +1924,12 @@
       "entry" : {
         "id" : 70,
         "form" : "bhán"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 498,
+        "form" : "cákíkátaḍi cájau"
       }
     } ]
   }, {
@@ -5131,6 +5143,12 @@
       "entry" : {
         "id" : 200,
         "form" : "-káta"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 498,
+        "form" : "cákíkátaḍi cájau"
       }
     } ]
   }, {
@@ -11412,6 +11430,37 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 498,
+      "form" : "cákíkátaḍi cájau"
+    },
+    "translations" : [ {
+      "title" : "副詞句",
+      "forms" : [ "幸運にも" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 215,
+        "form" : "cákíkáta"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 50,
+        "form" : "-ḍi"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 79,
+        "form" : "cájau"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
