@@ -4023,6 +4023,12 @@
         "id" : 348,
         "form" : "woghitam"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 502,
+        "form" : "korúṣam"
+      }
     } ]
   }, {
     "entry" : {
@@ -11459,6 +11465,79 @@
       "entry" : {
         "id" : 79,
         "form" : "cájau"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 499,
+      "form" : "ephaúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "落ちる", "落下する", "崩れ落ちる", "[áṣá]の重みで崩れ落ちる", "位置が下がる", "低くなる", "倒れる", "滴り落ちる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍aipa,牌aip1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 500,
+      "form" : "dílitam"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 501,
+        "form" : "-itam"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 501,
+      "form" : "-itam"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "人名を作る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 500,
+        "form" : "dílitam"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 502,
+      "form" : "korúṣam"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 162,
+        "form" : "-am"
       }
     } ]
   } ],
