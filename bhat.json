@@ -6684,7 +6684,13 @@
       "text" : "パイグと異なり呼びかけには用いず、専ら挨拶としてのみ使う。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 503,
+        "form" : "zí"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 280,
@@ -11538,6 +11544,25 @@
       "entry" : {
         "id" : 162,
         "form" : "-am"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 503,
+      "form" : "zí"
+    },
+    "translations" : [ {
+      "title" : "間投詞",
+      "forms" : [ "xízía.の省略" ]
+    } ],
+    "tags" : [ "口語的" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 279,
+        "form" : "xízía"
       }
     } ]
   } ],

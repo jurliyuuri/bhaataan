@@ -6687,7 +6687,13 @@
       "text" : "Unlike in 牌, this phrase is not used for calling/addressing to someone, but used exclusively for greeting."
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 503,
+        "form" : "zí"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 280,
@@ -11568,6 +11574,25 @@
       "entry" : {
         "id" : 162,
         "form" : "-am"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 503,
+      "form" : "zí"
+    },
+    "translations" : [ {
+      "title" : "interjection",
+      "forms" : [ "abbreviated form of xízía" ]
+    } ],
+    "tags" : [ "colloquial" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 279,
+        "form" : "xízía"
       }
     } ]
   } ],
