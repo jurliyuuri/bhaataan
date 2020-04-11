@@ -11595,6 +11595,22 @@
         "form" : "xízía"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 504,
+      "form" : "aḍuhazoúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to head in a straight line to [ghi]" ]
+    } ],
+    "tags" : [ "translationese" ],
+    "contents" : [ {
+      "title" : "culture",
+      "text" : "influenced by 理xel \"to see [accusative]\", which can also be used to mean \"to shine on [-'l], to head in a straight line to [ghi]\"."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

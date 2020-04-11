@@ -11565,6 +11565,22 @@
         "form" : "xízía"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 504,
+      "form" : "aḍuhazoúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(ghi)へ直線的に向かう" ]
+    } ],
+    "tags" : [ "翻訳調" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "リパライン語xel「見る」の持つ語法「(-'lへ)射す、(-'lへ)直線的に向かう」の直訳に由来する。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
