@@ -188,6 +188,12 @@
         "id" : 7,
         "form" : "-mú"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 477,
+        "form" : "-úḷ ám bhátamú"
+      }
     } ]
   }, {
     "entry" : {
@@ -592,6 +598,12 @@
       "entry" : {
         "id" : 268,
         "form" : "lipakoúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 477,
+        "form" : "-úḷ ám bhátamú"
       }
     } ]
   }, {
@@ -1230,6 +1242,12 @@
         "id" : 39,
         "form" : "-i"
       }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 498,
+        "form" : "cákíkátaḍi cájau"
+      }
     } ]
   }, {
     "entry" : {
@@ -1804,7 +1822,13 @@
       "text" : "*phed"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 477,
+        "form" : "-úḷ ám bhátamú"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 76,
@@ -1901,6 +1925,12 @@
         "id" : 70,
         "form" : "bhán"
       }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 498,
+        "form" : "cákíkátaḍi cájau"
+      }
     } ]
   }, {
     "entry" : {
@@ -1965,6 +1995,12 @@
       "entry" : {
         "id" : 80,
         "form" : "cákíkaúḷ"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 443,
+        "form" : "dháradúḷ"
       }
     } ]
   }, {
@@ -2235,6 +2271,18 @@
       "entry" : {
         "id" : 150,
         "form" : "bhápúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 481,
+        "form" : "hemijoya"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 483,
+        "form" : "hemasá"
       }
     } ]
   }, {
@@ -3572,7 +3620,7 @@
       "title" : "動作動詞",
       "forms" : [ "〜(対格)をする・行なう・行う" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "zúḷ型活用" ],
     "contents" : [ {
       "title" : "同根語",
       "text" : "牌zau,藍chauchu"
@@ -3791,6 +3839,12 @@
         "id" : 299,
         "form" : "aghauṭawaim"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 449,
+        "form" : "záwaim"
+      }
     } ]
   }, {
     "entry" : {
@@ -3877,6 +3931,18 @@
         "id" : 347,
         "form" : "epam"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 453,
+        "form" : "rúkasam"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 454,
+        "form" : "ághim"
+      }
     } ]
   }, {
     "entry" : {
@@ -3956,6 +4022,12 @@
       "entry" : {
         "id" : 348,
         "form" : "woghitam"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 502,
+        "form" : "korúṣam"
       }
     } ]
   }, {
@@ -4316,7 +4388,13 @@
       "text" : "牌lit1,藍rita"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 450,
+        "form" : "íditaim"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 180,
@@ -5072,6 +5150,12 @@
         "id" : 200,
         "form" : "-káta"
       }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 498,
+        "form" : "cákíkátaḍi cájau"
+      }
     } ]
   }, {
     "entry" : {
@@ -5085,7 +5169,7 @@
     "tags" : [ "形式名詞", "抽象的形式名詞" ],
     "contents" : [ {
       "title" : "用法",
-      "text" : "属格・形容詞の直後にのみ現れる。主格のときにはゼロまたは複数形で現れるのが主流である。\nko ámaom hem? これはあなたのですか？\námaom kele sujamúha? あなたのを使いますか？"
+      "text" : "属格・形容詞の直後にのみ現れる。主格のときにはゼロまたは複数形で現れるのが主流である。人は指さない。\nko ámaom hem? これはあなたのですか？\námaom kele sujamúha? あなたのを使いますか？"
     }, {
       "title" : "同根語",
       "text" : "牌ku,アイルku"
@@ -5280,6 +5364,9 @@
     "translations" : [ {
       "title" : "状態動詞",
       "forms" : [ "〜(対格)に（比喩的な意味で）勝る", "〜(対格)を上回っている", "〜(対格)より上位である" ]
+    }, {
+      "title" : "瞬間動詞",
+      "forms" : [ "試合で〜(対格)に対する勝利条件を満たす" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5793,6 +5880,12 @@
       "entry" : {
         "id" : 251,
         "form" : "bhájabáni"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 460,
+        "form" : "núdhabágha"
       }
     } ]
   }, {
@@ -6591,7 +6684,13 @@
       "text" : "パイグと異なり呼びかけには用いず、専ら挨拶としてのみ使う。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 503,
+        "form" : "zí"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 280,
@@ -7414,6 +7513,9 @@
     "translations" : [ {
       "title" : "母音幹名詞",
       "forms" : [ "王冠" ]
+    }, {
+      "title" : "母音幹名詞",
+      "forms" : [ "アイル共和国" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -7950,7 +8052,13 @@
       "text" : "藍bohai"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 489,
+        "form" : "bhoheáḷ"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 337,
@@ -8969,6 +9077,2507 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "藍hewe"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 386,
+      "form" : "ammúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "降りる", "下降する", "下る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌aum2,藍aumi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 387,
+      "form" : "bháṣ"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "ちなみに〜" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "「ちなみに～である」という挿入句を表すために挿入句の先頭に置く副詞であり、常に副詞bhaṣと併用して用いる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 388,
+      "form" : "bhaṣ"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "ちなみに〜" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "「ちなみに～である」という挿入句を表すために挿入句末尾の動詞直前に置く副詞であり、常に副詞bháṣと併用して用いる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 389,
+      "form" : "-lo"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称受動終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 390,
+        "form" : "-ḷo"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 404,
+        "form" : "-aḷo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 390,
+      "form" : "-ḷo"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称受動終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 389,
+        "form" : "-lo"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 404,
+        "form" : "-aḷo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 391,
+      "form" : "-ní"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称受動終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 405,
+        "form" : "-aní"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 392,
+      "form" : "-sá"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称女性受動終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 406,
+        "form" : "-asá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 393,
+      "form" : "-ṣí"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称男性受動終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 407,
+        "form" : "-aṣí"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 394,
+      "form" : "-ho"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "指示・固有受動終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 408,
+        "form" : "-aho"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 395,
+      "form" : "-loná"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称受動過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 396,
+        "form" : "-ḷoná"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 409,
+        "form" : "-aḷoná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 396,
+      "form" : "-ḷoná"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称受動過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 395,
+        "form" : "-loná"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 409,
+        "form" : "-aḷoná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 397,
+      "form" : "-nína"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称受動過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 410,
+        "form" : "-anína"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 398,
+      "form" : "-sátá"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称女性受動過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 411,
+        "form" : "-asátá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 399,
+      "form" : "-ṣíná"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称男性受動過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 412,
+        "form" : "-aṣíná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 400,
+      "form" : "-honá"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "指示・固有受動過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 413,
+        "form" : "-ahoná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 401,
+      "form" : "-níha"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称受動未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 414,
+        "form" : "-aníha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 402,
+      "form" : "-sáṣlo"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称女性受動未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 415,
+        "form" : "-asáṣlo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 403,
+      "form" : "-hobá"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "指示・固有受動未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 416,
+        "form" : "-ahobá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 404,
+      "form" : "-aḷo"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称受動終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 389,
+        "form" : "-lo"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 390,
+        "form" : "-ḷo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 405,
+      "form" : "-aní"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称受動終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 391,
+        "form" : "-ní"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 406,
+      "form" : "-asá"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称女性受動終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 392,
+        "form" : "-sá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 407,
+      "form" : "-aṣí"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称男性受動終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 393,
+        "form" : "-ṣí"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 408,
+      "form" : "-aho"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "指示・固有受動終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 394,
+        "form" : "-ho"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 409,
+      "form" : "-aḷoná"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称受動過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 396,
+        "form" : "-ḷoná"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 395,
+        "form" : "-loná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 410,
+      "form" : "-anína"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称受動過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 397,
+        "form" : "-nína"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 411,
+      "form" : "-asátá"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称女性受動過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 398,
+        "form" : "-sátá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 412,
+      "form" : "-aṣíná"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称男性受動過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 399,
+        "form" : "-ṣíná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 413,
+      "form" : "-ahoná"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "指示・固有受動過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 400,
+        "form" : "-honá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 414,
+      "form" : "-aníha"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称受動未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 401,
+        "form" : "-níha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 415,
+      "form" : "-asáṣlo"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称女性受動未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 402,
+        "form" : "-sáṣlo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 416,
+      "form" : "-ahobá"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "指示・固有受動未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 403,
+        "form" : "-hobá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 417,
+      "form" : "-ladhí"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称丁寧終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 418,
+        "form" : "-ḷadhí"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 419,
+        "form" : "-aḷadhí"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 418,
+      "form" : "-ḷadhí"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称丁寧終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 417,
+        "form" : "-ladhí"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 419,
+        "form" : "-aḷadhí"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 419,
+      "form" : "-aḷadhí"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称丁寧終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 417,
+        "form" : "-ladhí"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 418,
+        "form" : "-ḷadhí"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 467,
+        "form" : "ríla-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 420,
+      "form" : "-lamú"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称丁寧終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 422,
+        "form" : "-aḷamú"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 421,
+        "form" : "-ḷamú"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 421,
+      "form" : "-ḷamú"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称丁寧終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 420,
+        "form" : "-lamú"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 422,
+        "form" : "-aḷamú"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 422,
+      "form" : "-aḷamú"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称丁寧終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 420,
+        "form" : "-lamú"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 421,
+        "form" : "-ḷamú"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 467,
+        "form" : "ríla-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 423,
+      "form" : "-cai"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称有生丁寧終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 424,
+        "form" : "-acai"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 424,
+      "form" : "-acai"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称有生丁寧終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 423,
+        "form" : "-cai"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 425,
+      "form" : "-ladína"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称丁寧過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 426,
+        "form" : "-ḷadína"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 427,
+        "form" : "-aḷadína"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 426,
+      "form" : "-ḷadína"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称丁寧過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 425,
+        "form" : "-ladína"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 427,
+        "form" : "-aḷadína"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 427,
+      "form" : "-aḷadína"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称丁寧過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 425,
+        "form" : "-ladína"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 426,
+        "form" : "-ḷadína"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 467,
+        "form" : "ríla-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 428,
+      "form" : "-lamúná"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称丁寧過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 429,
+        "form" : "-ḷamúná"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 430,
+        "form" : "-aḷamúná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 429,
+      "form" : "-ḷamúná"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称丁寧過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 428,
+        "form" : "-lamúná"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 430,
+        "form" : "-aḷamúná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 430,
+      "form" : "-aḷamúná"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称丁寧過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 428,
+        "form" : "-lamúná"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 429,
+        "form" : "-ḷamúná"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 467,
+        "form" : "ríla-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 431,
+      "form" : "-cainá"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称有生丁寧過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 432,
+        "form" : "-acainá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 432,
+      "form" : "-acainá"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称有生丁寧過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 431,
+        "form" : "-cainá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 433,
+      "form" : "-ladíha"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称丁寧未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 434,
+        "form" : "-ḷadíha"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 435,
+        "form" : "-aḷadíha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 434,
+      "form" : "-ḷadíha"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称丁寧未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 433,
+        "form" : "-ladíha"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 435,
+        "form" : "-aḷadíha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 435,
+      "form" : "-aḷadíha"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "一人称丁寧未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 433,
+        "form" : "-ladíha"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 434,
+        "form" : "-ḷadíha"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 467,
+        "form" : "ríla-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 436,
+      "form" : "-lamúha"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称丁寧未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 437,
+        "form" : "-ḷamúha"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 438,
+        "form" : "-aḷamúha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 437,
+      "form" : "-ḷamúha"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称丁寧未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 436,
+        "form" : "-lamúha"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 438,
+        "form" : "-aḷamúha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 438,
+      "form" : "-aḷamúha"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "二人称丁寧未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 436,
+        "form" : "-lamúha"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 437,
+        "form" : "-ḷamúha"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 467,
+        "form" : "ríla-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 439,
+      "form" : "-caiha"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称有生丁寧未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 440,
+        "form" : "-acaiha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 440,
+      "form" : "-acaiha"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "三人称有生丁寧未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 439,
+        "form" : "-caiha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 441,
+      "form" : "-áḷ"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "受動不定詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 489,
+        "form" : "bhoheáḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 442,
+      "form" : "-áká"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "〜して；無アスペクトの状況副詞化語尾" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 443,
+      "form" : "dháradúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "（一つの場所に）集まる", "集合する", "集まって何かを成す" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌dat2,藍dado"
+    }, {
+      "title" : "ラネーメ祖語形",
+      "text" : "*dradq"
+    }, {
+      "title" : "類義語の使い分け",
+      "text" : "「共に移動するために一旦何らかの場所で集まる」という意味の際はcákíkúḷを用いる。"
+    }, {
+      "title" : "用法",
+      "text" : "多数性を明示する表現であるので、主語が複数であっても複数形接辞を用いない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 81,
+        "form" : "cákíkúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 444,
+      "form" : "táphíyot"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "なんかちょっとかっこいい感じのケース", "おしゃれな箱" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理stafiortからの借用。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 445,
+      "form" : "ṣahúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "歌う" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌xau1,藍xauau"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 446,
+      "form" : "wáḷa"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "互いに互いを" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍falaa,牌huat1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 447,
+      "form" : "khak khak"
+    },
+    "translations" : [ {
+      "title" : "間投詞",
+      "forms" : [ "咳の擬音" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌kuak1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 448,
+      "form" : "rúkasa"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "年老いた女性", "老婆", "高齢の女性" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍jukha + 伐sá"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 453,
+        "form" : "rúkasam"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 449,
+      "form" : "záwaim"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "zau- + -waim からの二重半母音の代償延長とも言われるが、-waimは通常動詞語幹に付かないので疑問が残る。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 157,
+        "form" : "-waim"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 450,
+      "form" : "íditaim"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 179,
+        "form" : "ídúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 451,
+        "form" : "-itaim"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 451,
+      "form" : "-itaim"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "人名を作る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 450,
+        "form" : "íditaim"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 452,
+      "form" : "ághi"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "血", "血液" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌kai1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 454,
+        "form" : "ághim"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 453,
+      "form" : "rúkasam"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 448,
+        "form" : "rúkasa"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 159,
+        "form" : "-m"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 454,
+      "form" : "ághim"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 452,
+        "form" : "ághi"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 159,
+        "form" : "-m"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 455,
+      "form" : "koḷorúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "長年の使用により材料が劣化している" ]
+    } ],
+    "tags" : [ "-ḷor語幹" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "皇kolilu, 藍koli, 伐koli"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 458,
+      "form" : "sápúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "古い", "昔からのものである", "伝統的である" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍sap'ea"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 456,
+      "form" : "núdha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "遊び", "遊戯", "ゲーム" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍nutha"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 460,
+        "form" : "núdhabágha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 457,
+      "form" : "nudhorúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "遊ぶ", "遊戯を行う" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍nutha"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 459,
+      "form" : "dácúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "〜(対格)に後続している", "〜(対格)の後ろにいる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍tacoa"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 460,
+      "form" : "núdhabágha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "（遊戯の）点数" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 456,
+        "form" : "núdha"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 250,
+        "form" : "bágha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 461,
+      "form" : "ghikísa"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "木の小片" ]
+    } ],
+    "tags" : [ "mot savant" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍ikisa;比較的最近の借用語"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 462,
+      "form" : "lásijúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "統一する" ]
+    }, {
+      "title" : "状態動詞",
+      "forms" : [ "統一されている" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐lási"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 463,
+      "form" : "cekhai"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "セットカイク", "パイグ将棋", "机戦" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌cet2 kaik"
+    }, {
+      "title" : "文化",
+      "text" : "伝統的ボードゲーム。 https://sites.google.com/view/cet2kaik/ などを参照せよ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 464,
+      "form" : "linepáne"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "リパライン語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 465,
+      "form" : "dáṣ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "〜(具格)の後ろ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍tacoa"
+    }, {
+      "title" : "用法",
+      "text" : "基準となるものが人や動物である場合は基準にとっての背中側にあることを、そうでない場合は対象を話し手または聞き手が見ようとするとき基準となるものが対象への視線を大まかに遮っていることを表す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 466,
+      "form" : "ṣot"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "多くの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌xo2, 藍xoudo"
+    }, {
+      "title" : "用法",
+      "text" : "直後に単数名詞を要求する。意味上複数であっても単数形を用いる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 467,
+      "form" : "ríla-"
+    },
+    "translations" : [ {
+      "title" : "変化形",
+      "forms" : [ "rijaḷa-の縮約" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "rijúḷ、-ladhíなどを参照せよ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 238,
+        "form" : "rijúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 419,
+        "form" : "-aḷadhí"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 435,
+        "form" : "-aḷadíha"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 427,
+        "form" : "-aḷadína"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 422,
+        "form" : "-aḷamú"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 438,
+        "form" : "-aḷamúha"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 430,
+        "form" : "-aḷamúná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 468,
+      "form" : "bacú"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "液体の植物油" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍masuni、藍macwe"
+    }, {
+      "title" : "文化",
+      "text" : "「生と非生の境目の、生側にあるもの」とされる。ゆえに性・生殖のメタファーでもある。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 469,
+      "form" : "bácujúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)に油を注ぐ", "〜(対格)に油を塗る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐bacú"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 470,
+      "form" : "ṣásubhozúḷ"
+    },
+    "translations" : [ {
+      "title" : "瞬間動詞",
+      "forms" : [ "〜(主格)は〜(対格)が〜(ghi)に入るのを許可する" ]
+    }, {
+      "title" : "状態動詞",
+      "forms" : [ "〜(主格)は〜(対格)が〜(ghi)に入るのを許可している" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 471,
+      "form" : "núḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)を洗う" ]
+    } ],
+    "tags" : [ "núḷ型活用" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐nutta"
+    }, {
+      "title" : "用法",
+      "text" : "歯磨きの類も含む。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 472,
+        "form" : "nú-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 472,
+      "form" : "nú-"
+    },
+    "translations" : [ {
+      "title" : "強語幹",
+      "forms" : [ "núḷの強語幹" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 471,
+        "form" : "núḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 473,
+      "form" : "asíjaúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)へ石を投げる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍asiu,牌sy2"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 474,
+      "form" : "eyáúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "〜(対格)を率いている", "〜(対格)の統率者である", "〜(対格)を指揮するものである" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍ewai,牌uai1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 475,
+      "form" : "júpheja"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "ユフィア" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理jurfheijaからの借用。"
+    }, {
+      "title" : "用法",
+      "text" : "人名。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 476,
+      "form" : "núsu"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "軍" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍nuisu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 477,
+      "form" : "-úḷ ám bhátamú"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "〜するのだろう？" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "直訳は「〜するとあなたなら言わんかね？」。話し手が知っていることについて、聞き手にとって既知であることを期待する形。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 31,
+        "form" : "-úḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 75,
+        "form" : "bhátúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 10,
+        "form" : "-amú"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 478,
+      "form" : "ammán"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "形態素" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌et2 man1（一文字）からの借用。一形態素は燐字でたいてい一文字であるところから発生した。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 479,
+      "form" : "dhez"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "一息つくこと", "小休憩" ]
+    }, {
+      "title" : "子音幹名詞",
+      "forms" : [ "バート語で語中の短音節を高く読むこと" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 480,
+      "form" : "joya"
+    },
+    "translations" : [ {
+      "title" : "文接続詞",
+      "forms" : [ "もし〜(前文)なら〜(後文)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍yuwiu + 藍yuwiu"
+    } ],
+    "variations" : [ {
+      "title" : "旧正書法",
+      "form" : "júju"
+    } ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 481,
+        "form" : "hemijoya"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 481,
+      "form" : "hemijoya"
+    },
+    "translations" : [ {
+      "title" : "無変化動詞",
+      "forms" : [ "hemとjoyaの連語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 93,
+        "form" : "hem"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 480,
+        "form" : "joya"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 482,
+      "form" : "-sá"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "〜ならば" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "人称語尾より後ろにつく。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 483,
+        "form" : "hemasá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 483,
+      "form" : "hemasá"
+    },
+    "translations" : [ {
+      "title" : "無変化動詞",
+      "forms" : [ "hemと-sáの連語。" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 93,
+        "form" : "hem"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 482,
+        "form" : "-sá"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 484,
+      "form" : "-ni-"
+    },
+    "translations" : [ {
+      "title" : "動詞接中辞",
+      "forms" : [ "反実仮想" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "主節にのみ置く。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 485,
+      "form" : "pautawauta"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "能力レベル", "質的水準" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理falvelta > faltvelta"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 486,
+      "form" : "bhoḷorúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "法を定める" ]
+    } ],
+    "tags" : [ "-ḷor語幹" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍blohai"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 487,
+      "form" : "bhoheáḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "法により制限されている" ]
+    } ],
+    "tags" : [ "受動専用" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍blohai"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 488,
+      "form" : "bhoḷog"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "法" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍blohai"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 489,
+      "form" : "bhoheáḷ"
+    },
+    "translations" : [ {
+      "title" : "変化形",
+      "forms" : [ "bhoheúḷの受動形" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 336,
+        "form" : "bhoheúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 441,
+        "form" : "-áḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 490,
+      "form" : "suḷorúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(具格)の強い香りで〜(対格)の不快なにおいを隠す", "〜(具格)に目を引かせて〜(対格)という都合の悪いものに注意を向かなくする" ]
+    }, {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)の葬儀をする", "〜(対格)を過去のものとする" ]
+    } ],
+    "tags" : [ "-ḷor語幹" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍sulou"
+    }, {
+      "title" : "用法",
+      "text" : "厄介事などについて比喩的に使うときには、厄介事が実際には解決していないが解決していると見せかけている場合にも、実際に対処して厄介事を葬り去った場合にも使える。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 491,
+      "form" : "súḷa"
+    },
+    "translations" : [ {
+      "title" : "母音幹接尾辞",
+      "forms" : [ "強い芳香を持つ草やその実" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "スチェスナスト、アラザキーフィナツ、ラバスフィナ、フィナツ、フィノストリヴァスンなど多様な植物を指す。"
+    }, {
+      "title" : "同根語",
+      "text" : "藍sulou"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 492,
+      "form" : "nauṇaghúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "争う", "人と人が対立してどちらも自らが優位に立とうと互いと戦う" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍nyaunei + 藍kaika"
+    }, {
+      "title" : "類義語の使い分け",
+      "text" : "「苦痛や障害を乗りきろうとする、打ち勝とうと努力する」の用法はなく、それにはkaikúḷを用いる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 493,
+        "form" : "kaikúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 493,
+      "form" : "kaikúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)と戦う", "〜(対格)という苦痛や障害を乗りきろうとする", "〜(対格)に対して打ち勝とうと努力する" ]
+    } ],
+    "tags" : [ "mot savant" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌kaik, 藍kaika"
+    }, {
+      "title" : "類義語の使い分け",
+      "text" : "自然災害などの人智に依らない脅威に対してはnauṇaghúḷは使えず、kaikúḷを使う必要がある。人と人が対立するときには、特に第三者の目線から語るときはnauṇaghúḷの方がよく使われがちである。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 492,
+        "form" : "nauṇaghúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 494,
+      "form" : "jápáeo"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "日本", "日本国" ]
+    } ],
+    "tags" : [ "非真理設定" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理japaeo"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 495,
+      "form" : "naunilorúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)を刺す", "〜(対格)を貫く", "〜(具格)を〜(対格)に突き刺す" ]
+    } ],
+    "tags" : [ "-lor語幹" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍nyaunei + 藍dili"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 496,
+      "form" : "ásijacazúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "彫刻する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍asiu + 藍cache"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 497,
+      "form" : "cazúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "深くする", "〜(具格)との関係を深める" ]
+    } ],
+    "tags" : [ "zúḷ型活用" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍cache"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 498,
+      "form" : "cákíkátaḍi cájau"
+    },
+    "translations" : [ {
+      "title" : "副詞句",
+      "forms" : [ "幸運にも" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 215,
+        "form" : "cákíkáta"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 50,
+        "form" : "-ḍi"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 79,
+        "form" : "cájau"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 499,
+      "form" : "ephaúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "落ちる", "落下する", "崩れ落ちる", "[áṣá]の重みで崩れ落ちる", "位置が下がる", "低くなる", "倒れる", "滴り落ちる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍aipa,牌aip1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 500,
+      "form" : "dílitam"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 501,
+        "form" : "-itam"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 501,
+      "form" : "-itam"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "人名を作る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 500,
+        "form" : "dílitam"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 502,
+      "form" : "korúṣam"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 162,
+        "form" : "-am"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 503,
+      "form" : "zí"
+    },
+    "translations" : [ {
+      "title" : "間投詞",
+      "forms" : [ "xízía.の省略" ]
+    } ],
+    "tags" : [ "口語的" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 279,
+        "form" : "xízía"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 504,
+      "form" : "aḍuhazoúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(ghi)へ直線的に向かう" ]
+    } ],
+    "tags" : [ "翻訳調" ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "リパライン語xel「見る」の持つ語法「(-'lへ)射す、(-'lへ)直線的に向かう」の直訳に由来する。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
