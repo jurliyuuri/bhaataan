@@ -3845,6 +3845,12 @@
         "id" : 449,
         "form" : "záwaim"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 507,
+        "form" : "bániwaim"
+      }
     } ]
   }, {
     "entry" : {
@@ -3991,13 +3997,7 @@
       "forms" : [ "suffix used in names" ]
     } ],
     "tags" : [ ],
-    "contents" : [ {
-      "title" : "cognate(s)",
-      "text" : "伐-án,牌a,藍a,-na,-ni"
-    }, {
-      "title" : "Proto-Lanermic form",
-      "text" : "*anl"
-    } ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
       "title" : "alternative form(s)",
@@ -6882,7 +6882,7 @@
       "title" : "consonant stem noun",
       "forms" : [ "something of poor quality", "something that is inferior" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "NomGen: Zero, Acc: -el" ],
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "藍nonu,牌non1"
@@ -7144,7 +7144,7 @@
       "title" : "consonant stem noun",
       "forms" : [ "(name)" ]
     } ],
-    "tags" : [ "name" ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -7169,7 +7169,7 @@
       "title" : "consonant stem noun",
       "forms" : [ "(name)" ]
     } ],
-    "tags" : [ "name" ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -7194,7 +7194,7 @@
       "title" : "consonant stem noun",
       "forms" : [ "(name)" ]
     } ],
-    "tags" : [ "name" ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -7219,7 +7219,7 @@
       "title" : "consonant stem noun",
       "forms" : [ "(name)" ]
     } ],
-    "tags" : [ "name" ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
     "contents" : [ ],
     "variations" : [ {
       "title" : "historical spelling",
@@ -7253,7 +7253,7 @@
       "title" : "consonant stem noun",
       "forms" : [ "(name)" ]
     } ],
-    "tags" : [ "name" ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -8294,7 +8294,7 @@
       "title" : "consonant stem noun",
       "forms" : [ "(name)" ]
     } ],
-    "tags" : [ "name" ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -8319,7 +8319,7 @@
       "title" : "consonant stem noun",
       "forms" : [ "(name)" ]
     } ],
-    "tags" : [ "name" ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -8344,7 +8344,7 @@
       "title" : "consonant stem noun",
       "forms" : [ "(name)" ]
     } ],
-    "tags" : [ "name" ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -10484,7 +10484,7 @@
       "title" : "consonant stem noun",
       "forms" : [ "(name)" ]
     } ],
-    "tags" : [ "name" ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "Some say that the etymology is zau- + -waim, followed by compensatory lengthening of geminate semivowel, but since -waim usually does not attach to vowel stem, this is somewhat unclear."
@@ -10506,7 +10506,7 @@
       "title" : "consonant stem noun",
       "forms" : [ "(name)" ]
     } ],
-    "tags" : [ "name" ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -10572,7 +10572,7 @@
       "title" : "consonant stem noun",
       "forms" : [ "(name)" ]
     } ],
-    "tags" : [ "name" ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -10597,7 +10597,7 @@
       "title" : "consonant stem noun",
       "forms" : [ "(name)" ]
     } ],
-    "tags" : [ "name" ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -11023,7 +11023,7 @@
       "title" : "vowel stem noun",
       "forms" : [ "(name)" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "name" ],
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "Borrowed from 理jurfheija."
@@ -11528,7 +11528,7 @@
       "title" : "consonant stem noun",
       "forms" : [ "(name)" ]
     } ],
-    "tags" : [ "name" ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -11566,7 +11566,7 @@
       "title" : "consonant stem noun",
       "forms" : [ "(name)" ]
     } ],
-    "tags" : [ "name" ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -11611,6 +11611,66 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 505,
+      "form" : "ṣíka"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "7", "七" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌nik2,藍suna-iku"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 506,
+      "form" : "ṣánom"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "8", "eight" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍suna-umi, 牌nom2"
+    }, {
+      "title" : "usage",
+      "text" : "In genitive \"ṣánomán\", o is pronounced short."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 507,
+      "form" : "bániwaim"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "(name)" ]
+    } ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 66,
+        "form" : "báni"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 157,
+        "form" : "-waim"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
