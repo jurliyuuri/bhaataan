@@ -3845,6 +3845,12 @@
         "id" : 449,
         "form" : "záwaim"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 507,
+        "form" : "bániwaim"
+      }
     } ]
   }, {
     "entry" : {
@@ -3991,13 +3997,7 @@
       "forms" : [ "人名を作る" ]
     } ],
     "tags" : [ ],
-    "contents" : [ {
-      "title" : "同根語",
-      "text" : "伐-án,牌a,藍a,-na,-ni"
-    }, {
-      "title" : "ラネーメ祖語形",
-      "text" : "*anl"
-    } ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
       "title" : "異形態",
@@ -6879,7 +6879,7 @@
       "title" : "子音幹名詞",
       "forms" : [ "劣悪なもの", "劣っているもの", "質の低いもの", "低質なもの" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "主属同形対格-el" ],
     "contents" : [ {
       "title" : "同根語",
       "text" : "藍nonu,牌non1"
@@ -7141,7 +7141,7 @@
       "title" : "子音幹名詞",
       "forms" : [ "（人名）" ]
     } ],
-    "tags" : [ "人名" ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -7166,7 +7166,7 @@
       "title" : "子音幹名詞",
       "forms" : [ "（人名）" ]
     } ],
-    "tags" : [ "人名" ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -7191,7 +7191,7 @@
       "title" : "子音幹名詞",
       "forms" : [ "（人名）" ]
     } ],
-    "tags" : [ "人名" ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -7216,7 +7216,7 @@
       "title" : "子音幹名詞",
       "forms" : [ "（人名）" ]
     } ],
-    "tags" : [ "人名" ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
     "contents" : [ ],
     "variations" : [ {
       "title" : "旧正書法",
@@ -7244,7 +7244,7 @@
       "title" : "子音幹名詞",
       "forms" : [ "（人名）" ]
     } ],
-    "tags" : [ "人名" ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -8279,7 +8279,7 @@
       "title" : "子音幹名詞",
       "forms" : [ "（人名）" ]
     } ],
-    "tags" : [ "人名" ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -8304,7 +8304,7 @@
       "title" : "子音幹名詞",
       "forms" : [ "（人名）" ]
     } ],
-    "tags" : [ "人名" ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -8329,7 +8329,7 @@
       "title" : "子音幹名詞",
       "forms" : [ "（人名）" ]
     } ],
-    "tags" : [ "人名" ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -10454,7 +10454,7 @@
       "title" : "子音幹名詞",
       "forms" : [ "（人名）" ]
     } ],
-    "tags" : [ "人名" ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
     "contents" : [ {
       "title" : "同根語",
       "text" : "zau- + -waim からの二重半母音の代償延長とも言われるが、-waimは通常動詞語幹に付かないので疑問が残る。"
@@ -10476,7 +10476,7 @@
       "title" : "子音幹名詞",
       "forms" : [ "（人名）" ]
     } ],
-    "tags" : [ "人名" ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -10542,7 +10542,7 @@
       "title" : "子音幹名詞",
       "forms" : [ "（人名）" ]
     } ],
-    "tags" : [ "人名" ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -10567,7 +10567,7 @@
       "title" : "子音幹名詞",
       "forms" : [ "（人名）" ]
     } ],
-    "tags" : [ "人名" ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -11498,7 +11498,7 @@
       "title" : "子音幹名詞",
       "forms" : [ "（人名）" ]
     } ],
-    "tags" : [ "人名" ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -11536,7 +11536,7 @@
       "title" : "子音幹名詞",
       "forms" : [ "（人名）" ]
     } ],
-    "tags" : [ "人名" ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
@@ -11613,6 +11613,47 @@
     }, {
       "title" : "用法",
       "text" : "属格ṣánománでは例外的にoが短音化する。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 507,
+      "form" : "bániwaim"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 66,
+        "form" : "báni"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 157,
+        "form" : "-waim"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 508,
+      "form" : "ṣán"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "5", "五" ]
+    } ],
+    "tags" : [ "主属同形対格-ele", "主属同形対格-el" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍suna, 牌un1"
     } ],
     "variations" : [ ],
     "relations" : [ ]
