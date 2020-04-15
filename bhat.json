@@ -11581,6 +11581,41 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 505,
+      "form" : "ṣíka"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "7", "七" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌nik2,藍suna-iku"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 506,
+      "form" : "ṣánom"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "8", "八" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍suna-umi, 牌nom2"
+    }, {
+      "title" : "用法",
+      "text" : "属格ṣánománでは例外的にoが短音化する。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
