@@ -5820,8 +5820,8 @@
       "title" : "cognate(s)",
       "text" : "牌mak1,藍maqui"
     }, {
-      "title" : "usage",
-      "text" : "Unlike cognates in 牌 or 藍, it does not have the nuance of resisting / giving a counterblow."
+      "title" : "difference between synonyms",
+      "text" : "Unlike cognates in 牌 or 藍, it does not have the nuance of resisting / giving a counterblow. For those meanings, use naunijúḷ."
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -5829,6 +5829,12 @@
       "entry" : {
         "id" : 271,
         "form" : "bákaz"
+      }
+    }, {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 510,
+        "form" : "naunijúḷ"
       }
     } ]
   }, {
@@ -11671,6 +11677,76 @@
         "form" : "-waim"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 508,
+      "form" : "ṣán"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "5", "five" ]
+    } ],
+    "tags" : [ "NomGen: Zero, Acc: -ele", "NomGen: Zero, Acc: -el" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍suna, 牌un1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 509,
+      "form" : "cajxit"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "political revolution" ]
+    } ],
+    "tags" : [ "learned word" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 牌cei2 xit2"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 510,
+      "form" : "naunijúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to strike back", "to defy", "to resist" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍nyaunei + 牌i2"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 247,
+        "form" : "bákúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 511,
+      "form" : "cajxitanaunijasuka"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "フェンテショレー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "《フェンテショレーについて》\nhttp://www.jurliyuuri.info/wiki/%E3%83%95%E3%82%A7%E3%83%B3%E3%83%86%E3%82%B7%E3%83%A7%E3%83%AC%E3%83%BC"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

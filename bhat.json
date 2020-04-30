@@ -5814,8 +5814,8 @@
       "title" : "同根語",
       "text" : "牌mak1,藍maqui"
     }, {
-      "title" : "用法",
-      "text" : "パイグやアイルにあるような、「抵抗し反撃・反抗する」のニュアンスはない。"
+      "title" : "類義語の使い分け",
+      "text" : "パイグやアイルにあるような、「抵抗し反撃・反抗する」のニュアンスはない。それには naunijúḷ を用いる。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -5823,6 +5823,12 @@
       "entry" : {
         "id" : 271,
         "form" : "bákaz"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 510,
+        "form" : "naunijúḷ"
       }
     } ]
   }, {
@@ -11654,6 +11660,60 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "藍suna, 牌un1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 509,
+      "form" : "cajxit"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "革命" ]
+    } ],
+    "tags" : [ "mot savant" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌cei2 xit2の借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 510,
+      "form" : "naunijúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "反撃する", "抵抗する", "反抗する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍nyaunei + 牌i2"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 247,
+        "form" : "bákúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 511,
+      "form" : "cajxitanaunijasuka"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "フェンテショレー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "《フェンテショレーについて》\nhttp://www.jurliyuuri.info/wiki/%E3%83%95%E3%82%A7%E3%83%B3%E3%83%86%E3%82%B7%E3%83%A7%E3%83%AC%E3%83%BC"
     } ],
     "variations" : [ ],
     "relations" : [ ]
