@@ -11717,6 +11717,81 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 512,
+      "form" : "gaṇṇí"
+    },
+    "translations" : [ {
+      "title" : "間投詞",
+      "forms" : [ "えーっと", "えー", "あのー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 514,
+        "form" : "khaṇḍí"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 513,
+        "form" : "khaṇṇí"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 513,
+      "form" : "khaṇṇí"
+    },
+    "translations" : [ {
+      "title" : "間投詞",
+      "forms" : [ "えーっと", "えー", "あのー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 512,
+        "form" : "gaṇṇí"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 514,
+        "form" : "khaṇḍí"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 514,
+      "form" : "khaṇḍí"
+    },
+    "translations" : [ {
+      "title" : "間投詞",
+      "forms" : [ "えーっと", "えー", "あのー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 512,
+        "form" : "gaṇṇí"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 513,
+        "form" : "khaṇṇí"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -11747,6 +11747,81 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 512,
+      "form" : "gaṇṇí"
+    },
+    "translations" : [ {
+      "title" : "interjection",
+      "forms" : [ "uh", "um", "er" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 514,
+        "form" : "khaṇḍí"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 513,
+        "form" : "khaṇṇí"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 513,
+      "form" : "khaṇṇí"
+    },
+    "translations" : [ {
+      "title" : "interjection",
+      "forms" : [ "uh", "um", "er" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 512,
+        "form" : "gaṇṇí"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 514,
+        "form" : "khaṇḍí"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 514,
+      "form" : "khaṇḍí"
+    },
+    "translations" : [ {
+      "title" : "interjection",
+      "forms" : [ "uh", "um", "er" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 512,
+        "form" : "gaṇṇí"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 513,
+        "form" : "khaṇṇí"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
