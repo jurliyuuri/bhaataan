@@ -3851,6 +3851,12 @@
         "id" : 507,
         "form" : "bániwaim"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 519,
+        "form" : "náḷawaim"
+      }
     } ]
   }, {
     "entry" : {
@@ -11820,6 +11826,110 @@
       "entry" : {
         "id" : 513,
         "form" : "khaṇṇí"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 515,
+      "form" : "díghi"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "teniēk (a bird species)" ]
+    } ],
+    "tags" : [ "name of a plant / animal" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "tiniki.ar"
+    }, {
+      "title" : "culture",
+      "text" : "See 理tenierk."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 516,
+      "form" : "dhet"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "tetien (a bird species)" ]
+    } ],
+    "tags" : [ "name of a plant / animal" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍taide"
+    }, {
+      "title" : "culture",
+      "text" : "See 理tetien."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 517,
+      "form" : "dhedighat"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "chicken of tetien (a bird species)" ]
+    } ],
+    "tags" : [ "name of a plant / animal" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "伐dhet + 伐ghátu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 518,
+      "form" : "náḷa"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "nalva (a bird species)" ]
+    } ],
+    "tags" : [ "name of a plant / animal" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍nalua"
+    }, {
+      "title" : "culture",
+      "text" : "See 理nalva."
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 519,
+        "form" : "náḷawaim"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 519,
+      "form" : "náḷawaim"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 518,
+        "form" : "náḷa"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 157,
+        "form" : "-waim"
       }
     } ]
   } ],

@@ -3851,6 +3851,12 @@
         "id" : 507,
         "form" : "bániwaim"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 519,
+        "form" : "náḷawaim"
+      }
     } ]
   }, {
     "entry" : {
@@ -11790,6 +11796,110 @@
       "entry" : {
         "id" : 513,
         "form" : "khaṇṇí"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 515,
+      "form" : "díghi"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "テニェーク（鳥名）" ]
+    } ],
+    "tags" : [ "動植物名" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "tiniki.ar"
+    }, {
+      "title" : "文化",
+      "text" : "理tenierkを参照せよ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 516,
+      "form" : "dhet"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "テティェン（鳥名）" ]
+    } ],
+    "tags" : [ "動植物名" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍taide"
+    }, {
+      "title" : "文化",
+      "text" : "理tetienを参照せよ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 517,
+      "form" : "dhedighat"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "テティェン（鳥名）の子供" ]
+    } ],
+    "tags" : [ "動植物名" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐dhet + 伐ghátu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 518,
+      "form" : "náḷa"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "ナルヴァ（鳥名）" ]
+    } ],
+    "tags" : [ "動植物名" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍nalua"
+    }, {
+      "title" : "文化",
+      "text" : "理nalvaを参照せよ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 519,
+        "form" : "náḷawaim"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 519,
+      "form" : "náḷawaim"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 518,
+        "form" : "náḷa"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 157,
+        "form" : "-waim"
       }
     } ]
   } ],
