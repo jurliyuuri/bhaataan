@@ -11932,6 +11932,19 @@
         "form" : "-waim"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 520,
+      "form" : "ápasíbha"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "my hometown", "my homeland", "my birthplace", "my fatherland", "my motherland", "my native country" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

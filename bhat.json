@@ -11902,6 +11902,19 @@
         "form" : "-waim"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 520,
+      "form" : "ápasíbha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "私の出身", "私の故郷", "我が国" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
