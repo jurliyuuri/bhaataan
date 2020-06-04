@@ -11915,6 +11915,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 521,
+      "form" : "sápabhát"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "古バート語", "古バート人" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

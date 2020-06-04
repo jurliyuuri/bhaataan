@@ -11945,6 +11945,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 521,
+      "form" : "sápabhát"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "old bhátán language", "people of ancient bhát" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
