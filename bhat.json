@@ -11975,6 +11975,22 @@
         "form" : "masátu"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 524,
+      "form" : "joraúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "～(対格)にヤスリがけをする", "～(対格)という刃物を研ぐ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍yuh^aa, 牌ia1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

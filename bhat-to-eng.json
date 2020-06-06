@@ -12005,6 +12005,22 @@
         "form" : "masátu"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 524,
+      "form" : "joraúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to rub [accusative] with a file", "to hone [accusative]", "to sharpen [accusative] with a whetstone" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍yuh^aa, 牌ia1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
