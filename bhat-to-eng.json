@@ -12021,6 +12021,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 525,
+      "form" : "zíṣlo"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "vine", "climbing plants" ]
+    } ],
+    "tags" : [ "always singular declension" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

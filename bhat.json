@@ -11991,6 +11991,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 525,
+      "form" : "zíṣlo"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "つる植物", "植物のつる" ]
+    } ],
+    "tags" : [ "必ず単数曲用" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
