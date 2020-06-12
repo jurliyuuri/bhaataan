@@ -11945,6 +11945,95 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 521,
+      "form" : "sápabhát"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "old bhátán language", "people of ancient bhát" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 522,
+      "form" : "masátu"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "a deliberate lie meant to deceive someone" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "borrowing from masou.ar + ghátu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 523,
+        "form" : "jog"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 523,
+      "form" : "jog"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "inaccurate information", "misinformation without the intent of deceiving", "false information", "untruth" ]
+    }, {
+      "title" : "interjection",
+      "forms" : [ "that's not the case", "that's actually not right" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍jokhi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 522,
+        "form" : "masátu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 524,
+      "form" : "joraúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to rub [accusative] with a file", "to hone [accusative]", "to sharpen [accusative] with a whetstone" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍yuh^aa, 牌ia1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 525,
+      "form" : "zíṣlo"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "vine", "climbing plants" ]
+    } ],
+    "tags" : [ "always singular declension" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

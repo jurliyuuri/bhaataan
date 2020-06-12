@@ -11915,6 +11915,95 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 521,
+      "form" : "sápabhát"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "古バート語", "古バート人" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 522,
+      "form" : "masátu"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "（騙す意図のある）嘘" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "masou.ar からの借用 + ghátu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 523,
+        "form" : "jog"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 523,
+      "form" : "jog"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（勘違いによる）誤情報", "（騙す意図のない）嘘" ]
+    }, {
+      "title" : "間投詞",
+      "forms" : [ "そんなことはない" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍jokhi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 522,
+        "form" : "masátu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 524,
+      "form" : "joraúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "～(対格)にヤスリがけをする", "～(対格)という刃物を研ぐ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍yuh^aa, 牌ia1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 525,
+      "form" : "zíṣlo"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "つる植物", "植物のつる" ]
+    } ],
+    "tags" : [ "必ず単数曲用" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
