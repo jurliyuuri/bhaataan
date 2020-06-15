@@ -2088,7 +2088,7 @@
       "form" : "ek"
     },
     "translations" : [ {
-      "title" : "終助詞",
+      "title" : "sentence-final particle",
       "forms" : [ "I hear that ~", "People say that ~" ]
     } ],
     "tags" : [ ],
@@ -6907,7 +6907,7 @@
       "form" : "t"
     },
     "translations" : [ {
-      "title" : "終助詞",
+      "title" : "sentence-final particle",
       "forms" : [ "感嘆を表す" ]
     } ],
     "tags" : [ ],
@@ -6916,7 +6916,7 @@
       "text" : "牌t,皇t"
     }, {
       "title" : "usage",
-      "text" : "バート語の文法上は終助詞として扱うが、実際にtの音で発音されるわけではなく、あくまで感嘆を表すための記号である。故に、ラテン字転写では感嘆符で転写するが、バート文字で書く場合には、単語tを書きその後ろにピリオドを打つ必要がある。"
+      "text" : "バート語の文法上はsentence-final particleとして扱うが、実際にtの音で発音されるわけではなく、あくまで感嘆を表すための記号である。故に、ラテン字転写では感嘆符で転写するが、バート文字で書く場合には、単語tを書きその後ろにピリオドを打つ必要がある。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -7635,7 +7635,7 @@
       "form" : "yám"
     },
     "translations" : [ {
-      "title" : "終助詞",
+      "title" : "sentence-final particle",
       "forms" : [ "(creates explicit yes-or-no question)", "is it true that ~ ?", "is it that ~ ?" ]
     } ],
     "tags" : [ "colloquial" ],
@@ -7651,7 +7651,7 @@
       "form" : "jám"
     },
     "translations" : [ {
-      "title" : "終助詞",
+      "title" : "sentence-final particle",
       "forms" : [ "(creates explicit yes-or-no question)", "is it true that ~ ?", "is it that ~ ?" ]
     } ],
     "tags" : [ "colloquial" ],
