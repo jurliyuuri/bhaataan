@@ -12004,6 +12004,35 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 526,
+      "form" : "bhodi"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "海" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍pwoutwi, 理portvirtax"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 527,
+      "form" : "bhodibhára"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "潮風", "海風" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

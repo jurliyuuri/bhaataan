@@ -12034,6 +12034,35 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 526,
+      "form" : "bhodi"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "ocean", "sea" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍pwoutwi, 理portvirtax"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 527,
+      "form" : "bhodibhára"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "sea breeze" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
