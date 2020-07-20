@@ -9164,6 +9164,18 @@
         "id" : 404,
         "form" : "-aḷo"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 532,
+        "form" : "-mallo"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 533,
+        "form" : "-amallo"
+      }
     } ]
   }, {
     "entry" : {
@@ -9207,6 +9219,18 @@
       "entry" : {
         "id" : 405,
         "form" : "-aní"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 534,
+        "form" : "-manní"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 535,
+        "form" : "-amanní"
       }
     } ]
   }, {
@@ -9290,6 +9314,18 @@
         "id" : 409,
         "form" : "-aḷoná"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 536,
+        "form" : "-malloná"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 537,
+        "form" : "-amalloná"
+      }
     } ]
   }, {
     "entry" : {
@@ -9333,6 +9369,18 @@
       "entry" : {
         "id" : 410,
         "form" : "-anína"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 539,
+        "form" : "-manína"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 538,
+        "form" : "-amanína"
       }
     } ]
   }, {
@@ -9409,6 +9457,18 @@
       "entry" : {
         "id" : 414,
         "form" : "-aníha"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 540,
+        "form" : "-amaníha"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 541,
+        "form" : "-maníha"
       }
     } ]
   }, {
@@ -12033,6 +12093,482 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 528,
+      "form" : "-man-"
+    },
+    "translations" : [ {
+      "title" : "動詞接中辞",
+      "forms" : [ "迷惑接辞", "～しやがる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "迷惑・不快さを表す。\n一人称受身「私は○○された；あいつは私を○○しやがった」\n二人称受身「君は○○された；あいつは君を○○しやがった」\n三人称能動「あいつは○○しやがった」\n三人称受身「彼は○○された；あいつは彼を○○しやがった」\nで主に使われる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 529,
+        "form" : "-aman-"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 530,
+        "form" : "-mán"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 539,
+        "form" : "-manína"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 534,
+        "form" : "-manní"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 532,
+        "form" : "-mallo"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 536,
+        "form" : "-malloná"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 541,
+        "form" : "-maníha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 529,
+      "form" : "-aman-"
+    },
+    "translations" : [ {
+      "title" : "動詞接中辞",
+      "forms" : [ "迷惑接辞", "～しやがる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "迷惑・不快さを表す。\n一人称受身「私は○○された；あいつは私を○○しやがった」\n二人称受身「君は○○された；あいつは君を○○しやがった」\n三人称能動「あいつは○○しやがった」\n三人称受身「彼は○○された；あいつは彼を○○しやがった」\nで主に使われる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 528,
+        "form" : "-man-"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 531,
+        "form" : "-amán"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 537,
+        "form" : "-amalloná"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 533,
+        "form" : "-amallo"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 535,
+        "form" : "-amanní"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 538,
+        "form" : "-amanína"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 540,
+        "form" : "-amaníha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 530,
+      "form" : "-mán"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "迷惑接辞命令形", "～しやがれ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 528,
+        "form" : "-man-"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 531,
+        "form" : "-amán"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 531,
+      "form" : "-amán"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "迷惑接辞命令形", "～しやがれ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 529,
+        "form" : "-aman-"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 530,
+        "form" : "-mán"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 532,
+      "form" : "-mallo"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "迷惑一人称受動終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 528,
+        "form" : "-man-"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 389,
+        "form" : "-lo"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 533,
+        "form" : "-amallo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 533,
+      "form" : "-amallo"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "迷惑一人称終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 529,
+        "form" : "-aman-"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 389,
+        "form" : "-lo"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 532,
+        "form" : "-mallo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 534,
+      "form" : "-manní"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "迷惑二人称受動終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 528,
+        "form" : "-man-"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 391,
+        "form" : "-ní"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 535,
+        "form" : "-amanní"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 535,
+      "form" : "-amanní"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "迷惑二人称受動終止詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 529,
+        "form" : "-aman-"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 391,
+        "form" : "-ní"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 534,
+        "form" : "-manní"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 536,
+      "form" : "-malloná"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "迷惑一人称受動過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 528,
+        "form" : "-man-"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 395,
+        "form" : "-loná"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 537,
+        "form" : "-amalloná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 537,
+      "form" : "-amalloná"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "迷惑一人称受動過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 529,
+        "form" : "-aman-"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 395,
+        "form" : "-loná"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 536,
+        "form" : "-malloná"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 538,
+      "form" : "-amanína"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "迷惑二人称受動過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 529,
+        "form" : "-aman-"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 397,
+        "form" : "-nína"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 539,
+        "form" : "-manína"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 539,
+      "form" : "-manína"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "迷惑二人称受動過去分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 528,
+        "form" : "-man-"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 397,
+        "form" : "-nína"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 538,
+        "form" : "-amanína"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 540,
+      "form" : "-amaníha"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "迷惑二人称受動未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 529,
+        "form" : "-aman-"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 401,
+        "form" : "-níha"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 541,
+        "form" : "-maníha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 541,
+      "form" : "-maníha"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "迷惑二人称受動未来分詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 528,
+        "form" : "-man-"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 401,
+        "form" : "-níha"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 540,
+        "form" : "-amaníha"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
