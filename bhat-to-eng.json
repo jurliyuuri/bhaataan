@@ -3784,9 +3784,18 @@
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "牌can2,藍canai"
+    }, {
+      "title" : "difference between synonyms",
+      "text" : "cánajúḷ is not generally used when a new piece of information was obtained. cánajúḷ basically is a negation of the state that \"you already know it but haven't consciously thought about it\"."
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 547,
+        "form" : "ghaccúḷ"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 156,
@@ -12664,6 +12673,34 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 547,
+      "form" : "ghaccúḷ"
+    },
+    "translations" : [ {
+      "title" : "instantaneous verb",
+      "forms" : [ "〜(対格/hína)を理解する", "〜(対格/hína)に納得する", "〜(対格/hína)を知る" ]
+    }, {
+      "title" : "stative verb",
+      "forms" : [ "〜(対格/hína)を理解している", "〜(対格/hína)に納得している", "〜(対格/hína)を知っている" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍ngas'aa"
+    }, {
+      "title" : "difference between synonyms",
+      "text" : "cánajúḷ is not generally used when a new piece of information was obtained. cánajúḷ basically is a negation of the state that \"you already know it but haven't consciously thought about it\"."
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 155,
+        "form" : "cánajúḷ"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

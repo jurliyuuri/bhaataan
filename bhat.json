@@ -3784,9 +3784,18 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "牌can2,藍canai"
+    }, {
+      "title" : "類義語の使い分け",
+      "text" : "新情報が入ってきた場合などにはcánajúḷは普通使わない。「すでに知ってはいるけど意識してなかった状態である」の否定がcánajúḷである。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 547,
+        "form" : "ghaccúḷ"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 156,
@@ -12634,6 +12643,34 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 547,
+      "form" : "ghaccúḷ"
+    },
+    "translations" : [ {
+      "title" : "瞬間動詞",
+      "forms" : [ "〜(対格/hína)を理解する", "〜(対格/hína)に納得する", "〜(対格/hína)を知る" ]
+    }, {
+      "title" : "状態動詞",
+      "forms" : [ "〜(対格/hína)を理解している", "〜(対格/hína)に納得している", "〜(対格/hína)を知っている" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍ngas'aa"
+    }, {
+      "title" : "類義語の使い分け",
+      "text" : "新情報が入ってきた場合などにはcánajúḷは普通使わない。「すでに知ってはいるけど意識してなかった状態である」の否定がcánajúḷである。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 155,
+        "form" : "cánajúḷ"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
