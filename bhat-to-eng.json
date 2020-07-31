@@ -8492,7 +8492,7 @@
       "title" : "consonant stem noun",
       "forms" : [ "the act of adding a case ending to a noun", "the act of declining a noun", "the act of declension" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "grammatical term" ],
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "藍naho, 伐náhúḷ"
@@ -12599,6 +12599,71 @@
         "form" : "-amaníha"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 542,
+      "form" : "ázá"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "nominative case" ]
+    } ],
+    "tags" : [ "grammatical term" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 543,
+      "form" : "ánom"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "genitive case" ]
+    } ],
+    "tags" : [ "grammatical term" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 544,
+      "form" : "elesa"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "accusative case" ]
+    } ],
+    "tags" : [ "grammatical term" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 545,
+      "form" : "aibhausa"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "instrumental case" ]
+    } ],
+    "tags" : [ "grammatical term" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 546,
+      "form" : "dhíná"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "postpositional case" ]
+    } ],
+    "tags" : [ "grammatical term" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -8477,7 +8477,7 @@
       "title" : "子音幹名詞",
       "forms" : [ "名詞を格変化させること" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "文法用語" ],
     "contents" : [ {
       "title" : "同根語",
       "text" : "藍naho, 伐náhúḷ"
@@ -12569,6 +12569,71 @@
         "form" : "-amaníha"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 542,
+      "form" : "ázá"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "主格" ]
+    } ],
+    "tags" : [ "文法用語" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 543,
+      "form" : "ánom"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "属格" ]
+    } ],
+    "tags" : [ "文法用語" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 544,
+      "form" : "elesa"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "対格" ]
+    } ],
+    "tags" : [ "文法用語" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 545,
+      "form" : "aibhausa"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "具格" ]
+    } ],
+    "tags" : [ "文法用語" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 546,
+      "form" : "dhíná"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "後置格" ]
+    } ],
+    "tags" : [ "文法用語" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
