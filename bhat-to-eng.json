@@ -5539,7 +5539,13 @@
       "text" : "*kyoo"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 548,
+        "form" : "bhodíyo"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 236,
@@ -12118,7 +12124,13 @@
       "text" : "藍pwoutwi, 理portvirtax"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 548,
+        "form" : "bhodíyo"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 527,
@@ -12699,6 +12711,31 @@
       "entry" : {
         "id" : 155,
         "form" : "cánajúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 548,
+      "form" : "bhodíyo"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "sea salt" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 526,
+        "form" : "bhodi"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 235,
+        "form" : "ghíyo"
       }
     } ]
   } ],

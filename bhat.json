@@ -5539,7 +5539,13 @@
       "text" : "*kyoo"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 548,
+        "form" : "bhodíyo"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 236,
@@ -12088,7 +12094,13 @@
       "text" : "藍pwoutwi, 理portvirtax"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 548,
+        "form" : "bhodíyo"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 527,
@@ -12669,6 +12681,31 @@
       "entry" : {
         "id" : 155,
         "form" : "cánajúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 548,
+      "form" : "bhodíyo"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "海塩" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 526,
+        "form" : "bhodi"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 235,
+        "form" : "ghíyo"
       }
     } ]
   } ],
