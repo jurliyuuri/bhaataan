@@ -12708,6 +12708,22 @@
         "form" : "ghíyo"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 549,
+      "form" : "nauki"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "塩および穀物の入る木箱" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍nauke"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

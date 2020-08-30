@@ -12738,6 +12738,22 @@
         "form" : "ghíyo"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 549,
+      "form" : "nauki"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "a wooden box storing either salt or grains" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍nauke"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
