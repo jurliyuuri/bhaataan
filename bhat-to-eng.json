@@ -1847,7 +1847,13 @@
       "text" : "*phoobo"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 550,
+        "form" : "bhoman"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 77,
@@ -3188,6 +3194,12 @@
         "id" : 131,
         "form" : "ṣibhai"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 551,
+        "form" : "síbham"
+      }
     } ]
   }, {
     "entry" : {
@@ -3964,6 +3976,12 @@
         "id" : 454,
         "form" : "ághim"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 551,
+        "form" : "síbham"
+      }
     } ]
   }, {
     "entry" : {
@@ -4000,6 +4018,12 @@
       "entry" : {
         "id" : 163,
         "form" : "-an"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 550,
+        "form" : "bhoman"
       }
     } ]
   }, {
@@ -12751,6 +12775,78 @@
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "藍nauke"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 550,
+      "form" : "bhoman"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "(name)" ]
+    } ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
+    "contents" : [ {
+      "title" : "pronunciation",
+      "text" : "bʱɔman"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 76,
+        "form" : "bhoma"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 161,
+        "form" : "-n"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 551,
+      "form" : "síbham"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "(name)" ]
+    } ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 130,
+        "form" : "síbha"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 159,
+        "form" : "-m"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 552,
+      "form" : "adheṣ"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "Adhesh" ]
+    } ],
+    "tags" : [ "name", "family name", "foreign family name" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "calques from 理ales."
+    }, {
+      "title" : "usage",
+      "text" : "name."
     } ],
     "variations" : [ ],
     "relations" : [ ]

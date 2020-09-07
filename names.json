@@ -1,0 +1,196 @@
+{
+  "words" : [ {
+    "entry" : {
+      "id" : 1,
+      "form" : "bánim ghátu kádan bhátnímaṣ"
+    },
+    "translations" : [ {
+      "title" : "仮名転写",
+      "forms" : [ "バーニム・ガートゥ・カーダン・バートニーマシュ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "業績・概略",
+      "text" : "スキュリオーティエ時代のグォン・アルト藩国の国主。"
+    }, {
+      "title" : "参考文献",
+      "text" : "https://sites.google.com/site/skyliautie/a/e/i\nhttps://twitter.com/sosobotpi/status/1140042236660346880"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 2,
+      "form" : "kádan ghátu woghitaim bhátnímaṣ"
+    },
+    "translations" : [ {
+      "title" : "仮名転写",
+      "forms" : [ "カーダン・ガートゥ・ヴォーギタイム・バートニーマシュ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "業績・概略",
+      "text" : "2004年に重大な誤訳事件を発生させたアイル共和国のアイル語・ヴェフィス語通訳者。連合内で行われる選挙の有権者年齢統一を目指す自治体決議案第291号の会議中にカーダンは「反対意見を唱える人」や「異説を捉える人」を表す“epaoja zunaiir asuka”をヴェフィス語で「異教徒」を表す”paussist”で訳した。これにより「（有権者の年齢統一に反対する）この反対者たちは選挙に参加できるだろうか」という発言を「この異教徒たちは選挙に参加するべきではない」と通訳してしまった。"
+    }, {
+      "title" : "参考文献",
+      "text" : "https://docs.google.com/document/d/1nGp848QUOOjdDRfQmKCJzHzg-hpJZnziO1CHJwQBwqI/edit"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 3,
+      "form" : "záwaim ghátu rúkasam"
+    },
+    "translations" : [ {
+      "title" : "仮名転写",
+      "forms" : [ "チャーワイム・ガートゥ・ルーカザム" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "業績・概略",
+      "text" : "クワク社会党系リベラル左派学生連合の指導者。"
+    }, {
+      "title" : "参考文献",
+      "text" : "http://www.jurliyuuri.info/w/index.php?curid=448#.E5.AD.A6.E7.94.9F.E9.81.8B.E5.8B.95.E7.B5.84.E7.B9.94.E3.81.AE.E5.88.86.E8.A3.82"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4,
+      "form" : "ághim ghátu íditaim"
+    },
+    "translations" : [ {
+      "title" : "仮名転写",
+      "forms" : [ "アーギム・ガートゥ・イーディタイム" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "業績・概略",
+      "text" : "クワク共産主義系アイル学生保守チャショーテの指導者。"
+    }, {
+      "title" : "参考文献",
+      "text" : "http://www.jurliyuuri.info/w/index.php?curid=448#.E5.AD.A6.E7.94.9F.E9.81.8B.E5.8B.95.E7.B5.84.E7.B9.94.E3.81.AE.E5.88.86.E8.A3.82"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5,
+      "form" : "dílitam ghátu náḷawaim"
+    },
+    "translations" : [ {
+      "title" : "仮名転写",
+      "forms" : [ "ディーリタム・ガートゥ・ナーラワイム" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "業績・概略",
+      "text" : "スキュリオーティエ叙事詩のバート語訳者の一人。"
+    }, {
+      "title" : "参考文献",
+      "text" : "https://twitter.com/sosoBOTpi/status/1259205602082865152"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 6,
+      "form" : "káḷdan ghátu aghauṭawaim"
+    },
+    "translations" : [ {
+      "title" : "仮名転写",
+      "forms" : [ "カールダン・ガートゥ・アガウタワイム" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "業績・概略",
+      "text" : "最初期概略文法書に載っていた人名例。"
+    }, {
+      "title" : "参考文献",
+      "text" : "http://jurliyuuri.com/bhaataan/bhatan.html"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 7,
+      "form" : "woghitam ghátu epam bhátnímaṣ"
+    },
+    "translations" : [ {
+      "title" : "仮名転写",
+      "forms" : [ "ヴォーギタム・ガートゥ・エーパム・バートニーマシュ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "業績・概略",
+      "text" : "小説『人を殺すフォント』の登場人物。PMCFアイル共和国バート自治区からユエスレオネに来てから数か月の新人プログラマーであった。祖国では連邦での進んだ情報処理技術を学び、連邦での研究生活を待ち望んでいたが、連邦に来てからの凝り固まったお役所仕事にうんざりしていた。処々の登録を済ませて来た研究所では所長のリーサーフがヴォーギタムを迎えて、仕事の状況などを説明することになっていたが、リーサーフはヴォーギタムの能力を認め、連邦の極秘の異世界探査プロジェクトに使う制御装置のプログラムを書かないかと呼び掛ける。ヴォーギタム早速既存のプログラムソースやテキストを読み込んでゆくが、そこに書いてある度重なるlとoの書き間違いを見て、修正を行おうとするもののリーサーフが正式に参加を伝えていなかったヴォーギタムの訴えは極秘のプロジェクトという政治的な理由において却下され、怪しまれたヴォーギタムは特別警察によって拘留されてしまう。\nヴォーギタムは留置所に設置されたテレビを通して、異世界探査船に乗り込む調査員たちを眺めていた。ソースコードにおける書き間違いが、何も問題を起こさないことを願っていた。彼にはそれ以上何もできなかった。動き出した探査船は順調に動作しているように見えて、ヴォーギタムは安心する。しかし、次の瞬間探査船は爆散し、火の玉となって地上に落ちていったのであった――"
+    }, {
+      "title" : "参考文献",
+      "text" : "https://sites.google.com/site/riparaincangku/yuesureone-ren-gong-shi-jie-she-ding/li-shi/philerl/llrg"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 8,
+      "form" : "wátimilíju ghitto"
+    },
+    "translations" : [ {
+      "title" : "仮名転写",
+      "forms" : [ "ワーティミリーユ・ギットー" ]
+    }, {
+      "title" : "理名",
+      "forms" : [ "jekto.vatimeliju" ]
+    } ],
+    "tags" : [ "伐化理名", "現世の民" ],
+    "contents" : [ {
+      "title" : "業績・概略",
+      "text" : "悠里創作者。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 9,
+      "form" : "líyatápic bhalí"
+    },
+    "translations" : [ {
+      "title" : "仮名転写",
+      "forms" : [ "リーヤターピス・バリー" ]
+    }, {
+      "title" : "理名",
+      "forms" : [ "falira.lyjotafis" ]
+    } ],
+    "tags" : [ "伐化理名", "現世の民" ],
+    "contents" : [ {
+      "title" : "業績・概略",
+      "text" : "悠里創作者。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ],
+  "zpdic" : {
+    "alphabetOrder" : "",
+    "wordOrderType" : "UNICODE",
+    "punctuations" : [ ",", "、" ],
+    "ignoredTranslationRegex" : "",
+    "pronunciationTitle" : null,
+    "plainInformationTitles" : [ ],
+    "informationTitleOrder" : null,
+    "formFontFamily" : null,
+    "defaultWord" : {
+      "entry" : {
+        "id" : -1,
+        "form" : ""
+      },
+      "translations" : [ ],
+      "tags" : [ ],
+      "contents" : [ ],
+      "variations" : [ ],
+      "relations" : [ ]
+    }
+  },
+  "snoj" : null
+}

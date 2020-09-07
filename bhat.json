@@ -1847,7 +1847,13 @@
       "text" : "*phoobo"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 550,
+        "form" : "bhoman"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 77,
@@ -3188,6 +3194,12 @@
         "id" : 131,
         "form" : "ṣibhai"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 551,
+        "form" : "síbham"
+      }
     } ]
   }, {
     "entry" : {
@@ -4000,6 +4012,12 @@
       "entry" : {
         "id" : 163,
         "form" : "-an"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 550,
+        "form" : "bhoman"
       }
     } ]
   }, {
@@ -12721,6 +12739,78 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "藍nauke"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 550,
+      "form" : "bhoman"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "bʱɔman"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 76,
+        "form" : "bhoma"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 161,
+        "form" : "-n"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 551,
+      "form" : "síbham"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 130,
+        "form" : "síbha"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 159,
+        "form" : "-m"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 552,
+      "form" : "adheṣ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "アデーシュ" ]
+    } ],
+    "tags" : [ "人名", "姓", "外来姓" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理alesからの翻訳借用。"
+    }, {
+      "title" : "用法",
+      "text" : "人名。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
