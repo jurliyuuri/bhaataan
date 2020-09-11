@@ -4477,6 +4477,9 @@
     "translations" : [ {
       "title" : "状態動詞",
       "forms" : [ "珍しい" ]
+    }, {
+      "title" : "状態動詞",
+      "forms" : [ "特別措置的である", "特段の事情に基づくものである" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -12814,6 +12817,24 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  },
+  {
+    "entry": {
+      "id": 553,
+      "form": "ṣíyabát"
+    },
+    "translations": [
+      {
+        "title": "子音幹名詞",
+        "forms": [
+          "法廷"
+        ]
+      }
+    ],
+    "tags": [],
+    "contents": [],
+    "variations": [],
+    "relations": []
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

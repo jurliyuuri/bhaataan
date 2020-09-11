@@ -4483,6 +4483,9 @@
     "translations" : [ {
       "title" : "stative verb",
       "forms" : [ "to be rare" ]
+    }, {
+      "title" : "stative verb",
+      "forms" : [ "to be exceptional measures", "to be something due to special circumstances" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -12848,6 +12851,19 @@
       "title" : "usage",
       "text" : "name."
     } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 553,
+      "form" : "ṣíyabát"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "law court" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
