@@ -12807,7 +12807,7 @@
       "title" : "子音幹名詞",
       "forms" : [ "アデーシュ" ]
     } ],
-    "tags" : [ "人名", "姓", "外来姓" ],
+    "tags" : [ "人名", "姓" ],
     "contents" : [ {
       "title" : "同根語",
       "text" : "理alesからの翻訳借用。"
@@ -12817,24 +12817,54 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
-  },
-  {
-    "entry": {
-      "id": 553,
-      "form": "ṣíyabát"
+  }, {
+    "entry" : {
+      "id" : 553,
+      "form" : "ṣíyabát"
     },
-    "translations": [
-      {
-        "title": "子音幹名詞",
-        "forms": [
-          "法廷"
-        ]
-      }
-    ],
-    "tags": [],
-    "contents": [],
-    "variations": [],
-    "relations": []
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "法廷" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 554,
+      "form" : "bhátnímaṣ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "バート民族" ]
+    } ],
+    "tags" : [ "複数の標準発音" ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "bʱaːtniːmaʂ/, /bʱaːnniːmaʂ/, /bʱanniːmaʂ/, /bʱaːtəniːmaʂ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 555,
+      "form" : "bhátnímaṣ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "バートニーマシュ" ]
+    } ],
+    "tags" : [ "複数の標準発音", "人名", "姓" ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "bʱaːtniːmaʂ/, /bʱaːnniːmaʂ/, /bʱanniːmaʂ/, /bʱaːtəniːmaʂ"
+    }, {
+      "title" : "用法",
+      "text" : "人名。バート人名はもともと「父名 ghátu 名前」が基礎的な形で、姓というシステムが本来的に用いられなかったため、後世外来姓と対比する形でbhátnímaṣが付けられた。位置的にはヴェフィスやリナエストの名前形式に準ずる位置であり、バート人が王朝時代からリナエスト藩国と接していたことを考えると後世に他民族語のそれに合わせるために付与されたものであると考えられる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
