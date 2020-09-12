@@ -12901,6 +12901,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 556,
+      "form" : "gháwanúnímaṣ"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "ドゥバーギョ民族" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "borrowed from 理rkharvanur + 伐nímaṣ"
+    }, {
+      "title" : "culture",
+      "text" : "本来的にはラーヴァヌーは言語名であり民族名はドゥバーギョであるが、リパライン語の影響もありḍubájonímaṣではなくgháwanúnímaṣが定着している。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
