@@ -170,6 +170,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 10,
+      "form" : "korúṣam ghátu cáwaṭaim jok"
+    },
+    "translations" : [ {
+      "title" : "仮名転写",
+      "forms" : [ "コールーシャム・ガートゥ・サーワタイム・ヨーク" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "業績・概略",
+      "text" : "10月8日事件時の国裁判所長。アイル国際特別法廷にて、起訴事由「事務・実務の分離を汚職によって混同させ、政権の恣意的な法運用と止めようとしなかったという最高尊厳の抑圧への加担」で起訴された。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

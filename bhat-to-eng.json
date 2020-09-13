@@ -7939,6 +7939,12 @@
         "id" : 323,
         "form" : "cahúḷ"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 557,
+        "form" : "cáwaṭaim"
+      }
     } ]
   }, {
     "entry" : {
@@ -10654,6 +10660,12 @@
         "id" : 450,
         "form" : "íditaim"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 557,
+        "form" : "cáwaṭaim"
+      }
     } ]
   }, {
     "entry" : {
@@ -12918,6 +12930,44 @@
       "title" : "culture",
       "text" : "本来的にはラーヴァヌーは言語名であり民族名はドゥバーギョであるが、リパライン語の影響もありḍubájonímaṣではなくgháwanúnímaṣが定着している。"
     } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 557,
+      "form" : "cáwaṭaim"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "(name)" ]
+    } ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 328,
+        "form" : "cau-"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 451,
+        "form" : "-itaim"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 558,
+      "form" : "jok"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "Family name: viokk" ]
+    } ],
+    "tags" : [ "name", "family name", "foreign family name" ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   } ],

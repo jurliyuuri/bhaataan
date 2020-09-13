@@ -7918,6 +7918,12 @@
         "id" : 323,
         "form" : "cahúḷ"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 557,
+        "form" : "cáwaṭaim"
+      }
     } ]
   }, {
     "entry" : {
@@ -10618,6 +10624,12 @@
         "id" : 450,
         "form" : "íditaim"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 557,
+        "form" : "cáwaṭaim"
+      }
     } ]
   }, {
     "entry" : {
@@ -12882,6 +12894,44 @@
       "title" : "文化",
       "text" : "本来的にはラーヴァヌーは言語名であり民族名はドゥバーギョであるが、リパライン語の影響もありḍubájonímaṣではなくgháwanúnímaṣが定着している。"
     } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 557,
+      "form" : "cáwaṭaim"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 328,
+        "form" : "cau-"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 451,
+        "form" : "-itaim"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 558,
+      "form" : "jok"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "viokk姓" ]
+    } ],
+    "tags" : [ "人名", "姓", "外来姓" ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
