@@ -2901,7 +2901,7 @@
     },
     "translations" : [ {
       "title" : "vowel stem noun",
-      "forms" : [ "what", "which" ]
+      "forms" : [ "what?", "which?" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -7018,7 +7018,7 @@
       "form" : "ká"
     },
     "translations" : [ {
-      "title" : "inflected form",
+      "title" : "consonant stem noun plural",
       "forms" : [ "the plural form of k" ]
     } ],
     "tags" : [ "dependent noun", "abstract dependent noun" ],
@@ -11857,7 +11857,7 @@
       "form" : "cajxitanaunijasuka"
     },
     "translations" : [ {
-      "title" : "母音幹名詞",
+      "title" : "vowel stem noun",
       "forms" : [ "フェンテショレー" ]
     } ],
     "tags" : [ ],
@@ -12963,11 +12963,295 @@
       "form" : "jok"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "consonant stem noun",
       "forms" : [ "Family name: viokk" ]
     } ],
     "tags" : [ "name", "family name", "foreign family name" ],
     "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 559,
+      "form" : "doma"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "who?" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍tuma"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 560,
+      "form" : "domana"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "someone" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍tuma-na"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 561,
+      "form" : "coṇá"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun plural",
+      "forms" : [ "which one?" ]
+    } ],
+    "tags" : [ "always plural declension" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "com + ká"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 562,
+      "form" : "coṇaná"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun plural",
+      "forms" : [ "どれか" ]
+    } ],
+    "tags" : [ "always plural declension" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 563,
+      "form" : "náhepa"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "what place?" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 564,
+      "form" : "náhepani"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "some place" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 565,
+      "form" : "not"
+    },
+    "translations" : [ {
+      "title" : "adjective",
+      "forms" : [ "what sort of?", "of what?" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍nuta"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 566,
+      "form" : "com"
+    },
+    "translations" : [ {
+      "title" : "adjective",
+      "forms" : [ "which?" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "cu + -om"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 567,
+      "form" : "coghom"
+    },
+    "translations" : [ {
+      "title" : "adjective",
+      "forms" : [ "of when?" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 568,
+      "form" : "nánaṭu"
+    },
+    "translations" : [ {
+      "title" : "adverb",
+      "forms" : [ "anything", "whatever" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 569,
+      "form" : "domaṭu"
+    },
+    "translations" : [ {
+      "title" : "adverb",
+      "forms" : [ "anyone", "whoever" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 570,
+      "form" : "coḍu"
+    },
+    "translations" : [ {
+      "title" : "adverb",
+      "forms" : [ "any one", "whichever" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 571,
+      "form" : "coghi"
+    },
+    "translations" : [ {
+      "title" : "adverb",
+      "forms" : [ "when?" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍suka"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 572,
+      "form" : "coghani"
+    },
+    "translations" : [ {
+      "title" : "adverb",
+      "forms" : [ "sometime" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 573,
+      "form" : "coghaṭu"
+    },
+    "translations" : [ {
+      "title" : "adverb",
+      "forms" : [ "at any time", "at all times", "whenever" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 574,
+      "form" : "náhepa"
+    },
+    "translations" : [ {
+      "title" : "adverb",
+      "forms" : [ "where?" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 575,
+      "form" : "náhepaṭu"
+    },
+    "translations" : [ {
+      "title" : "adverb",
+      "forms" : [ "anywhere", "at any place" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 576,
+      "form" : "náhepani"
+    },
+    "translations" : [ {
+      "title" : "adverb",
+      "forms" : [ "somewhere" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 577,
+      "form" : "nota"
+    },
+    "translations" : [ {
+      "title" : "adverb",
+      "forms" : [ "how many?" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "Since it is an adverb, it modifies a verb, not a noun."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 578,
+      "form" : "corajúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to be how?", "to be in what way?", "to be in what sort of situation?" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "com- + cajúḷ"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   } ],

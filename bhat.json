@@ -7009,7 +7009,7 @@
       "form" : "ká"
     },
     "translations" : [ {
-      "title" : "変化形",
+      "title" : "子音幹名詞複数",
       "forms" : [ "kの複数形" ]
     } ],
     "tags" : [ "形式名詞", "抽象的形式名詞" ],
@@ -12932,6 +12932,290 @@
     } ],
     "tags" : [ "人名", "姓", "外来姓" ],
     "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 559,
+      "form" : "doma"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "誰" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍tuma"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 560,
+      "form" : "domana"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "誰か" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍tuma-na"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 561,
+      "form" : "coṇá"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞複数",
+      "forms" : [ "どれ" ]
+    } ],
+    "tags" : [ "必ず複数曲用" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "com + ká"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 562,
+      "form" : "coṇaná"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞複数",
+      "forms" : [ "どれか" ]
+    } ],
+    "tags" : [ "必ず複数曲用" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 563,
+      "form" : "náhepa"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "どこ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 564,
+      "form" : "náhepani"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "どこか" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 565,
+      "form" : "not"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "なんの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍nuta"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 566,
+      "form" : "com"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "どの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "cu + -om"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 567,
+      "form" : "coghom"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "いつの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 568,
+      "form" : "nánaṭu"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "なんでも" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 569,
+      "form" : "domaṭu"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "誰でも" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 570,
+      "form" : "coḍu"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "どれでも" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 571,
+      "form" : "coghi"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "いつ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍suka"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 572,
+      "form" : "coghani"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "いつか" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 573,
+      "form" : "coghaṭu"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "いつでも" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 574,
+      "form" : "náhepa"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "どこ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 575,
+      "form" : "náhepaṭu"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "どこでも" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 576,
+      "form" : "náhepani"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "どこか" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 577,
+      "form" : "nota"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "いくつ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "体言ではなく用言に掛けて使う。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 578,
+      "form" : "corajúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "どのようである" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "com- + cajúḷ"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
