@@ -13254,6 +13254,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 579,
+      "form" : "phecú"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "la phertarrarsiten-curibajmorbern", "so-called bhátán mushroom soup" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理la phertarrarsiten-curibajmorbern"
+    }, {
+      "title" : "culture",
+      "text" : "Stir-fry some meat and some vegetables with some oil, farmad seeds, ketysn, dītijysn, a variety of spices (such as suluj, alasakirfinaz, finorxonas) and some cooking wine. Then add some water, some xōla and some mushroom and then simmer. Add as much salt, fish sauce and cooked rice as you think makes it taste right.\nWhile its name in Linepāine is derived from \"bhátán rásit\", it is not considered as belonging to their culture by the bhátán population, and hence its name in bhátán is the contraction of \"la phertarrarsiten-curibajmorbern\"."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
