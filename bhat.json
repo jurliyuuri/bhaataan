@@ -13253,6 +13253,28 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 581,
+      "form" : "xághajúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "～(主格)は～(対格)という値段である" ]
+    }, {
+      "title" : "状態動詞",
+      "forms" : [ "～(主格)という状況は～(対格・不定詞)を要求する", "～(主格)という状況のためには～(具格)(人)は～(対格・不定詞)をしなければならない" ]
+    } ],
+    "tags" : [ "口語的" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌hia1 kait"
+    }, {
+      "title" : "用法",
+      "text" : "口語的な語であるので、不定詞が意味上の対格として来る際にemaが伴わないのが普通である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

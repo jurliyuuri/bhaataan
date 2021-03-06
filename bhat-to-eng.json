@@ -13289,6 +13289,28 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 581,
+      "form" : "xághajúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "for [nominative] to cost [accusative]" ]
+    }, {
+      "title" : "stative verb",
+      "forms" : [ "for [nominative] (a situation) to require [accusative/infinitive]", "for [instrumental] (person) to ought to do [accusative/infinitive] for [nominative] (a situation)" ]
+    } ],
+    "tags" : [ "colloquial" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌hia1 kait"
+    }, {
+      "title" : "usage",
+      "text" : "Because this word is used in the colloquial register, an infinitive is usually not followed by \"ema\" even when used in place of an accusative."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
