@@ -11353,7 +11353,13 @@
       "text" : "used in the main clause."
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 582,
+        "form" : "-ani-"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 485,
@@ -13311,6 +13317,28 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 582,
+      "form" : "-ani-"
+    },
+    "translations" : [ {
+      "title" : "verb infix",
+      "forms" : [ "counterfactual conditional" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "used in the main clause."
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 484,
+        "form" : "-ni-"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -11317,7 +11317,13 @@
       "text" : "主節にのみ置く。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 582,
+        "form" : "-ani-"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 485,
@@ -13275,6 +13281,28 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 582,
+      "form" : "-ani-"
+    },
+    "translations" : [ {
+      "title" : "動詞接中辞",
+      "forms" : [ "反実仮想" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "主節にのみ置く。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 484,
+        "form" : "-ni-"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
