@@ -11868,7 +11868,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "文化",
+      "title" : "culture",
       "text" : "《フェンテショレーについて》\nhttp://www.jurliyuuri.info/wiki/%E3%83%95%E3%82%A7%E3%83%B3%E3%83%86%E3%82%B7%E3%83%A7%E3%83%AC%E3%83%BC"
     } ],
     "variations" : [ ],
@@ -13339,6 +13339,22 @@
         "form" : "-ni-"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 583,
+      "form" : "helazá"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "waves" ]
+    } ],
+    "tags" : [ "always plural declension" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理helzar."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

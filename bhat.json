@@ -13303,6 +13303,22 @@
         "form" : "-ni-"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 583,
+      "form" : "helazá"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "波" ]
+    } ],
+    "tags" : [ "必ず複数曲用" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理helzarからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
