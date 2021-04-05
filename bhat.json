@@ -1888,7 +1888,7 @@
       "title" : "瞬間動詞",
       "forms" : [ "〜(oṣa)を去る" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "bohúḷ型活用" ],
     "contents" : [ {
       "title" : "同根語",
       "text" : "牌mok1,藍moho"
@@ -13316,6 +13316,38 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "理helzarからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 584,
+      "form" : "jamohúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "出る", "〜(oṣa)から〜(ghi)へ出ていく" ]
+    } ],
+    "tags" : [ "bohúḷ型活用" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌ian1 + 牌mok1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 585,
+      "form" : "jammohúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(主格)(人)が〜(oṣa)から〜(ghi)へ物理的に外出する" ]
+    } ],
+    "tags" : [ "bohúḷ型活用" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌ian1 + 牌mok1"
     } ],
     "variations" : [ ],
     "relations" : [ ]
