@@ -1888,7 +1888,7 @@
       "title" : "instantaneous verb",
       "forms" : [ "to leave [oṣa]" ]
     } ],
-    "tags" : [ ],
+    "tags" : [ "bohúḷ conjugation" ],
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "牌mok1,藍moho"
@@ -13352,6 +13352,38 @@
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "Borrowed from 理helzar."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 584,
+      "form" : "jamohúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to go out", "to go out from [oṣa] to [ghi]" ]
+    } ],
+    "tags" : [ "bohúḷ conjugation" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌ian1 + 牌mok1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 585,
+      "form" : "jammohúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "for [nominative] (person) to physically go out from [oṣa] to [ghi]" ]
+    } ],
+    "tags" : [ "bohúḷ conjugation" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌ian1 + 牌mok1"
     } ],
     "variations" : [ ],
     "relations" : [ ]
