@@ -13387,6 +13387,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 586,
+      "form" : "újo"
+    },
+    "translations" : [ {
+      "title" : "interjection",
+      "forms" : [ "uh", "um", "er" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -13351,6 +13351,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 586,
+      "form" : "újo"
+    },
+    "translations" : [ {
+      "title" : "間投詞",
+      "forms" : [ "heave-ho" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
