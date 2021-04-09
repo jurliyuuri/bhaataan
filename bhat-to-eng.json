@@ -13400,6 +13400,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 587,
+      "form" : "lábha"
+    },
+    "translations" : [ {
+      "title" : "interjection",
+      "forms" : [ "Hello?", "Can you hear me?", "Are you listening to me?" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "Used when it is not guaranteed that the listener is hearing what the speaker is saying."
+    }, {
+      "title" : "pronunciation",
+      "text" : "ləːbʱə\n"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
