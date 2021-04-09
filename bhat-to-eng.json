@@ -13435,6 +13435,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 589,
+      "form" : "dhokit"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "fruit", "dead body hanged from a tree" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍dukhi + 藍itua"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

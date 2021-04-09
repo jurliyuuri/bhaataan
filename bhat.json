@@ -13399,6 +13399,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 589,
+      "form" : "dhokit"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "果実", "木から吊るされた人の死体" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍dukhi + 藍itua"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
