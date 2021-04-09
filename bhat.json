@@ -13351,6 +13351,38 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 586,
+      "form" : "újo"
+    },
+    "translations" : [ {
+      "title" : "間投詞",
+      "forms" : [ "せーの", "よいしょっと" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 587,
+      "form" : "lábha"
+    },
+    "translations" : [ {
+      "title" : "間投詞",
+      "forms" : [ "もしもし？", "聞こえてる？", "聞いてる？" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "「相手に声が聞こえている保証がないので確認する」という状況で用いる。"
+    }, {
+      "title" : "発音",
+      "text" : "ləːbʱə\n"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
