@@ -3266,7 +3266,19 @@
       "text" : "*cu^nla"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 591,
+        "form" : "pháwa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 590,
+        "form" : "páwa"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 134,
@@ -13415,6 +13427,68 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 590,
+      "form" : "páwa"
+    },
+    "translations" : [ {
+      "title" : "文接続詞",
+      "forms" : [ "しかし" ]
+    } ],
+    "tags" : [ "口語的" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌pau1 ua"
+    }, {
+      "title" : "類義語の使い分け",
+      "text" : "páwaの方がpháwaよりよく用いられる。ṣiṇṇaの方がフォーマルであり、páwaやpháwaはかなり口語的である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 591,
+        "form" : "pháwa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 133,
+        "form" : "ṣiṇṇa"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 591,
+      "form" : "pháwa"
+    },
+    "translations" : [ {
+      "title" : "文接続詞",
+      "forms" : [ "しかし" ]
+    } ],
+    "tags" : [ "口語的" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌pau1 ua"
+    }, {
+      "title" : "類義語の使い分け",
+      "text" : "páwaの方がpháwaよりよく用いられる。ṣiṇṇaの方がフォーマルであり、páwaやpháwaはかなり口語的である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 590,
+        "form" : "páwa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 133,
+        "form" : "ṣiṇṇa"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

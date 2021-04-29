@@ -3266,7 +3266,19 @@
       "text" : "*cu^nla"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 590,
+        "form" : "páwa"
+      }
+    }, {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 591,
+        "form" : "pháwa"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 134,
@@ -13451,6 +13463,68 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 590,
+      "form" : "páwa"
+    },
+    "translations" : [ {
+      "title" : "conjunction for sentences",
+      "forms" : [ "however", "but" ]
+    } ],
+    "tags" : [ "colloquial" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌pau1 ua"
+    }, {
+      "title" : "difference between synonyms",
+      "text" : "\"páwa\" is used more frequently than \"pháwa\". \"ṣiṇṇa\" is more formal, while \"páwa\" and \"pháwa\" are quite colloquial."
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 591,
+        "form" : "pháwa"
+      }
+    }, {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 133,
+        "form" : "ṣiṇṇa"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 591,
+      "form" : "pháwa"
+    },
+    "translations" : [ {
+      "title" : "conjunction for sentences",
+      "forms" : [ "however", "but" ]
+    } ],
+    "tags" : [ "colloquial" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌pau1 ua"
+    }, {
+      "title" : "difference between synonyms",
+      "text" : "\"páwa\" is used more frequently than \"pháwa\". \"ṣiṇṇa\" is more formal, while \"páwa\" and \"pháwa\" are quite colloquial."
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 590,
+        "form" : "páwa"
+      }
+    }, {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 133,
+        "form" : "ṣiṇṇa"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
