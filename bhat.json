@@ -13520,6 +13520,19 @@
         "form" : "gháwanúnímaṣ"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 593,
+      "form" : "zausáṇauṭu"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "動作動詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
