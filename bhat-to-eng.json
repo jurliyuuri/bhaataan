@@ -12949,7 +12949,13 @@
       "text" : "本来的にはラーヴァヌーは言語名であり民族名はドゥバーギョであるが、リパライン語の影響もありḍubájonímaṣではなくgháwanúnímaṣが定着している。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 592,
+        "form" : "ḍubájonímaṣ"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 557,
@@ -13523,6 +13529,31 @@
       "entry" : {
         "id" : 133,
         "form" : "ṣiṇṇa"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 592,
+      "form" : "ḍubájonímaṣ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "ドゥバーギョ民族" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ɖʊbɑːɟo̞ + 伐nímaṣ"
+    }, {
+      "title" : "difference between synonyms",
+      "text" : "The term \"gháwanúnímaṣ\" is much more commonly used than \"ḍubájonímaṣ\""
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 556,
+        "form" : "gháwanúnímaṣ"
       }
     } ]
   } ],
