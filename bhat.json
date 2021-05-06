@@ -2312,7 +2312,13 @@
       "text" : "*aimq"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 594,
+        "form" : "hemasáṇauṭu"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 95,
@@ -6385,6 +6391,12 @@
         "id" : 379,
         "form" : "rod"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 596,
+        "form" : "rodahemasáṇauṭu"
+      }
     } ]
   }, {
     "entry" : {
@@ -7892,6 +7904,12 @@
         "id" : 148,
         "form" : "zúḷ"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 593,
+        "form" : "zausáṇauṭu"
+      }
     } ]
   }, {
     "entry" : {
@@ -9050,6 +9068,12 @@
       "entry" : {
         "id" : 383,
         "form" : "líṇaṇauṭu"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 593,
+        "form" : "zausáṇauṭu"
       }
     } ]
   }, {
@@ -13518,6 +13542,100 @@
       "entry" : {
         "id" : 556,
         "form" : "gháwanúnímaṣ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 593,
+      "form" : "zausáṇauṭu"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "動作動詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 326,
+        "form" : "zau-"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 381,
+        "form" : "-ṇauṭu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 594,
+      "form" : "hemasáṇauṭu"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "状態動詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 94,
+        "form" : "hemúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 596,
+        "form" : "rodahemasáṇauṭu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 595,
+      "form" : "ghauṣ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "名詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理kaft"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 596,
+      "form" : "rodahemasáṇauṭu"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "瞬間動詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理narlen ftona「（時間的に）短い動詞」の翻訳借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 265,
+        "form" : "rodúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 594,
+        "form" : "hemasáṇauṭu"
       }
     } ]
   } ],
