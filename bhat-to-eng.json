@@ -2315,7 +2315,13 @@
       "text" : "*aimq"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 594,
+        "form" : "hemasáṇauṭu"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 95,
@@ -6397,6 +6403,12 @@
         "id" : 379,
         "form" : "rod"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 596,
+        "form" : "rodahemasáṇauṭu"
+      }
     } ]
   }, {
     "entry" : {
@@ -7913,6 +7925,12 @@
         "id" : 148,
         "form" : "zúḷ"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 593,
+        "form" : "zausáṇauṭu"
+      }
     } ]
   }, {
     "entry" : {
@@ -9071,6 +9089,12 @@
       "entry" : {
         "id" : 383,
         "form" : "líṇaṇauṭu"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 593,
+        "form" : "zausáṇauṭu"
       }
     } ]
   }, {
@@ -13554,6 +13578,100 @@
       "entry" : {
         "id" : 556,
         "form" : "gháwanúnímaṣ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 593,
+      "form" : "zausáṇauṭu"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "dynamic verb" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 326,
+        "form" : "zau-"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 381,
+        "form" : "-ṇauṭu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 594,
+      "form" : "hemasáṇauṭu"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "stative verb" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 94,
+        "form" : "hemúḷ"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 596,
+        "form" : "rodahemasáṇauṭu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 595,
+      "form" : "ghauṣ"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "noun" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理kaft"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 596,
+      "form" : "rodahemasáṇauṭu"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "instantaneous verb" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "calque of 理narlen ftona \"(temporally) short verb\""
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 265,
+        "form" : "rodúḷ"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 594,
+        "form" : "hemasáṇauṭu"
       }
     } ]
   } ],
