@@ -10828,6 +10828,12 @@
         "id" : 460,
         "form" : "núdhabágha"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 597,
+        "form" : "núdhabhoḷog"
+      }
     } ]
   }, {
     "entry" : {
@@ -11451,15 +11457,24 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "law" ]
+      "forms" : [ "law", "legal system" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "藍blohai"
+    }, {
+      "title" : "usage",
+      "text" : "In jurisprudence, bhoḷog often refers to the \"legal system,\" as distinct from each of the rules that comprise it. On the other hand, outside of jurisprudence, there is not a clear distinction and bhoḷog signifies both."
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 597,
+        "form" : "núdhabhoḷog"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 489,
@@ -13672,6 +13687,31 @@
       "entry" : {
         "id" : 594,
         "form" : "hemasáṇauṭu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 597,
+      "form" : "núdhabhoḷog"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "rule of a game", "ruleset of a game" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 456,
+        "form" : "núdha"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 488,
+        "form" : "bhoḷog"
       }
     } ]
   } ],

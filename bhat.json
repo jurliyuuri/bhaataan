@@ -10792,6 +10792,12 @@
         "id" : 460,
         "form" : "núdhabágha"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 597,
+        "form" : "núdhabhoḷog"
+      }
     } ]
   }, {
     "entry" : {
@@ -11415,15 +11421,24 @@
     },
     "translations" : [ {
       "title" : "子音幹名詞",
-      "forms" : [ "法" ]
+      "forms" : [ "法", "法体系" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
       "text" : "藍blohai"
+    }, {
+      "title" : "用法",
+      "text" : "法学では bhoḷog は『法体系』を指すことが多く、それを構成する各々の規則とは区別される。一方で、法学以外では明確に区別されず、bhoḷogは両方を意味する。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 597,
+        "form" : "núdhabhoḷog"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 489,
@@ -13636,6 +13651,31 @@
       "entry" : {
         "id" : 594,
         "form" : "hemasáṇauṭu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 597,
+      "form" : "núdhabhoḷog"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（ゲームの）ルール", "（遊戯の）規則" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 456,
+        "form" : "núdha"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 488,
+        "form" : "bhoḷog"
       }
     } ]
   } ],
