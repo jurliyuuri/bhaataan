@@ -11451,12 +11451,15 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "law" ]
+      "forms" : [ "law", "legal system" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "藍blohai"
+    }, {
+      "title" : "usage",
+      "text" : "In jurisprudence, bhoḷog often refers to the \"legal system,\" as distinct from each of the rules that comprise it. On the other hand, outside of jurisprudence, there is not a clear distinction and bhoḷog signifies both."
     } ],
     "variations" : [ ],
     "relations" : [ ]
