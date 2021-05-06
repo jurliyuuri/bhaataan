@@ -2312,7 +2312,13 @@
       "text" : "*aimq"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 594,
+        "form" : "hemasáṇauṭu"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 95,
@@ -3266,7 +3272,19 @@
       "text" : "*cu^nla"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 591,
+        "form" : "pháwa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 590,
+        "form" : "páwa"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 134,
@@ -6373,6 +6391,12 @@
         "id" : 379,
         "form" : "rod"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 596,
+        "form" : "rodahemasáṇauṭu"
+      }
     } ]
   }, {
     "entry" : {
@@ -7880,6 +7904,12 @@
         "id" : 148,
         "form" : "zúḷ"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 593,
+        "form" : "zausáṇauṭu"
+      }
     } ]
   }, {
     "entry" : {
@@ -9038,6 +9068,12 @@
       "entry" : {
         "id" : 383,
         "form" : "líṇaṇauṭu"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 593,
+        "form" : "zausáṇauṭu"
       }
     } ]
   }, {
@@ -12901,7 +12937,13 @@
       "text" : "本来的にはラーヴァヌーは言語名であり民族名はドゥバーギョであるが、リパライン語の影響もありḍubájonímaṣではなくgháwanúnímaṣが定着している。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 592,
+        "form" : "ḍubájonímaṣ"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 557,
@@ -13415,6 +13457,187 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 590,
+      "form" : "páwa"
+    },
+    "translations" : [ {
+      "title" : "文接続詞",
+      "forms" : [ "しかし" ]
+    } ],
+    "tags" : [ "口語的" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌pau1 ua"
+    }, {
+      "title" : "類義語の使い分け",
+      "text" : "páwaの方がpháwaよりよく用いられる。ṣiṇṇaの方がフォーマルであり、páwaやpháwaはかなり口語的である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 591,
+        "form" : "pháwa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 133,
+        "form" : "ṣiṇṇa"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 591,
+      "form" : "pháwa"
+    },
+    "translations" : [ {
+      "title" : "文接続詞",
+      "forms" : [ "しかし" ]
+    } ],
+    "tags" : [ "口語的" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌pau1 ua"
+    }, {
+      "title" : "類義語の使い分け",
+      "text" : "páwaの方がpháwaよりよく用いられる。ṣiṇṇaの方がフォーマルであり、páwaやpháwaはかなり口語的である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 590,
+        "form" : "páwa"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 133,
+        "form" : "ṣiṇṇa"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 592,
+      "form" : "ḍubájonímaṣ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "ドゥバーギョ民族" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ɖʊbɑːɟo̞ + 伐nímaṣ"
+    }, {
+      "title" : "類義語の使い分け",
+      "text" : "gháwanúnímaṣが定着しており、ḍubájonímaṣは使われることが少ない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 556,
+        "form" : "gháwanúnímaṣ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 593,
+      "form" : "zausáṇauṭu"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "動作動詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 326,
+        "form" : "zau-"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 381,
+        "form" : "-ṇauṭu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 594,
+      "form" : "hemasáṇauṭu"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "状態動詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 94,
+        "form" : "hemúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 596,
+        "form" : "rodahemasáṇauṭu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 595,
+      "form" : "ghauṣ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "名詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理kaft"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 596,
+      "form" : "rodahemasáṇauṭu"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "瞬間動詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理narlen ftona「（時間的に）短い動詞」の翻訳借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 265,
+        "form" : "rodúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 594,
+        "form" : "hemasáṇauṭu"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
