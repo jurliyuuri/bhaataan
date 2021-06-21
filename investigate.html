@@ -23,7 +23,7 @@ i.bhateme {
 </style>
 <script src="print_bhat.js"></script>
 </head>
-<body class="cool">
+<body class="cool" style="font-family: Arial, Helvetica, sans-serif;">
 <a href="./index.html">トップに戻る</a>
 <h1>バート語について考察する</h1>
 <p>以下は考察ログであり、<strong>文法は<a href="grammar.html">こちら</a>にまとめてある</strong>。</p>
@@ -3088,8 +3088,8 @@ Wikipedia contributors, "Grammatical number," Wikipedia, The Free Encyclopedia, 
 <h2>103. 辞書更新</h2>
 <p>英語版辞書を日本語版辞書に追いつかせた。現在311単語で、英訳終わってないのは現状21単語なので93.2%翻訳が終わっている。</p>
 
-<a href="https://zpdic.herokuapp.com/dictionary/52">英語版</a>
-<a href="https://zpdic.herokuapp.com/dictionary/24">日本語版</a>
+<a href="http://zpdic.ziphil.com/dictionary/52">英語版</a>
+<a href="http://zpdic.ziphil.com/dictionary/24">日本語版</a>
 
 <p>ちなみに未翻訳は<code>[^\s!-~áíúṭḍṣṇḷ藍牌→←伐理ヴェフィス皇]</code>で検索すると一発で分かる。</p>
 
@@ -4753,12 +4753,247 @@ kádakáná dháradáká gháni janaká<br>
 
 <h2>180. 終助詞</h2>
 <p>Mandarin Chinese―A Functional Reference Grammar に "sentence-final particles" という記載があったので、伐英辞書に採用。</p>
+<p>あと終助詞は基本的に主観性を表現するのに使うんだよな（したがって例えばthird person omniscientであればほぼ使わない）。</p>
+
+<h2>181. 聞き手ではない他人の行動が主語または話し手にとって困る/不快であるときに入れると感情的になる接辞-(a)man-</h2>
+<p>聞き手であれば入らない。-lo-系統と融合して-(a)mallo-となる。訳語「～やがる、how dare he ...」。2020年3月24日辺りに着想。</p>
+<p>まあ</p>
+<ul>
+	<li>一人称受身「私は○○された；あいつは私を○○しやがった」（話し手 = 主語にとって）</li>
+	<li>二人称受身「君は○○された；あいつは君を○○しやがった」（話し手にとって）</li>
+	<li>三人称能動「あいつは○○しやがった」（話し手にとって）</li>
+	<li>三人称受身「彼は○○された；あいつは彼を○○しやがった」（話し手にとって）</li>
+</ul>
+<p>で主に使われ、</p>
+<ul>
+	<li>二人称受身「君にとって不快であろうが君は○○された」（主語にとって）</li>
+	<li>三人称受身「彼にとって不快であろうが彼は○○された」（主語にとって）</li>
+</ul>
+<p>に使うこともまあできる、という感じかなぁ。</p>
+<p>2020年3月17日辺りに被害受身みたいなものの表現方法がほしいとなって生まれたものであり、まあ受け身と相性がよい接辞となった。</p>
+<p>全体としてはこんな感じかな。</p>
+
+<table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
+	<tr>
+	<td></td>
+	<td>一人称</td>
+	<td>二人称</td>
+	<td>三人称女</td>
+	<td>三人称男</td>
+	<td>指示・固有</td>
+	</tr>
+	<tr>
+	<td>命令形</td>
+	<td colspan="5"><strong style="color: red">-(a)mán</strong></td>
+	</tr>
+	<tr>
+	<td>不定詞</td>
+	<td colspan="5">-(a)manúḷ</td>
+	</tr>
+	<tr>
+	<td>終止詞</td>
+	<td>-(a)manadhí</td>
+	<td>-(a)manamú</td>
+	<td>-(a)manaze</td>
+	<td>-(a)manabhá</td>
+	<td>-(a)manaká</td>
+	</tr>
+	<tr>
+	<td>過去分詞</td>
+	<td>-(a)manadína</td>
+	<td>-(a)manamúná</td>
+	<td>-(a)manazená</td>
+	<td>-(a)manabáta</td>
+	<td>-(a)manakátá</td>
+	</tr>
+	<tr>
+	<td>未来分詞</td>
+	<td>-(a)manadíha</td>
+	<td>-(a)manamúha</td>
+	<td>-(a)manazebá</td>
+	<td>-(a)manabáṣlo</td>
+	<td>-(a)manakáṣlo</td>
+	</tr>
+	
+	
+	<tr>
+		<td>受動不定詞</td>
+		<td colspan="5">-(a)manáḷ</td>
+	</tr>
+	<tr>
+		<td>受動終止詞</td>
+		<td><strong style="color: red">-(a)mallo</strong></td>
+		<td><strong style="color: red">-(a)manní</strong></td>
+		<td>-(a)manasá</td>
+		<td>-(a)manaṣí</td>
+		<td>-(a)manaho</td>
+	</tr>
+	<tr>
+		<td>受動過去分詞</td>
+		<td><strong style="color: red">-(a)malloná</strong></td>
+		<td><strong style="color: red">-(a)manína</strong></td>
+		<td>-(a)manasátá</td>
+		<td>-(a)manaṣíná</td>
+		<td>-(a)manahoná</td>
+
+	</tr>
+	<tr>
+		<td>受動未来分詞</td>
+		<td>✗</td>
+		<td><strong style="color: red">-(a)maníha</strong></td>
+		<td>-(a)manasáṣlo</td>
+		<td>✗</td>
+		<td>-(a)manahobá</td>
+	</tr>
+</table>
+
+<p>これを辞書に足さねばならない（現在2020年7月21日、4ヶ月放置）。足した。</p>
+	
+<h2>182. bháradhí /bʱɑːɖɖiː/</h2>
+<p>口語縮約。rにつられてdhがそり舌化、しかし/iː/は引きずられない。口語縮約は長母音+長子音が許されんだろうなぁ。ということはbaukkáって比較的最近の語形なのか？過去考察を振り返らねば。バート文字で表音的に書く方法ないけどどうしよう。ああまあbháQ-ḍъ-íとは書けるか。</p>
+
+<h2>183. 「バート語の時制・相の構造の思想」</h2>
+<p>skurlavenija.mavijaが「<a href="https://docs.google.com/document/d/1AHNly9a_H_3P-fOrW56zCLZOOsX8d0WdAiv0i2lIKrw/">バート語の時制・相の構造の思想</a>」という文章を書いてくれた。便利なので文法書からもリンクしておこう。</p>
+
+<h2>184. バート文字の点いらない説</h2>
+<p>バート文字における点、明らかに機能負担量が低いので無くても全然読めるのでは、という説が2020年8月30日にjekto.vatimelijuによって提唱された。</p>
+<p>実際にやってみたところ、</p>
+
+<p>kodi hína kit kit bátámakátá hozá ám hemakátá hem. ja púpen dínadi gi bátúl, "há kána! há kána! báhedíha hem!", kodel ká deseúl ema alic ám kit kit conáronázená hem. rúcán kánadi nána kodi ema zu hejáze hína, dímadel nána ká kodel conáronáúl zallobápakátá hem ká cánajazená hem, cinna, díom kánadi hína ká dízá báci kit úrajúl ema hejázená hem. cinna, kánadi nána púpen deja zígícele díom cainíjuhomá hátacomi oca recaká, jarúci kodel ákaká, jarúci kánataká hína, alic bocahazená hem, cainíjuhomá hátacomi jo zígícele nána kom epadi oca recaká bomakátá púpenele ká ám aduhazobápazená dímadel sena cánajúl ácá. jarúci amáma bajhídi cájau kotáná epadel wákahama kánatama ká dídel lánahazená hem. jarúci cákíkátadi cájau kánadi nána púpen kotáná cojabau rúcán amáma bonaudi gi kánagama ídaká hína kánaisa kodel aduhazozená hem.</p>
+
+<p>「あっめっちゃ読める」となった。強いて言うならbhとbがわずかにつらいか。</p>
+<p>とはいえ、文を書いた本人である私が読んでもアレなので、skurlavenija.mavijaにも読ませてみることにした。</p>
+<p>結果「<a href="https://docs.google.com/document/d/1nVuwFOktG-4LEZYz6eAzQQuUj1G4d6IqECFZ6Nc3PUA">バート文字の点いらない説</a>」が立った。やってみた結果、やっぱり点は無くても全然読めることがわかった。やっぱり。</p>
+
+<p>あと、ṣonáronázená が ṣonáronazená と読まれており、よく考えたら動詞活用に長母音4連続回避は発生しないなという内省が生えたので、その旨書いた。</p>
+
+<p>SY「ところでじゃあなんで点書いてあるんだろう」j.v「旧正書法があまりにひどすぎたのでそれの反動、という説がある」SY「なるほどね。でもひどい正書法って創作しにくいのよな」j.v「わかる。スキュリオーティエ・バートもやらんとね」</p>
+
+<p>具体的には úro vs. hor- あたりをなるべく一貫して綴るみたいなひどさがほしい。</p>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ˈæɾəm ~ əˈtʰɑːmɪk　みたいな交替を示す言語が「格変化と動詞の変化が少なくて簡単です」みたいな扱いされているのおもろいよな</p>&mdash; jekto.vatimeliju@hsjoihs@.sozysozbot. (@sosoBOTpi) <a href="https://twitter.com/sosoBOTpi/status/1273429840155168769?ref_src=twsrc%5Etfw">June 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<h2>185. スタイルシート</h2>
+<p>Arialになってくれないと ḷ とかがきれいに表示されないので、デフォルトをArialにするようにスタイルシート側で指定した。</p>
+
+<h2>186. ghau ja ghá の複数の話</h2>
+<p><a href="coin2.html#ghau_ja_gaa">coin2の29-3.</a>に載っている</p>
+<div class="box">
+	<h3>29-3. 並立語の借用規則</h3>
+	<p>パイグgau2 gua2「武器」のような、複数の形態素の並立からなる語をバートで借用するときには、ghau ja gháのように、jaで並立させることとした。当然、格変化するときにはそれぞれの文法に従うので、格変化表を書くなら次のようになる。</p>
+
+	<div class="box">
+	<p>ghau ja ghá「武器」</p>
+	<table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
+	<tr><td></td><td>主格・無格</td><td>対格</td><td>属格</td><td>具格</td><td>後置格</td></tr>
+	<tr><td>単数</td><td>ghau ja ghá</td><td>ghau ja ghádhel</td><td>ghau ja gháom<br>ghau ja gháhomá</td><td>ghau ja ghábhau</td><td>ghau ja gháḍi</td></tr>
+	<tr><td>複数</td><td>ghauzá ja gházá</td><td>ghauzá ja ghádhelá</td><td>ghauzá ja gháomá<br>ghauzá ja gháhome</td><td>ghauzá ja ghábhauná</td><td>ghauzá ja ghádhíná</td></tr>
+	</table>
+	</div>
+</div>
+
+<p>に対してskurlavenija.mavijaが非自明の意を表明していた。これに対してのjekto.vatimelijuの解答は以下の通り。</p>
+
+<ul>
+	<li>まず、ghau ja ghá「武器」という語の語源意識が失われていないのだろうな。刃物と弓矢を提示することが武器を表すための成句化した比喩になっているだけであり、あくまで刃物と弓矢を提示しているのだという。</li>
+	<li>したがって、「一本の刃物および複数の弓矢」という語形でghau ja ghá「武器」の複数を表現するのは変なのだろう。</li>
+	<li>さて、そもそもバート語は複数形の衰退が起き始めており、数詞および数詞に準ずる表現で修飾されている単数形を用いて複数形をあまり用いない話者が少なくない（あれ？これどこにも文書化されてなくね？）という話がある。そういう話者は「多くの武器」をṣot ghau ja gháで言うのか、それとも ṣot ghau ja ṣot gháなのか。いや明らかに前者でしょ。</li>
+	<li>ghauzá ja ghádhelá だけど ṣot ghau ja ṣot gháなのか。おもしろいね。</li>
+</ul>
+
+<p>せっかくなので文法書にも載せた。</p>
+
+<h2>187. 比喩的な使役</h2>
+
+<p>skurlavenija.mavijaの『バート語アリス文をしゃぶりつくす』という企画で、『<a href="https://skurlavenijamavija.github.io/lanerme_mittoi/bhaataan/bhaataan_alic.html#id4">3-1-1. ṣonáronázákátá、何?</a>』という疑問が提示された。</p>
+
+<div class="box">
+	<p>えー"ṣonáronázákátá epaḍi hína hemakátá alic"か。読むか。</p>
+	<p>一単語目、ṣonáronázákátá。-kátáって語尾あったな。辞書に曰く指示・固有過去分詞。ṣonáronáúḷで「〜(不定詞+ema, または対格)を不思議に思う」って動作動詞か。-zá-何?</p>
+	<p>へー使役化接辞。じゃあ「不思議に思わせた」。は? 「不思議の国」でしょ? 状態動詞でとって「不思議に思わせるような」にしたいが?</p>
+	
+	<p>wátimilíju ghitto: -zá-、動作動詞って制約あったっけ、ṣonáronáúḷって状態動詞だから使役化しても... え、動作動詞? じゃあ使役化したら状態動詞になるんでしょ。</p>
+	
+	<p>やったー(白目)。使役化して動作/瞬間/状態のどれになるか非自明なのか。</p>
+	
+	<p>wátimilíju ghitto: ṣonáronázá- に「不思議に思わせる」（動作動詞）と「不思議である」（状態動詞）の両方を語義として載せるべきなんだよな</p>
+	
+	<p>なるほど。比喩的な使役了解。</p>
+</div>
+
+<p>ということでこのことを辞書と文法書に載せねばならない。というか動詞接中辞のセクション作るか。</p>
+
+<p>おっと、-ni-は載せてるのに-ani-を辞書に載せていない。まずい。</p>
+
+<h2>188. 連体修飾語として働く分詞</h2>
+
+<h3>188-1. 問題提起</h3>
+<p>『<a href="https://skurlavenijamavija.github.io/lanerme_mittoi/bhaataan/bhaataan_alic.html#id7">3-1-4. 我々はalicを女の子だと思っとったが</a>』にも載せたが、このような会話をやった。</p>
+
+<div class="box">
+	<p>あれ、alicなのにhemakátá(hemúḷの<b>指示・固有</b>過去分詞)なの? hemazená alicじゃないんか。</p>
+	
+	<p>wátimilíju ghitto:
+	えーとhemúḷには指示・固有しかないとすると...矛盾が生じるから、えー「分詞が修飾する名詞がその分詞にとっての主語であるとき、分詞の前に名詞が出てこないので指示・固有になる」とすれば解決ですね。なんと反例がない。この規則、後で間違えそう。</p>
+	
+	<p>今になってアリス文から規則が生成されるのウケるな。</p>
+</div>
+
+<h3>188-2. 解決</h3>
+
+<p>翌日（2021年3月27日）桜を見に行ったところ、次のようにするのがよいと分かった。</p>
+
+<div class="box">分詞が連体修飾語として働き、かつその修飾する名詞が分詞にとって三人称の主語であるときは、主語の性に分詞を合わせることもできるし、合わせずに指示・固有で言うこともできる。ただし、例えば「サーワタイムを殺した男」という文では「Aがサーワタイムを殺した」という条件を満たすAの範囲が非常に狭い（一人の男であり、それ以外ではないので）。このような場合においては、主語の性に分詞を合わせるのが普通である。
+</div>
+
+<p>ということで、その旨文法書に記載。あと、連体修飾語として働く分詞のglossはPTCP.RELという表記にすることにした。</p>
+
+<h3>188-3. 説明不足</h3>
+
+<p>skurlavenija.mavija が上記の説明を読み、 2021/03/28 に『固有名詞、「Aの範囲が非常に狭い」に入りそうだから不自然なことには変わりなくないかと思ったが、バート語社会が「Aliceは女性名である」という直感を共有していないから説明つくのかな』と書いた。</p>
+
+<p>「誤読の可能性があるとは思っていたがまあいいや」と思っていたところが見事に誤読された形である。</p>
+
+<p>その後 skurlavenija.mavija は jekto.vatimeliju の言いたかったことを理解し、誤読を言語化することに成功した。</p>
+<div class="box">
+	「サーワタイムを殺した男」が性別を明示されがちなのは、「"サーワタイムを殺した男"が定義より男である」からではなく、「サーワタイムを殺した」存在が男であると話している人間が知っているからであり、「不思議なところにいるアリス」において性別を表示しないのは「不思議なところにいる」存在の性別が一意でないからである
+</div>
+
+<p>ということで、</p>
+
+<div class="box">
+	分詞が直後の名詞を修飾しており、<b>かつその修飾する名詞が分詞にとって三人称の主語</b>であるときは、主語の性に分詞を合わせることもできるし、合わせずに指示・固有で言うこともできる。ただし、例えば「サーワタイムを殺した男」という名詞句では「Aがサーワタイムを殺した」という条件を満たすAの範囲が非常に狭い（殺人というのは一般に一人または少数の人数で行われることが多く、さらにその名詞句を発話した人間は殺害が一人の男によってのみ行われていたことを知っているので）。このような場合においては、主語の性に分詞を合わせるのが普通である。一方で、「マカティに住んでいる男」という名詞句では、話題に出している男以外にも有象無象がマカティに存在するのであって、「Aはマカティに住んでいる」の条件を満たす存在が非常に多い。このような場合は指示・固有が普通である。
+</div>
+
+<p>ぐらいには言葉を尽くしておくことにした。</p>
+
+<h2>189. -(a)boh- が bohúḷ 由来の動詞に付くとき</h2>
+
+<p>「〜しようとしている」「〜するつもりである」を作る -(a)boh- だが、これの由来は当然 bohúḷ である。さて、この接辞自体が bohúḷ 由来の動詞に付くときは、規則通りの bohabohúḷ も許容されるが、 bomohúḷ という形もアリであろう、という結論になった。</p>
+
+<p>SY「cf: mormoku.tk」 j.v「はい、そういうことです」</p>
+
+<h3>189-1. bohúḷ 由来の動詞</h3>
+
+<p>janúḷ「生じる」と複合した jamohúḷ「なんらかがどこかから出る」とか jammohúḷ「人が物理的に外に出る」などがこのグループに入りそう。</p>
+<div class="box">
+	jamohúḷ「なんらかがどこかから出る」<br>
+	jammohúḷ「人が物理的に外に出る」<br>
+	<br>
+	jamomohúḷ「出ようとしている」<br>
+	janabohúḷ「生じようとしている」（規則的）<br>
+	<br>
+	bomohúḷ「行こうとしている」
+</div>
+
+<h2>190. 「外気に触れる」</h2>
+
+<p>skurlavenija.mavijaが「命令形は語幹末の子音が外気に触れるのでめんどくさい」という表現をした。気に入ったので採用するか。</p>
 
 <hr>
 <h3 class="do_not_create_header">to do:</h3>
 「これ」「それ」の使い分け、<br>
 bháṇíwaim<br>
-bhátnímaṣ<br>
 ü &gt; yiがiじゃなくてwiに行った方言 (fokjutがwoghitなのだから、ü &gt; yiがiに行ったという発想がある)<br>
 sを喪失しcと合流させた方言<br>
 <s>ásúka ápaom woghit ám hem.「私には兄弟姉妹がいない。」（直訳：「人は(一般に)私の兄弟姉妹ではない。」）って言えそう。</s> 人一般を指すのにásúkaは使えないと辞書に書いてある<br>
@@ -4766,7 +5001,6 @@ sを喪失しcと合流させた方言<br>
 auがáに行く方言<br>
 bháhepa [bʱaːe̞ːpa] と bhá epa [bʱaːje̞ːpa] という対立のしかたをする方言<br>
 -rúḷの命令形どうなるの？<br>
-主節に要る反実仮想を示唆する接中辞-ni-（コーパスにはある）<br>
 「こういうwátimilíju ghittoみたいなのはそれぞれの単語がピッチ句を構成します。」載せろ<br>
 文字名と「偽りのt」<br>
 <!--
