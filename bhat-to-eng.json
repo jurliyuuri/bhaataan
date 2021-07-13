@@ -2315,7 +2315,13 @@
       "text" : "*aimq"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 594,
+        "form" : "hemasáṇauṭu"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 95,
@@ -3266,7 +3272,19 @@
       "text" : "*cu^nla"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 590,
+        "form" : "páwa"
+      }
+    }, {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 591,
+        "form" : "pháwa"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 134,
@@ -6385,6 +6403,12 @@
         "id" : 379,
         "form" : "rod"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 596,
+        "form" : "rodahemasáṇauṭu"
+      }
     } ]
   }, {
     "entry" : {
@@ -7901,6 +7925,12 @@
         "id" : 148,
         "form" : "zúḷ"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 593,
+        "form" : "zausáṇauṭu"
+      }
     } ]
   }, {
     "entry" : {
@@ -9059,6 +9089,12 @@
       "entry" : {
         "id" : 383,
         "form" : "líṇaṇauṭu"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 593,
+        "form" : "zausáṇauṭu"
       }
     } ]
   }, {
@@ -10792,6 +10828,12 @@
         "id" : 460,
         "form" : "núdhabágha"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 597,
+        "form" : "núdhabhoḷog"
+      }
     } ]
   }, {
     "entry" : {
@@ -11415,15 +11457,24 @@
     },
     "translations" : [ {
       "title" : "consonant stem noun",
-      "forms" : [ "law" ]
+      "forms" : [ "law", "legal system" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "藍blohai"
+    }, {
+      "title" : "usage",
+      "text" : "In jurisprudence, bhoḷog often refers to the \"legal system,\" as distinct from each of the rules that comprise it. On the other hand, outside of jurisprudence, there is not a clear distinction and bhoḷog signifies both."
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 597,
+        "form" : "núdhabhoḷog"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 489,
@@ -12937,7 +12988,13 @@
       "text" : "本来的にはラーヴァヌーは言語名であり民族名はドゥバーギョであるが、リパライン語の影響もありḍubájonímaṣではなくgháwanúnímaṣが定着している。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 592,
+        "form" : "ḍubájonímaṣ"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 557,
@@ -13451,6 +13508,212 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 590,
+      "form" : "páwa"
+    },
+    "translations" : [ {
+      "title" : "conjunction for sentences",
+      "forms" : [ "however", "but" ]
+    } ],
+    "tags" : [ "colloquial" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌pau1 ua"
+    }, {
+      "title" : "difference between synonyms",
+      "text" : "\"páwa\" is used more frequently than \"pháwa\". \"ṣiṇṇa\" is more formal, while \"páwa\" and \"pháwa\" are quite colloquial."
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 591,
+        "form" : "pháwa"
+      }
+    }, {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 133,
+        "form" : "ṣiṇṇa"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 591,
+      "form" : "pháwa"
+    },
+    "translations" : [ {
+      "title" : "conjunction for sentences",
+      "forms" : [ "however", "but" ]
+    } ],
+    "tags" : [ "colloquial" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌pau1 ua"
+    }, {
+      "title" : "difference between synonyms",
+      "text" : "\"páwa\" is used more frequently than \"pháwa\". \"ṣiṇṇa\" is more formal, while \"páwa\" and \"pháwa\" are quite colloquial."
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 590,
+        "form" : "páwa"
+      }
+    }, {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 133,
+        "form" : "ṣiṇṇa"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 592,
+      "form" : "ḍubájonímaṣ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "ドゥバーギョ民族" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ɖʊbɑːɟo̞ + 伐nímaṣ"
+    }, {
+      "title" : "difference between synonyms",
+      "text" : "The term \"gháwanúnímaṣ\" is much more commonly used than \"ḍubájonímaṣ\""
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 556,
+        "form" : "gháwanúnímaṣ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 593,
+      "form" : "zausáṇauṭu"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "dynamic verb" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 326,
+        "form" : "zau-"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 381,
+        "form" : "-ṇauṭu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 594,
+      "form" : "hemasáṇauṭu"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "stative verb" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 94,
+        "form" : "hemúḷ"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 596,
+        "form" : "rodahemasáṇauṭu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 595,
+      "form" : "ghauṣ"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "noun" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理kaft"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 596,
+      "form" : "rodahemasáṇauṭu"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "instantaneous verb" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "calque of 理narlen ftona \"(temporally) short verb\""
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 265,
+        "form" : "rodúḷ"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 594,
+        "form" : "hemasáṇauṭu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 597,
+      "form" : "núdhabhoḷog"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "rule of a game", "ruleset of a game" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 456,
+        "form" : "núdha"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 488,
+        "form" : "bhoḷog"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
