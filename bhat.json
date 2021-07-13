@@ -13678,6 +13678,25 @@
         "form" : "bhoḷog"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 598,
+      "form" : "rohúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "平らである" ]
+    }, {
+      "title" : "状態動詞",
+      "forms" : [ "（海などが）穏やかである" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍lihuo"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

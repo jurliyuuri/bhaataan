@@ -13714,6 +13714,25 @@
         "form" : "bhoḷog"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 598,
+      "form" : "rohúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to be flat" ]
+    }, {
+      "title" : "stative verb",
+      "forms" : [ "for [nominative] (ocean etc.) to be calm" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍lihuo"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
