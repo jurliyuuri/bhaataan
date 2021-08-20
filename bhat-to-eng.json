@@ -5182,6 +5182,12 @@
         "id" : 290,
         "form" : "ghánaúḷ"
       }
+    }, {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 599,
+        "form" : "ṣárahúḷ"
+      }
     } ]
   }, {
     "entry" : {
@@ -13733,6 +13739,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 599,
+      "form" : "ṣárahúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to be summer" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌xo1, 藍xeh^eu"
+    }, {
+      "title" : "difference between synonyms",
+      "text" : "ghánúḷ simply signifies that the temperature is hot."
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 214,
+        "form" : "ghánúḷ"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

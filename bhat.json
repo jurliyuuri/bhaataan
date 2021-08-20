@@ -5176,6 +5176,12 @@
         "id" : 290,
         "form" : "ghánaúḷ"
       }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 599,
+        "form" : "ṣárahúḷ"
+      }
     } ]
   }, {
     "entry" : {
@@ -13697,6 +13703,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 599,
+      "form" : "ṣárahúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "夏である" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌xo1, 藍xeh^eu"
+    }, {
+      "title" : "類義語の使い分け",
+      "text" : "ghánúḷ「熱い、暑い」は温度だけを表す表現。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 214,
+        "form" : "ghánúḷ"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
