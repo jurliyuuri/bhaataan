@@ -13793,6 +13793,44 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 602,
+      "form" : "catíg"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "an insect that sting (such as mosquitoes or flies)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 603,
+        "form" : "cátaghi"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 603,
+      "form" : "cátaghi"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "an insect that sting (such as mosquitoes or flies)" ]
+    } ],
+    "tags" : [ "colloquial" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 602,
+        "form" : "catíg"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

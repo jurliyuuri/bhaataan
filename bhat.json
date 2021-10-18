@@ -13757,6 +13757,44 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 602,
+      "form" : "catíg"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "蚊や虻など刺したりしてくる虫全般" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 603,
+        "form" : "cátaghi"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 603,
+      "form" : "cátaghi"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "蚊や虻など刺したりしてくる虫全般" ]
+    } ],
+    "tags" : [ "口語的" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 602,
+        "form" : "catíg"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
