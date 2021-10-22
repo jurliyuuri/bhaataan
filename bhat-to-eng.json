@@ -9163,7 +9163,7 @@
     },
     "translations" : [ {
       "title" : "right-connecting form",
-      "forms" : [ "ラネーメ・燐帝字母などを表す右接被覆形" ]
+      "forms" : [ "A bound morpheme used to denote \"Lanermic\"" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -13831,6 +13831,22 @@
         "form" : "catíg"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 604,
+      "form" : "xalli-"
+    },
+    "translations" : [ {
+      "title" : "right-connecting form",
+      "forms" : [ "A bound morpheme meaning \"pseudo-\"" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理xale, ヴェフィスchallais"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -13795,6 +13795,22 @@
         "form" : "catíg"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 604,
+      "form" : "xalli-"
+    },
+    "translations" : [ {
+      "title" : "右接被覆形",
+      "forms" : [ "「～もどき」「擬～」「～に似て非なるもの」などを表す右接被覆形" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理xale, ヴェフィスchallais"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
