@@ -747,6 +747,12 @@
         "id" : 322,
         "form" : "wátán zepha"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 607,
+        "form" : "oṣán"
+      }
     } ]
   }, {
     "entry" : {
@@ -1681,6 +1687,9 @@
     "translations" : [ {
       "title" : "postposition",
       "forms" : [ "through", "with (in the sense of \"in the company of\")" ]
+    }, {
+      "title" : "pseudo-genitive postposition",
+      "forms" : [ "through", "with (in the sense of \"in the company of\")", "with (in the sense of \"by means of\")" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1692,6 +1701,9 @@
     }, {
       "title" : "difference between synonyms",
       "text" : "There isn't difference between bhán and cájau when denoting \"with\" (in the sense of \"in the company of\"), though cájau tends to be preferred. \"through\" can only be expressed with bhán."
+    }, {
+      "title" : "usage",
+      "text" : "This word is used for the pseudo-genitive for bhán, cájau and the instrumental case."
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -2117,10 +2129,16 @@
     },
     "translations" : [ {
       "title" : "postposition",
-      "forms" : [ "(rare)～のような", "～ように" ]
+      "forms" : [ "（稀）～ように" ]
     }, {
       "title" : "postposition",
-      "forms" : [ "(after an infinitive or koḍi) 〜を", "〜について", "(文末で用いて)～なんて" ]
+      "forms" : [ "（不定詞またはkoḍiを受けて）〜を", "〜について", "(文末で用いて)～なんて" ]
+    }, {
+      "title" : "pseudo-genitive postposition",
+      "forms" : [ "（稀）～のような" ]
+    }, {
+      "title" : "pseudo-genitive postposition",
+      "forms" : [ "（不定詞またはkoḍiを受けて）〜についての" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3743,7 +3761,13 @@
       "text" : "*wosle"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 607,
+        "form" : "oṣán"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 152,
@@ -5181,6 +5205,12 @@
       "entry" : {
         "id" : 290,
         "form" : "ghánaúḷ"
+      }
+    }, {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 599,
+        "form" : "ṣárahúḷ"
       }
     } ]
   }, {
@@ -9157,7 +9187,7 @@
     },
     "translations" : [ {
       "title" : "right-connecting form",
-      "forms" : [ "ラネーメ・燐帝字母などを表す右接被覆形" ]
+      "forms" : [ "A bound morpheme used to denote \"Lanermic\"" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -13576,12 +13606,12 @@
       "form" : "ḍubájonímaṣ"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
+      "title" : "consonant stem noun",
       "forms" : [ "ドゥバーギョ民族" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "cognate(s)",
       "text" : "ɖʊbɑːɟo̞ + 伐nímaṣ"
     }, {
       "title" : "difference between synonyms",
@@ -13714,6 +13744,365 @@
         "form" : "bhoḷog"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 598,
+      "form" : "rohúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to be flat" ]
+    }, {
+      "title" : "stative verb",
+      "forms" : [ "for [nominative] (ocean etc.) to be calm" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍lihuo"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 599,
+      "form" : "ṣárahúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to be summer" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌xo1, 藍xeh^eu"
+    }, {
+      "title" : "difference between synonyms",
+      "text" : "ghánúḷ simply signifies that the temperature is hot."
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 214,
+        "form" : "ghánúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 600,
+      "form" : "bátujúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to fly" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍mutua"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 601,
+      "form" : "bohamátujúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to fly away", "to fly and go" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 602,
+      "form" : "catíg"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "an insect that sting (such as mosquitoes or flies)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 603,
+        "form" : "cátaghi"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 603,
+      "form" : "cátaghi"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "an insect that sting (such as mosquitoes or flies)" ]
+    } ],
+    "tags" : [ "colloquial" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 602,
+        "form" : "catíg"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 604,
+      "form" : "xalli-"
+    },
+    "translations" : [ {
+      "title" : "right-connecting form",
+      "forms" : [ "A bound morpheme meaning \"pseudo-\"" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理xale, ヴェフィスchallais"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 605,
+      "form" : "ján"
+    },
+    "translations" : [ {
+      "title" : "pseudo-genitive postposition",
+      "forms" : [ "toward", "for", "to" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "ghi + -án"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 606,
+        "form" : "ghidín"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 606,
+      "form" : "ghidín"
+    },
+    "translations" : [ {
+      "title" : "pseudo-genitive postposition",
+      "forms" : [ "toward", "for", "to" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "ghi + dákín-"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 605,
+        "form" : "ján"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 607,
+      "form" : "oṣán"
+    },
+    "translations" : [ {
+      "title" : "pseudo-genitive postposition",
+      "forms" : [ "from" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 151,
+        "form" : "oṣa"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 35,
+        "form" : "-án"
+      }
+    }, {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 608,
+        "form" : "osakán"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 608,
+      "form" : "osakán"
+    },
+    "translations" : [ {
+      "title" : "pseudo-genitive postposition",
+      "forms" : [ "from" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "oṣa + (sak) + -án"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 607,
+        "form" : "oṣán"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 609,
+      "form" : "-dhen"
+    },
+    "translations" : [ {
+      "title" : "vowel stem suffix",
+      "forms" : [ "pseudo-genitive form of vowel stem singular accusative" ]
+    } ],
+    "tags" : [ "translationese" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "singular / plural",
+      "entry" : {
+        "id" : 610,
+        "form" : "-dhelán"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 611,
+        "form" : "-elen"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 610,
+      "form" : "-dhelán"
+    },
+    "translations" : [ {
+      "title" : "vowel stem suffix",
+      "forms" : [ "pseudo-genitive form of vowel stem plural accusative" ]
+    } ],
+    "tags" : [ "translationese" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "singular / plural",
+      "entry" : {
+        "id" : 609,
+        "form" : "-dhen"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 612,
+        "form" : "-elenán"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 611,
+      "form" : "-elen"
+    },
+    "translations" : [ {
+      "title" : "consonant stem suffix",
+      "forms" : [ "pseudo-genitive form of consonant stem singular accusative" ]
+    } ],
+    "tags" : [ "translationese" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "singular / plural",
+      "entry" : {
+        "id" : 612,
+        "form" : "-elenán"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 609,
+        "form" : "-dhen"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 612,
+      "form" : "-elenán"
+    },
+    "translations" : [ {
+      "title" : "consonant stem suffix",
+      "forms" : [ "pseudo-genitive form of consonant stem plural accusative" ]
+    } ],
+    "tags" : [ "translationese" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "singular / plural",
+      "entry" : {
+        "id" : 611,
+        "form" : "-elen"
+      }
+    }, {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 610,
+        "form" : "-dhelán"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 613,
+      "form" : "hínázáwán"
+    },
+    "translations" : [ {
+      "title" : "pseudo-genitive postposition",
+      "forms" : [ "at/in/on (time/place)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "hína + zau + -án"
+    }, {
+      "title" : "pronunciation",
+      "text" : "xiːnətʃaːʋaːn"
+    }, {
+      "title" : "usage",
+      "text" : "Used instead of hína hemakátá \"to be in\" when the noun that follows is an action. Note that, since there are four consecutive long vowel, the antepenultimate gets shortened without a dhez."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 614,
+      "form" : "áṣán"
+    },
+    "translations" : [ {
+      "title" : "pseudo-genitive postposition",
+      "forms" : [ "due to", "because of", "owing to" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -747,6 +747,12 @@
         "id" : 322,
         "form" : "wátán zepha"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 607,
+        "form" : "oṣán"
+      }
     } ]
   }, {
     "entry" : {
@@ -1681,6 +1687,9 @@
     "translations" : [ {
       "title" : "後置詞",
       "forms" : [ "～を通って", "～と共に" ]
+    }, {
+      "title" : "擬属格後置詞",
+      "forms" : [ "～を通っての", "～を伴った", "～を使った", "～での" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1692,6 +1701,9 @@
     }, {
       "title" : "類義語の使い分け",
       "text" : "「～と共に」という意味においては特にbhánとcájauで使い分けは無いが、cájauが用いられることのほうが多い。「〜を通って」はbhánでのみ表すことができる。"
+    }, {
+      "title" : "用法",
+      "text" : "bhán, cájau および具格は、擬属格後置詞としてすべてこの語を用いる。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -2114,10 +2126,16 @@
     },
     "translations" : [ {
       "title" : "後置詞",
-      "forms" : [ "（稀）～のような", "～ように" ]
+      "forms" : [ "（稀）～ように" ]
     }, {
       "title" : "後置詞",
       "forms" : [ "（不定詞またはkoḍiを受けて）〜を", "〜について", "(文末で用いて)～なんて" ]
+    }, {
+      "title" : "擬属格後置詞",
+      "forms" : [ "（稀）～のような" ]
+    }, {
+      "title" : "擬属格後置詞",
+      "forms" : [ "（不定詞またはkoḍiを受けて）〜についての" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3743,7 +3761,13 @@
       "text" : "*wosle"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 607,
+        "form" : "oṣán"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 152,
@@ -5175,6 +5199,12 @@
       "entry" : {
         "id" : 290,
         "form" : "ghánaúḷ"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 599,
+        "form" : "ṣárahúḷ"
       }
     } ]
   }, {
@@ -13678,6 +13708,365 @@
         "form" : "bhoḷog"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 598,
+      "form" : "rohúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "平らである" ]
+    }, {
+      "title" : "状態動詞",
+      "forms" : [ "（海などが）穏やかである" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍lihuo"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 599,
+      "form" : "ṣárahúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "夏である" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌xo1, 藍xeh^eu"
+    }, {
+      "title" : "類義語の使い分け",
+      "text" : "ghánúḷ「熱い、暑い」は温度だけを表す表現。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 214,
+        "form" : "ghánúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 600,
+      "form" : "bátujúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "飛ぶ", "飛行する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍mutua"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 601,
+      "form" : "bohamátujúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "飛んでいく", "飛び去る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 602,
+      "form" : "catíg"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "蚊や虻など刺したりしてくる虫全般" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 603,
+        "form" : "cátaghi"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 603,
+      "form" : "cátaghi"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "蚊や虻など刺したりしてくる虫全般" ]
+    } ],
+    "tags" : [ "口語的" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 602,
+        "form" : "catíg"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 604,
+      "form" : "xalli-"
+    },
+    "translations" : [ {
+      "title" : "右接被覆形",
+      "forms" : [ "「～もどき」「擬～」「～に似て非なるもの」などを表す右接被覆形" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理xale, ヴェフィスchallais"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 605,
+      "form" : "ján"
+    },
+    "translations" : [ {
+      "title" : "擬属格後置詞",
+      "forms" : [ "～への" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ghi + -án"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 606,
+        "form" : "ghidín"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 606,
+      "form" : "ghidín"
+    },
+    "translations" : [ {
+      "title" : "擬属格後置詞",
+      "forms" : [ "～への" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ghi + dákín"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 605,
+        "form" : "ján"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 607,
+      "form" : "oṣán"
+    },
+    "translations" : [ {
+      "title" : "擬属格後置詞",
+      "forms" : [ "～からの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 151,
+        "form" : "oṣa"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 35,
+        "form" : "-án"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 608,
+        "form" : "osakán"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 608,
+      "form" : "osakán"
+    },
+    "translations" : [ {
+      "title" : "擬属格後置詞",
+      "forms" : [ "～からの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "oṣa + (sak) + -án"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 607,
+        "form" : "oṣán"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 609,
+      "form" : "-dhen"
+    },
+    "translations" : [ {
+      "title" : "母音幹接尾辞",
+      "forms" : [ "母音幹単数対格の擬属格形" ]
+    } ],
+    "tags" : [ "翻訳調" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "単複",
+      "entry" : {
+        "id" : 610,
+        "form" : "-dhelán"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 611,
+        "form" : "-elen"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 610,
+      "form" : "-dhelán"
+    },
+    "translations" : [ {
+      "title" : "母音幹接尾辞",
+      "forms" : [ "母音幹複数対格の擬属格形" ]
+    } ],
+    "tags" : [ "翻訳調" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "単複",
+      "entry" : {
+        "id" : 609,
+        "form" : "-dhen"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 612,
+        "form" : "-elenán"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 611,
+      "form" : "-elen"
+    },
+    "translations" : [ {
+      "title" : "子音幹接尾辞",
+      "forms" : [ "子音幹単数対格の擬属格形" ]
+    } ],
+    "tags" : [ "翻訳調" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "単複",
+      "entry" : {
+        "id" : 612,
+        "form" : "-elenán"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 609,
+        "form" : "-dhen"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 612,
+      "form" : "-elenán"
+    },
+    "translations" : [ {
+      "title" : "子音幹接尾辞",
+      "forms" : [ "子音幹複数対格の擬属格形" ]
+    } ],
+    "tags" : [ "翻訳調" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "単複",
+      "entry" : {
+        "id" : 611,
+        "form" : "-elen"
+      }
+    }, {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 610,
+        "form" : "-dhelán"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 613,
+      "form" : "hínázáwán"
+    },
+    "translations" : [ {
+      "title" : "擬属格後置詞",
+      "forms" : [ "～で起きた" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "hína + zau + -án"
+    }, {
+      "title" : "発音",
+      "text" : "xiːnətʃaːʋaːn"
+    }, {
+      "title" : "用法",
+      "text" : "直後に掛かる名詞に動作性があるときは、hína hemakátá 「～にある～」ではなくてこちらの形を用いる。4連続長母音短音則が常に適用されることに注意。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 614,
+      "form" : "áṣán"
+    },
+    "translations" : [ {
+      "title" : "擬属格後置詞",
+      "forms" : [ "～を原因としての" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
