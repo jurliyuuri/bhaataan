@@ -12777,7 +12777,13 @@
     "tags" : [ "grammatical term" ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 617,
+        "form" : "xallánom"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 544,
@@ -14160,6 +14166,37 @@
       "entry" : {
         "id" : 604,
         "form" : "xalli-"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 617,
+        "form" : "xallánom"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 617,
+      "form" : "xallánom"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "pseudo-genitive" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 616,
+        "form" : "xall-"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 543,
+        "form" : "ánom"
       }
     } ]
   } ],

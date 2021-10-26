@@ -12741,7 +12741,13 @@
     "tags" : [ "文法用語" ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 617,
+        "form" : "xallánom"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 544,
@@ -14124,6 +14130,37 @@
       "entry" : {
         "id" : 604,
         "form" : "xalli-"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 617,
+        "form" : "xallánom"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 617,
+      "form" : "xallánom"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "擬属格" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 616,
+        "form" : "xall-"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 543,
+        "form" : "ánom"
       }
     } ]
   } ],
