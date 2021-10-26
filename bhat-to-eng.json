@@ -13876,7 +13876,13 @@
       "text" : "理xale, ヴェフィスchallais"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 616,
+        "form" : "xall-"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 605,
@@ -14132,6 +14138,28 @@
       "entry" : {
         "id" : 97,
         "form" : "horabát"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 616,
+      "form" : "xall-"
+    },
+    "translations" : [ {
+      "title" : "right-connecting form",
+      "forms" : [ "A bound morpheme meaning \"pseudo-\"" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理xale, ヴェフィスchallais"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 604,
+        "form" : "xalli-"
       }
     } ]
   } ],
