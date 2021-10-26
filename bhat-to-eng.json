@@ -2429,6 +2429,12 @@
         "id" : 98,
         "form" : "horúḷ"
       }
+    }, {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 615,
+        "form" : "epa_híja"
+      }
     } ]
   }, {
     "entry" : {
@@ -14103,6 +14109,31 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 615,
+      "form" : "epa_híja"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "culture" ]
+    } ],
+    "tags" : [ "translationese" ],
+    "contents" : [ {
+      "title" : "difference between synonyms",
+      "text" : "Since horabát is derived from the word hor- \"to write down,\" some people use horabát only for cultures that have been handed down in written form, and epa_híja for others. However, it is common to use horabát regardless of whether it is written down or not, and using the word \"epa_híja\" gives the impression of a translated document."
+    }, {
+      "title" : "cognate(s)",
+      "text" : "牌huep2 hia1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 97,
+        "form" : "horabát"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

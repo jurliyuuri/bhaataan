@@ -2426,6 +2426,12 @@
         "id" : 98,
         "form" : "horúḷ"
       }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 615,
+        "form" : "epa_híja"
+      }
     } ]
   }, {
     "entry" : {
@@ -14067,6 +14073,31 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 615,
+      "form" : "epa_híja"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "文化" ]
+    } ],
+    "tags" : [ "翻訳調" ],
+    "contents" : [ {
+      "title" : "類義語の使い分け",
+      "text" : "horabát は語源としてhor-「書き記す」を含むため、書き記されて伝えられてきた文化のみに horabát を用い、それ以外は epa_híja で表現するという流儀もある。ただし、一般的には書き記されたものであるか否かに関わらず horabát という表現を用いるのが普通であり、epa_híja は翻訳調的な印象を与える。"
+    }, {
+      "title" : "同根語",
+      "text" : "牌huep2 hia1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 97,
+        "form" : "horabát"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
