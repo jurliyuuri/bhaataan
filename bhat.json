@@ -14192,6 +14192,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 620,
+      "form" : "rekasúk"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "泥人形" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "requa.ar + asuka.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

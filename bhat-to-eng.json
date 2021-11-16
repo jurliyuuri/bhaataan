@@ -14228,6 +14228,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 620,
+      "form" : "rekasúk"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "mud doll" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "requa.ar + asuka.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
