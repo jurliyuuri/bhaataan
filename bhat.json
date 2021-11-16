@@ -14163,6 +14163,35 @@
         "form" : "ánom"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 618,
+      "form" : "rek"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "土" ]
+    } ],
+    "tags" : [ "早期借用" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "requa.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 619,
+      "form" : "kázalek"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "泥" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

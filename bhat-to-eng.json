@@ -14199,6 +14199,35 @@
         "form" : "ánom"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 618,
+      "form" : "rek"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "dirt", "soil" ]
+    } ],
+    "tags" : [ "early borrowing" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "requa.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 619,
+      "form" : "kázalek"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "mud" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
