@@ -13175,6 +13175,9 @@
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "藍nuta"
+    }, {
+      "title" : "usage",
+      "text" : "must be followed by a noun"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -13191,6 +13194,9 @@
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "cu + -om"
+    }, {
+      "title" : "usage",
+      "text" : "must be followed by a noun"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -13204,7 +13210,10 @@
       "forms" : [ "of when?" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "must be followed by a noun"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -14241,6 +14250,25 @@
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "requa.ar + asuka.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 621,
+      "form" : "ṭác"
+    },
+    "translations" : [ {
+      "title" : "adjective",
+      "forms" : [ "honorable", "respectable", "venerable" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍toca"
+    }, {
+      "title" : "usage",
+      "text" : "must be followed by a noun"
     } ],
     "variations" : [ ],
     "relations" : [ ]

@@ -13139,6 +13139,9 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "藍nuta"
+    }, {
+      "title" : "用法",
+      "text" : "直後に名詞を要求する。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -13155,6 +13158,9 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "cu + -om"
+    }, {
+      "title" : "用法",
+      "text" : "直後に名詞を要求する。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -13168,7 +13174,10 @@
       "forms" : [ "いつの" ]
     } ],
     "tags" : [ ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "直後に名詞を要求する。"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -14205,6 +14214,25 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "requa.ar + asuka.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 621,
+      "form" : "ṭác"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "尊敬すべき" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍toca"
+    }, {
+      "title" : "用法",
+      "text" : "直後に名詞を要求する。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
