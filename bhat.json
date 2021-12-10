@@ -14236,6 +14236,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 622,
+      "form" : "gápaden"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "フォント", "グリフ", "レタリングされたもの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理garfadent"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

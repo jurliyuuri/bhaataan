@@ -14272,6 +14272,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 622,
+      "form" : "gápaden"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "font", "glyph", "artistically written alphabets", "decorative lettering" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理garfadent"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
