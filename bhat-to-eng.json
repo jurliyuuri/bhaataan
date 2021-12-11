@@ -14288,6 +14288,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 623,
+      "form" : "toyat"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "トイター教徒" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
