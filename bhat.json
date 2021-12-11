@@ -14252,6 +14252,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 623,
+      "form" : "toyat"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "トイター教徒" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
