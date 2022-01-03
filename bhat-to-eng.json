@@ -14301,6 +14301,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 624,
+      "form" : "phe"
+    },
+    "translations" : [ {
+      "title" : "interjection",
+      "forms" : [ "\"What?\"", "\"That's never gonna happen\"" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "Expresses a clear denial, contempt, disrespect, or disparagement of the previous statement made by the other person. It is usually read in a descending tone, but can be read in an ascending tone to make it a little less rude."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

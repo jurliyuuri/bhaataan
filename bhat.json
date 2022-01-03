@@ -14265,6 +14265,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 624,
+      "form" : "phe"
+    },
+    "translations" : [ {
+      "title" : "間投詞",
+      "forms" : [ "はぁ？", "それはないだろう" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "相手の直前の発言に対して、明確に否定したり、侮蔑したり、低く見たり、けなしたりする気持ちを表す。下降調で読むのが普通だが、上昇調で読むと少し失礼さが減る。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
