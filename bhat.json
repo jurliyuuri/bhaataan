@@ -14406,7 +14406,23 @@
     },
     "translations" : [ {
       "title" : "母音幹名詞",
-      "forms" : [ "ヌママ" ]
+      "forms" : [ "（都市名）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "アイル共和国タウポ郡にある都市。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 633,
+      "form" : "kítaitúwa"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "（都市名）" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
