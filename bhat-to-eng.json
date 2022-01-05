@@ -14381,6 +14381,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 629,
+      "form" : "bammic"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "banmis" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理banmis"
+    }, {
+      "title" : "culture",
+      "text" : "The religiously significant sentence in Linepāine \"ban missen tonir l'es birleen alefis io\" which means \"Pertaining to our God of grace, Alefis\", written at the beginning of a chapter in the Epic of Skyliorti'e."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

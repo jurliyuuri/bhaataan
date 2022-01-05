@@ -14345,6 +14345,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 629,
+      "form" : "bammic"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "バンミス" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理banmis"
+    }, {
+      "title" : "文化",
+      "text" : "スキュリオーティエ叙事詩における章の冒頭に書かれる「我々の神、恵みのアレフィスにおいて」(ban missen tonir l'es birleen alefis io)という、宗教的に重要なリパライン語文。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
