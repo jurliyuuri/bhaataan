@@ -14435,6 +14435,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 632,
+      "form" : "númama"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "Numama" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "culture",
+      "text" : "A city in the Ai'ren Republic, located in Taupo Province"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
