@@ -14383,6 +14383,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 631,
+      "form" : "ríon"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "対策" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理riron"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -14419,6 +14419,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 631,
+      "form" : "ríon"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "countermeasure" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理riron"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
