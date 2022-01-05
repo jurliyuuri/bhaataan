@@ -14364,6 +14364,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 630,
+      "form" : "zápiopec"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "共和国", "共和制国家" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理chafi'ofes"
+    }, {
+      "title" : "用法",
+      "text" : "君主の権力が著しく制限されているような立憲君主なども含む。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -14400,6 +14400,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 630,
+      "form" : "zápiopec"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "republic", "country adoptic a republican government" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理chafi'ofes"
+    }, {
+      "title" : "usage",
+      "text" : "Can include a country with a constitutional monarchy if the power of the monarch is severly limited."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
