@@ -14281,6 +14281,70 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 625,
+      "form" : "ápaum"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "一人称単数属格縮約形" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "ápaomの縮約。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 626,
+      "form" : "ámaum"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "二人称単数属格縮約形" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "ámaomの縮約。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 627,
+      "form" : "bhámaum"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "私たちの(包括)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "bhámaomの縮約。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 628,
+      "form" : "bhaum"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "私たちの(除外)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "bháomの縮約。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

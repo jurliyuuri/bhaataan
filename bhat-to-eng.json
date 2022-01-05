@@ -14317,6 +14317,70 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 625,
+      "form" : "ápaum"
+    },
+    "translations" : [ {
+      "title" : "adjective",
+      "forms" : [ "first-person singular genitive (contracted)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "contraction of \"ápaom\""
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 626,
+      "form" : "ámaum"
+    },
+    "translations" : [ {
+      "title" : "adjective",
+      "forms" : [ "second-person singular genitive (contracted)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "contraction of \"ámaom\""
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 627,
+      "form" : "bhámaum"
+    },
+    "translations" : [ {
+      "title" : "adjective",
+      "forms" : [ "our (inclusive)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "contraction of \"bhámaom\""
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 628,
+      "form" : "bhaum"
+    },
+    "translations" : [ {
+      "title" : "adjective",
+      "forms" : [ "our (exclusive)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "contraction of \"bháom\""
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
