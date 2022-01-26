@@ -14467,6 +14467,48 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 634,
+      "form" : "bhattá"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "taste felt by the tongue" ]
+    } ],
+    "tags" : [ "always plural declension" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 635,
+      "form" : "bhattááḷ"
+    },
+    "translations" : [ {
+      "title" : "instantaneous verb",
+      "forms" : [ "for [nominative] to taste" ]
+    }, {
+      "title" : "stative verb",
+      "forms" : [ "for [nominative] to be feeling a taste" ]
+    } ],
+    "tags" : [ "passive only" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 636,
+      "form" : "bhodibhattá"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "taste of the sea (collectively refers to both fish-based seasonings and salt)" ]
+    } ],
+    "tags" : [ "always plural declension" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

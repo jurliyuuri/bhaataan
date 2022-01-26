@@ -14431,6 +14431,48 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 634,
+      "form" : "bhattá"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "味" ]
+    } ],
+    "tags" : [ "必ず複数曲用" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 635,
+      "form" : "bhattááḷ"
+    },
+    "translations" : [ {
+      "title" : "瞬間動詞",
+      "forms" : [ "～(主格)は味を感じる" ]
+    }, {
+      "title" : "状態動詞",
+      "forms" : [ "～(主格)は味を感じている" ]
+    } ],
+    "tags" : [ "受動専用" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 636,
+      "form" : "bhodibhattá"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "海の味（魚系統の調味料と塩をまとめて指す）" ]
+    } ],
+    "tags" : [ "必ず複数曲用" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
