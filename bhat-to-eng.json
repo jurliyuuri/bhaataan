@@ -14509,6 +14509,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 637,
+      "form" : "dáp"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "lip" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌tau2,藍taupwo"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

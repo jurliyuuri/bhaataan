@@ -14473,6 +14473,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 637,
+      "form" : "dáp"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "唇" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌tau2,藍taupwo"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
