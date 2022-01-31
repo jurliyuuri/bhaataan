@@ -14525,6 +14525,38 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 638,
+      "form" : "phaicnixate"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "noodle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理faisnyxte"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 639,
+      "form" : "phecúphaicnixate"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "phecú noodle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "A version of the so-called bhátán mushroom soup (see \"phecú\") with noodles added instead of rice."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

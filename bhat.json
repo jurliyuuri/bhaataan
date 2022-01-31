@@ -14489,6 +14489,38 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 638,
+      "form" : "phaicnixate"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "麺" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理faisnyxte"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 639,
+      "form" : "phecúphaicnixate"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "ペースー麺" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "いわゆるバート風茸汁 (phecú を参照) に対して、米の代わりに麺を加えたもの。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
