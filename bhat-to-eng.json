@@ -14506,7 +14506,10 @@
       "forms" : [ "taste of the sea (collectively refers to both fish-based seasonings and salt)" ]
     } ],
     "tags" : [ "always plural declension" ],
-    "contents" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "The meaning of \"bhodibhattá\" is often explained as \"fish seasoning or salt\", but this is a remnant of the fact that many bhátán people lived in the inland areas in the days when refrigeration and transportation technologies were lacking. In modern times, the word is also often used to describe the flavor of seafood."
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
