@@ -14656,6 +14656,44 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 649,
+      "form" : "zu bohúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(ghi)へ帰る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "話し手の現在位置から離れて、どこかへと帰るときに使う。"
+    }, {
+      "title" : "同根語",
+      "text" : "牌ty mok1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 650,
+      "form" : "zu cákíkúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(oṣa)から帰ってくる" ]
+    }, {
+      "title" : "動作動詞",
+      "forms" : [ "〜(hína)を再訪する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌ty sak2"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

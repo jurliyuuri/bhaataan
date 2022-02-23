@@ -14692,6 +14692,44 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 649,
+      "form" : "zu bohúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to go back to [ghi]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "This phrase is used to describe leaving the speaker's current position and returning to somewhere else."
+    }, {
+      "title" : "cognate(s)",
+      "text" : "牌ty mok1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 650,
+      "form" : "zu cákíkúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to come back from [oṣa]" ]
+    }, {
+      "title" : "dynamic verb",
+      "forms" : [ "to revisit [hína]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌ty sak2"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
