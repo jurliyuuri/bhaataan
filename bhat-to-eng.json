@@ -14579,6 +14579,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 641,
+      "form" : "kaṭádha"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "ship" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

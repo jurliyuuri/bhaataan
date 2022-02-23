@@ -14543,6 +14543,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 641,
+      "form" : "kaṭádha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "船" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
