@@ -14579,6 +14579,157 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 641,
+      "form" : "kaṭádha"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "ship" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 642,
+      "form" : "bhodakí"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "sailor" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 643,
+      "form" : "ṣá"
+    },
+    "translations" : [ {
+      "title" : "gh-stem noun",
+      "forms" : [ "the place over/above [instrumental]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "to say \"somewhere above A\", you use A's instrumental case followed by ṣá.\nkaṭádhabhau ṣaghi hína kí hemabáta hem. \"There was a man above a ship.\""
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 644,
+      "form" : "naunephaúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to fall suddenly", "to fall deliberately", "to throw oneself from somewhere in order to commit suicide", "to jump off from somewhere to commit suicide" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 645,
+      "form" : "aḍuhaidúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to peek [ghi]", "to look over [ghi]", "to investigate [ghi]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 646,
+      "form" : "síbhadhoḷop"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "hometown island", "one's native island" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "pronunciation",
+      "text" : "ziːbʱadɔːɭɔːp"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 647,
+      "form" : "bohacajúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to approach [ghi]", "to go near [ghi]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 648,
+      "form" : "korajúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to be like this", "to be in this way", "to be in this sort of situation" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "kom- + cajúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 649,
+      "form" : "zu bohúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to go back to [ghi]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "This phrase is used to describe leaving the speaker's current position and returning to somewhere else."
+    }, {
+      "title" : "cognate(s)",
+      "text" : "牌ty mok1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 650,
+      "form" : "zu cákíkúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to come back from [oṣa]" ]
+    }, {
+      "title" : "dynamic verb",
+      "forms" : [ "to revisit [hína]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌ty sak2"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

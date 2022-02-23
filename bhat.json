@@ -14543,6 +14543,157 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 641,
+      "form" : "kaṭádha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "船" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 642,
+      "form" : "bhodakí"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "船乗り" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 643,
+      "form" : "ṣá"
+    },
+    "translations" : [ {
+      "title" : "gh幹名詞",
+      "forms" : [ "上" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "「Aの上」などを表すときには、Aを具格にする。（いわゆる基準具格）\nkaṭádhabhau ṣaghi hína kí hemabáta hem.「船の上に男がいた。」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 644,
+      "form" : "naunephaúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "勢いよく落ちる", "意図的に落ちる", "身を投げる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 645,
+      "form" : "aḍuhaidúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "～(ghi)を覗く", "～(ghi)に目を通す", "～(ghi)を調査する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 646,
+      "form" : "síbhadhoḷop"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "故郷の島" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "ziːbʱadɔːɭɔːp"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 647,
+      "form" : "bohacajúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "～(ghi)へ近づく", "～(ghi)の近くに向かう" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 648,
+      "form" : "korajúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "このようである" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "kom- + cajúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 649,
+      "form" : "zu bohúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(ghi)へ帰る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "話し手の現在位置から離れて、どこかへと帰るときに使う。"
+    }, {
+      "title" : "同根語",
+      "text" : "牌ty mok1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 650,
+      "form" : "zu cákíkúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(oṣa)から帰ってくる" ]
+    }, {
+      "title" : "動作動詞",
+      "forms" : [ "〜(hína)を再訪する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌ty sak2"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
