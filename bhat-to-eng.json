@@ -14592,6 +14592,48 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 642,
+      "form" : "bhodakí"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "sailor" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 643,
+      "form" : "ṣá"
+    },
+    "translations" : [ {
+      "title" : "gh-stem noun",
+      "forms" : [ "the place over/above [instrumental]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "to say \"somewhere above A\", you use A's instrumental case followed by ṣá.\nkaṭádhabhau ṣaghi hína kí hemabáta hem. \"There was a man above a ship.\""
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 644,
+      "form" : "naunephaúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to fall suddenly", "to fall deliberately", "to throw oneself from somewhere in order to commit suicide", "to jump off from somewhere to commit suicide" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

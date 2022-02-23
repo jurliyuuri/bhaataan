@@ -14556,6 +14556,48 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 642,
+      "form" : "bhodakí"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "船乗り" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 643,
+      "form" : "ṣá"
+    },
+    "translations" : [ {
+      "title" : "gh幹名詞",
+      "forms" : [ "上" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "「Aの上」などを表すときには、Aを具格にする。（いわゆる基準具格）\nkaṭádhabhau ṣaghi hína kí hemabáta hem.「船の上に男がいた。」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 644,
+      "form" : "naunephaúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "勢いよく落ちる", "意図的に落ちる", "身を投げる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
