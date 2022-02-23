@@ -14611,6 +14611,51 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 646,
+      "form" : "síbhadhoḷop"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "故郷の島" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "ziːbʱadɔːɭɔːp"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 647,
+      "form" : "bohacajúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "～(ghi)へ近づく", "～(ghi)の近くに向かう" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 648,
+      "form" : "korajúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "このようである" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "kom- + cajúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

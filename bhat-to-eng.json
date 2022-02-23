@@ -14647,6 +14647,51 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 646,
+      "form" : "síbhadhoḷop"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "hometown island", "one's native island" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "pronunciation",
+      "text" : "ziːbʱadɔːɭɔːp"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 647,
+      "form" : "bohacajúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to approach [ghi]", "to go near [ghi]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 648,
+      "form" : "korajúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to be like this", "to be in this way", "to be in this sort of situation" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "kom- + cajúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
