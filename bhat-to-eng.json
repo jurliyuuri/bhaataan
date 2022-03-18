@@ -14730,6 +14730,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 651,
+      "form" : "ághat"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "spice" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍akuti"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

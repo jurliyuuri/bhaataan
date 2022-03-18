@@ -14694,6 +14694,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 651,
+      "form" : "ághat"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "香辛料", "スパイス" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍akuti"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
