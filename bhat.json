@@ -14787,6 +14787,19 @@
         "form" : "-ṇauṭu"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 654,
+      "form" : "ṣím"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "種無しパン", "無発酵パン" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

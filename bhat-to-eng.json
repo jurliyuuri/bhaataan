@@ -14823,6 +14823,19 @@
         "form" : "-ṇauṭu"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 654,
+      "form" : "ṣím"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "unleavened bread" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
