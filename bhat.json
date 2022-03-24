@@ -9117,6 +9117,12 @@
         "id" : 593,
         "form" : "zausáṇauṭu"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 653,
+        "form" : "linepáneṇauṭu"
+      }
     } ]
   }, {
     "entry" : {
@@ -10970,7 +10976,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 653,
+        "form" : "linepáneṇauṭu"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 465,
@@ -14748,6 +14760,31 @@
       "entry" : {
         "id" : 304,
         "form" : "-abát"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 653,
+      "form" : "linepáneṇauṭu"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "リパライン語の単語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 464,
+        "form" : "linepáne"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 381,
+        "form" : "-ṇauṭu"
       }
     } ]
   } ],

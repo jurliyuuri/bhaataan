@@ -9138,6 +9138,12 @@
         "id" : 593,
         "form" : "zausáṇauṭu"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 653,
+        "form" : "linepáneṇauṭu"
+      }
     } ]
   }, {
     "entry" : {
@@ -11006,7 +11012,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 653,
+        "form" : "linepáneṇauṭu"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 465,
@@ -14784,6 +14796,31 @@
       "entry" : {
         "id" : 304,
         "form" : "-abát"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 653,
+      "form" : "linepáneṇauṭu"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "Linepāine words" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 464,
+        "form" : "linepáne"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 381,
+        "form" : "-ṇauṭu"
       }
     } ]
   } ],
