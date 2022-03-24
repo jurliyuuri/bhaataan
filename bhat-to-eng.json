@@ -8761,7 +8761,13 @@
       "text" : "藍bachau"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 655,
+        "form" : "bházau kázalek"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 365,
@@ -14260,7 +14266,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 655,
+        "form" : "bházau kázalek"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 620,
@@ -14836,6 +14848,31 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 655,
+      "form" : "bházau kázalek"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "euphemism for sperms" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 364,
+        "form" : "bházau"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 619,
+        "form" : "kázalek"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

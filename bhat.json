@@ -8740,7 +8740,13 @@
       "text" : "藍bachau"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 655,
+        "form" : "bházau kázalek"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 365,
@@ -14224,7 +14230,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 655,
+        "form" : "bházau kázalek"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 620,
@@ -14800,6 +14812,31 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 655,
+      "form" : "bházau kázalek"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "精液の婉曲表現" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 364,
+        "form" : "bházau"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 619,
+        "form" : "kázalek"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
