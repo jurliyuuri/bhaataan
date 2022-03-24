@@ -7414,6 +7414,12 @@
         "id" : 306,
         "form" : "accabát"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 652,
+        "form" : "ṣahabát"
+      }
     } ]
   }, {
     "entry" : {
@@ -7998,12 +8004,12 @@
     },
     "translations" : [ {
       "title" : "動詞接中辞",
-      "forms" : [ "〜しようとしている", "〜するつもりである", "〜を試みている", "～する予定である" ]
+      "forms" : [ "将然相" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "用法",
-      "text" : "「〜しようとしている」「〜するつもりである」などの意味を表す状態動詞を作る。"
+      "text" : "「〜しようとしている」「〜するつもりである」という意味を表す状態動詞を作る。"
     }, {
       "title" : "同根語",
       "text" : "伐bohúḷ"
@@ -10576,7 +10582,13 @@
       "text" : "牌xau1,藍xauau"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 652,
+        "form" : "ṣahabát"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 446,
@@ -14710,6 +14722,34 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 652,
+      "form" : "ṣahabát"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "シャハバート詩" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "長さとピッチによって定まる韻律を持つ、韻律定型詩の一種。「低長 +\t(高短) + 低長 + 高」→「低長 +\t(高短) + 低長 + 高」→「低長 + 高 + 低 + 低 + 高、または、低長+ 低長 + 低 + 高」の形を持つ行から構成される。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 445,
+        "form" : "ṣahúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 304,
+        "form" : "-abát"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

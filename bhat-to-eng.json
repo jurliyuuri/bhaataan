@@ -7435,6 +7435,12 @@
         "id" : 306,
         "form" : "accabát"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 652,
+        "form" : "ṣahabát"
+      }
     } ]
   }, {
     "entry" : {
@@ -10612,7 +10618,13 @@
       "text" : "牌xau1,藍xauau"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 652,
+        "form" : "ṣahabát"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 446,
@@ -14746,6 +14758,34 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 652,
+      "form" : "ṣahabát"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "シャハバート詩" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "culture",
+      "text" : "長さとピッチによって定まる韻律を持つ、韻律定型詩の一種。「低長 +\t(高短) + 低長 + 高」→「低長 +\t(高短) + 低長 + 高」→「低長 + 高 + 低 + 低 + 高、または、低長+ 低長 + 低 + 高」の形を持つ行から構成される。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 445,
+        "form" : "ṣahúḷ"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 304,
+        "form" : "-abát"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
