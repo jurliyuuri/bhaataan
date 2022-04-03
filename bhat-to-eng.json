@@ -7067,7 +7067,7 @@
       "title" : "cognate(s)",
       "text" : "理artar, 伐aṭam"
     }, {
-      "title" : "culture",
+      "title" : "etymological information",
       "text" : "etymologically related to aṭam."
     } ],
     "variations" : [ ],
@@ -7594,7 +7594,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "culture",
+      "title" : "etymological information",
       "text" : "eはアイル語reae、パイグ語la1などと同根であるが、現在では単独では死語である。ただし、nautuhomá eの構成要素としては残っており、またaṭam_kádなどと異なり文法上の制約には反していないことから、この連語自体をnautuhomá eでくっつけてnautuhomá_eと書くことはない。"
     } ],
     "variations" : [ ],
@@ -7817,7 +7817,7 @@
     } ],
     "tags" : [ "colloquial" ],
     "contents" : [ {
-      "title" : "culture",
+      "title" : "etymological information",
       "text" : "The general term for the dialects in which the distinction between bh and w is not maintained. Many of such dialects lack the aspirates; the aspirates in the standard language have become fricatives, approximants, and so on."
     } ],
     "variations" : [ ],
@@ -7845,7 +7845,7 @@
     } ],
     "tags" : [ "colloquial" ],
     "contents" : [ {
-      "title" : "culture",
+      "title" : "etymological information",
       "text" : "The general term for the dialects in which the distinction between bh and w is not maintained. Many of such dialects lack the aspirates; the aspirates in the standard language have become fricatives, approximants, and so on."
     } ],
     "variations" : [ ],
@@ -8349,7 +8349,7 @@
     } ],
     "tags" : [ "colloquial" ],
     "contents" : [ {
-      "title" : "culture",
+      "title" : "etymological information",
       "text" : "牌 hia1 + 牌 aik2 + 牌 a。パイグ語 aik2 と異なり、バート語kádには「光」の他にもkádúḷ「目立つ」の名詞化として「視線・注目」という意味がある。また、バート語では、「属格 + k」の主格が単体の属格で現れるため、属格接辞が結果として単立できるが、パイグ語ではこれは不可能であり、この位置のaは感嘆詞として解釈される。よってパイグ語 hia1 aik2 a. は「光りたいです。」という意味にしかならない、言うなれば「伐製牌語」である。hi- が x- で借用されているのは、ワート弁の影響である。"
     } ],
     "variations" : [ ],
@@ -9035,7 +9035,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "culture",
+      "title" : "etymological information",
       "text" : "Literally \"oblique, short one,\" this diacritic originally represented a vowel but is now used to remove the inherent vowel."
     } ],
     "variations" : [ ],
@@ -11855,7 +11855,7 @@
     } ],
     "tags" : [ "translationese" ],
     "contents" : [ {
-      "title" : "culture",
+      "title" : "etymological information",
       "text" : "influenced by 理xel \"to see [accusative]\", which can also be used to mean \"to shine on [-'l], to head in a straight line to [ghi]\"."
     } ],
     "variations" : [ ],
@@ -13056,7 +13056,7 @@
       "title" : "cognate(s)",
       "text" : "borrowed from 理rkharvanur + 伐nímaṣ"
     }, {
-      "title" : "culture",
+      "title" : "etymological information",
       "text" : "本来的にはラーヴァヌーは言語名であり民族名はドゥバーギョであるが、リパライン語の影響もありḍubájonímaṣではなくgháwanúnímaṣが定着している。"
     } ],
     "variations" : [ ],
@@ -14873,6 +14873,47 @@
         "form" : "kázalek"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 656,
+      "form" : "josedúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to sink" ]
+    }, {
+      "title" : "dynamic verb",
+      "forms" : [ "～(ghi)という人が～(主格)という知識や経験を身につける", "～(主格)という知識や経験が身につく" ]
+    }, {
+      "title" : "dynamic verb",
+      "forms" : [ "for [nominative] (food) to be digested by [ghi]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍yodai"
+    }, {
+      "title" : "etymological information",
+      "text" : "/yozɛdɛ ~ yozdɛ ~ yozɛd/ のような語形をかつては持っていたのかもしれない。「よく分からない代物の中に主語が入っていって、主語がその代物の一部になって、不可逆的に取り出せない」というコアイメージ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 657,
+      "form" : "káṇabhodi"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "oblivion", "the state of being unable to know due to lack of records" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "It is used primarily in the form káṇabhodiḍi ghi josedúḷ (literal translation: to sink in the sea of time), meaning \"lost to history; the record is lost, and is perhaps forever unknowable.\""
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
