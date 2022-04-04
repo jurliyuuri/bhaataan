@@ -1471,7 +1471,7 @@
       "form" : "amáma"
     },
     "translations" : [ {
-      "title" : "形容詞",
+      "title" : "連体詞",
       "forms" : [ "大きい", "偉大な" ]
     } ],
     "tags" : [ ],
@@ -3802,7 +3802,7 @@
       "form" : "kom"
     },
     "translations" : [ {
-      "title" : "形容詞",
+      "title" : "連体詞",
       "forms" : [ "この" ]
     } ],
     "tags" : [ ],
@@ -4270,7 +4270,7 @@
       "form" : "bhá"
     },
     "translations" : [ {
-      "title" : "形容詞",
+      "title" : "連体詞",
       "forms" : [ "全ての", "すべての", "全部の" ]
     } ],
     "tags" : [ ],
@@ -5259,7 +5259,7 @@
     "tags" : [ "形式名詞", "抽象的形式名詞" ],
     "contents" : [ {
       "title" : "用法",
-      "text" : "属格・形容詞の直後にのみ現れる。主格のときにはゼロまたは複数形で現れるのが主流である。人は指さない。\nko ámaom hem? これはあなたのですか？\námaom kele sujamúha? あなたのを使いますか？"
+      "text" : "属格・連体詞の直後にのみ現れる。主格のときにはゼロまたは複数形で現れるのが主流である。人は指さない。\nko ámaom hem? これはあなたのですか？\námaom kele sujamúha? あなたのを使いますか？"
     }, {
       "title" : "同根語",
       "text" : "牌ku,アイルku"
@@ -8478,7 +8478,7 @@
     },
     "translations" : [ {
       "title" : "無変化動詞",
-      "forms" : [ "～(主格)は～(属格・形容詞)のものである" ]
+      "forms" : [ "～(主格)は～(属格・連体詞)のものである" ]
     } ],
     "tags" : [ "口語的" ],
     "contents" : [ {
@@ -11014,7 +11014,7 @@
       "form" : "ṣot"
     },
     "translations" : [ {
-      "title" : "形容詞",
+      "title" : "連体詞",
       "forms" : [ "多くの" ]
     } ],
     "tags" : [ ],
@@ -13162,7 +13162,7 @@
       "form" : "not"
     },
     "translations" : [ {
-      "title" : "形容詞",
+      "title" : "連体詞",
       "forms" : [ "なんの" ]
     } ],
     "tags" : [ ],
@@ -13181,7 +13181,7 @@
       "form" : "com"
     },
     "translations" : [ {
-      "title" : "形容詞",
+      "title" : "連体詞",
       "forms" : [ "どの" ]
     } ],
     "tags" : [ ],
@@ -13200,7 +13200,7 @@
       "form" : "coghom"
     },
     "translations" : [ {
-      "title" : "形容詞",
+      "title" : "連体詞",
       "forms" : [ "いつの" ]
     } ],
     "tags" : [ ],
@@ -14259,7 +14259,7 @@
       "form" : "ṭác"
     },
     "translations" : [ {
-      "title" : "形容詞",
+      "title" : "連体詞",
       "forms" : [ "尊敬すべき" ]
     } ],
     "tags" : [ ],
@@ -14323,7 +14323,7 @@
       "form" : "ápaum"
     },
     "translations" : [ {
-      "title" : "形容詞",
+      "title" : "連体詞",
       "forms" : [ "一人称単数属格縮約形" ]
     } ],
     "tags" : [ ],
@@ -14339,7 +14339,7 @@
       "form" : "ámaum"
     },
     "translations" : [ {
-      "title" : "形容詞",
+      "title" : "連体詞",
       "forms" : [ "二人称単数属格縮約形" ]
     } ],
     "tags" : [ ],
@@ -14355,7 +14355,7 @@
       "form" : "bhámaum"
     },
     "translations" : [ {
-      "title" : "形容詞",
+      "title" : "連体詞",
       "forms" : [ "私たちの(包括)" ]
     } ],
     "tags" : [ ],
@@ -14371,7 +14371,7 @@
       "form" : "bhaum"
     },
     "translations" : [ {
-      "title" : "形容詞",
+      "title" : "連体詞",
       "forms" : [ "私たちの(除外)" ]
     } ],
     "tags" : [ ],

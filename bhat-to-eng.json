@@ -1471,7 +1471,7 @@
       "form" : "amáma"
     },
     "translations" : [ {
-      "title" : "adjective",
+      "title" : "prenominal",
       "forms" : [ "large", "significant", "great", "grand", "magnificent" ]
     } ],
     "tags" : [ ],
@@ -3802,7 +3802,7 @@
       "form" : "kom"
     },
     "translations" : [ {
-      "title" : "adjective",
+      "title" : "prenominal",
       "forms" : [ "this (as in \"this book\")" ]
     } ],
     "tags" : [ ],
@@ -4276,7 +4276,7 @@
       "form" : "bhá"
     },
     "translations" : [ {
-      "title" : "adjective",
+      "title" : "prenominal",
       "forms" : [ "all", "every" ]
     } ],
     "tags" : [ ],
@@ -5265,7 +5265,7 @@
     "tags" : [ "dependent noun", "abstract dependent noun" ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "Appears only after a genitive or an adjective. Singular nominative tends to appear as zero. Refers to things, not to persons.\nko ámaom hem? Is this yours?\námaom kele sujamúha? Do you use yours?"
+      "text" : "Appears only after a genitive or a prenominal. Singular nominative tends to appear as zero. Refers to things, not to persons.\nko ámaom hem? Is this yours?\námaom kele sujamúha? Do you use yours?"
     }, {
       "title" : "cognate(s)",
       "text" : "牌ku,藍ku"
@@ -11050,7 +11050,7 @@
       "form" : "ṣot"
     },
     "translations" : [ {
-      "title" : "adjective",
+      "title" : "prenominal",
       "forms" : [ "many" ]
     } ],
     "tags" : [ ],
@@ -13198,7 +13198,7 @@
       "form" : "not"
     },
     "translations" : [ {
-      "title" : "adjective",
+      "title" : "prenominal",
       "forms" : [ "what sort of?", "of what?" ]
     } ],
     "tags" : [ ],
@@ -13217,7 +13217,7 @@
       "form" : "com"
     },
     "translations" : [ {
-      "title" : "adjective",
+      "title" : "prenominal",
       "forms" : [ "which?" ]
     } ],
     "tags" : [ ],
@@ -13236,7 +13236,7 @@
       "form" : "coghom"
     },
     "translations" : [ {
-      "title" : "adjective",
+      "title" : "prenominal",
       "forms" : [ "of when?" ]
     } ],
     "tags" : [ ],
@@ -14295,7 +14295,7 @@
       "form" : "ṭác"
     },
     "translations" : [ {
-      "title" : "adjective",
+      "title" : "prenominal",
       "forms" : [ "honorable", "respectable", "venerable" ]
     } ],
     "tags" : [ ],
@@ -14359,7 +14359,7 @@
       "form" : "ápaum"
     },
     "translations" : [ {
-      "title" : "adjective",
+      "title" : "prenominal",
       "forms" : [ "first-person singular genitive (contracted)" ]
     } ],
     "tags" : [ ],
@@ -14375,7 +14375,7 @@
       "form" : "ámaum"
     },
     "translations" : [ {
-      "title" : "adjective",
+      "title" : "prenominal",
       "forms" : [ "second-person singular genitive (contracted)" ]
     } ],
     "tags" : [ ],
@@ -14391,7 +14391,7 @@
       "form" : "bhámaum"
     },
     "translations" : [ {
-      "title" : "adjective",
+      "title" : "prenominal",
       "forms" : [ "our (inclusive)" ]
     } ],
     "tags" : [ ],
@@ -14407,7 +14407,7 @@
       "form" : "bhaum"
     },
     "translations" : [ {
-      "title" : "adjective",
+      "title" : "prenominal",
       "forms" : [ "our (exclusive)" ]
     } ],
     "tags" : [ ],
