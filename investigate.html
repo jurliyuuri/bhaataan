@@ -5743,6 +5743,177 @@ dákínabohadína. 私は与えたい (7)
 <h2>201. 「形容詞」→「連体詞」、"adjective" → "prenominal"</h2>
 <p>ついに訳語を変更。まあこの方がいいよね。</p>
 
+<h2>202. 頻度表の改訂</h2>
+
+<h3>202-1. 経緯</h3>
+<p>今までお世話になってきた頻度表、しかしながら</p>
+<ul>
+	<li>古い<ul><li>2017年12月23日だから、えっ4年前！？</li></ul></li>
+	<li>長子音のことを考えてない</li>
+</ul>
+<p>という問題点がある。一念発起して作り直すか。</p>
+
+<h3>202-2. やっていく</h3>
+<p>まず657個の見出し語を取り出す。</p>
+
+<div class="box">
+	ちなみに、単語の一覧は<code>dat.words.map(a=&gt;a.entry.form).join(",")</code>で取得するのが早い。
+</div>
+<p>ありがとうございます過去の自分。</p>
+<p>スペースやアンダースコアの入ってる単語を取り除いて626個。</p>
+<p>目視でいろいろ削って394個。まあこんぐらいでいいか。</p>
+<div class="box">
+	<p>-a-, -abháp-, -aboh-, -abát, -aghi, -aim, -akáta, -am, -ama, -an, -ani-, -az, -azá-, -bháp-, -boh-, -bát, -dhelán, -dhen, -dhína, -elen, -elenán, -ghi, -hí, -i, -ij-, -ilor-, -itaim, -itam, -káta, -m, -ma, -n, -ni-, -sá, -waim, -z, -zá-, -á-, -í, -ína, -íṣ, -ú, -ḍíṣ, -ṇauṭu, acc-, accabát, adha, adheṣ, aghauṭa, aibhausa, am-, amila, amm-, ammán, amáma, asíja-, aum-, aḍuhaid-, aḍuhazo-, aḍuhazá-, aḍí, aṭam, aṭaza, bacú, banáman, baukká, bhai, bhaj-, bhattá, bhaum, bhaṣ, bho-, bhodakí, bhodi, bhodíyo, bhog, bhohe-, bhom-, bhoma, bhoman, bhoḷog, bhoḷor-, bhoṇau, bhoṣah-, bhá, bhá, bháhe-, bháhepa, bhájabáni, bhákáṇa, bháma, bhámaum, bhán, bháp-, bhár-, bhára, bháro, bhát, bhát-, bházah-, bházau, bháṇ-, bháṣ, bháṭám-, boh-, bohamátuj-, bom, boṇ-, bácuj-, bágha, bák-, bákatú, bákaz, báni, bánim, bániwaim, bániṣom, bátat, bátuj-, báṣi, cah-, cai, cainíju, caj-, catíg, cau-, caz-, cekhai, cepatepa, ceṣlo, coghi, coghom, com, coraj-, coḍu, coṇaná, coṇá, cájau, cákíka-, cánaj-, cátaghi, cáwaṭaim, dan-, dat, daupha, deja, dhedighat, dhese-, dhet, dhez, dhezá-, dhokit, dhozoc-, dhoḷop, dhárad, dház-, dhímat, dhíná, dhíp, doghaj-, doma, dác-, dákín-, dáp, dáṣ, dí, díghi, dílitam, díma, dína, díṣlo, ea, eghi, ehai, ek, elesa, ema, epa, epam, epha-, eyá-, gaṇṇí, ghacc-, ghau, ghauṣ, ghi, ghidín, ghikísa, ghá, ghán-, ghána-, gháni, ghátu, gháyo-, ghíyo, ha, helazá, hem, hem-, hemasá, hemijoya, heyá-, heyáz, ho, hor-, horabát, huṭe-, há, háta, hátaṣom, híja, hína, hínázáwán, ja, jammoh-, jamoh-, jan-, janá-, jarúṣi, jo, jog, jok, jora-, josed-, joya, jám, ján, k, kaik-, kaṣlo, kaṭádha, khak, khaṇḍí, khaṇṇí, khem, kit, kiṣlo, ko, koli, kom, koraj-, korúṣam, koḷor-, koṭ, kujacú, ká, kád, kánagh-, kánat-, káná, kázalek, káṇa, káṇaisa, káṇám, káṇám, kí, kúcuj-, kúcú, legh-, lom, lábha, lánah-, lási, lásij-, líṇa-, manáman, masátu, mábha, n-, nau, nauki, nautu, nauṇagh-, non, not, nota, nudhor-, numíju, nutta, nádít-, náh-, náhaz, náhepa, nához, nám-, nána, náḷa, nímaṣ, nín, nínaccú, nú-, núdha, núsu, ohi, okák-, osakán, ot-, oṣa, oṣán, rakk-, rauki, rec-, rek, rekasúk, rij-, rod, roh-, rásit, ríka, ríla-, ríz, rúkasa, rúṣ, súḷa, sakká, seház-, sese, seṇa, su, su-, suj-, suḷor-, sá, sáka, sáp-, síbha, sít, síyo-, sú-, woghit, wákah-, wát, wáḷa, yám, z-, zallo-, zau-, ze-, zekáta, zepha, zu, zá-, záde-, zám-, záwaim, zí, zígh-, zíghíṣ, zíṣlo, á, ácah-, ághat, ághi, ághim, ák-, ákíjam, ám, áma, ánom, ápa, áphíyo, ásúka, ázá, áṣá, áṣán, áṭam, íd-, íditaim, újo, úraj-, úro, ḍáz, ṣabhahu, ṣah-, ṣahabát, ṣahe, ṣe, ṣibhai, ṣiṇṇa, ṣoma, ṣonároná-, ṣot, ṣoya, ṣá, ṣán, ṣánom, ṣárah-, ṣásubhoz-, ṣíka, ṣíkah-, ṣím, ṣíyabát, ṣíyá-, ṣúsa</p>
+</div>
+
+<p>んー、めんどいので語尾は削って、</p>
+
+<div class="box">
+	<p>acc, accabát, adha, adheṣ, aghauṭa, aibhausa, am, amila, amm, ammán, amáma, asíja, aum, aḍuhaid, aḍuhazo, aḍuhazá, aḍí, aṭam, aṭaza, bacú, banáman, baukká, bhai, bhaj, bhattá, bhaum, bhaṣ, bho, bhodakí, bhodi, bhodíyo, bhog, bhohe, bhom, bhoma, bhoman, bhoḷog, bhoḷor, bhoṇau, bhoṣah, bhá, bhá, bháhe, bháhepa, bhájabáni, bhákáṇa, bháma, bhámaum, bhán, bháp, bhár, bhára, bháro, bhát, bházah, bházau, bháṇ, bháṣ, bháṭám, boh, bohamátuj, bom, boṇ, bácuj, bágha, bák, bákatú, bákaz, báni, bánim, bániwaim, bániṣom, bátat, bátuj, báṣi, cah, cai, cainíju, caj, catíg, cau, caz, cekhai, cepatepa, ceṣlo, coghi, coghom, com, coraj, coḍu, coṇaná, coṇá, cájau, cákíka, cánaj, cátaghi, cáwaṭaim, dan, dat, daupha, deja, dhedighat, dhese, dhet, dhez, dhezá, dhokit, dhozoc, dhoḷop, dhárad, dház, dhímat, dhíná, dhíp, doghaj, doma, dác, dákín, dáp, dáṣ, dí, díghi, dílitam, díma, dína, díṣlo, ea, eghi, ehai, ek, elesa, ema, epa, epam, epha, eyá, gaṇṇí, ghacc, ghau, ghauṣ, ghi, ghidín, ghikísa, ghá, ghán, ghána, gháni, ghátu, gháyo, ghíyo, ha, helazá, hem, hem, hemasá, hemijoya, heyá, heyáz, ho, hor, horabát, huṭe, há, háta, hátaṣom, híja, hína, hínázáwán, ja, jammoh, jamoh, jan, janá, jarúṣi, jo, jog, jok, jora, josed, joya, jám, ján, k, kaik, kaṣlo, kaṭádha, khak, khaṇḍí, khaṇṇí, khem, kit, kiṣlo, ko, koli, kom, koraj, korúṣam, koḷor, koṭ, kujacú, ká, kád, kánagh, kánat, káná, kázalek, káṇa, káṇaisa, káṇám, káṇám, kí, kúcuj, kúcú, legh, lom, lábha, lánah, lási, lásij, líṇa, manáman, masátu, mábha, n, nau, nauki, nautu, nauṇagh, non, not, nota, nudhor, numíju, nutta, nádít, náh, náhaz, náhepa, nához, nám, nána, náḷa, nímaṣ, nín, nínaccú, nú, núdha, núsu, ohi, okák, osakán, ot, oṣa, oṣán, rakk, rauki, rec, rek, rekasúk, rij, rod, roh, rásit, ríka, ríla, ríz, rúkasa, rúṣ, súḷa, sakká, seház, sese, seṇa, su, suj, suḷor, sá, sáka, sáp, síbha, sít, síyo, sú, woghit, wákah, wát, wáḷa, yám, z, zallo, zau, ze, zekáta, zepha, zu, zá, záde, zám, záwaim, zí, zígh, zíghíṣ, zíṣlo, á, ácah, ághat, ághi, ághim, ák, ákíjam, ám, áma, ánom, ápa, áphíyo, ásúka, ázá, áṣá, áṣán, áṭam, íd, íditaim, újo, úraj, úro, ḍáz, ṣabhahu, ṣah, ṣahabát, ṣahe, ṣe, ṣibhai, ṣiṇṇa, ṣoma, ṣonároná, ṣot, ṣoya, ṣá, ṣán, ṣánom, ṣárah, ṣásubhoz, ṣíka, ṣíkah, ṣím, ṣíyabát, ṣíyá, ṣúsa</p>
+</div>
+
+<p>これを <a href="sort.html">sort.html</a> のコンソールで <code>var k = "...";</code> して、<code>var l = k.split(", ").map(a =&gt; syllabifyBaani(lexNautu(a)))</code> してやる。 <code>var toCount = arr =&gt; {var obj={}; arr.forEach(a =&gt; obj[a]=arr.filter(b =&gt; b == a).length); return obj};</code> を定義してやって、<code>toCount(l.map(a =&gt; a[0][0]))</code> をしてやれば、語頭回数が出る。</p>
+
+<div class="box">
+	{"∅":57,"b":19,"bh":37,"c":22,"d":16,"dh":13,"g":1,"gh":13,"h":18,"j":14,"k":27,"kh":4,"l":7,"m":3,"n":25,"r":14,"s":15,"w":4,"y":1,"z":15,"ḍ":1,"ṣ":22}
+</div>
+
+<p><code>toCount(l.flatMap(a =&gt; a.map(b =&gt; b[1])))</code> してやれば、母音。</p>
+
+<div class="box">
+	{"aQ":13,"ъ":179,"a":159,"á":156,"e":52,"au":18,"ai":14,"i":36,"í":53,"u":24,"o":95,"ú":22,"auQ":1,"uQ":1,"iQ":1}
+</div>
+
+<p><code>toCount(l.flatMap(a =&gt; {const [_, ...c] = a.map(b =&gt; b[0]); return c}))</code> してやれば、語中子音。</p>
+
+<div class="box">
+	{"c":13,"b":5,"t":40,"dh":5,"ṣ":23,"gh":18,"ṭ":9,"bh":7,"s":20,"m":62,"l":13,"n":45,"j":25,"ḍ":6,"h":30,"d":14,"z":22,"k":36,"y":13,"g":4,"ḷ":8,"r":19,"ṇ":17,"p":12,"w":4,"kh":1,"ph":4,"∅":1}
+</div>
+
+<h3>202-3. 結論（頭子音）</h3>
+<p>頭子音は、こんな感じ。前と大きくは変わってなくて、いいですね。</p>
+<div class="box">
+頭子音
+	<pre>
+∅	57	57.5	57.5
+bh	37	37.5	95
+k	27	27.5	122.5
+h	18	18.5	141
+s	15	15.5	156.5
+z	15	15.5	172
+ṣ	22	22.5	194.5
+n	25	25.5	220
+c	22	22.5	242.5
+b	19	19.5	262
+dh	13	13.5	275.5
+d	16	16.5	292
+j	14	14.5	306.5
+r	14	14.5	321
+gh	13	13.5	334.5
+l	7	7.5	342
+m	3	3.5	345.5
+kh	4	4.5	350
+w	4	4.5	354.5
+ḍ	1	1.5	356
+g	1	1.5	357.5
+y	1	1.5	359
+	</pre>
+</div>
+
+<img src="new_initial.png" width="400" />
+
+<h3>202-4. 結論（母音）</h3>
+<p>一応こんな感じなんですが、</p>
+<div class="box">
+<pre>
+a	159
+á	156
+o	95
+e	52
+í	53
+i	36
+u	24
+ú	22
+au	18
+ai	14
+aQ	13
+iQ	1
+uQ	1
+auQ	1
+</pre>
+</div>
+<p>だいぶ例外的な -auQ- はともかく、 -iQ- と -uQ- が少ないのは今までのガチャがこれらを misrepresent していたのが原因である。</p>
+<p>a が 159 個あるのに対して aQ が 13 あるのだから、iQ は 36 × 13 ÷ 159 = 2.94 個、uQ は 24 × 13 ÷ 159 = 1.96 個ぐらいあってもいいんじゃなかろうか。</p>
+<p>……これ、ともに整数にめっちゃ近いな。じゃあもう -iQ- を追加で 2 単語、-uQ- を追加で 1 単語作ることで解決としちゃえばいいか。後でやっておきます。</p>
+<p>ということで、結論。</p>
+
+<div class="box">
+母音
+<pre>
+	a	159	159.5	159.5
+	á	156	156.5	316
+	o	95	95.5	411.5
+	e	52	52.5	464
+	í	53	53.5	517.5
+	i	36	36.5	554
+	u	24	24.5	578.5
+	ú	22	22.5	601
+	au	18	18.5	619.5
+	ai	14	14.5	634
+	aQ	13	13.5	647.5
+	iQ	3	3.5	651
+	uQ	2	2.5	653.5
+	auQ	1	1.5	655
+</pre>
+</div>
+<img src="new_vowel.png" width="400" />
+<p>e に比べて o が結構躍進しましたね。実際 e ってバート語で少し使いにくい感ある。唇音の後でも k の後でも忌避されるし。</p>
+
+<h3>202-4. 結論（語中子音）</h3>
+<p>gのうち三つは語末の -gh なので、gh としてカウント。</p>
+
+
+<div class="box">
+語中子音
+<pre>
+m	62	62.5	62.5
+k	36	36.5	99
+n	45	45.5	144.5
+bh	7	7.5	152
+h	30	30.5	182.5
+z	22	22.5	205
+t	40	40.5	245.5
+b	5	5.5	251
+c	13	13.5	264.5
+d	14	14.5	279
+l	8	8.5	287.5
+gh	21	21.5	309
+r	19	19.5	328.5
+ṣ	18	18.5	347
+dh	5	5.5	352.5
+s	20	20.5	373
+ṣl	5	5.5	378.5
+j	25	25.5	404
+p	12	12.5	416.5
+ṇ	17	17.5	434
+ṭ	9	9.5	443.5
+ḍ	6	6.5	450
+w	4	4.5	454.5
+ḷ	8	8.5	463
+y	13	13.5	476.5
+kh	1	1.5	478
+ph	4	4.5	482.5
+g	1	1.5	484
+∅	1	1.5	485.5
+</pre>
+</div>
+
+<img src="new_middle.png" width="400" />
+<p>tが増えたな！まあ別にいいんじゃないでしょうか。あとbとbhがかなり減ってるけど、これは語尾をカウントから除いたのが効いてそう。</p>
+
+<h3>203-5. リンクとか</h3>
+<p><a href="https://docs.google.com/spreadsheets/d/1lEIR_G9vQchec4rsgJtUgj-C2M0Hwgq-zmSMSEqzoaw/edit#gid=1623995539">今回のGoogle Spreadsheets</a>、そして <a href="freq2022.html">頻度表2022</a>。</p>
+
 <hr>
 <h3 class="do_not_create_header">to do:</h3>
 「これ」「それ」の使い分け、<br>
