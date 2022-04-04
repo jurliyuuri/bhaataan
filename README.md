@@ -26,6 +26,7 @@
 * [バート語の仮名への転写法](transcription.html) - バート語の仮名への転写法
 * [バート文字・バート語文法速習](./learn/index.html) - バートさんがjekto.vatimelijuにバート語を教えてくれるサイト。自学自習とも言う。
 * [jekto.vatimelijuの「アリス」暗記チャレンジ](alic.htm)
+* [バート語単語をソートする](sort.html)
 
 ## 旧ファイル（一部設定が古い）
 * [バート語 - 【人工言語】リパライン語](https://sites.google.com/site/3tvalineparine/plsnk/bhat)
