@@ -14930,6 +14930,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 662,
+      "form" : "háṣin"
+    },
+    "translations" : [ {
+      "title" : "名詞接続詞",
+      "forms" : [ "～なき～", "～のない～" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍wuaxu, 皇wac-u"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

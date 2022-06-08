@@ -14966,6 +14966,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 662,
+      "form" : "háṣin"
+    },
+    "translations" : [ {
+      "title" : "conjunction for nouns",
+      "forms" : [ "(in the form \"A háṣin B\") B lacking A", "B without A", "B with no A" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍wuaxu, 皇wac-u"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
