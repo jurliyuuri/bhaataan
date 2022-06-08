@@ -14946,6 +14946,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 663,
+      "form" : "jomúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "拾う", "拾い上げる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍yoma"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

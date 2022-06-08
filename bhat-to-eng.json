@@ -14982,6 +14982,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 663,
+      "form" : "jomúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to pick up from the ground" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍yoma"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
