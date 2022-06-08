@@ -8,10 +8,22 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/leipzig/latest/leipzig.min.css">
 <style>
 .modifier {background-color: #eeeeff}
+.alpha{background-color: #ffeeee}
+.beta{background-color: #eeeeff}
+.gamma{background-color: #eeeeee}
+.delta{background-color: #eeffee}
+.vow{color:red}
+.cons{color:blue}
+.qq i {
+	font-family: "Times New Roman";
+}
+i.bhateme {
+	font-family: "Times New Roman";
+}
 </style>
 <script src="print_bhat.js"></script>
 </head>
-<body class="cool">
+<body class="cool" style="font-family: Arial, Helvetica, sans-serif;">
 <a href="./index.html">トップに戻る</a>
 <h1>バート語について考察する</h1>
 <p>以下は考察ログであり、<strong>文法は<a href="grammar.html">こちら</a>にまとめてある</strong>。</p>
@@ -180,7 +192,7 @@ bháma(一人称複数包括)
 cákík(来る　訪れる　来訪する) -adíha(一人称未来分詞)
 hem(～は～である)</pre>
 <p>káṇaが関係節の内側のcákíkuḷとどう関係するかは明示されていないことがわかる。ということで、明示しないという設定で確定としよう。</p>
-<p>ちなみに、外側の動詞とのやりとりは先行詞が格変化することで示される。その例としてはká aghauṭadhel nána sáhomá woghit ákaze aḍuhazozená hem.「彼女は姉が読む本を見た。」がある。
+<p>ちなみに、外側の動詞とのやりとりは先行詞が格変化することで示される。その例としてはká aghauṭadhel nána sáhomá woghit ákaze aḍuhazozená hem.「彼女は姉が読む本を見た。」がある。</p>
 <pre>
 ká(三人称女性単数)
 aghauṭa(本、図書) -dhel(母音幹単数対格)
@@ -272,7 +284,7 @@ fafs「kに点を打つのが統一感あってよさげ」
 <p>ただし、これは（珍しいことに）バート語固有の単語ではなく、後世に周辺言語から借用したものだという説が濃厚となった。以下にその理由をいくつか挙げる。</p>
 <ul>
 	<li>バート語の語頭にp, ph, t, ṭが立つ例がない。祖語*phedはbhátだし*fokjutはwoghitだし*kaatuuはghátuだし。ただしkだけは立ちまくるのだが、まあ調音点によって挙動が違うなんてよくあることでしょ。</li>
-	<li>語頭以外でも、*qtaaはadhaだし*ekqtはkádúḷだったりする。ただしそり舌の場合はそうでもないらしく、*'tqram -> aṭamとかはあるが。*atqzauはaḍuhazoúlにもaṭazaにもなるので、そり舌の場合は濁ったり濁らなかったりするっぽい。</li>
+	<li>語頭以外でも、*qtaaはadhaだし*ekqtはkádúḷだったりする。ただしそり舌の場合はそうでもないらしく、*'tqram -&gt; aṭamとかはあるが。*atqzauはaḍuhazoúlにもaṭazaにもなるので、そり舌の場合は濁ったり濁らなかったりするっぽい。</li>
 	<li>「バート語の語頭にtが立たない」とすれば、*zeepq-zeepqがtepatepaでなくcepatepaとなるのも自然である。</li>
 	<li>tについては、*nu'a'→nutta, woghit, cepatepaの3語を除けばáの直後に現れるという特性が見られる。原因は謎だが、とりあえずtは現れにくいらしい。</li>
 </ul>
@@ -282,14 +294,14 @@ fafs「kに点を打つのが統一感あってよさげ」
 <p>さて、takuが解決したので、ついに暫定辞書をver2にできる。</p>
 <p><a href="old/語彙集(ver2).csv">語彙集(ver2)csv</a> <a href="old/語彙集(ver2).csv">語彙集(ver2)csv</a> <a href="https://docs.google.com/spreadsheets/d/1B9Oa4Atte8cyUk7z7ir45v586IN718gXhp1oPeU7GCY/edit#gid=0">Googleスプレッドシート</a></p>
 <p>さて、とりあえずOTM-JSON化しますかね</p>
-<p><a href="bhat.json">しました</a>。
+<p><a href="bhat.json">しました</a>。</p>
 
 <h2>9. -omと-homá</h2>
 <p>特に違いは意図していないらしい。ただ、コーパス見るに一般名詞は-homáになりやすく代名詞は-omになりやすいらしい。</p>
 
 <h2>10. 肯否疑問文</h2>
 <p>肯否疑問文決めてなかった。アイル語とかタカン語とかでどう言うんだろう。</p>
-<p>とりあえず、パイグ語のA y mun1? > A yn2?に倣ってA jo ám?でいいか。</p>
+<p>とりあえず、パイグ語のA y mun1? &gt; A yn2?に倣ってA jo ám?でいいか。</p>
 
 <h2>11. 発音について</h2>
 <p>hemは鼻母音で読んで良いという話を聞いていたので、<a href="phonology.html">音韻メモ</a>に追記した。あと、-úḷが-úlとも書かれる話についても記載した。</p>
@@ -358,14 +370,14 @@ j.v「タカンも」
 <p>6。ということでhínaになった。さて、あとは祖語baepがどうなるか。</p>
 <ul>
 <li>祖語のphaenがbhánなので母音はá</li>
-<li>祖語のdkoopがdhoḷopなので末子音はp…だけど-úḷがついたときにどうなるんだろう。まあ祖語fuepq > バートepaと祖語zeepq > バートzephaがあるしどちらでも良さそうではある。というかúḷの前って何が立てるんだろう。調べてみるか。
+<li>祖語のdkoopがdhoḷopなので末子音はp…だけど-úḷがついたときにどうなるんだろう。まあ祖語fuepq &gt; バートepaと祖語zeepq &gt; バートzephaがあるしどちらでも良さそうではある。というかúḷの前って何が立てるんだろう。調べてみるか。
 <hr>
 <table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
-<tr><td></td><td colspan="2">唇音</td><td colspan="2">歯茎音</td><td colspan="2">そり舌音</td><td colspan="2">軟口蓋音</td>
-<tr><td>鼻音</td><td colspan="2">m</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td>
-<tr><td rowspan="2">破裂音</td><td></td><td></td><td>t</td><td>d</td><td></td><td></td><td>k, kk</td><td></td>
-<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>gh</td>
-<tr><td>摩擦音</td><td></td><td rowspan="2"></td><td>cc</td><td></td><td></td><td></td><td>h</td><td></td>
+<tr><td></td><td colspan="2">唇音</td><td colspan="2">歯茎音</td><td colspan="2">そり舌音</td><td colspan="2">軟口蓋音</td></tr>
+<tr><td>鼻音</td><td colspan="2">m</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td rowspan="2">破裂音</td><td></td><td></td><td>t</td><td>d</td><td></td><td></td><td>k, kk</td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>gh</td></tr>
+<tr><td>摩擦音</td><td></td><td rowspan="2"></td><td>cc</td><td></td><td></td><td></td><td>h</td><td></td></tr>
 <tr><td>接近音</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>ふるえ音</td><td></td><td ></td><td></td><td>r</td><td colspan="2"></td><td></td><td></td></tr>
 </table>
@@ -378,15 +390,14 @@ j.v「タカンも」
 祖語のr/ʁ/に由来するleghúḷを除けば有気音は来てないですね。よし、pで良さそうですな。
 </li>
 <li>
-祖語の語頭bは…他に用例なしか。じゃあdはどうだろう。祖語dkoop > dhoḷop、祖語dradqng > dháradなので、なんか知らんがとりあえず有声有気になるっぽい。じゃあbhか。</li>
-</li>
+祖語の語頭bは…他に用例なしか。じゃあdはどうだろう。祖語dkoop &gt; dhoḷop、祖語dradqng &gt; dháradなので、なんか知らんがとりあえず有声有気になるっぽい。じゃあbhか。</li>
 </ul>
 <p>ということで、bhápúḷ「〜と(hína)同じである」を立てることにしよう。hemの補充形としての役割も果たすという感じで。</p>
 <p>んー、もっと漂白してコピュラにしてもいいか。ラテン語stō「私は立つ」が後世でコピュラ化した例もあることだし。</p>
 <p>ということで、面白いのでコピュラにしていきたいと思う。bhápúḷ「〜(hína)である」なので、例えば「かつて土手であった土地・領域」はṣomaḍi hína bhápakátá epaとかepa nána ṣomaḍi hína bhápakátáとか表せることになる。</p>
 
 <h3>19-2. 時間あたりの情報量密度</h3>
-<p>「バート語、時間あたりの情報量密度がかなり低くないか？」と思ったので「アリス」で検証してみよう。単母音・ai・auを1、長母音を2として数えると、"alic sáhomá woghiti cájau ṣomaḍi hína ṣíkahazená hem. ṣiṇṇa, baukká kolidhel cákíkakátá hem."は53で、
+<p>「バート語、時間あたりの情報量密度がかなり低くないか？」と思ったので「アリス」で検証してみよう。単母音・ai・auを1、長母音を2として数えると、"alic sáhomá woghiti cájau ṣomaḍi hína ṣíkahazená hem. ṣiṇṇa, baukká kolidhel cákíkakátá hem."は53で、</p>
 <blockquote>
 <pre>
 	アリスは川辺でおねえさんのよこにすわって、なんにもすることがないのでとても退屈しはじめていました。
@@ -400,10 +411,10 @@ j.v「タカンも」
 <p>そういえば、「〜から」って造語してないなぁ。作らねば。パイグ語でsak2だし、祖語srakkqから作ることになるのかなぁ。</p>
 <p>と思ったら祖語にwosle「〜から」という語があるらしい。タカンではocaだそうだ。じゃあそっちから作るか。</p>
 <ul>
-<li>slは「*slikau > ṣíkahúḷ」「*sljoomq > ṣomúḷ」「*nimslu > nímaṣ」があるのでṣで確定。</li>
-<li>oは「*fokjut > voghit」「*koli > koli」とかの例を見るにoでいいでしょ。「*momorq > baukká」はあるけど。</li>
-<li>eは「*fuepq > epa」「*phed > bhát」「*qmile' > amila」「*zee > zeúḷ」「*zeepq > zepha」。うーん、語末で開音節だしaでいいか。</li>
-<li>wは…未造語だな。まあ*fuepq > epaだからwは落ちそうだな。</li>
+<li>slは「*slikau &gt; ṣíkahúḷ」「*sljoomq &gt; ṣomúḷ」「*nimslu &gt; nímaṣ」があるのでṣで確定。</li>
+<li>oは「*fokjut &gt; voghit」「*koli &gt; koli」とかの例を見るにoでいいでしょ。「*momorq &gt; baukká」はあるけど。</li>
+<li>eは「*fuepq &gt; epa」「*phed &gt; bhát」「*qmile' &gt; amila」「*zee &gt; zeúḷ」「*zeepq &gt; zepha」。うーん、語末で開音節だしaでいいか。</li>
+<li>wは…未造語だな。まあ*fuepq &gt; epaだからwは落ちそうだな。</li>
 </ul>
 <p>ということで、後置詞oṣa「〜から」を造語。</p>
 
@@ -414,8 +425,8 @@ dradqng
 集団、団体
 
 dado.ar[名詞]集まり
-drad>dat2.pk[名詞][動詞]集まり、集団、団体、集まる、集める
->dhárad.bt[名詞]連合、連邦、党
+drad&gt;dat2.pk[名詞][動詞]集まり、集団、団体、集まる、集める
+&gt;dhárad.bt[名詞]連合、連邦、党
 dad ng.fs[名詞]集まり、集団、団体
 tadu.tk[名詞]集まり、集団、団体
 </pre>
@@ -432,21 +443,21 @@ tadu.tk[名詞]集まり、集団、団体
 <p>「AのBに似たB」（「火の色に似た色」「子供の振る舞いに似た振る舞い」）パターンと、「Aそのものに比喩的に似たB」（「宝石箱のような景色」）パターンがあるな。比況と例示の違いなのか？（わかっていない）</p>
 <p>「子供のような振る舞い」は「子供のように振る舞う」の名詞化として捉えられるから、emaの意味範囲に収まりそうだよなぁ。「子供のように描く」＝「子供が描くように描く」はghátuḍi ema leghúḷだが、「子供のような絵」はどうするか。「子供の描いたような絵」をそのまま訳せばghátuḍi ema leghadína/leghamúná/leghazená/leghabáta leghaと冗長である。まあ代動詞を使えばghátuḍi ema zadína/zamúná/zazená/zabáta leghaと、人称変化がある言語なので過去分詞を使うと作者を特定することになってしまう。</p>
 <p>目の前に「子供のような絵」があってもその作者は明らかとは限らないわけで、もっと動作主を漂白した表現が必要である。</p>
-<p>別の方面で考えてみよう。
+<p>別の方面で考えてみよう。</p>
 <p>パイグなら「彼は子供のように描く」が「彼如子筆絵」で「子供のような絵」が「如子絵」とか「如子之絵」とかだろう。「タカンのような人」を「如takan」と書いている用例もあるなぁ。とはいえ、「如子之絵」を*ghátuḍi emahomá leghaみたいするのもアレだし。</p>
 <p>となると、普通に「AはBに似ている・AはまるでBのようである」（Bは対格）という動詞を立てるのが無難な気がしてきた。なんか使えるのないかなーと思ったら牌cei2,藍ceixei「近」が使えそうだということになった。</p>
 <p>ラネーメ祖語に再構されていないので、<a href="http://jurliyuuri.com/praige-zerp/siar_prek.html#i8">古パイグsrei</a>を基準にしよう。</p>
 <p>s.yと話し合ったところ、祖語形はcrqiでよかろうということになった。その過程で参考にした要素は以下の通り。</p>
 <ul>
-	<li>アイルsh <- *sljoomq, *sloqsa</li>
-	<li>アイルx <- *xqmo（なおshとxにどう区別があるのかは不明）</li>
-	<li>*crophi > 牌cuop2</li>
-	<li>*airy, *iinq, *li^ngq > -eiアイル</li>
-	<li>ceeアイル < *zee</li>
+	<li>アイルsh &lt;- *sljoomq, *sloqsa</li>
+	<li>アイルx &lt;- *xqmo（なおshとxにどう区別があるのかは不明）</li>
+	<li>*crophi &gt; 牌cuop2</li>
+	<li>*airy, *iinq, *li^ngq &gt; -eiアイル</li>
+	<li>ceeアイル &lt; *zee</li>
 </ul>
-<p>さてこれがバートでどうなることやら。動詞なので-úḷがつくことを考えると、*sui > sujúḷから類推するに-júḷなのは確定だろう。末尾でない*qはaになりやすい(*qtaa > adha、*pqra > bhára、*sipql > síbha, ṣibhai）のでaかáかだな、さてどうしよう。</p>
+<p>さてこれがバートでどうなることやら。動詞なので-úḷがつくことを考えると、*sui &gt; sujúḷから類推するに-júḷなのは確定だろう。末尾でない*qはaになりやすい(*qtaa &gt; adha、*pqra &gt; bhára、*sipql &gt; síbha, ṣibhai）のでaかáかだな、さてどうしよう。</p>
 <p>ダイスロールするか。奇数ならa、偶数ならá。3。ということで-ajúḷ。</p>
-<p>cr-については、*dradq > dhárad、*srakkq > cákíkúḷから考えるに、c-でいいだろう。</p>
+<p>cr-については、*dradq &gt; dhárad、*srakkq &gt; cákíkúḷから考えるに、c-でいいだろう。</p>
 <p>ということで、cajúḷ「AはBに似ている・AはまるでBのようである」を立てよう。さて、対格かhínaか。原義「近い」ならhínaだろ。よし決定。</p>
 
 <h3>21-2. ek「〜らしい, 〜みたいだ」</h3>
@@ -494,7 +505,7 @@ tadu.tk[名詞]集まり、集団、団体
 <p>辞書にある動詞を「動作動詞」「瞬間動詞」「状態動詞」に分けていこう。「瞬間動詞」「状態動詞」にする場合は例文と要相談。</p>
 
 <table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
-	<tr><td>単語</td><td>語義</td><td>判定</td>
+	<tr><td>単語</td><td>語義</td><td>判定</td></tr>
 	<tr><td>accúḷ</td><td>書く</td><td>動作動詞</td></tr>
 	<tr><td>aḍuhazoúḷ</td><td>見る, 観測する</td><td>動作動詞</td></tr>
 	<tr><td>ákúḷ</td><td>読む</td><td>動作動詞</td></tr>
@@ -504,7 +515,7 @@ tadu.tk[名詞]集まり、集団、団体
 	<tr><td rowspan="2">bohúḷ</td><td>行く</td><td>動作動詞</td></tr>
 	<tr><td>去る</td><td>瞬間動詞<sup>[3][4]</sup></td></tr>
 	<tr><td>cákíkaúḷ</td><td>〜を訪れさせる</td><td>動作動詞</td></tr>
-	<tr><td rowspan="2">cákíkúḷ</td><td>来る、訪れる、来訪する</td><td>動作動詞</td>
+	<tr><td rowspan="2">cákíkúḷ</td><td>来る、訪れる、来訪する</td><td>動作動詞</td></tr>
 	<tr><td>〜(oṣa)が出身地である</td><td>状態動詞<sup>[5]</sup></td></tr>
 	<tr><td>hemúḷ</td><td>ある、存在する</td><td>状態動詞<sup>[6]</sup></td></tr>
 	<tr><td>horúḷ</td><td>書く、記録する</td><td>動作動詞</td></tr>
@@ -606,7 +617,7 @@ tadu.tk[名詞]集まり、集団、団体
 	<tr><td>suddenly</td><td>突然</td><td>副詞ってどう造語しような。用言で用言を修飾する表現を組み込んでそれで言うという手もあるが</td></tr>
 	<tr><td>a White Rabbit with pink eyes</td><td>ピンクいkátá adhadhel bhomakátá 白いkátá 兎</td><td>sáhomá woghitiが性質属格であるという結論が出た場合は、「ピンクhomá」でもアリだな。原文では固有名詞扱いだが、ここで人名接尾辞を使うのも違う気がするので一般名詞として翻訳</td></tr>
 	<tr><td>ran close by her</td><td>kábhau 〜の近くḍi hína 走るkátá.</td><td>
-	動詞にすることも考えたが、「kábhau(なんか具格の気分だった) 〜に場所的に近いbhápakátá epaḍi hína」は流石に冗長と判断。で、せっかくなので「Aの上」「Aの近く」とかは属格ではなく具格を取るということにした。韓国語だと無格縛りになってたりするし、属格じゃなくてもいい気が…と思ったが、現状の規則だと具格って動詞しか修飾できないのか。よかろう、規則追加だ。<br>今見てきたら「そもそも具格が何を修飾するか」すら書いてなかったな</td>
+	動詞にすることも考えたが、「kábhau(なんか具格の気分だった) 〜に場所的に近いbhápakátá epaḍi hína」は流石に冗長と判断。で、せっかくなので「Aの上」「Aの近く」とかは属格ではなく具格を取るということにした。韓国語だと無格縛りになってたりするし、属格じゃなくてもいい気が…と思ったが、現状の規則だと具格って動詞しか修飾できないのか。よかろう、規則追加だ。<br>今見てきたら「そもそも具格が何を修飾するか」すら書いてなかったな</td></tr>
 </table>
 <div class="box">
 <p><a href="alic2.txt">結果</a>：</p>
@@ -623,12 +634,12 @@ tadu.tk[名詞]集まり、集団、団体
 <p>しかし、hínaの頻度本当に高いなぁ、これ本当に毎回わざわざ[xi:na]って言っているんだろうか。というか、今は単数だからまだしも、複数だと-iná hínaとか-dhíná hínáとかになるぞ、流石にアレでは。</p>
 <p>うーむ、普通に日常会話だと縮約されそうだな。考えてみるか</p>
 <ul>
-	<li>ṣomaḍi hína -> ṣoma(d|dh|ḍ)ína</li>
-	<li>ṣomadhíná hína -> ṣomadhína</li>
-	<li>woghiti hína -> woghitína</li>
-	<li>dháradi hína -> dhára(d|dh)ína</li>
-	<li>dhoḷopi hína -> dhoḷo(p|ph)ína</li> 
-	<li>woghitiná hína -> woghitína</li>
+	<li>ṣomaḍi hína -&gt; ṣoma(d|dh|ḍ)ína</li>
+	<li>ṣomadhíná hína -&gt; ṣomadhína</li>
+	<li>woghiti hína -&gt; woghitína</li>
+	<li>dháradi hína -&gt; dhára(d|dh)ína</li>
+	<li>dhoḷopi hína -&gt; dhoḷo(p|ph)ína</li> 
+	<li>woghitiná hína -&gt; woghitína</li>
 </ul>
 <p>-(a)dínaは一人称過去分詞と衝突するっちゃするが、使用状況も違うし衝突してもおかしくないよなぁ</p>
 <p>よし、「複数の場合は縮約は義務、単数の場合は縮約は口語的」としよう。今までの例文では単数しか出てきていないので問題ない。</p>
@@ -641,7 +652,7 @@ tadu.tk[名詞]集まり、集団、団体
 	<tr><td>原文</td><td>翻訳</td><td>備考</td></tr>
 	<tr><td>There was nothing so VERY remarkable</td><td>とても とても 珍しいakátá ものたち ám hemakátá hem</td><td>強調は畳語</td></tr>
 	<tr><td>in that</td><td>koḍi hína</td><td>hemúḷなので当然hína</td></tr>
-	<tr><td>; nor did Alice think it so VERY much out of the way</td><td>そして, alic ám とても とても 不思議に思うzená hem.</td><td>「不思議に思う」は一語ということにする</tr>
+	<tr><td>; nor did Alice think it so VERY much out of the way</td><td>そして, alic ám とても とても 不思議に思うzená hem.</td><td>「不思議に思う」は一語ということにする</td></tr>
 	<tr><td>to hear the Rabbit say to itself, "A"</td><td>兎 自身ḍi ghi bhátúḷ, "A", kodhel ká 聞くúḷ ema </td><td>「〜に対して話す」といった、対象が目標になるような動作はhínaよりもghiで受けるってことにしたい。「花dhel 鎖ghi 変えるzebá」もそれ。最後のemaは「不思議に思う」の意味上の目的語。不定詞は格変化できないので、不定詞を対格にしたいときには一旦-úḷと書いてからこれをkodhelで受けることにしよう。</td></tr>
 	<tr><td>`Oh dear! Oh dear! I shall be late!’</td><td>há káṇa! há káṇa! 遅刻であるdíha hem!</td><td>文脈と人称変化で分かるのでápa訳出不要。状態動詞の未来形なのでhemは義務。時間に追われているときにバート人は「おお時間よ！」と言うらしい。</td></tr>
 	<tr><td>when she thought it over afterwards,</td><td>後homá káṇaḍi nána koḍi ema 再び heyáze hína,</td><td>関係節なので相対時制。日本語につられて過去時制にしないよう注意。</td></tr>
@@ -649,7 +660,7 @@ tadu.tk[名詞]集まり、集団、団体
 	「〜べきである」をどういう扱いにするかというのはこれから考える。</td></tr>
 	<tr><td>but at the time it all seemed quite natural</td><td>ṣiṇṇa, díom káṇaḍi hína ká dízá 全て とても 自然であるúḷ ema heyázená hem.</td><td>díom káṇaḍi hínaは「時刻Bに於いては」であることに留意すると、「当時は〜と考えていた」というだけなので過去分詞+hemで十分。これを語幹-bháp-過去分詞語尾 + hemにしてしまうと
 	「しかしながら、その時に於いては彼女はそれらを全てquite naturalであると、当時から考え終わっていた経験があった。」となってしまって合わない。<br>
-なお、こことかalic koḍi ema heyázená hem.とかにhemがついているのは、hemをつけないと「考える作業の最中であった」になるからである。ただ、そこまで考えなくとも、物語を語るときはだいたいhemをつけておけばいいというのもあって、実際第二段落最後の「走るkátá.」（consideringしている最中に走りという行為が突然入ってきているのだからhemは不適）以外は文末にhemがついている。</tr>
+なお、こことかalic koḍi ema heyázená hem.とかにhemがついているのは、hemをつけないと「考える作業の最中であった」になるからである。ただ、そこまで考えなくとも、物語を語るときはだいたいhemをつけておけばいいというのもあって、実際第二段落最後の「走るkátá.」（consideringしている最中に走りという行為が突然入ってきているのだからhemは不適）以外は文末にhemがついている。</td></tr>
 </table>
 
 <div class="box">
@@ -698,11 +709,11 @@ koḍi hína とても とても 珍しいakátá ものたち ám hemakátá he
 <p><a href="#i19_1">19-1.</a>に書いた「úḷの前に来る音一覧」を（bhápúḷを追加して）掲載すると</p>
 <div class="box">
 <table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
-<tr><td></td><td colspan="2">唇音</td><td colspan="2">歯茎音</td><td colspan="2">そり舌音</td><td colspan="2">軟口蓋音</td>
-<tr><td>鼻音</td><td colspan="2">m</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td>
-<tr><td rowspan="2">破裂音</td><td>p</td><td></td><td>t</td><td>d</td><td></td><td></td><td>k, kk</td><td></td>
-<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>gh</td>
-<tr><td>摩擦音</td><td></td><td rowspan="2"></td><td>cc</td><td></td><td></td><td></td><td>h</td><td></td>
+<tr><td></td><td colspan="2">唇音</td><td colspan="2">歯茎音</td><td colspan="2">そり舌音</td><td colspan="2">軟口蓋音</td></tr>
+<tr><td>鼻音</td><td colspan="2">m</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td rowspan="2">破裂音</td><td>p</td><td></td><td>t</td><td>d</td><td></td><td></td><td>k, kk</td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>gh</td></tr>
+<tr><td>摩擦音</td><td></td><td rowspan="2"></td><td>cc</td><td></td><td></td><td></td><td>h</td><td></td></tr>
 <tr><td>接近音</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>ふるえ音</td><td></td><td ></td><td></td><td>r</td><td colspan="2"></td><td></td><td></td></tr>
 </table>
@@ -717,11 +728,11 @@ koḍi hína とても とても 珍しいakátá ものたち ám hemakátá he
 
 <div class="box">
 <table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
-<tr><td></td><td colspan="2">唇音</td><td colspan="2">歯茎音</td><td colspan="2">そり舌音</td><td colspan="2">軟口蓋音</td>
-<tr><td>鼻音</td><td colspan="2">m</td><td colspan="2">n</td><td colspan="2"></td><td colspan="2"></td>
-<tr><td rowspan="2">破裂音</td><td>p</td><td></td><td>t</td><td>d</td><td></td><td></td><td>k</td><td></td>
-<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
-<tr><td>摩擦音</td><td></td><td rowspan="2"></td><td></td><td></td><td>ṣ</td><td></td><td></td><td></td>
+<tr><td></td><td colspan="2">唇音</td><td colspan="2">歯茎音</td><td colspan="2">そり舌音</td><td colspan="2">軟口蓋音</td></tr>
+<tr><td>鼻音</td><td colspan="2">m</td><td colspan="2">n</td><td colspan="2"></td><td colspan="2"></td></tr>
+<tr><td rowspan="2">破裂音</td><td>p</td><td></td><td>t</td><td>d</td><td></td><td></td><td>k</td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>摩擦音</td><td></td><td rowspan="2"></td><td></td><td></td><td>ṣ</td><td></td><td></td><td></td></tr>
 <tr><td>接近音</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>ふるえ音</td><td></td><td></td><td></td><td></td><td colspan="2"></td><td></td><td></td></tr>
 </table>
@@ -782,10 +793,10 @@ j.v「suúḷと衝突するからなぁ」</pre>
 <p>などなど、なかなか結論が出なかったが、ラネーメ祖語の命令語尾*-zeに二人称も-mú-が融合した接尾辞-´zemを使うことになった。</p>
 <blockquote>
 <pre>
-fafs「*-ze+-mú~　-> -zem
-sujúl(Vj形動詞) -> súzem」
-fafs「Vj形動詞 -Vj -> 語幹動詞を長音化し、-zemを付ける。
-Aj形動詞 -aj -> -ai（？）
+fafs「*-ze+-mú~　-&gt; -zem
+sujúl(Vj形動詞) -&gt; súzem」
+fafs「Vj形動詞 -Vj -&gt; 語幹動詞を長音化し、-zemを付ける。
+Aj形動詞 -aj -&gt; -ai（？）
 一般動詞 úḷを除くだけ」
 </pre>
 </blockquote>
@@ -805,8 +816,8 @@ Aj形動詞 -aj -> -ai（？）
 <h3>28-4. 第三段落後半翻訳part2</h3>
 <table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
 	<tr><td>原文</td><td>翻訳</td><td>備考</td></tr>
-	<tr><td>she ran across the field after it,</td><td>野dhel 横切るma 走るma ká dídhel 追うzená hem.</td><td>さっそく-maである。「兎を追いかけて走った」がちょっと言いづらいので「兎は走って追った」と表現。</tr>
-	<tr><td>and fortunately</td><td>そしてその後 幸運ḍi cájau</td><td>「幸運を伴って」。cájauは便利。</tr>
+	<tr><td>she ran across the field after it,</td><td>野dhel 横切るma 走るma ká dídhel 追うzená hem.</td><td>さっそく-maである。「兎を追いかけて走った」がちょっと言いづらいので「兎は走って追った」と表現。</td></tr>
+	<tr><td>and fortunately</td><td>そしてその後 幸運ḍi cájau</td><td>「幸運を伴って」。cájauは便利。</td></tr>
 	<tr><td>was just in time to see it pop down a large rabbit-hole under the hedge.</td><td>káṇaḍi nána 兎 垣根bhau 下homá amáma 巣穴ḍi ghi 跳ねるma 入るká hína 折よく kodhel aḍuhazozená hem</td><td>「垣根の下」は基準具格。「下ḍi hína hemakátá 巣穴」は冗長なので性質属格で「下homá 巣穴」だが、amámaが挿入されているので文節は分断される。飛び込む対象・目標なのでghi。「ちょうど間に合った」が訳しにくいので「〜する時間においてちょうど此を見た。」と。</td></tr>
 </table>
 <p>よーし終わった。後は造語だ</p>
@@ -959,7 +970,7 @@ díom káṇaḍi hína 突然 kábhau 〜近くḍi hína ピンクhomá adhadh
 	<li>祖語が*raikqtであるので、kádはありそうだがḷが入る理由が見当たらず、改定前ファスマレーkodの残滓ぐらいしか思い当たる節がなさそう。そして改定前ファスマレーは廃止対象である。</li>
 </ul>
 <p>kádなら全て解決できる。</p>
-<p>ちなみに、私は最初káḷdaにすることも考えていたが、結局体系に合わない（-ḷd-はともかく、長母音の開音節縛り(言語学ではsuperheavy syllableの禁則と言うらしい)は強いので）し、語源に合わないし、あと「冠光」の音節数にも合わなかったりする。</li>
+<p>ちなみに、私は最初káḷdaにすることも考えていたが、結局体系に合わない（-ḷd-はともかく、長母音の開音節縛り(言語学ではsuperheavy syllableの禁則と言うらしい)は強いので）し、語源に合わないし、あと「冠光」の音節数にも合わなかったりする。</p>
 
 <p>ちなみに理語辞書とかで参照されていないことは確認済みである。</p>
 
@@ -998,28 +1009,28 @@ fafs「bliciは鳥の巣とかも指しそう」
 </blockquote>
 <p>ということでpogauかyotue。ダイスロールしたところpogau。</p>
 <pre>
-pouje.ar <=> bhán.bt
-phedu.ar <=> bhát.bt
-phoobo.ar <=> bhoma.bt
-pura.ar <=> bhára.bt
+pouje.ar &lt;=&gt; bhán.bt
+phedu.ar &lt;=&gt; bhát.bt
+phoobo.ar &lt;=&gt; bhoma.bt
+pura.ar &lt;=&gt; bhára.bt
 </pre>
-<p>とまあ、根拠しかないので頭子音はbh。foku.ar <=> woghit.bt を見てもkoli.ar <=> koli.btを見ても、po-はbho-でまあよさそう。</p>
+<p>とまあ、根拠しかないので頭子音はbh。foku.ar &lt;=&gt; woghit.bt を見てもkoli.ar &lt;=&gt; koli.btを見ても、po-はbho-でまあよさそう。</p>
 
 <blockquote>
 <pre>
-j.v「gについてはkaga.ar <=> káṇa.btがあったりする。」
+j.v「gについてはkaga.ar &lt;=&gt; káṇa.btがあったりする。」
 fafs「あ、gがṇになるのか」
 j.v「祖語^ng由来ですね」
 fafs「なるほどね」
 j.v「ちなみに、私も今知りましたが、実はバートに現在gは無いです」
 </pre></blockquote>
 
-<p>auについては、cikau.ar <=> ṣíkahúḷ.bt；chauchu.ar <=> zúḷ.bt。うーん。</p>
+<p>auについては、cikau.ar &lt;=&gt; ṣíkahúḷ.bt；chauchu.ar &lt;=&gt; zúḷ.bt。うーん。</p>
 <p>hはどこから生えてきたのだろうか。</p>
 
 <blockquote>
 <pre>
-j.v「最後のauは前例も理由もないし-auでいいと思うが、cikau.ar <=> ṣíkahúḷ.btが気になるなぁ。これ *ṣíkawúḷ > ṣíkahúḷかなぁ。」
+j.v「最後のauは前例も理由もないし-auでいいと思うが、cikau.ar &lt;=&gt; ṣíkahúḷ.btが気になるなぁ。これ *ṣíkawúḷ &gt; ṣíkahúḷかなぁ。」
 fafs「なるほどなぁ」
 j.v「となると、命令形はṣíkauにしたいですよね」
 fafs「あーー言語だ、いいぞー」
@@ -1049,7 +1060,7 @@ j.v「言語だなぁ」
 <p>ṣlを単一の子音として載せておいた。</p>
 
 <h3>32-3. 頻度</h3>
-<p>後置詞で詰まったので頻度解析。ちなみに、単語の一覧はdat.words.map(a=>a.entry.form).join(",")
+<p>後置詞で詰まったので頻度解析。ちなみに、単語の一覧は<code>dat.words.map(a=&gt;a.entry.form).join(",")</code>
 で取得するのが早い。</p>
 <p><a href="https://docs.google.com/spreadsheets/d/1a_w3QAIcznDzDWdW0Ciwzw3s-t8z6jlsSw44AGIq5SU/edit?usp=sharing">Google Spreadsheet</a>はこちら。-úḷとか外来語とかは取り除いてある。</p>
 
@@ -1252,7 +1263,7 @@ díom káṇaḍi hína seṇa kábhau 〜近くḍi hína numíjuhomá adhadhel
 
 <table border="1" cellspacing="0" cellpadding="3">
 	<tr><td></td><td>伝統表記(非縮約)</td><td>伝統表記(縮約)</td></tr>
-	<tr><td>rakkúḷ</td><td><img src="long_cons/1.png" height="80"/></td><td></td></td></tr>
+	<tr><td>rakkúḷ</td><td><img src="long_cons/1.png" height="80"/></td><td></td></tr>
 	<tr><td>nutta</td><td><img src="long_cons/2.png" height="80"/></td><td><img src="long_cons/6.png" height="80"/></td></tr>
 	<tr><td>ṣiṇṇa</td><td><img src="long_cons/3.png" height="80"/></td><td><img src="long_cons/7.png" height="80"/></td></tr>
 	<tr><td>baukká</td><td><img src="long_cons/4.png" height="80"/></td><td><img src="long_cons/8.png" height="80"/></td></tr></table>
@@ -1260,7 +1271,7 @@ díom káṇaḍi hína seṇa kábhau 〜近くḍi hína numíjuhomá adhadhel
 <p>波線にします。</p>
 <table border="1" cellspacing="0" cellpadding="3">
 	<tr><td></td><td>伝統表記(非縮約)</td><td>伝統表記(縮約)</td></tr>
-	<tr><td>rakkúḷ</td><td><img src="long_cons/1.png" height="80"/></td><td><img src="long_cons/5.png" height="80"/></td></td></tr></table>
+	<tr><td>rakkúḷ</td><td><img src="long_cons/1.png" height="80"/></td><td><img src="long_cons/5.png" height="80"/></td></tr></table>
 
 <p>で、現代表記ではどうするかというと、当然無子音字<img src="bhat_font/bhat_a.png" height="60" />にこれらの符号を適用するのだから、aQは<img src="long_cons/aq.png" height="40" />、auQは<img src="long_cons/auq.png" height="70" />、iQは<img src="long_cons/iq.png" height="60" />でuQは<img src="long_cons/uq.png" height="40" />。</p>
 <p>文法書にも書いてきた。</p>
@@ -1303,28 +1314,22 @@ printBhat2('"há,koDel- nánḍi hín sujúḷ- heyákáṣ-loQ');
 
 <h2>37. phonotactics</h2>
 
-<style>
-.alpha{background-color: #ffeeee}
-.beta{background-color: #eeeeff}
-.gamma{background-color: #eeeeee}
-.delta{background-color: #eeffee}
-</style>
 
 <h3>37-1. eの前に立つ子音</h3>
 <p><a href="#i33_2">33-2.</a>で唇音の後にeが来ないという話をしたが、もうちょい制約が厳しいという説があるので調べてみよう。</p>
 
 <table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
-<tr><td></td><td colspan="2">唇音</td><td colspan="2">歯茎音</td><td colspan="2">そり舌音</td><td colspan="2">軟口蓋音</td>
-<tr><td>鼻音</td><td colspan="2" class="beta">m</td><td colspan="2">n</td><td colspan="2">ṇ</td><td colspan="2"></td>
-<tr><td rowspan="2">破裂音</td><td>p</td><td class="starting">b</td><td class="beta">t</td><td class="delta">d</td><td class="delta">ṭ</td><td>ḍ</td><td>k</td><td>g</td>
-<tr><td>ph</td><td>bh</td><td></td><td class="beta">dh</td><td></td><td></td><td>kh</td><td rowspan="2">gh</td>
-<tr><td>摩擦音</td><td></td><td rowspan="2">w</td><td class="beta">c</td><td class="delta">s</td><td>ṣ</td><td></td><td class="beta">h</td>
+<tr><td></td><td colspan="2">唇音</td><td colspan="2">歯茎音</td><td colspan="2">そり舌音</td><td colspan="2">軟口蓋音</td></tr>
+<tr><td>鼻音</td><td colspan="2" class="beta">m</td><td colspan="2">n</td><td colspan="2">ṇ</td><td colspan="2"></td></tr>
+<tr><td rowspan="2">破裂音</td><td>p</td><td class="starting">b</td><td class="beta">t</td><td class="delta">d</td><td class="delta">ṭ</td><td>ḍ</td><td>k</td><td>g</td></tr>
+<tr><td>ph</td><td>bh</td><td></td><td class="beta">dh</td><td></td><td></td><td>kh</td><td rowspan="2">gh</td></tr>
+<tr><td>摩擦音</td><td></td><td rowspan="2">w</td><td class="beta">c</td><td class="delta">s</td><td>ṣ</td><td></td><td class="beta">h</td></tr>
 <tr><td>接近音</td><td></td><td></td><td class="beta">l</td><td></td><td >ḷ</td><td></td><td></td></tr>
 <tr><td>ふるえ音</td><td></td><td ></td><td></td><td class="delta">r</td><td colspan="2"></td><td></td><td></td></tr>
 </table>
 <br>
 <table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
-<tr><td>x</td><td class="beta">z</td><td>j</td><td>y</td><td>ṣl</tr>
+<tr><td>x</td><td class="beta">z</td><td>j</td><td>y</td><td>ṣl</td></tr>
 </table>
 <br>
 <table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
@@ -1339,24 +1344,24 @@ printBhat2('"há,koDel- nánḍi hín sujúḷ- heyákáṣ-loQ');
 ???「なぜṭの前で立つの？」
 j.v「ṭはzみたいなもんだからです」
 </pre>
-<p>とはいえ、なんかhuzeúḷは違和感あるんだよな、と思って調べたら-uz-も-úz-も不存在か。じゃあなんかのタイミングで-uz- > -uṭが起きたんだろうなぁ。</p>
+<p>とはいえ、なんかhuzeúḷは違和感あるんだよな、と思って調べたら-uz-も-úz-も不存在か。じゃあなんかのタイミングで-uz- &gt; -uṭが起きたんだろうなぁ。</p>
 
 <p>まあとりあえず、基本としては「歯茎音かh」という謎規則があることが分かった気がする。あと鼻音も禁則かな。</p>
 
 <h3 id="i37_2">37-2. oの前に立つ子音</h3>
 
 <table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
-<tr><td></td><td colspan="2">唇音</td><td colspan="2">歯茎音</td><td colspan="2">そり舌音</td><td colspan="2">軟口蓋音</td>
-<tr><td>鼻音</td><td colspan="2">m</td><td colspan="2">n</td><td colspan="2">ṇ</td><td colspan="2"></td>
-<tr><td rowspan="2">破裂音</td><td>p</td><td  class="beta">b</td><td>t</td><td>d</td><td>ṭ</td><td>ḍ</td><td class="beta">k</td><td>g</td>
-<tr><td>ph</td><td class="beta">bh</td><td></td><td class="beta">dh</td><td></td><td></td><td>kh</td><td rowspan="2">gh</td>
-<tr><td>摩擦音</td><td></td><td rowspan="2" class="beta">w</td><td>c</td><td>s</td><td class="beta">ṣ</td><td></td><td class="beta">h</td>
+<tr><td></td><td colspan="2">唇音</td><td colspan="2">歯茎音</td><td colspan="2">そり舌音</td><td colspan="2">軟口蓋音</td></tr>
+<tr><td>鼻音</td><td colspan="2">m</td><td colspan="2">n</td><td colspan="2">ṇ</td><td colspan="2"></td></tr>
+<tr><td rowspan="2">破裂音</td><td>p</td><td  class="beta">b</td><td>t</td><td>d</td><td>ṭ</td><td>ḍ</td><td class="beta">k</td><td>g</td></tr>
+<tr><td>ph</td><td class="beta">bh</td><td></td><td class="beta">dh</td><td></td><td></td><td>kh</td><td rowspan="2">gh</td></tr>
+<tr><td>摩擦音</td><td></td><td rowspan="2" class="beta">w</td><td>c</td><td>s</td><td class="beta">ṣ</td><td></td><td class="beta">h</td></tr>
 <tr><td>接近音</td><td></td><td></td><td class="delta">l</td><td></td><td  class="beta">ḷ</td><td></td><td></td></tr>
 <tr><td>ふるえ音</td><td></td><td ></td><td></td><td class="beta">r</td><td colspan="2"></td><td></td><td></td></tr>
 </table>
 <br>
 <table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
-<tr><td>x</td><td class="beta">z</td><td class="beta">j</td><td>y</td><td class="beta">ṣl</tr>
+<tr><td>x</td><td class="beta">z</td><td class="beta">j</td><td>y</td><td class="beta">ṣl</td></tr>
 </table>
 <br>
 <table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
@@ -1370,17 +1375,17 @@ j.v「ṭはzみたいなもんだからです」
 
 <p>-uz-の案件が出てきたので。</p>
 <table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
-<tr><td></td><td colspan="2">唇音</td><td colspan="2">歯茎音</td><td colspan="2">そり舌音</td><td colspan="2">軟口蓋音</td>
-<tr><td>鼻音</td><td colspan="2" class="delta">m</td><td colspan="2" class="beta">n</td><td colspan="2">ṇ</td><td colspan="2"></td>
-<tr><td rowspan="2">破裂音</td><td>p</td><td>b</td><td class="beta">tt</td><td>d</td><td class="delta">ṭ</td><td>ḍ</td><td>k</td><td>g</td>
-<tr><td>ph</td><td>bh</td><td></td><td>dh</td><td></td><td></td><td>kh</td><td rowspan="2">gh</td>
-<tr><td>摩擦音</td><td></td><td rowspan="2">w</td><td>c</td><td>s</td><td>ṣ</td><td></td><td class="beta">h</td>
+<tr><td></td><td colspan="2">唇音</td><td colspan="2">歯茎音</td><td colspan="2">そり舌音</td><td colspan="2">軟口蓋音</td></tr>
+<tr><td>鼻音</td><td colspan="2" class="delta">m</td><td colspan="2" class="beta">n</td><td colspan="2">ṇ</td><td colspan="2"></td></tr>
+<tr><td rowspan="2">破裂音</td><td>p</td><td>b</td><td class="beta">tt</td><td>d</td><td class="delta">ṭ</td><td>ḍ</td><td>k</td><td>g</td></tr>
+<tr><td>ph</td><td>bh</td><td></td><td>dh</td><td></td><td></td><td>kh</td><td rowspan="2">gh</td></tr>
+<tr><td>摩擦音</td><td></td><td rowspan="2">w</td><td>c</td><td>s</td><td>ṣ</td><td></td><td class="beta">h</td></tr>
 <tr><td>接近音</td><td></td><td></td><td>l</td><td></td><td class="beta">ḷ</td><td></td><td></td></tr>
 <tr><td>ふるえ音</td><td></td><td ></td><td></td><td>r</td><td colspan="2"></td><td></td><td></td></tr>
 </table>
 <br>
 <table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
-<tr><td>x</td><td>z</td><td class="beta">j</td><td>y</td><td>ṣl</tr>
+<tr><td>x</td><td>z</td><td class="beta">j</td><td>y</td><td>ṣl</td></tr>
 </table>
 <br>
 <table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
@@ -1420,7 +1425,7 @@ j.v「ṭはzみたいなもんだからです」
 <p>「させる」か、なるほど。</p>
 <p>ちなみに、他動詞化接辞aは<a href="#i1_4_1">1-4-1</a>に出てきたcákíkúḷ「来る、訪れる」→cákíkaúḷ「訪れさせる、もたらす」の接辞のことである。<a href="http://jurliyuuri.com/bhaataan/coin.html#i3_1">coin.htmlの3-1.</a>で出てきたように、janúḷ「生じる」→janáúḷ「作る」のように-áとして現れることもある。</p>
 
-<p>で、思ったのは、「これってもともと-agh-といった形で、後にghが落ちたのでは？」という説。<a href="#i31_2">ṣlのところ(31-2.)</a>で「伝統的な綴り」の存在が示唆されたが、janáúḷはもともとjanaghúḷで、緩衝母音が入る大体の活用でjanagha- > janá- となったのかもしれない。kánaghúḷとかは普通にkánagha-のまま残っているからアレだが。</p>
+<p>で、思ったのは、「これってもともと-agh-といった形で、後にghが落ちたのでは？」という説。<a href="#i31_2">ṣlのところ(31-2.)</a>で「伝統的な綴り」の存在が示唆されたが、janáúḷはもともとjanaghúḷで、緩衝母音が入る大体の活用でjanagha- &gt; janá- となったのかもしれない。kánaghúḷとかは普通にkánagha-のまま残っているからアレだが。</p>
 
 <p>cákíkaúḷはどんな感じだろうか。*cákíkaghkátá から ghが落ちてcákíkakátá、それが規則化してcákíkaúḷかな。よさそう。kánaghúḷとかは-gh-のほうで規則化したんだろうなぁ。</p>
 
@@ -1445,7 +1450,7 @@ j.v「ṭはzみたいなもんだからです」
 
 
 <img src="alic_new_year.png" width="500" />
-<p>さて、よく見ると下から4行目、一番右のkodhelが<script>printBhat2('koDel-')</script>じゃなくて<script>printBhat2('koDal-')</script>になっているという。まあ普通にただのミスなのだが、<script>printBhat2('a')</script>がこの位置に来ることはないことを考えると、「現代表記において手書きとかでたまにこう書かれることがある」みたいにしても面白いかもなぁ。</p>
+<p>さて、よく見ると下から4行目、一番右のkodhelが<script>printBhat2('koDel-');</script>じゃなくて<script>printBhat2('koDal-');</script>になっているという。まあ普通にただのミスなのだが、<script>printBhat2('a');</script>がこの位置に来ることはないことを考えると、「現代表記において手書きとかでたまにこう書かれることがある」みたいにしても面白いかもなぁ。</p>
 
 <h3>42-4. 代動詞</h3>
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">バート語も、状態動詞の代動詞は存在動詞hemúḷを使う（動作動詞の場合はzúḷ「する」）</p>&mdash; .sozysozbot.@hsjoihs@jekto.vatimeliju (@sosoBOTpi) <a href="https://twitter.com/sosoBOTpi/status/952689116885348352?ref_src=twsrc%5Etfw">2018年1月14日</a></blockquote>
@@ -1466,7 +1471,7 @@ j.v「ṭはzみたいなもんだからです」
 <h2>44. 「新しい」</h2>
 <p><a href="coin2.html">造語ページ</a>に移動</p>
 
-<h2>45. いわゆる補助動詞</h2>
+<h2 id="auxi">45. いわゆる補助動詞</h2>
 <p>バート語ではそういう言い方をしないけど、不定詞を取る動詞についてまとめてみよう。ちなみに<code>(不定詞|[^h伐]ema)</code>で全文検索すると一発。</p>
 
 <div class="box">
@@ -1522,14 +1527,13 @@ j.v「ṭはzみたいなもんだからです」
 <p>sujakátáとかは微妙に違和感が無くもないが、bházahakátáの後半部分とリズムが同じだし、まあそこまで問題はなさそう。それよりは規則化意識の方が強く働きそう。</p>
 <p>-zについては、音節としてsujが立てないのでsúzかなぁ。súzemと同様である。</p>
 <p>あれか、「後述する形態素に含まれる母音が1つ以下で短母音である場合は母音語幹判定」とすればいいのか。</p>
-<style>.vow{color:red}.cons{color:blue}</style>
 <table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
 	<tr><td></td><td>heyáúḷ</td><td>hemúḷ</td><td>cánajúḷ</td><td>cajúḷ</td><td>rijúḷ</td><td>sujúḷ</td></tr>
-	<tr><td><span class="vow">-úḷ</span> / <span class="cons">-úḷ</span></td><td>heyá<span class="vow">-úḷ</span></td><td>hem<span class="cons">-úḷ</span></td><td>cánaj<span class="cons">-úḷ</span></td><td>caj<span class="cons">-úḷ</span></td><td>rij<span class="cons">-úḷ</span></td><td>suj<span class="cons">-úḷ</span></td>
-	<tr><td><span class="vow">-mú</span> / <span class="cons">-amú</span></td><td>heyá<span class="vow">-mú</span></td><td>hem<span class="cons">-amú</span></td><td>cánaj<span class="cons">-amú</span></td><td>caj<span class="cons">-amú</span></td><td>rij<span class="cons">-amú</span></td><td>suj<span class="cons">-amú</span></td>
-	<tr><td><span class="vow">-ma</span> / <span class="cons">-ama</span></td><td>heyá<span class="vow">-ma</span></td><td>hem<span class="cons">-ama</span></td><td>cánaj<span class="cons">-ama</span></td><td>caj<span class="vow">-ma</span></td><td>rij<span class="vow">-ma</span></td><td>sú<span class="vow">-ma</span></td>
-	<tr><td><span class="vow">-z</span> / <span class="cons">-az</span></td><td>heyá<span class="vow">-z</span></td><td>hem<span class="cons">-az</span></td><td>cánaj<span class="cons">-az</span></td><td>caj<span class="vow">-z</span></td><td>rij<span class="vow">-z</span></td><td>sú<span class="vow">-z</span></td>
-	<tr><td><span class="vow">-∅ ~ -zem</span> / <span class="cons">-∅</span> </td><td>heyá<span class="vow">-∅</span></td><td>hem<span class="cons">-∅</span></td><td>cánaj<span class="cons">-∅</span></td><td>caj<span class="vow">-zem</span></td><td>rij<span class="vow">-zem</span></td><td>sú<span class="vow">-zem</span></td>
+	<tr><td><span class="vow">-úḷ</span> / <span class="cons">-úḷ</span></td><td>heyá<span class="vow">-úḷ</span></td><td>hem<span class="cons">-úḷ</span></td><td>cánaj<span class="cons">-úḷ</span></td><td>caj<span class="cons">-úḷ</span></td><td>rij<span class="cons">-úḷ</span></td><td>suj<span class="cons">-úḷ</span></td></tr>
+	<tr><td><span class="vow">-mú</span> / <span class="cons">-amú</span></td><td>heyá<span class="vow">-mú</span></td><td>hem<span class="cons">-amú</span></td><td>cánaj<span class="cons">-amú</span></td><td>caj<span class="cons">-amú</span></td><td>rij<span class="cons">-amú</span></td><td>suj<span class="cons">-amú</span></td></tr>
+	<tr><td><span class="vow">-ma</span> / <span class="cons">-ama</span></td><td>heyá<span class="vow">-ma</span></td><td>hem<span class="cons">-ama</span></td><td>cánaj<span class="cons">-ama</span></td><td>caj<span class="vow">-ma</span></td><td>rij<span class="vow">-ma</span></td><td>sú<span class="vow">-ma</span></td></tr>
+	<tr><td><span class="vow">-z</span> / <span class="cons">-az</span></td><td>heyá<span class="vow">-z</span></td><td>hem<span class="cons">-az</span></td><td>cánaj<span class="cons">-az</span></td><td>caj<span class="vow">-z</span></td><td>rij<span class="vow">-z</span></td><td>sú<span class="vow">-z</span></td></tr>
+	<tr><td><span class="vow">-∅ ~ -zem</span> / <span class="cons">-∅</span> </td><td>heyá<span class="vow">-∅</span></td><td>hem<span class="cons">-∅</span></td><td>cánaj<span class="cons">-∅</span></td><td>caj<span class="vow">-zem</span></td><td>rij<span class="vow">-zem</span></td><td>sú<span class="vow">-zem</span></td></tr>
 </table>
 <p>cajúḷにも-zemを付けることにした。現状の説明だと「sujúḷのように、a以外の母音にjが後続している語幹末の場合、例外的に語幹を長音化して接尾辞-zemを付ける。sujúḷならsúzemである。」ってなっているけど、例えば（コロコロ）sánujúḷという動詞があったとして、これの命令がsánúかsánúzemかと聞かれれば自明にsánúなので、接尾辞-zemの役割は-jというよりも開音節単音節命令形の強調という感じがする。確かに、zeúḷの命令形は（zeでもよさそうだが）zezemの方がしっくり来る。</p>
 <p>ただ、その場合suúḷはどうなるだろう？数分考えたところ、長母音+ -zemのeを/ɛː/じゃなくて/ɛ/で読んでいることに気づいたので、sujúḷはsúzem <span style="font-family: 'Arial'">/zuːtʃɛm/</span>、suúlはsuzem <span style="font-family: 'Arial'">/zutʃɛːm/</span>と読む、とすればよさそう。</p>
@@ -1540,11 +1544,11 @@ j.v「ṭはzみたいなもんだからです」
 <p>つまり、</p>
 <table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
 	<tr><td>zúḷ</td><td>cajúḷ</td><td>rijúḷ</td><td>sujúḷ</td></tr>
-	<tr><td>z<span class="cons">-úḷ</span></td><td>caj<span class="cons">-úḷ</span></td><td>rij<span class="cons">-úḷ</span></td><td>suj<span class="cons">-úḷ</span></td>
-	<tr><td>z<span class="cons">-amú</span></td><td>caj<span class="cons">-amú</span></td><td>rij<span class="cons">-amú</span></td><td>suj<span class="cons">-amú</span></td>
-	<tr><td>zau<span class="vow">-ma</span></td><td>caj<span class="vow">-ma</span></td><td>rij<span class="vow">-ma</span></td><td>sú<span class="vow">-ma</span></td>
-	<tr><td>zau<span class="vow">-z</span></td><td>caj<span class="vow">-z</span></td><td>rij<span class="vow">-z</span></td><td>sú<span class="vow">-z</span></td>
-	<tr><td>zau<span class="vow">-zem</span></td><td>caj<span class="vow">-zem</span></td><td>rij<span class="vow">-zem</span></td><td>sú<span class="vow">-zem</span></td>
+	<tr><td>z<span class="cons">-úḷ</span></td><td>caj<span class="cons">-úḷ</span></td><td>rij<span class="cons">-úḷ</span></td><td>suj<span class="cons">-úḷ</span></td></tr>
+	<tr><td>z<span class="cons">-amú</span></td><td>caj<span class="cons">-amú</span></td><td>rij<span class="cons">-amú</span></td><td>suj<span class="cons">-amú</span></td></tr>
+	<tr><td>zau<span class="vow">-ma</span></td><td>caj<span class="vow">-ma</span></td><td>rij<span class="vow">-ma</span></td><td>sú<span class="vow">-ma</span></td></tr>
+	<tr><td>zau<span class="vow">-z</span></td><td>caj<span class="vow">-z</span></td><td>rij<span class="vow">-z</span></td><td>sú<span class="vow">-z</span></td></tr>
+	<tr><td>zau<span class="vow">-zem</span></td><td>caj<span class="vow">-zem</span></td><td>rij<span class="vow">-zem</span></td><td>sú<span class="vow">-zem</span></td></tr>
 </table>
 <p>これならコーパス（zamú）とも合うし、よさそう。</p>
 
@@ -1559,7 +1563,7 @@ j.v「ṭはzみたいなもんだからです」
 <p>というか、「複数形」の定義も考えねばな。リパライン語でledydを複数形にして「手が50本くらいありそうに聞こえる。」と言われたこともあったし。</p>
 <h3>49-3. 例文</h3>
 <p>例文を足すようにしてみた。とりあえずアリスを載せた。</p>
-<h3>49-4. ḍáz</h3>
+<h3 id="stores">49-4. ḍáz</h3>
 <p>ḍázの祖語形がdkoopという説があるが、なんか怪しいので語源不明にしておく。というかḍṭṇḷが語頭に立つ例がこいつしかないんだよなぁ。</p>
 
 <h2>50. 「アリス」gloss化</h2>
@@ -1705,7 +1709,7 @@ Wikipedia contributors, "Grammatical number," Wikipedia, The Free Encyclopedia, 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<h2>58. 仮定表現</h2>
+<h2 id="conditional">58. 仮定表現</h2>
 <p>バート語、仮定表現がない。ほしい。</p>
 <h3>58-1. タカン語</h3>
 <p>タカン語は牌hemをkenと借用し、wa（伐ja）と同等の品詞に分類される。伐jaは文接続詞なので、バートでいうなら文接続詞となるんだろう。</p>
@@ -1830,9 +1834,9 @@ Wikipedia contributors, "Grammatical number," Wikipedia, The Free Encyclopedia, 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <h2>63. メンテ</h2>
-<h2>63-1. nána</h2>
+<h3>63-1. nána</h3>
 <p>nánaには「どれ」の意味もあるぞ</p>
-<h2>63-2. k</h2>
+<h3>63-2. k</h3>
 <p>主格のときには、意味上単数でも複数として書くことがあるんよ。</p>
 
 <h2>64. 名詞末尾</h2>
@@ -1886,7 +1890,7 @@ Wikipedia contributors, "Grammatical number," Wikipedia, The Free Encyclopedia, 
 </ul>
 
 <h3>64-2. 子音幹名詞</h3>
-<h4>64-2-1. 子音の種類</h3>
+<h4>64-2-1. 子音の種類</h4>
 <table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
 <tr><td>-m</td><td>5</td><td>aṭam, hátaṣom, káṇám, lom, ákíjam</td></tr>
 <tr><td>-z</td><td>4 ~ 5</td><td>bákaz, heyáz, rijz, ríz, ḍáz</td></tr>
@@ -1903,17 +1907,17 @@ Wikipedia contributors, "Grammatical number," Wikipedia, The Free Encyclopedia, 
 <p>ただし、júgok, lipakoḷ, phúpenは除外した。</p>
 
 <table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
-<tr><td></td><td colspan="2">唇音</td><td colspan="2">歯茎音</td><td colspan="2">そり舌音</td><td colspan="2">軟口蓋音</td>
-<tr><td>鼻音</td><td colspan="2" class="beta">m</td><td colspan="2" class="beta">n</td><td colspan="2" class="alpha">ṇ</td><td colspan="2"></td>
-<tr><td rowspan="2">破裂音</td><td class="beta">p</td><td class="alpha">b</td><td class="beta">t</td><td class="beta">d</td><td class="beta">ṭ</td><td class="alpha">ḍ</td><td class="beta">k</td><td class="beta">g</td>
-<tr><td class="alpha">ph</td><td class="alpha">bh</td><td></td><td class="alpha">dh</td><td></td><td></td><td class="alpha">kh</td><td rowspan="2" class="alpha">gh</td>
-<tr><td>摩擦音</td><td></td><td rowspan="2" class="alpha">w</td><td class="alpha">c</td><td class="alpha">s</td><td class="beta">ṣ</td><td></td><td class="alpha">h</td>
+<tr><td></td><td colspan="2">唇音</td><td colspan="2">歯茎音</td><td colspan="2">そり舌音</td><td colspan="2">軟口蓋音</td></tr>
+<tr><td>鼻音</td><td colspan="2" class="beta">m</td><td colspan="2" class="beta">n</td><td colspan="2" class="alpha">ṇ</td><td colspan="2"></td></tr>
+<tr><td rowspan="2">破裂音</td><td class="beta">p</td><td class="alpha">b</td><td class="beta">t</td><td class="beta">d</td><td class="beta">ṭ</td><td class="alpha">ḍ</td><td class="beta">k</td><td class="beta">g</td></tr>
+<tr><td class="alpha">ph</td><td class="alpha">bh</td><td></td><td class="alpha">dh</td><td></td><td></td><td class="alpha">kh</td><td rowspan="2" class="alpha">gh</td></tr>
+<tr><td>摩擦音</td><td></td><td rowspan="2" class="alpha">w</td><td class="alpha">c</td><td class="alpha">s</td><td class="beta">ṣ</td><td></td><td class="alpha">h</td></tr>
 <tr><td>接近音</td><td></td><td></td><td class="alpha">l</td><td></td><td  class="alpha">ḷ</td><td></td><td></td></tr>
 <tr><td>ふるえ音</td><td></td><td></td><td></td><td class="alpha">r</td><td colspan="2"></td><td></td><td></td></tr>
 </table>
 <br>
 <table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
-<tr><td class="alpha">x</td><td class="beta">z</td><td class="alpha">j</td><td class="alpha">y</td><td class="alpha">ṣl</tr>
+<tr><td class="alpha">x</td><td class="beta">z</td><td class="alpha">j</td><td class="alpha">y</td><td class="alpha">ṣl</td></tr>
 </table>
 <br>
 <table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
@@ -1952,7 +1956,7 @@ Wikipedia contributors, "Grammatical number," Wikipedia, The Free Encyclopedia, 
 <h2>66. 類義語の意味用法</h2>
 <p>「用法」欄に書いていたもののうち、他の語との差別化について説明しているものを一括で「類義語の使い分け」と分類した。</p>
 
-<h2>67. ḍázの語源</h2>
+<h2 id="store">67. ḍázの語源</h2>
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">ḍaz「店、商店」の語源は*dkoop「島」とされることがあるけれど、音韻も意味も合わないことから、アイル語doche「店」と同根語であるという説が有力。 <a href="https://twitter.com/hashtag/bhaataan?src=hash&amp;ref_src=twsrc%5Etfw">#bhaataan</a></p>&mdash; バートさん(bhátaim) (@bhaataan_zepha) <a href="https://twitter.com/bhaataan_zepha/status/987548354283360257?ref_src=twsrc%5Etfw">2018年4月21日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">ḍazではなくḍáz。</p>&mdash; バートさん(bhátaim) (@bhaataan_zepha) <a href="https://twitter.com/bhaataan_zepha/status/987568278926123008?ref_src=twsrc%5Etfw">2018年4月21日</a></blockquote>
@@ -1994,13 +1998,13 @@ Wikipedia contributors, "Grammatical number," Wikipedia, The Free Encyclopedia, 
 <p>これも一応触れておいたほうが良さそう。原文では"but it had no pictures or conversations in it"だし。</p>
 <p>まあこれは簡単で、不定で否定のときにはバート語は単数なんですね。0は単数扱いなので。一方、「注文して届いているはずの複数の絵がまだ届いていない」とかならkom leghazá ám hemakátá hem. になる。</p>
 
-<h2>71. lとḷ</h2>
+<h2 id="light_l_dark_l">71. lとḷ</h2>
 <p>「そういえば、何故-úḷって-úlとも書かれるんだろう」と思った。考えた結果、「条件異音では？」となった。言われてみれば、語頭は必ずlだし、それ以外ならeとかiとかの隣りにある印象がある。pre-classical Latinではiとeの前でのみlはvelarじゃない、とかあったよな。</p>
 <p>いやまあzalloúḷがあるか。うーん。</p>
 <p>と思ったが、調べてみると、ラテン語ではllはclear lだったらしい。なるほどなぁ。</p>
 <p>全検索したところ、この法則は成り立っていた。</p>
 <p>ということで、「語頭」「ll」「eかiに隣り合う」のどれかの条件をみたすときはl、どれも満たさないならḷ、という規則が発見された。複合語形成時に注意すべき音韻法則としても便利そう。特に数詞とか。</p>
-<p>これアレだな、旧正書法だと多分同じ文字で綴ってたんだな。ただ、lが完璧に条件異音で/l ~ ɾ ~ ɭ/だった時代はそれで良かったんだろうけど、語末の/l/が/ɾə/になったりしたことで（というよりは、/lə/ > /ɾə/、/ɭə/ > /ɭ/という音韻法則だったのかもしれない。ここは今後要考察。）/l ~ ɾ/と/ɭ/が意識の上で分かれるようになると、例えば借用する際に元々の条件を満たさないphictiḷのような語形が生まれることになって、lとḷを書き分ける動機が生まれたという感じか。</p>
+<p>これアレだな、旧正書法だと多分同じ文字で綴ってたんだな。ただ、lが完璧に条件異音で/l ~ ɾ ~ ɭ/だった時代はそれで良かったんだろうけど、語末の/l/が/ɾə/になったりしたことで（というよりは、/lə/ &gt; /ɾə/、/ɭə/ &gt; /ɭ/という音韻法則だったのかもしれない。ここは今後要考察。）/l ~ ɾ/と/ɭ/が意識の上で分かれるようになると、例えば借用する際に元々の条件を満たさないphictiḷのような語形が生まれることになって、lとḷを書き分ける動機が生まれたという感じか。</p>
 <p>そもそも現正書法はかなり発音と綴りの一致を目指しているし、分ける理由があれば分けて書くだろうな。</p>
 
 <h2>72. k</h2>
@@ -2245,6 +2249,7 @@ Wikipedia contributors, "Grammatical number," Wikipedia, The Free Encyclopedia, 
 <p>タイトル通り。*cu^nla → ṣiṇṇaの説明。なおṣúはそのままなのでṣúsaとかになる。</p>
 
 <h2>81. phonotacticsのまとめが欲しい</h2>
+<h3>81-0. 覚えてるやつ</h3>
 <p>バート語のphonotacticsのまとめが欲しくなってきた。とりあえず、今覚えているだけ書き出してみよう。勿論借用語には適用されない。</p>
 <ul>
 	<li>語頭にṇとḷは立たない（それぞれnとlになったため）</li>
@@ -2264,6 +2269,7 @@ Wikipedia contributors, "Grammatical number," Wikipedia, The Free Encyclopedia, 
 この内、「語中にъは立たない」と「単純語でのsuperheavyな音節の禁止」は次に登場するbhátnímaṣが抵触するので、「複合語はその限りでない」としたほうがよさそう。
 </p>
 <p>語頭のṣlも禁止して良さそう。（ṣに行ったため）</p>
+<h3>81-1. 過去ログから回収</h3>
 <p>そろそろ思いつかなくなってきたので、今までのを見返そう。</p>
 <ul>
 	<li>語末に有声摩擦音は立たない</li>
@@ -2391,7 +2397,7 @@ Wikipedia contributors, "Grammatical number," Wikipedia, The Free Encyclopedia, 
 <p>一方、horabátは「人がhorabátをhorúḷする」なので三人称男性過去分詞なんじゃないかなぁ。</p>
 </div>
 <p>ということで、名詞化第五接尾辞に-(a)bátも追加されることになる。</p>
-<p>しかし、なぜhorabátは -azená > -azenaではなくて -abáta > -abát なのだろう。</p>
+<p>しかし、なぜhorabátは -azená &gt; -azenaではなくて -abáta &gt; -abát なのだろう。</p>
 <ol><li>-azenaという接辞はそもそも存在しない</li>
 <li>男女混合は女性で取るが、不明単数は男性で取る</li>
 <li>慣習</li></ol>
@@ -2520,7 +2526,7 @@ Wikipedia contributors, "Grammatical number," Wikipedia, The Free Encyclopedia, 
 <h3>89-2. 唇音+i</h3>
 <p>無いのだが、何故無いのかを考えてみようという話。唇音+iでなにが連想されるかを考えてみると、漢語音韻学で一部の三等韻の前で唇音が軽唇音化するという現象があった。なるほど、/f/に行くというのもアリか。まあ/f/は無いんだけど。</p>
 
-<p>なんと<a href="https://www.quora.com/What-are-some-of-the-most-unusual-examples-of-historical-phoneme-changes-occurring-in-languages-extant-or-extinct">pʲ > kʲ (some Romanian dialects, Tsakonian)</a>すらあるそうな。まあこの言語は/ʲ/の環境で大幅に音韻変化が起きているので、口蓋化であんまり変化が起きないバート語の変化として採用するにはあまり向いていないのだが。</p>
+<p>なんと<a href="https://www.quora.com/What-are-some-of-the-most-unusual-examples-of-historical-phoneme-changes-occurring-in-languages-extant-or-extinct">pʲ &gt; kʲ (some Romanian dialects, Tsakonian)</a>すらあるそうな。まあこの言語は/ʲ/の環境で大幅に音韻変化が起きているので、口蓋化であんまり変化が起きないバート語の変化として採用するにはあまり向いていないのだが。</p>
 
 <p>んーやっぱり/f/と/v/かなぁ、その/f/が後にどこに行くのかという問題はあるけど。あと、軽唇音化では変化の際に拗介音が吹っ飛ぶが、本家だと主母音i,eのときには起きていない。（したがってbiとかの音節がある）ということで漢語の軽唇音化とは異なる現象であるのだなぁ。</p>
 
@@ -2536,7 +2542,7 @@ Wikipedia contributors, "Grammatical number," Wikipedia, The Free Encyclopedia, 
 <p>語頭の子音については、今の所こういうデータが出ている。</p>
 
 <p>p類</p>
-<table class="qq" border=1 style="font-family: Arial">
+<table class="qq" border="1" style="font-family: Arial">
 <tr><td>祖語</td><td>バート</td><td>アイル</td><td>古牌</td><td>タカン</td></tr>
 <tr><td>*p-</td><td>bh-</td><td>p-, {p'-, ph-}</td><td>p-, pr-</td><td>m-</td></tr>
 <tr><td>*ph-</td><td>bh-</td><td>ph-, {p-}</td><td>f-, [fr-]</td><td>m-</td></tr>
@@ -2547,7 +2553,7 @@ Wikipedia contributors, "Grammatical number," Wikipedia, The Free Encyclopedia, 
 </table>
 
 <p>t類</p>
-<table class="qq" border=1 style="font-family: Arial">
+<table class="qq" border="1" style="font-family: Arial">
 <tr><td>祖語</td><td>バート</td><td>アイル</td><td>古牌</td><td>タカン</td></tr>
 <tr><td>[*t-]</td><td>d-</td><td>t-, t'-</td><td>t-, tr-</td><td>t-</td></tr>
 <tr><td>[*th-]</td><td>dh-</td><td>th-</td><td>[t-, tr-]</td><td>[t-]</td></tr>
@@ -2556,7 +2562,7 @@ Wikipedia contributors, "Grammatical number," Wikipedia, The Free Encyclopedia, 
 </table>
 
 <p>k類</p>
-<table class="qq" border=1 style="font-family: Arial">
+<table class="qq" border="1" style="font-family: Arial">
 <tr><td>祖語</td><td>バート</td><td>アイル</td><td>古牌</td><td>タカン</td></tr>
 <tr><td>*k-</td><td>k-, gh-</td><td>k-</td><td>k-</td><td>k-</td></tr>
 <tr><td>*kh-</td><td>kh-, gh-</td><td>k-</td><td>k-</td><td>k-</td></tr>
@@ -2708,7 +2714,7 @@ Wikipedia contributors, "Grammatical number," Wikipedia, The Free Encyclopedia, 
 <p>まあこんな感じか。-d-は確証に欠けるけど（dháradは「禁」の影響かもしれないし、kádは*t由来とされていてよく分からないので）</p>
 
 <p>p類</p>
-<table class="qq" border=1 style="font-family: Arial">
+<table class="qq" border="1" style="font-family: Arial">
 <tr><td>祖語</td><td>バート語頭</td><td>バート語中</td><td>アイル語頭</td><td>古牌語頭</td><td>タカン語頭</td></tr>
 <tr><td>*p</td><td>bh-</td><td>-ph- （ただし「禁」で無気化することが多い）</td><td>p-, {p'-, ph-}</td><td>p-, pr-</td><td>m-</td></tr>
 <tr><td>*ph</td><td>bh-</td><td>-bh-</td><td>ph-, {p-}</td><td>f-, [fr-]</td><td>m-</td></tr>
@@ -2717,7 +2723,7 @@ Wikipedia contributors, "Grammatical number," Wikipedia, The Free Encyclopedia, 
 </table>
 
 <p>t類</p>
-<table class="qq" border=1 style="font-family: Arial">
+<table class="qq" border="1" style="font-family: Arial">
 <tr><td>祖語</td><td>バート語頭</td><td>バート語中</td><td>アイル語頭</td><td>古牌語頭</td><td>タカン語頭</td></tr>
 <tr><td>[*t]</td><td>d-</td><td>-t-</td><td>t-, t'-</td><td>t-, tr-</td><td>t-</td></tr>
 <tr><td>[*th]</td><td>dh-</td><td>-dh-</td><td>th-</td><td>[t-, tr-]</td><td>[t-]</td></tr>
@@ -2726,7 +2732,7 @@ Wikipedia contributors, "Grammatical number," Wikipedia, The Free Encyclopedia, 
 </table>
 
 <p>k類</p>
-<table class="qq" border=1 style="font-family: Arial">
+<table class="qq" border="1" style="font-family: Arial">
 <tr><td>祖語</td><td>バート語頭</td><td>バート語中</td><td>アイル語頭</td><td>古牌語頭</td><td>タカン語頭</td></tr>
 <tr><td>*k</td><td>k-, gh-</td><td>-k-</td><td>k-</td><td>k-</td><td>k-</td></tr>
 <tr><td>*kh</td><td>kh-, gh-</td><td></td><td>k-</td><td>k-</td><td>k-</td></tr>
@@ -2741,13 +2747,13 @@ Wikipedia contributors, "Grammatical number," Wikipedia, The Free Encyclopedia, 
 	<li>aghauṭaは早期の借用っぽい</li>
 	<li>*qtaaは元からそり舌音の可能性がある</li>
 	<li>*taupho → *taupo</li>
-	<li>baukkáは本当に*momor₂q > baukhá > baukkáなのか？ただの例外単語では？</li>
+	<li>baukkáは本当に*momor₂q &gt; baukhá &gt; baukkáなのか？ただの例外単語では？</li>
 	<li>kádは本当に*r₁aikqt → /xeːkəd/ → /keːxad/ → /keːɦad/ → /kæːd/ → kádか？</li>
 	<li><span style="font-weight: bold; font-size:110%">無声無気と無声有気の対立、無くね？</span>（語頭のk- vs. kh-を除く）<span style=" font-size:80%">（これも藍kuaka, 牌kuak1を見ると祖語に反映されていない-u-が気になるところだが）（ /kʍ ~ kɰ̊ ~ kxʷ/ らへんなのか？？？）</span>まあ後に有気性の差が語末短化の有無を支配する条件になっていくわけだけど</li>
-	<li>語中だと<span style="font-weight: bold; font-size:110%">有声無気と有声有気の対立も無くね？</span>…とはいえ、「*thと*dは早い段階で合流していて、*dは本当は-dh-（これなら語頭も説明がつく）」と仮定すると、*thと*dが合流する一方で*phと*bが語中でのみ分かれる、とかになるのでなぁ。（いやでも、「語中*bは本来-bh-だけど、『禁』で生まれた語中bはmに行く」という仮説は立てられるな。あと*phoobo > bhobhə なので、異化ということにもできる。んー保留。）</li>
+	<li>語中だと<span style="font-weight: bold; font-size:110%">有声無気と有声有気の対立も無くね？</span>…とはいえ、「*thと*dは早い段階で合流していて、*dは本当は-dh-（これなら語頭も説明がつく）」と仮定すると、*thと*dが合流する一方で*phと*bが語中でのみ分かれる、とかになるのでなぁ。（いやでも、「語中*bは本来-bh-だけど、『禁』で生まれた語中bはmに行く」という仮説は立てられるな。あと*phoobo &gt; bhobhə なので、異化ということにもできる。んー保留。）</li>
 </ul>
 
-<h3>89-6. 「yは直後にa, á, oを要求する」</h3>
+<h3 id="no_yu">89-6. 「yは直後にa, á, oを要求する」</h3>
 <p>寝ていたら「yの直後にu, úが来ないのではない、yu, yúのことをju, júと綴るのが正書法なのだ」みたいなお告げが発生した。なおお告げは「yの直後にoが来ないのではない、yoのことをjoと綴るのが正書法なのだ」とも言っていたのだが、バート語にはjoも-yoも存在するのである。お告げ、バート語を理解していないらしい（んーでもjoは現状jo一語だな）（逆に-yoはアイル-uvooに対応する-íyoだけだな）</p>
 
 <h3>89-7. bhoma</h3>
@@ -2775,7 +2781,7 @@ Wikipedia contributors, "Grammatical number," Wikipedia, The Free Encyclopedia, 
 
 <p>ギリシャ語にはπφ, τθ, κχがあるけれど、バートはどうなんだろう。</p>
 
-<p>という問を思いついた直後ぐらいに答えが現れた。そもそも89-8.の音法則から見るに、2. - 4. の時代については語中に来る音素は（流音・摩擦音系列除くと） /pʰ/ /bʱ/ /b/ /m/; /t/ /dʱ/ /d/ /n/; /k/ /gʱ/ /g/ /ŋ/ なので、有声阻害音の重子音禁止則に従うと /ppʰ/ /mm/ /tt/ /nn/ /kk/ /ŋŋ/ (> /ɳɳ/) しか出ないんですな。</p>
+<p>という問を思いついた直後ぐらいに答えが現れた。そもそも89-8.の音法則から見るに、2. - 4. の時代については語中に来る音素は（流音・摩擦音系列除くと） /pʰ/ /bʱ/ /b/ /m/; /t/ /dʱ/ /d/ /n/; /k/ /gʱ/ /g/ /ŋ/ なので、有声阻害音の重子音禁止則に従うと /ppʰ/ /mm/ /tt/ /nn/ /kk/ /ŋŋ/ (&gt; /ɳɳ/) しか出ないんですな。</p>
 
 <p>さて問題は表記である。伝統表記なら重子音記号を使えばいいが、現代表記だと -p + ph- になりそうか -ph + ph- になりそうか考えねば。とはいえ、点一つでしか違わないしどっちでもいいかもな。</p>
 
@@ -2797,9 +2803,9 @@ Wikipedia contributors, "Grammatical number," Wikipedia, The Free Encyclopedia, 
 <p>普通話では中古漢語の</p>
 <ul>
 <li>/ɕ/系統</li>
-<li>(/ti/ >) /tɕ/系統</li>
-<li>(/tr/ >) /ʈ/系統</li>
-<li>(/tsr/ >) /ʈʂ/系統</li>
+<li>(/ti/ &gt;) /tɕ/系統</li>
+<li>(/tr/ &gt;) /ʈ/系統</li>
+<li>(/tsr/ &gt;) /ʈʂ/系統</li>
 </ul>
 <p>が/ʂ/や/ʈʂ/系統に行き、中古漢語の</p>
 
@@ -2821,7 +2827,7 @@ Wikipedia contributors, "Grammatical number," Wikipedia, The Free Encyclopedia, 
 
 <p>あ、あとどういうそり舌音なのかの話もあったな。個人的にはlaminal post-alveolarを推したい。自分での発音がそれだし。</p>
 
-<h2>93. 名前</h2>
+<h2 id="naming">93. 名前</h2>
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">ここ最近バート語創作あんまりやれてない（9月に至ってはコミット数0）にも関わらず、「アリス」冒頭を久々に書き出してみたら完璧に覚えていたという <a href="https://twitter.com/hashtag/bhaataan?src=hash&amp;ref_src=twsrc%5Etfw">#bhaataan</a></p>&mdash; .sozysozbot.@hsjoihs@jekto.vatimeliju (@sosoBOTpi) <a href="https://twitter.com/sosoBOTpi/status/1047211209966014464?ref_src=twsrc%5Etfw">2018年10月2日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -2856,23 +2862,10 @@ Wikipedia contributors, "Grammatical number," Wikipedia, The Free Encyclopedia, 
 
 <p>なお、ラテン字転写では上付きと下付きの0を使って表すことにする。便利だからね。</p>
 
-<style>
-.qq i {
-	font-family: "Times New Roman";
-}
-i.bhateme {
-	font-family: "Times New Roman";
-}
-</style>
 
 <p>祖語との対応は次のような感じ。</p>
-<table class="qq" border=1 style="font-family: Arial">
-	<tr></tr>
-	<tr></tr>
-	<tr></tr>
-</table>
 
-<table class="qq" border=1 style="font-family: Arial">
+<table class="qq" border="1" style="font-family: Arial">
 	<tr><td><i>p⁰</i> : *b</td><td><i>t⁰</i> : *d</td><td><i>k⁰</i> : *g</td></tr>
 	<tr><td><i>p₀</i> : *p</td><td><i>t₀</i> : *t</td><td><i>k₀</i> : *k</td></tr>
 	<tr><td><i>₀p</i> : *ph</td><td><i>₀t</i> : *th</td><td><i>₀k</i> : *kh</td></tr>
@@ -2988,11 +2981,11 @@ i.bhateme {
 <p>だいたいこんな感じだろうな。</p>
 <img src="img/bhat_4corners.png" width="700"/>
 
-<h3>95-2. 面白い話</h2>
+<h3>95-2. 面白い話</h3>
 
 <p>タカンも右上の点で濁音らしい。へー。どっちかがどっちかに影響したということにできるな。</p>
 
-<h3>95-3. なぜ<i class="bhateme">₀pa₀pa</i>と口唱しないのか</h2>
+<h3>95-3. なぜ<i class="bhateme">₀pa₀pa</i>と口唱しないのか</h3>
 
 <p>/bʱabʱa/は[bʱaba]だからですね。</p>
 
@@ -3034,11 +3027,11 @@ i.bhateme {
 
 <p>bháって今の所bháhepaしか派生語が無いし、例文も無いな。じゃあ今から精密な語義を決めてもいいのか。</p>
 
-<h3>98-3. 用言じゃなくて副詞の用法なんじゃない？</h3>
+<h3 id="all_bha">98-3. 用言じゃなくて副詞の用法なんじゃない？</h3>
 
 <p>そもそも類推する方向が違うよね。bhá + kとかで「すべて」、bhá + káṇaとかで「常に」とかの副詞を生むんじゃないの？用言用法なんてなかったんや。（あ、amámaは用言用法あってもいいかもね。）</p>
 
-<p>さてどういう複合語になるんだろう。まあbháhepa (< bhá *fuepq) 見ても分かるように名詞句から派生した副詞なので、名詞の語末短縮は起こっているとしてよさそう。</p>
+<p>さてどういう複合語になるんだろう。まあbháhepa (&lt; bhá *fuepq) 見ても分かるように名詞句から派生した副詞なので、名詞の語末短縮は起こっているとしてよさそう。</p>
 
 <p>さて<s>bhágháṇaは一応禁則ではないが（現代のghは有気じゃないので）、kが反映形として許されている以上類推上も不利だし、まあbhákáṇaでしょう。問題はbhá + kで、というのもこれはbhágが許される。3.の時代（いい加減名前付けたいですね）bhogが許されるので</s>語中ならなおさら濁らないんだが？bhákáṇaとbhákで確定。</p>
 
@@ -3088,15 +3081,15 @@ i.bhateme {
 </div>
 <p>とあるが、明文化していなかったので、『-omと-homá、-omáと-homeの差は特にないが、-omは代名詞に使われることが多く、一般名詞には-homáと-omáが使われる傾向がある。ただしkoに関しては*koomではなくkohomá。』と記載。</p>
 
-<h2>102. なぜ語末に立てる摩擦音はṣだけなのだろうか？</h2>
+<h2 id="akaze">102. なぜ語末に立てる摩擦音はṣだけなのだろうか？</h2>
 <p>これについては、「-cも立てたが、こっちは/h/かなんかにdebuccalizeした後に消えたのではないか」という説を立てた。歯音以外はdebuccalizeしなかったのでṣは残ったという説。</p>
 <p>根拠の一つとして、woghit ákazeなどにおいて-tが声門閉鎖音として実現できるという話がある。-p, -kに関してはこれが起きていないので、歯音を特別視するのがセーフになるのではという説である。</p>
 
 <h2>103. 辞書更新</h2>
 <p>英語版辞書を日本語版辞書に追いつかせた。現在311単語で、英訳終わってないのは現状21単語なので93.2%翻訳が終わっている。</p>
 
-<a href="https://zpdic.herokuapp.com/dictionary/52">英語版</a>
-<a href="https://zpdic.herokuapp.com/dictionary/24">日本語版</a>
+<a href="http://zpdic.ziphil.com/dictionary/52">英語版</a>
+<a href="http://zpdic.ziphil.com/dictionary/24">日本語版</a>
 
 <p>ちなみに未翻訳は<code>[^\s!-~áíúṭḍṣṇḷ藍牌→←伐理ヴェフィス皇]</code>で検索すると一発で分かる。</p>
 
@@ -3213,11 +3206,11 @@ https://en.wikipedia.org/wiki/Voiceless_bilabial_stop
 <p>ということで2. 7. 8.の性質を持つ変種が考案された。</p>
 
 <table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
-<tr><td></td><td colspan="2">唇音</td><td colspan="2">歯茎音</td><td colspan="2">そり舌音</td><td colspan="2">硬口蓋音<br>歯茎硬口蓋音</td><td colspan="2">軟口蓋音</td>
-<tr><td>鼻音</td><td colspan="2">m [m]</td><td colspan="2">n [n]</td><td colspan="2">ṇ [ɳ]</td><td colspan="2">ṇ, nь- [ɲ]</td><td colspan="2">ṇṇ [ŋŋ]</td>
-<tr><td>破裂音</td><td>p [p]</td><td>b [b]</td><td>t [t]</td><td>d, dh [d]</td><td>ṭ [ʈ]</td><td>ḍ [ɖ]</td><td></td><td></td><td>k [k]</td><td>(g [ɡ])</td>
-<tr><td>破擦音</td><td></td><td></td><td>z [ts]</td><td></td><td>z [ʈʂ]</td><td></td><td>zь-, kь-, khь- [tɕ]</td><td></td><td></td><td></td>
-<tr><td>摩擦音</td><td>ph [f]</td><td rowspan="2">bh, w [v ~ ʋ ~ w]</td><td>c [s]</td><td>s [z]</td><td>ṣ, ṣl [ʂ]</td><td></td><td>x, hь- [ɕ]</td><td></td><td>kh, h [x]</td><td>gh [ɣ]</td>
+<tr><td></td><td colspan="2">唇音</td><td colspan="2">歯茎音</td><td colspan="2">そり舌音</td><td colspan="2">硬口蓋音<br>歯茎硬口蓋音</td><td colspan="2">軟口蓋音</td></tr>
+<tr><td>鼻音</td><td colspan="2">m [m]</td><td colspan="2">n [n]</td><td colspan="2">ṇ [ɳ]</td><td colspan="2">ṇ, nь- [ɲ]</td><td colspan="2">ṇṇ [ŋŋ]</td></tr>
+<tr><td>破裂音</td><td>p [p]</td><td>b [b]</td><td>t [t]</td><td>d, dh [d]</td><td>ṭ [ʈ]</td><td>ḍ [ɖ]</td><td></td><td></td><td>k [k]</td><td>(g [ɡ])</td></tr>
+<tr><td>破擦音</td><td></td><td></td><td>z [ts]</td><td></td><td>z [ʈʂ]</td><td></td><td>zь-, kь-, khь- [tɕ]</td><td></td><td></td><td></td></tr>
+<tr><td>摩擦音</td><td>ph [f]</td><td rowspan="2">bh, w [v ~ ʋ ~ w]</td><td>c [s]</td><td>s [z]</td><td>ṣ, ṣl [ʂ]</td><td></td><td>x, hь- [ɕ]</td><td></td><td>kh, h [x]</td><td>gh [ɣ]</td></tr>
 <tr><td>接近音</td><td></td><td></td><td>l [l]</td><td></td><td>ḷ [ɭ]</td><td></td><td>j, y, lь-, ghь- [j]</td><td></td><td></td></tr>
 <tr><td>ふるえ音・はじき音</td><td></td><td ></td><td></td><td>r [r ~ ɾ]</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
@@ -3259,7 +3252,7 @@ https://en.wikipedia.org/wiki/Voiceless_bilabial_stop
 <h2>117. nínaccú</h2>
 
 <h3>117-1. 語義</h3>
-<p>「貝葉」。貝の一種ではなく、pattra >「貝多羅葉」の略だそうな。伐英辞書ではpalm-leaf manuscriptとしている。Wikipediaさまさまである。で、まあaccúと言ってるんだし、manuscriptだし、「貝葉コレクション」というのは書き込まれたものしか含んでいないだろうし、書き込まれたもののことしか指せない（未記入のには使わない）気がしたのでそうする。</p>
+<p>「貝葉」。貝の一種ではなく、pattra &gt;「貝多羅葉」の略だそうな。伐英辞書ではpalm-leaf manuscriptとしている。Wikipediaさまさまである。で、まあaccúと言ってるんだし、manuscriptだし、「貝葉コレクション」というのは書き込まれたものしか含んでいないだろうし、書き込まれたもののことしか指せない（未記入のには使わない）気がしたのでそうする。</p>
 
 <p>nín単独、まあ「紙」でしょうな。で、-úだけど、これが幻の「名詞化第二接尾辞」なのでは。意味用法はよくわかんないけど。</p>
 
@@ -3267,15 +3260,2674 @@ https://en.wikipedia.org/wiki/Voiceless_bilabial_stop
 
 <p>*nu'a [nuʔa]がnuttaになるのはまだ分かるとして、*0₂i'q [iʔə]がhínaなのはわけが分からんが。あ、まあ*i'q の後に鼻音で始まる別形態素がくっついたと考えればありえそうか。</p> 
 
+<h2>119. レシェール</h2>
+<p>lexeḷを辞書に載せ忘れていたので載せた。</p>
+
+<h2>120. 動詞について</h2>
+<h3>120-1. amúḷ + -ma → ammama </h3>
+	<p>一音節で短母音からなる子音幹はあと鼻音しかありえないので、長子音化するという規則がありえる。納得がいったので採用。ちなみに2019年3月末ぐらいにはあった発想。</p>
+<h3>120-2. 地域変種案</h3>
+<ul>
+	<li>ṣíkahazená が syncope して ṣíkahzená になる話者と子音脱落して  ṣíkázená になる話者、いそう</li>
+	<li>「長母音 + zĕm」 → 「長母音 + zim」だけど「短母音 + zēm」 → 「短母音 + zēm」な方言</li>
+</ul>
+<h3>120-3. suúlは強語幹を持たないdefectiveな動詞な気がしてきた。su_zau- で補充されそう</h3>
+<p>というか、zúḷやcahúḷとまとめて-au系のをひとまとめにしてもよい気がしてきた</p>
+
+<h2>121. バート語の仮名への転写法</h2>
+<p><a href="transcription.html">バート語の仮名への転写法</a>を定めた。</p>
+
+<h2>122. 自学自習</h2>
+<p>バート語創作者であるjekto.vatimelijuがあまりにもバート文字とバート語文法を覚えていないのを憂いて、<a href="https://twitter.com/bhaataan_zepha">バートさん</a>が直々にjekto.vatimelijuにバート語を教えてくれることになった。やったぜ。</p>
+<p>内容は<a href="./learn/index.html">こちら</a>から確認できる。</p>
+<p>ところで、このセクションのタイトルがどのような文字列であるか確認してみようか。</p>
+
+<h2>123. záúḷ, -záúḷ</h2>
+<p>使役接辞 -a- は非使役と区別がつかず紛らわしい。ということでzúḷに使役接辞入れたzáúḷを補助動詞として使うという形も用意されていそうだとなり、採用した。</p>
+<p>…んー、aḍuhazozáúḷはなんか違う気がするな。aḍuhazobhápazenáは違和感ないけど。aḍuhazoazáúḷ…んー。zallozáúḷは違和感ないのでaḍuhazo-だけ無理なのかな。まあ元々zúḷが入ってるし。あ、aḍuhazáúḷだな、これだ。末尾がzúḷだからこうなるのか。</p>
+
+<h2>124. 末尾-c</h2>
+<p>recúḷの命令形recがあるんだし、末尾cにも普通にbhátán rásitはあるのでは？debuccalizeして消えたという説に根拠がそんなにない。ただ、閉音節化の対象では（なぜか）なかったがために語末にあまり来ないのかもしれない。</p>
+<p>ただ、accúḷの命令形がacc [assə] であることを考えると、recúḷの命令形はrec [re̞ːsə] なのかもしれない。-lと同じく-cもシュワー挿入を起こすのかもしれない。</p>
+<p>reṣになるという可能性もあるのかもしれない。ちょうど-ṣúḷは空席だし。ちなみにそもそも語中cはもともと語根acc-とjuecleoneしかなかったという話もあったりする。</p>
+
+<h2>125. 他動詞の使役化ってどうなるの</h2>
+
+<h3>125-1. 他動詞の使役化ってどうなるの</h3>
+<p>考えてなかった。考えよう。</p>
+<p>考えた結果、元の文の目的語は対格で保持、元の文の主語は†具格†に化けることとなった。ほんと何にでもでてくるな具格。「〜を用いて」以外では。</p>
+<p>まあ、具格の最も基本的な意味は「〜を用いて」であって、それ以外の特殊な用法ばかり辞書に載っている、というだけだろう。</p>
+<p>あ、「基準具格」という用語を文法書に足していなかった。リパライン語訳も載せとくか。leusursans fon fisartとかでいいんかな？じゃあこれと対比して「使役具格」という用語も足せばいいか。</p>
+
+<h3>125-2. faiiumだってさ</h3>
+<p>「fisartの意味範疇が違和感あるかも、faiiumとかを使ってみるとしっくり来たのでこれが良いと思うよ～」とのこと。</p>
+
+<h2>126. 伐英辞書</h2>
+<p>92.5%だった翻訳率を94%まで上げるなどした。</p>
+
+<h2 id="pitch">127. 等時性・ピッチカーブ</h2>
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">私が人工言語で気になるのは書き言葉が先にあって音声になったときにどうなるのかがあまり記述されてない傾向がある気がすること。別の言い方をするとイントネーションや韻律単位があまり言及されない。等時性の単位とかも誰も気にしない。</p>&mdash; 日本語の新しいローマ字『教育ローマ字』 (@awesomenewways) <a href="https://twitter.com/awesomenewways/status/1131686664168861696?ref_src=twsrc%5Etfw">2019年5月23日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">けど時雨さんが言ってる古参勢ってつまり悠里界隈だと思うけどあの界隈ではこういうのはやってみて観察する主義なので決める必要がないのかもしれない。</p>&mdash; 日本語の新しいローマ字『教育ローマ字』 (@awesomenewways) <a href="https://twitter.com/awesomenewways/status/1131687044135055360?ref_src=twsrc%5Etfw">2019年5月23日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">SYも「二年ぐらいパイグ語を運用してみた結果、やっと声調の基底形と表層形の関係の説明がついた」とかこの前言っていたし、わりとこの傾向はありそう <a href="https://t.co/3EL0FqL3m7">https://t.co/3EL0FqL3m7</a></p>&mdash; .sozysozbot.@hsjoihs@jekto.vatimeliju (@sosoBOTpi) <a href="https://twitter.com/sosoBOTpi/status/1132072206647742464?ref_src=twsrc%5Etfw">2019年5月24日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">人工言語を運用して修正するんじゃなくて運用して実態を明らかにするっていうのはいつかはすじょいさんが出してた調査のレポートのようなものを見るまで本当に発想がなかった</p>&mdash; 日本語の新しいローマ字『教育ローマ字』 (@awesomenewways) <a href="https://twitter.com/awesomenewways/status/1132072819414593538?ref_src=twsrc%5Etfw">2019年5月24日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>バート語の等時性の単位については研究が発達途上だけれど、一つあるとすれば「あれって『長 /iː/』と『普通 /i/』というより『普通 /i/』と『超短 /ĭ/』だったりするのでは？」という仮説は立っている。</p>
+<p>ピッチカーブについては、Low・Mid・Highがあり、</p>
+<ol>
+<li>基本は Mid </li>
+<li>文節末は High 。文節は「名詞後置格 + 後置詞」「不定詞 + 後置詞」「名詞主格 + 接続詞」「一音節の単語 + 文節」（例: aghauṭaḍi hína : MMMMMH）</li>
+<li>長母音の Mid に挟まれた <s>短母音</s><b style="background-color: #aaffff">短音節、か？*cepattepaだとpatが上がらないように思える</b>のMid は High にできる（例: cepatepa : MHMH）（cf. ṣomadhí : MMH）。なんか「空気の抜けた音節」みたいな名前付けたいね。</li>
+<li>文末は Low 。
+	<ul style="font-weight: bold">
+		<li>一音節語で短母音ならその音節が Low … かと思ったけど実例が思いつかん</li> 
+		<li>一音節語で長母音なら音節内で Mid → Low な Falling。 hem. (F) でお馴染み。</li>
+		<li>最後から二番目の音節が長音節なら、その音節が Mid → Low （入声ならMid） で最終音節が Low。 ema. (FL), dannaz. (FL), nutta. (ML) など。</li>
+		<li>そうでなくて、最後から三番目の音節が長音節なら、その音節が Mid → Low （入声ならMid）でそれ以降が Low。 hemama. (FLL), ammama. (FLL), rakkama. (MLL)</li>
+		<li>文末にaṭazaとかが来たら…MLLかなぁ？うーん</li>
+	</ul>
+</li>
+<li>疑問文文末は Low → High 。
+	<ul style="font-weight: bold">
+		<li>この Low になるための規則は、さっきの文末化の規則と同じ気がする（heyákáṣlo? は MMLH ではなく MFLH であることを考えると）。</li>
+	</ul>
+</li>
+</ol>
+
+<p>あと、これに加えて、alicやaṭamが主格単独である際にHMになれる現象が観測されており、説明が必要である。</p>
+
+<h2>128. -kaha-</h2>
+上に
+<div class="box">
+<ul>
+	<li>ṣíkahazená が syncope して ṣíkahzená になる話者と子音脱落して  ṣíkázená になる話者、いそう</li>
+</ul>
+</div>
+
+<p>と書いたが、 -kaha-, -kah-, -khá-, -kagha-, -ká- ぐらいはいそう、という気持ちになった。</p>
+
+<p>地理設定考えなきゃなー、グォン・アルト藩国を9つに分けたやつもそろそろ正式にリリースしなきゃなー、</p>
+<p>いやでも語中閉音節の獲得が比較的最近なのだったら「大移住」の後かもしれないぞ？</p>
+<p>んーでもjuecleoneとかあるし、「大移住」のちょっと前ぐらいかなぁ。</p>
+<p></p>
+<p>「大移住」ってなんて言うんだろう。amáma boh- ... amáma bohúかなぁ、名詞化第二接尾辞。</p>
+
+<p>『「大移住」(amáma bohú)。「大退去」とも。バート人がグォン・アルト藩国を去らなくてはいけなくなった2000年の痛ましい事件とそれに次ぐ混乱を指す。
+	単に「行く」の意味もあれば「(永久に)去る」の意味を持つbohúḷは（訳語が揺れるのはそのため）、
+	心の故郷であるグォン・アルト藩国に帰れる見込みの乏しいバート人の思いをよく表現しているともいえよう。』とか書いとくか。</p>
+
+
+<h2>129. バート人はあまり酒やらタバコやらをしない</h2>
+<p>2019年5月30日に、j.vが「バート人ってあまり酒やらタバコやらをしなそうなイメージが勝手にあるけど、どう思う？」とFafs氏に訊いたところ、「明確な根拠を持って『そうなりそうだ』というのは思いつかないけど、イメージとしてはまあ分かる」と言われた。それに対しj.vが「バートってラネーメの中で一番リパラオネの影響がでかいと思うんよ。最初期から明確にリパーシェの影響を受けた文字で横書きをしているし。リパラオネ教徒みたいに『酒を飲むな！！！』と叫んだりはしなそうだけど、『酒とか飲むなんてダサいよねー (*´･ω･)(･ω･`*)ﾈｰ』みたいな感じになっているのではないか」と返し、Fafs氏はそれに納得した。</p>
+<p>S.Y「逆に一番影響受けてなくて酒飲みそうなのどこだろう。タカン人か。」</p>
+<p>ちなみに、他のリパラオネ要素としては、「ラネーメ祖語 r₁（[ʀ]か？）が 現代語 r [r] に行きうる（その他の反映としては、語頭ではゼロ、語中では gh [ɣ]がある）し、ラネーメ祖語 r₂（[ʀ̥]か？）が語頭では現代語 r [r] に行きうる（語頭・語中共に h [x] に行くのが普通）という、「フリッチのレイチャット化」をリパライン語と同様に起こしていることなどが挙げられそうである。</p>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">52. rer遣い<br>デュテュスンリパーシェはr/Rの二文字がある。これらをどのように使うかがrer遣いである。古理のʁが消えたことによる代償延長にRを使うのかどうかなど、細かく派閥が分かれていて、正書法でどれを採用するか対立している。ちなみにこの議論が始まったのは2003fが作られてからである。 <a href="https://t.co/9pf6iKJbZ0">pic.twitter.com/9pf6iKJbZ0</a></p>&mdash; Fafs F. Sashimi＠6/29 架空世界学会 (@sashimiwiki) <a href="https://twitter.com/sashimiwiki/status/1042803461497090049?ref_src=twsrc%5Etfw">2018年9月20日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h2>130. 不安定なbh, dh</h2>
+<p>adhahomá を綴り字通りに発音するのが険しいので、『-homá と -home は、直前の音節が「bhかdh」 + 短母音 である場合、それを無気化させる。綴りは保たれる。（例：adhahomá, síbhahomá）』という規則が発生した。-dhel, -dhelá, -bhau, -bhauná, -dhínáは直前の有気音により無気化させられることを考えると、やはりbh, dhってバート語においてわりと有標性が高く失われやすいのかも。</p>
+
+<h2>131. 人名</h2>
+
+<h3>131-1. jekto姓</h3>
+<p>ettoであるという説があったが、長母音のあとに長子音が来るはずもなく。かといってittoでは語頭i始まりで、これまたよろしくない。</p>
+<p>この二律背反の抜け道として、ghittoという道があった。これはghittoですな。</p>
+
+<p>そもそも、フルネームは「父親の名前 ghátu 名前 (苗字/bhátnímaṣ)」という形式だけど、今の所観測されているフルネームって</p>
+<ul>
+	<li><a href="https://sites.google.com/site/skyliautie/a/e/i#TOC--22">bánim ghátu kádan bhátnímaṣ</a> (グォン・アルト藩国の国主)
+	</li>
+	<li><a href="https://docs.google.com/document/d/1nGp848QUOOjdDRfQmKCJzHzg-hpJZnziO1CHJwQBwqI/edit">kádan ghátu woghitaim bhátnímaṣ</a> (2004年に重大な誤訳事件を発生させたアイル共和国のアイル語・ヴェフィス語通訳者)</li>
+	<li><a href="https://sites.google.com/site/3tvalineparine/plsnk/bhat">káḷdan ghátu aghauṭawaim</a> (バート語旧ページでサンプルとして提示されている人名)</li>
+</ul>
+<p>ぐらいしかない…と思って調べてたら「<a href="https://sites.google.com/site/riparaincangku/yuesureone-ren-gong-shi-jie-she-ding/li-shi/philerl/llrg">人を殺すフォント - リパライン倉庫</a>」からwoghitam ghátu epam bhátnímaṣという人名が発掘された。なるほど。</p>
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">悠里資料を漁ってたら知らないバートの人名を発掘したので、さっそく辞書登録に向かっている <a href="https://twitter.com/hashtag/jurli?src=hash&amp;ref_src=twsrc%5Etfw">#jurli</a> <a href="https://twitter.com/hashtag/bhaataan?src=hash&amp;ref_src=twsrc%5Etfw">#bhaataan</a></p>&mdash; .sozysozbot.@hsjoihs@jekto.vatimeliju (@sosoBOTpi) <a href="https://twitter.com/sosoBOTpi/status/1144358570210680833?ref_src=twsrc%5Etfw">2019年6月27日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>えーと woghitaim は知ってるけど woghitam は……あれ、 woghitaim も未収録だが。</p>
+
+<p>現状載っているのは aghauṭawaim, bánim, kádan, lexeḷ, lipakoḷ, rízan, ṣabhahum だけか。ここに「人名」「姓」「外来姓」であるghittoを足して、lexeḷもリパライン語辞書を見る限りfixa.lexerl以外では姓として用いられていることから「姓」「外来姓」タグを足して、あ、あとせっかくだから káḷd, káḷdan がサジェストで旧正書法として出るようにしておこう。</p>
+
+<p>とりあえずまずこれで一旦コミット。あー第三課さっさと書いてコミットしないと。</p>
+
+<h3>131-2. 姓と名</h3>
+
+<p>第三課も復習回とすることでとりあえずコミットできたし、えーあとはwoghitam, woghitaim, epamを辞書に足せばいいかな。</p>
+
+<p>さて話を戻すと、フルネームは「父親の名前 ghátu 名前 (苗字/bhátnímaṣ)」という形式だけど、今の所観測されているフルネームって「父親の名前 ghátu 名前」か「父親の名前 ghátu 名前 bhátnímaṣ」であって、苗字が明示的に出てきている例というのはない。</p>
+
+<p>ということで、バート人は本来的には「姓」というシステムを用いず、外来姓と対比する形で「bhátnímaṣ」と付けて呼ぶのであって、bhátnímaṣというのが他民族の「姓」に当たる、という運用のされかたをしているのではなかろうか。</p>
+
+<p>これを支持する証拠として、<a href="https://kakuyomu.jp/works/1177354054883808252/episodes/1177354054888067009">いせにほ#184</a>にある</p>
+<div class="box">
+	<div data-gloss>
+		<p>Jeska ad jumili'a-'d adkonsterlz-en lertasal-∅ reto letix-er-∅ ferlk-∅ zu es &lt;xelken&gt;-∅. </p>
+		<p>イェスカ ～と～ ユミリア-GEN 共産主義-ADJR 政党-NOM 殺す 持つ-する者-ACC 名前-ACC REL である シェルケン-DAT</p>
+		<p>イェスカとユミリアの共産党はシェルケンって名を持っている人間を殺している。
+			</p>
+	</div>
+	<hr>
+	<div data-gloss>
+		<p>Cun, letix-o-∅ ferlk-e-stan-∅ es es-o-∅ fentexoler-∅ fal siss.</p>
+		<p>なぜなら 持つ-すること-NOM 名前-EPE-定性-ACC である である-すること-DAT 反革命主義者-DAT にとって→ 彼-PL</p>
+		<p>その名前を持っている人間は彼らにとって反革命主義者だから。</p>
+	</div>
+	<hr>
+	<div data-gloss>
+			<p>&lt;Hinggenferl&gt; adit &lt;bartnirmax&gt;-∅, &lt;kjaska&gt;-∅ at veles reto-o-∅. </p>
+			<p>ヒンゲンファール ～や→など バートニーマシュ-NOM キャスカ-NOM 同じく～も される 殺す-すること-ACC</p>
+			<p>ヒンゲンファールもバートニーマシュもキャスカも殺された。</p>
+		</div>
+</div>
+
+<p>とまあ、明らかにバートニーマシュが姓として扱われている。</p>
+
+<p>（対訳は<a href="https://sites.google.com/site/good0think/1st/4/t#TOC-184">第四部対訳 - いせにほ資料集積所</a>より引用）</p>
+
+<h3>131-3. フィードバック</h3>
+
+<p>2019年6月28日：</p>
+
+<div class="box">
+<p>Fafs『bhátnímaṣの他にも姓に当たる存在はあるみたいだけど、カッコ付けされているから元々は「父名 ghátu 名前」が基礎的な形だったんだろうね。思うに姓というシステムが本来的に用いられなかったから、後世外来姓と対比する形で付けられたと考えるのは、位置的にはヴェフィスやリナエストの名前形式に準ずる位置であり、バート人が王朝時代からリナエスト藩国と接していたことを考えると後世に他民族語のそれに合わせるために付与されたタミル語的なものを感じる。恐らく、あまり大きな間違いはないと思いますよー。』</p>
+<p>j.v『bhátnímaṣ以外で姓に当たる存在、まああっても少数派ということですね、了解です』</p>
+<p>Fafs『少数派かはどうなんだろうなあ、アイル共和国での制度とかによる気がしなくもないんだよね。』</p>
+<p>j.v『ふむふむふむ』</p>
+<p>Fafs『戸籍的なものが存在するならばとか、そもそも法的な「家」概念が存在するかとか。』</p>
+<hr>
+<p>Fafs『@SY アイル共和国に戸籍制度（国民国家が国民を把握する際に家族単位を登録する制度）はあるのか否かについて考えたい～』</p>
+<p>SY『「家」の概念あるのかな』</p>
+<p>Fafs『そこが疑問。少なくともヴェフィスには家門のようなの概念はあるけど、リパラオネ全体にそういったものが重要視されたのかは良く分からない。近代法制から影響されるのであれば、独立国家戦争時代のリパラオネ連邦における民法に注目が行くわけだけど当時のリパラオネ連邦は社会主義体制だったので国民を登録するシステムはあってしかるべきだろうなあ。』</p>
+</div>
+
+<p>なるほど。</p>
+
+<h2>132. khem</h2>
+
+<p>形式名詞「k」は主格ではゼロになるのが規範的だが、口語ではk + hem の場合 /kʰe̞ːm/ として k が表れる形がありそう。</p>
+
+<h2 id="rho_lambda">133. r</h2>
+
+<p>-rúḷの命令形、-ṣになる可能性があるのでは？ṣonáronáとか考えても。んーでもbhárúḷの命令形はbhárがしっくり来る気もする。</p>
+<p>*-ṣúḷが無いことも考えて、んー -r ~ -rúḷ と -ṣ ~ -rúḷ が両方存在しうる？</p>
+<p>母音の長短かもしれないが実際どうなのやら。</p>
+
+<p>そういえば、rって（ja +  rúṣ + -i である jarúṣi を除いて）いまのところ短母音の後に来ないんだよな。なおかつ *-rr- は不存在。これ、例えばbhárúḷ が *bharrúḷ と対立せず、重子音命令形で bharr → /bʱar.rə/ → [bʱaː.rə] なのかもしれない。（cf. ラテン語  con- [kɔn] +‎ ferō [ˈfɛ.roː] → c<b>ō</b>nferō [ˈk<b>õː</b>.fɛ.roː] の長音表記）</p>
+
+<p>んー。</p>
+
+<p>んーー。</p>
+
+<p>そうだ。</p>
+
+<p>（少なくとも歴史的には）基底にρとλがあって、これらは対立するはずが、母音間で短音化すると対立が失われる、というのはどうだろう。二重子音ならそのまま。</p>
+<p>母音間で短音化したときというのはまた周りの母音から影響を受けやすいため、もともと同一音素だったのが口蓋化の影響で後に2つに割れる。</p>
+
+<p>まとめるとこういうこと。</p>
+
+<table>
+	<thead>
+		<tr>
+			<td>条件</td><td>基底形</td><td>現代音</td><td>綴り</td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>語頭</td><td>ρ</td><td style="font-family: arial">[r]</td><td style="font-family: arial">〈r〉</td>
+		</tr>
+		<tr>
+			<td>語頭</td><td>λ</td><td style="font-family: arial">[l]</td><td style="font-family: arial">〈l〉</td>
+		</tr>
+		<tr>
+			<td>母音間</td><td>ρρ</td><td style="font-family: arial">[ːr]</td><td style="font-family: arial">〈◌&#x301;r〉</td>
+		</tr>
+		<tr>
+			<td>母音間</td><td>λλ</td><td style="font-family: arial">[ll]</td><td style="font-family: arial">〈ll〉</td>
+		</tr>
+		<tr>
+			<td>母音間、eかiかíに隣接</td><td>ρ = λ</td><td style="font-family: arial">[ɾ]</td><td style="font-family: arial">〈l〉</td>
+		</tr>
+		<tr>
+			<td>母音間、eかiかíに隣接しない</td><td>ρ = λ</td><td style="font-family: arial">[ɭ&#820;]</td><td style="font-family: arial">〈ḷ〉</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>そういえば、語頭の〈l〉が規範的には[l]であることはとっくに規定事項だったけど、辞書のsnojに反映させていなかったので反映させた。</p>
+
+<h3>133-2. 補足</h3>
+
+<p>あ、上記の分析はあくまで歴史的な分析であって、現代語としては短母音 + r は普通に許される。</p>
+
+<h2>134. 動詞を文末から外すときのコンマ</h2>
+<p>「また、ám hem, 主格 主格. という言い方が許され、この場合もコンマが必要である。 *hem, 主格 主格. は不可。」という規定が増えた。言えそうなので。</p>
+
+<h2>135. 不存在主語の性</h2>
+
+<div class="box">
+	不存在の主語（例：ápaḍi hína woghit ám hemakátá. 「私には兄弟姉妹がいない。」）は、<strong><u>人であっても必ず指示・固有</u></strong>で取る。ただし、「対象が特定されていて、対象は存在はするが今この場にはいない」という場合には対象の性に応じて使い分ける。
+</div>
+
+<p>という規則が増えた。ついでに別の箇所にも</p>
+
+<div class="box">
+		「Aが存在しない」という表現をする際は、基本的にAの<strong><u>単数形主格</u></strong>にám hemúḷを用いる。<span style="background-color: lightgreen">この場合は主語が人であっても指示・固有で取ることに注意。</span>
+</div>
+
+<p>と補足。ややこしく見えるが、まあ、とりあえず不存在なら何でもかんでもám hemakátá.と言っておけばいいということである。</p>
+
+
+<h2>136. 正書法</h2>
+<p>「yの直後にu, úが来ないのではない、yu, yúのことをju, júと綴るのが正書法なのだ」ということを思っていたら、なんか普通に<a href="#no_yu">89-6.</a>に書いてあった。なるほど。</p>
+<p>文法書にも書いとこう。</p>
+
+<h2>137. 引用符周り</h2>
+
+<h3>137-1. 二重引用符・三重引用符</h3>
+<p>開きと閉じの形が完全に同じである以上、引用符の中で引用符を使うための記号が必要である。</p>
+<p>引用符 ⣀ に対して、二重引用符はそれを重ねた ⣤ にしそうだと思った。三重引用符は ⣶ にすると書くのが面倒なので、少なくとも手書きでは高さ60%ぐらいの縦棒2本かもな。</p>
+<p>疑問符との複合は……んー個人の裁量に任されそう。</p>
+
+<h3>137-2. トレデュニオンつき引用符</h3>
+<p>バート語の引用符には、（特に「zúḷの形」みたいな、文法用語とかを表す際に）単語の意味ではなく単語そのものについて述べるときに使うという用法があるように思えた。</p>
+<p>そこに格語尾を付ける際に、トレデュニオンを引用符の上に重ねるのがよろしそうである。<img src="b_punctuation_uq.png" height="30" />みたいな感じか。"zúḷ"_homá（子音で終わっていても母音幹用の語尾を付けることに注意）のようになるんかなぁ。</p>
+<p>とはいえ、今の段階では二重引用符・三重引用符ほどの確信をもっての採用は難しいので、後回しである。文法書に載せるのも後回し。</p>
+
+<h2>138. 曲用における長短交代</h2>
+<p>elameniác、末母音が長短交代する可能性がある。-meniác は LLH だけど、 -meniácán だと LHLH になるのでそれを嫌って -meniacán にする可能性がある。ただしaccabátではaccabátánを嫌う理由がないんだよな。</p>
+<p>んーー。</p>
+<p>もうちょい色々考えてからだな。</p>
+
+<h2>139. 「形式名詞」</h2>
+<p>文法書にあるけど「どのようなものであるか」を書いてないな。「分詞・名詞の属格・関係詞節のいずれかによって修飾されていることを要求する名詞」ですね。正直「依存名詞」の方が名前として好きなんだがなぁ。</p>
+<p>両方の名前を載せておくか。あと、下位分類として「抽象的形式名詞」というのを立てておいたのと、kの複数主格の話を書いておいた。</p>
+<p>言われてみれば、kを（分詞 or 名詞の属格）と関係詞節で挟むのはセーフだなぁ、と思った。まあ話者意識としては（分詞 or 名詞の属格）の準体法を関係詞節で修飾しているだけなんだろうけど。</p>
+
+<h2>140. 名前負け</h2>
+<p><a href="learn/part0.html">バート文字・バート語文法速習　第零課「経緯」</a>にて、「母語話者からのウケが悪く完全に名前負けしている現代表記」という歴史設定を文法書に載せていないことが指摘されていたので、是正した。</p>
+
+<h2>141. 「全ての」</h2>
+<p><a href="#all_bha">98-3.</a>で考案され<a href="learn/part2.html">バート文字・バート語文法速習　第二課「文化」</a>で決定しているように、bhá「全ての」は多数性を明示する表現なので直後の名詞は複数形にしない。</p>
+
+<h2>142. 辞書翻訳</h2>
+<p>翻訳率の計算に使う正規表現が<pre>[^\s!-~áíúṭḍṣṇḷ藍牌→←伐理ヴェフィス皇]</pre>から<pre>[^\s!-~áíúṭḍṣṇḷ藍牌→←伐理ヴェフィス皇アイツォ]</pre>になった。</p>
+<p>えー未翻訳は 25/361 だから 93.07% 翻訳済か。</p>
+
+<h2>143. 引用符と句読点</h2>
+<p>東島通商語の「上行<span style="font-size:70%">LT</span>論」を書いている際、句読点と引用符が組み合わさったときの振る舞いについて「他言語どうなる？」とSYと話した。</p>
+<p>ゆえに、バートでどうなるかを決めねばならない。</p>
+<p>前例に基づき、そもそも「文の引用」と「単語列リテラル」の2種の用法があることを明文化し、</p>
+<ul>
+	<li>単語列リテラルにおいては例外なく「閉じ引用符の後にスペースを置いてから後続要素」</li>
+	<li>ただし、ラテン字転写においては単語列リテラルの直後に来る句読点の前のスペースを省く</li>
+	<li>文の引用においては、閉じ引用符はデフォルトでは外側の文をも終わらせるので閉じ引用符の直後にはピリオドを打たない。これを打ち消すにはカンマを打つ。それ以外は「閉じ引用符の後にスペースを置いてから後続要素」</li>
+	<li>ただし、ラテン字転写においては文引用の直後に来る<strong style="font-size: 120%">カンマ</strong>の前のスペースを省く</li>
+</ul>
+<p>となった。表にするとこんな感じ。</p>
+
+<table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
+	<tr>
+		<td>↓用法＼後続→</td>
+		<td>ピリオド</td>
+		<td>疑問符</td>
+		<td>カンマ</td>
+		<td>普通の単語</td>
+		<td>終助詞t + ピリオド</td>
+	</tr>
+	<tr>
+		<td>文の引用</td>
+		<td><strong style="color:blue">引用符 + スペース</strong></td>
+		<td>引用符 + スペース + 疑問符</td>
+		<td>引用符 + スペース + カンマ</td>
+		<td><strong style="color:blue">引用符 + スペース + カンマ + 単語</strong></td>
+		<td>引用符 + スペース + 終助詞t + ピリオド</td>
+	</tr>
+	<tr>
+		<td>文の引用（ラテン字転写）</td>
+		<td><strong style="color:blue">引用符 + スペース</strong> (U+0022 U+0020)</td>
+		<td>引用符 + スペース + 疑問符 (U+0022 U+0020 U+003F)</td>
+		<td><strong style="color:blue">引用符 + カンマ</strong> (U+0022 U+002C)</td>
+		<td><strong style="color:blue">引用符 + カンマ + 単語</strong> (U+0022 U+002C ...)</td>
+		<td>引用符 + スペース + 感嘆符 (U+0022 U+0020 U+0021)</td>
+	</tr>
+	
+	<tr>
+		<td>単語列リテラル</td>
+		<td>引用符 + スペース + ピリオド</td>
+		<td>引用符 + スペース + 疑問符</td>
+		<td>引用符 + スペース + カンマ</td>
+		<td>引用符 + スペース + 単語</td>
+		<td>引用符 + スペース + 終助詞t + ピリオド</td>
+	</tr>
+	<tr>
+		<td>単語列リテラル（ラテン字転写）</td>
+		<td><strong style="color:blue">引用符 + ピリオド</strong> (U+0022 U+002E)</td>
+		<td><strong style="color:blue">引用符 + 疑問符</strong> (U+0022 U+003F)</td>
+		<td><strong style="color:blue">引用符 + カンマ</strong> (U+0022 U+002C)</td>
+		<td>引用符 + スペース + 単語 (U+0022 U+0020 ...)</td>
+		<td><strong style="color:blue">引用符 + 感嘆符</strong> (U+0022 U+0021)</td>
+	</tr>
+</table>
+
+<h2 id="aux_part2">144. いわゆる補助動詞part2</h2>
+<p><a href="#auxi">45.</a>で触れた、不定詞を取る動詞についてもう一度まとめてみよう。ちなみに<code>(不定詞|[^h伐]ema)</code>で全文検索すると一発。</p>
+
+<div class="box">
+<p>主格で取る動詞</p>
+<table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
+	<tr><td>動詞</td><td>意味</td></tr>
+	<tr><td>hemúḷ</td><td>〜している（進行相；状態動詞化）</td></tr>
+	<tr><td>huṭeúḷ</td><td>〜し始める（開始相；瞬間動詞化）</td></tr>
+	<tr><td>heyáúḷ</td><td>（heyákáṣloで)～だろうか</td></tr>
+	<tr><td>zalloúḷ</td><td>〜すべきである</td></tr>
+	<tr style="background-color: #e6ffed"><td>danúḷ</td><td>〜してもよい</td></tr>
+	<tr style="background-color: #e6ffed"><td>síyoúḷ</td><td>〜しすぎている</td></tr>
+</table>
+<p>不定詞+emaで取る動詞</p>
+<table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
+	<tr><td>動詞</td><td>意味</td></tr>
+	<tr><td>heyáúḷ</td><td>〜を思う・〜について考える</td></tr>
+	<tr><td>rijúḷ</td><td>〜を望む・〜したい（無主語・1人称主語）・〜してほしい（非1人称主語）</td></tr>
+	<tr><td>ṣonáronáúḷ</td><td>〜を不思議に思う</td></tr>
+	<tr style="background-color: #e6ffed"><td>ácahúḷ</td><td>〜を実行できる</td></tr>
+</table>
+</div>
+<p>さて、現時点での辞書だと『不定詞またはkoḍiが直前に来て、「〜を思う」など主に思考にまつわる動詞の意味上の対格を表すのが普通である。』となっているが、『〜を実行できる』ってそうか？</p>
+<p>単純に対格なのでは？『一旦-úḷと書いてからこれをkodhelで受ける』でもできるけど。heyáúḷ以外は名詞の対格と交換可能とされてるしなぁ。</p>
+<p>んーどうなんだろう。emaの方が使われる動詞が限られるんだろうか。dheseúḷ『～を聞いている』とかはema不可としてよさそうだし。</p>
+<p>「『思考にまつわる動詞 (heyáúḷ, rijúḷ, ṣonáronáúḷなど) 』または『機能語的性質が強い動詞 (rijúḷ, ácahúḷ)』ぐらいしかemaで意味上の対格を受けることができない」みたいな制約でもあるのかなぁ。まあなんかこの解釈は納得がいって、というのも、機能語的性質が強ければその動詞は「動詞不定詞を対格に取った述語構造」ではなく「動詞不定詞を助ける補助要素」と意識したくなるため、コンマで切るようなことへの抵抗感が高まりそう。</p>
+<p>さて、なぜこの話をしたかというと、不定詞 + ema + zúḷ という可能性を考えるためである。多分「不定詞 + ema + zúḷ」をそのまま使うことはなくとも、例えば添詞を突っ込んで「不定詞 + dati + ema + zúḷ」（「(不定詞)しかしない」）みたいな表現が作れそう。</p>
+
+<h2>145. -tt- /ʔʔ/</h2>
+<p>nutta は [nut̚.ta] の他に [nuʔ.ʔa] も許されることになった。というかまあ他言語から分かるようにこっちの方が古い発音。</p>
+<p>ただし、ghitto [ɣit̚.to̞ː] を [ɣiʔ.ʔo̞ː] と発音させることは誤りとされておくようにしよう。これは単語ごとに覚えなきゃいけない情報。</p>
+
+<h2>146. 子音が前に来ない e </h2>
+<p>[je̞ː] でもいい。</p>
+
+<h2>147. ナウトゥホーマーエー</h2>
+<p>ナウトゥホーマーエーは単語が完成したときに上に引く線なのだが、ということはつまり単語が完成していないときには引かないということである。ということで、「バート語においては単語内の改行が許容され、かつ、それを行った場合は2行にまたがっている単語にはナウトゥホーマーエーを書かない」という話を2019年9月4日に思いついた。
+</p>
+<p>ゆーてマス目文化圏であるラネーメなので、行末まで文字を詰めて改行を単語内で許すことも（少なくとも手書きでは）可能としそうであるからこそである。</p>
+<p>もともとスペースすら無く、ナウトゥホーマーエーを切ることで分かち書きを実現していた言語なので、まあ往々にしてこういうことしそうである、と。</p>
+<p>SY「フォント作成者がキレそう」</p>
+<p>hsjoihs「単語内で改行しなければいいので、手書きでないときは他の言語と同様単語内の改行が起こらないように組版すればいいだけの話」</p>
+<p>この規則を文法書にも書かないとな。</p>
+
+<h2>148. bhog + -i は bhogi と綴って [bʱo̞ːɣi]</h2>
+<p>『ghを[ɣ]で読む多くの話者にとって g [ɡ] はかなりmarginalな音であり、借用語を除けば「音素 /ɣ/ に母音が後続せず、かつ直前に長母音がある場合」の反映でしかない。[ɣ]と[ɡ]が語幹末で交替する語根の正書法上の扱いは名詞語幹と動詞語幹で異なり、名詞語幹の場合は一貫してgで書き（母音が後続しない形である主格は頻用されるため）、動詞語幹の場合は[ɣ]をgh、[ɡ]をgと綴る（母音が後続しない形である命令形はそこまで頻用されないため）。』と文法書に書いておいた。</p>
+
+<h2>149. 辞書英訳</h2>
+<p>今の所未翻訳が25/367で93.18%なのだが、これをいちいちinvestigateに書くのもアレだし、upload_log.tsvってやつで管理することにした。</p>
+
+<h2>150. 対格省略許可は意味上の対格である不定詞 + emaにも適用される</h2>
+
+<p>『歌や詩、また口頭的な発話の場合は格語尾が部分的に省略されることがありうるが、一般的な文では基本的に省略されることはない。対格や具格において省略される場合、「動詞の人称変化の情報から主格と紛れることがない」という条件が必要である。』という規則がある。機能語的性質が強い動詞に対しての不定詞 + emaは意味上の対格であるため、この規則が適用されてもよさそう。</p>
+<p>ということで載せた。</p>
+
+<h2>151. 複数主格の起源</h2>
+<p>-zá / -á ってなんやねん、という話だが、実はパイグのgeと同根である説が浮上した。こんな感じ。</p>
+
+<ol>
+	<li>もとは恒例のごとく -gh / -agh という形だった</li>
+	<li>音節末-ghの消失により、-◌́  か -g / -á という形になる</li>
+	<li>これは微妙い。ところで名詞化第一接尾辞 -z を名詞の末尾に付ける拡大があったのかもしれない（備考：náhúḷ、náhaz、naho.ar、nához、náhozúḷなどの存在はそのようなパラダイムと相性がよさそう）</li>
+	<li>その拡大された語幹に子音幹用の -á をつけた -zá が、母音幹複数主格として広く応用されるようになる</li>
+</ol>
+
+<p>という説。わりとおもろいのでは。</p>
+<p>似ているものを同根というのは普通、似てないものに対して「これって実は同根では？？？」とやるのこそがおもろいのだからな。</p>
+
+<h2>152. pとf</h2>
+<p><a href="coin3.html#pmcf">coin3の25. PMCFで書いたように、</a></p>
+<table border="1" cellspacing="0" cellpadding="3" >
+	<tr>
+		<td></td><td>p</td><td>f</td></tr>
+		<tr><td>リパライン語</td><td>p</td><td>基本的にp、ヴェフィス周りはph</td></tr>
+		<tr><td>パイグ語</td><td>ph</td><td>-</td></tr>
+		<tr><td>ヴェフィス語</td><td>不明</td><td>ph</td>
+	</tr>
+</table>
+<p>リパライン語は全体的に話者間で有気無気が一貫していないのかもしれない。話者数多いし。パイグはわりと一貫して有気なんだよな</p>
+
+<h2>153. 辞書</h2>
+<h3>153-1. nuttaの発音揺れ</h3>
+<p>辞書に載っていないので載せた。</p>
+<h3>153-2. 英語版を直す</h3>
+<p>「文化」をcultureにし忘れていた箇所があった。あとPMCFを表す三単語が載ってなかったので載せた。</p>
+<p>複数の標準発音があるやつについて発音記号が検索にヒットしてしまうので、 [^\s!-~áíúṭḍṣṇḷ藍牌→←伐理ヴェフィス皇アイツォʂːɔ/ʔʰʱɻəɣɨɛʈɖɭɳʋɾʃɥɡ] に変更。 27/374か。</p>
+
+<h2>154. 名詞 ⇔ 動詞</h2>
+<h3>154-1. bhárúḷ ってどんな格を取るんですか</h3>
+<p>「風邪にかかる」の義では主格に人を取る。じゃあ「風が吹く」「風が吹いている」のときは？英語版で "for the wind to blow" としているからには主格は取らないのか？ホンマか？</p>
+<p>英語版で語義を "for 主語 to V" で書いてあって "for [nominative] to" でない動詞を探すと、</p>
+
+<table border="1" cellspacing="0" cellpadding="3" >
+	<tr>
+		<td>bhárúḷ</td><td>for the wind to blow / for the wind to be blowing</td>
+	</tr>
+	<tr>
+		<td>cákíkúḷ</td><td>for the hometown to be [oṣa]</td>
+	</tr>
+	<tr>
+		<td>danúḷ</td><td>for it to be permissible to do [infinitive]</td>
+	</tr>
+</table>
+
+<p>このうち danúḷ はコーパス</p>
+
+<div class="box" style="width:800px;">
+		<div data-gloss>
+			<p>ám boh-úḷ, ko danúḷ heyákáṣlo?</p>
+			<p>〜しない 行く-INF-NOM, これ-NOM 状況的に可能である-INF-NOM 思う-3N.FUT.PTCP（＝だろうか）</p>
+			<p>行かないこと、それは(状況的に)構わないだろうか？</p>
+		</div>
+		</div>
+		
+
+<p>からも分かる通り不定詞を主格に取る動詞。cákíkúḷは……明らかに「～(主格)は〜(oṣa)から来る」の状態動詞化なので、for the hometown (of [nominative]) to be [oṣa] とでもすべきだろう。</p>
+
+<p>えーさてbhárúḷだけど、うんbháraとかを主語に取れるんじゃないですか多分。「北風と太陽」みたいなので擬人化したらアニマシー語尾も取ることができたりするんでしょどうせ。</p>
+
+<h2>155. laminal flat postalveolar</h2>
+<p>ṣ は多くの場合 laminal flat postalveolar であるので、「ṣ は多くの場合 laminal flat postalveolar である。」とした。</p>
+
+<h2>156. 右接被覆形・左接被覆形</h2>
+<p>リパライン語ではtesnokalon oloven ziechija / restutalon oloven ziechija、英語では right-connecting form / left-connecting formとなることとなった。</p>
+
+<h2>157. 動詞接尾辞</h2>
+<h3>157-1. 受動語尾</h3>
+<p>能動人称語尾は</p>
+<table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
+	<tr>
+		<td></td>
+		<td>一人称</td>
+		<td>二人称</td>
+		<td>三人称女</td>
+		<td>三人称男</td>
+		<td>指示・固有</td>
+	</tr>
+	<tr>
+		<td>終止詞</td>
+		<td>-(a)dhí</td>
+		<td>-(a)mú</td>
+		<td>-(a)ze</td>
+		<td>-(a)bhá</td>
+		<td>-(a)ká</td>
+	</tr>
+	<tr>
+		<td>過去分詞</td>
+		<td>-(a)dína</td>
+		<td>-(a)múná</td>
+		<td>-(a)zená</td>
+		<td>-(a)báta</td>
+		<td>-(a)kátá</td>
+	</tr>
+	<tr>
+		<td>未来分詞</td>
+		<td>-(a)díha</td>
+		<td>-(a)múha</td>
+		<td>-(a)zebá</td>
+		<td>-(a)báṣlo</td>
+		<td>-(a)káṣlo</td>
+	</tr>
+</table>
+
+<p>であるわけだが、このたび受動人称語尾</p>
+
+<table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
+	<tr>
+		<td></td>
+		<td>一人称</td>
+		<td>二人称</td>
+		<td>三人称女</td>
+		<td>三人称男</td>
+		<td>指示・固有</td>
+	</tr>
+	<tr>
+		<td>受動終止詞</td>
+		<td>-lo / -(a)ḷo</td>
+		<td>-(a)ní</td>
+		<td>-(a)sá</td>
+		<td>-(a)ṣí</td>
+		<td>-(a)ho</td>
+	</tr>
+	<tr>
+		<td>受動過去分詞</td>
+		<td>-loná / -(a)ḷoná</td>
+		<td>-(a)nín<span style="color:red">a</span></td>
+		<td>-(a)sátá</td>
+		<td>-(a)ṣíná</td>
+		<td>-(a)honá</td>
+		
+	</tr>
+	<tr>
+		<td>受動未来分詞</td>
+		<td>✗</td>
+		<td>-(a)níha</td>
+		<td>-(a)sáṣlo</td>
+		<td>✗</td>
+		<td>-(a)hobá</td>
+	</tr>
+</table>
+<p>ができた。過去分詞末尾が二人称でだけ伸びないのは一人称能動の類推。三人称男性で類推が働かないのは母音の音価が違うから。</p>
+<p>この -lo- みたいなやつを「人称語尾幹」と命名することにする。人称語尾の幹となる部分なのだなぁ。</p>
+
+<h3>157-2. 丁寧語</h3>
+<p>人称語尾幹の変化で丁寧語を表すという案を思いついた。ちなみに三人称男女が合流する。</p>
+<p>必然的に、述語が動詞でないときには丁寧語は無い（丁寧語と非丁寧語が同じ語形となる）。具体的には、</p>
+<ul>
+	<li>述語動詞にhemがくっついている文</li>
+	<li>コピュラhemを用いた文</li>
+	<li>コピュラhemが省略されたコピュラ文</li>
+	<li>単一主格疑問文</li>
+</ul>
+<p>この規定により、日本語訳がですます体で訳されているどの例文との互換も切られない。</p>
+
+<p>ちなみに表はこんな感じ。</p>
+<table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
+	<tr>
+		<td></td>
+		<td>一人称</td>
+		<td>二人称</td>
+		<td>三人称</td>
+	</tr>
+	<tr>
+		<td>終止詞</td>
+		<td>-ladhí / -(a)ḷadhí</td>
+		<td>-lamú / -(a)ḷamú</td>
+		<td>-(a)cai</td>
+	</tr>
+	<tr>
+		<td>過去分詞</td>
+		<td>-ladína / -(a)ḷadína</td>
+		<td>-lamúná / -(a)ḷamúná</td>
+		<td>-(a)cainá</td>
+	</tr>
+	<tr>
+		<td>未来分詞</td>
+		<td>-ladíha / -(a)ḷadíha</td>
+		<td>-lamúha / -(a)ḷamúha</td>
+		<td>-(a)caiha</td>
+	</tr>
+</table>
+
+<p>hemúḷ とか ám hemúḷ とかについては補充形があるかもしれない。ようわからん。</p>
+
+<h3>157-3. アニマシー</h3>
+<p>主語にアニマシーがない場合は -(a)ká / -(a)kátá / -(a)káṣlo のままな気がしてきた。文法書には</p>
+
+<div class="box">
+	<p>なお、「指示・固有」は、端的に言えば人や動物などのアニマシーがあるもの以外に対して用いる。ただし、性別が不明な場合など、アニマシーがあっても「指示・固有」を用いることができる。</p>
+</div>
+<p>とあるが、丁寧語では性別対立が消えるのでアニマシーがある場合はアニマシー形を用いることになる。「アリス」で「ウサギが走った。」は "phúpen kánatakátá." と訳しているが、「ウサギが走りました。」なら "phúpen kánatacainá." になるということだ。</p>
+
+<h3>157-4. その他の受動</h3>
+
+<p><a href="#aux_part2">144. いわゆる補助動詞part2</a>で</p>
+<div class="box">
+		さて、なぜこの話をしたかというと、不定詞 + ema + zúḷ という可能性を考えるためである。多分「不定詞 + ema + zúḷ」をそのまま使うことはなくとも、例えば添詞を突っ込んで「不定詞 + dati + ema + zúḷ」（「(不定詞)しかしない」）みたいな表現が作れそう。
+</div>
+
+<p>という話があったのはこれの伏線なのだが、受動不定詞 -áḷ というものが生えて補充形として -áḷ ema zúḷ (動作動詞) / -áḷ hemúḷ (状態動詞) / -áḷ ema bhom (瞬間動詞) が使えるという話が2019年8月～9月前半辺りに立っていた。受動で命令形とか作りたかったらこう逃げるしかなさそう。</p>
+
+<h3>157-5. 母音で終わる動詞の受動不定詞</h3>
+<p>-áḷ はヒアートゥスを生むけどよいのか。まあ良いんじゃないかという気はするが自信がない。</p>
+
+<h2>158. 無アスペクトの状況副詞化語尾</h2>
+<table  border="1" cellspacing="0" cellpadding="3" >
+	<tr><td>母音語幹</td><td>子音語幹</td><td>意味</td></tr>
+	<tr><td>-ma</td><td>-ama</td><td>~しながら；非完了の状況副詞化語尾</td></tr>
+	<tr><td colspan="2"><span style="color: blue;">-áká</span></td><td>~して；無アスペクトの状況副詞化語尾</td></tr>
+	<tr><td>-ghi</td><td>-aghi</td><td>~し終わって；完了の状況副詞化語尾</td></tr>
+</table>
+
+<p>母音幹での処理方法が思いつかなかったので6月13日辺りからずっと保留とされていたが、このたび母音で終わる動詞の受動不定詞で「-áḷ はヒアートゥスを生むけどよい」ということになったので無事採用の運びとなった。</p>
+
+<h2 id="rethinkpitch">159. ピッチ再考</h2>
+
+<p>「不思議の国のアリス」の朗読で冒頭のalicだけ下降で読まれていたことについて、「外来の固有名詞はどう読んでも良い。」という定式化をしていたが、これは違うのではないかということになった。話し始めるとき、特に長い文章を話し始めるときには、話のまとまり（要は段落である）の頭の単語を下降で読むように思えてきた。そういえば、パイグ語の xi1 zi1 a. はhigh-high-lowと読むが、バートの xízía. はhigh-fall-lowと読む。挨拶というのは段落頭に来るようなもんなので、一貫性がある。</p>
+<p>ということで、「外来の固有名詞はどう読んでも良い。」という規則を、段落頭に下降がつくというルールへと直す。</p>
+
+<p>この下降の付け方、「<a href="#pitch">127. 等時性・ピッチカーブ</a>」で雑にまとめたっきり文法書に載せられていないので、載せねば。</p>
+
+<h2 id="shape">160. 詩の形</h2>
+<h3>160-1. 詩の形</h3>
+<p>とりあえず</p>
+
+<div class="box">
+xahabart<br><br>【名詞】バート語詩　バート語詩形　シャハバート詩<br><br>[2019:ṣahabát:PER:詩]<br><br>[文化]<br>語源はバート語ṣahúḷ「歌う」の語幹√ṣahに-abát（名詞化第五語尾）が付いたものであり、「歌うもの」の意である。長さとピッチ（バート語のピッチは長さと語の境界で決まる）によって形式が決まる韻律定型詩である。また、リパライン語ではそれ以外のバート語詩一般も指す。シャハバート詩を特定する場合は"xahabarten durxe"と言う。</div>
+
+<p>という説明がリパライン語→日本語辞書に足された。具体的な詩の形は次の通り。</p>
+<table  border="1" cellspacing="0" cellpadding="3" >
+	<tr>
+		<td width="20">低長</td>
+		<td width="20">高短</td>
+		<td width="20">低長</td>
+		<td width="20">高</td>
+		<td rowspan="2">→</td>
+		<td width="20">低長</td>
+		<td width="20">高短</td>
+		<td width="20">低長</td>
+		<td width="20">高</td>
+		<td rowspan="2">→</td>
+		<td width="20">低長</td>
+		<td width="20">高</td>
+		<td>→</td>
+		<td width="20">低</td>
+		<td width="20">低</td>
+		<td width="20">高</td>
+	</tr>
+	<tr>
+		<td width="20">低長</td>
+		<td width="20"></td>
+		<td width="20">低長</td>
+		<td width="20">高</td>
+	
+		<td width="20">低長</td>
+		<td width="20"></td>
+		<td width="20">低長</td>
+		<td width="20">高</td>
+
+		<td width="20">低長</td>
+		<td width="20"></td>
+		<td>→</td>
+		<td width="20">低長</td>
+		<td width="20">低</td>
+		<td width="20">高</td>
+	</tr>
+</table>
+
+<p>下に例を挙げる。これは2019年6月13日に書き始めて2019年8月21日に書き終えた。</p>
+
+<div class="box">
+bhájabáni dháradáká bágha janaká<br>
+数字が集まり数が成る<br>
+<br>
+líṇabáni dháradáká nautu janaká<br>
+燐字が集まり言葉成る<br>
+<br>
+kádakáná dháradáká gháni janaká<br>
+火花集まり炎成る<br>
+<br>
+ásúka dháradáká síbha janaká<br>
+人が集まり祖国成る
+</div>
+
+<p>長短・高低は次のようにして分かる。なお、詩形のカウントでは段落頭下降と文末下降は無視される。</p>
+<p>長短：</p>
+<ul>
+	<li>á, í, ú, e, o, ai, auがあるなら長い。（例：ídúḷ「入る」やbháro「風邪」は長長）</li>
+	<li>短母音の後に子音が2つ連なるのであれば、それは長い（例：rakkúḷ「生きている」は長長、nínaccú「貝葉」は長長長）</li>
+	<li>それ以外は短い（例：aḍuhazozená「彼女は見た」は短短短長長長）</li>
+</ul>
+
+<p>高低：（注：ここの「低」は「<a href="#pitch">127. 等時性・ピッチカーブ</a>」のMidに相当）</p>
+<ul>
+	<li>ピッチ句の末尾は高。ピッチ句というのは「名詞後置格 + 後置詞」「不定詞 + 後置詞」「名詞無格 + 接続詞」（例: aghauṭaḍi hína だったり woghiti cájau だったり）。ただし1音節からなるピッチ句は常に低く読む。</li>
+	<li>上記以外は基本的に低。ただし、低長と低長に挟まれた短は高くなる。（例：cepatepa「会話」は低高低高であるが、ṣomadhí「私は敬礼する」の真ん中は「低長と低長に挟まれた短」の条件を満たさないので低低高となる。</li>
+</ul>
+
+<h3>160-2. 二段落目</h3>
+<p>なんか二段落目がサラッと書けてしまったが。</p>
+
+<div class="box">
+	ásúkazá ja síbha wáḷa janáká<br>
+	互いを生み出す人と国<br>
+	<br>
+	ám síbha hemáká sáka ám hemúḷ<br>
+	祖国無くては道無しと、<br>
+	<br>
+	ám sáka hemáká ghíyo ám hemúḷ<br>
+	道が無くては塩無しと、<br>
+	<br>
+	ám ghíyo hemáká cánaj bom rakkúḷ<br>
+	塩無き命は無しと知れ。<br>
+</div>
+
+<p>これは解説しておくか。一行目、ピッチ句は[ású<i>ka</i>zá <i>ja</i>] [sí<i>bha</i>] [wá<i>ḷa</i>] [janá<i>ká</i>] なので</p>
+
+<table  border="1" cellspacing="0" cellpadding="3" >
+	<tr>
+		<td width="20">低長</td>
+		<td width="20">高短</td>
+		<td width="20">低長</td>
+		<td width="20">高</td>
+		<td rowspan="2">→</td>
+		<td width="20" style="background-color: aquamarine;">低長</td>
+		<td width="20" style="background-color: aquamarine;">高短</td>
+		<td width="20" style="background-color: aquamarine;">低長</td>
+		<td width="20" style="background-color: aquamarine;">高</td>
+		<td rowspan="2">→</td>
+		<td width="20" style="background-color: aquamarine;">低長</td>
+		<td width="20" style="background-color: aquamarine;">高</td>
+		<td>→</td>
+		<td width="20" style="background-color: aquamarine;">低</td>
+		<td width="20" style="background-color: aquamarine;">低</td>
+		<td width="20" style="background-color: aquamarine;">高</td>
+	</tr>
+	<tr>
+		<td width="20" style="background-color: aquamarine;">低長</td>
+		<td width="20"></td>
+		<td width="20" style="background-color: aquamarine;">低長</td>
+		<td width="20" style="background-color: aquamarine;">高</td>
+	
+		<td width="20">低長</td>
+		<td width="20"></td>
+		<td width="20">低長</td>
+		<td width="20">高</td>
+
+		<td width="20">低長</td>
+		<td width="20"></td>
+		<td>→</td>
+		<td width="20">低長</td>
+		<td width="20">低</td>
+		<td width="20">高</td>
+	</tr>
+</table>
+	
+<p>二行目、ピッチ句は[ám sí<i>bha</i>] [hemá<i>ká</i>] [sá<i>ka</i>] [ám he<i>múḷ</i>] なので</p>
+
+<table  border="1" cellspacing="0" cellpadding="3" >
+	<tr>
+		<td width="20">低長</td>
+		<td width="20">高短</td>
+		<td width="20">低長</td>
+		<td width="20">高</td>
+		<td rowspan="2">→</td>
+		<td width="20">低長</td>
+		<td width="20">高短</td>
+		<td width="20">低長</td>
+		<td width="20">高</td>
+		<td rowspan="2">→</td>
+		<td width="20" style="background-color: aquamarine;">低長</td>
+		<td width="20" style="background-color: aquamarine;">高</td>
+		<td>→</td>
+		<td width="20" style="background-color: aquamarine;">低</td>
+		<td width="20" style="background-color: aquamarine;">低</td>
+		<td width="20" style="background-color: aquamarine;">高</td>
+	</tr>
+	<tr>
+		<td width="20" style="background-color: aquamarine;">低長</td>
+		<td width="20"></td>
+		<td width="20" style="background-color: aquamarine;">低長</td>
+		<td width="20" style="background-color: aquamarine;">高</td>
+	
+		<td width="20" style="background-color: aquamarine;">低長</td>
+		<td width="20"></td>
+		<td width="20" style="background-color: aquamarine;">低長</td>
+		<td width="20" style="background-color: aquamarine;">高</td>
+
+		<td width="20">低長</td>
+		<td width="20"></td>
+		<td>→</td>
+		<td width="20">低長</td>
+		<td width="20">低</td>
+		<td width="20">高</td>
+	</tr>
+</table>
+
+<p>あとは同様。</p>
+
+<h2>161. -lor語幹</h2>
+<h3>161-1. 概要</h3>
+<p>-l, -ḷで終わる動詞は現状無いことが知られているが、これはもちろん-lú-が不可であることによる。</p>
+<p>さて、-lに無理矢理 -úḷ を付けたら、まあ前が異化して回避されるケースも有り得なくはないが、-lú- &gt; -lo- に加えて後ろが異化して -lor となりそうである。</p>
+<p>さてさて、そしてこうなるともちろん不定詞感が消えるため、更に-úḷを付加した -lorúḷ という形が現代語の形であろう。ただし-lorで終わらせて古さを演出する用法もあるかもである。</p>
+<p>もちろん、不定詞語尾でなければこの現象は起きないため、-lazenáなどといった形に全く問題はなかろうが、levelingが起きて-lorazenáと規則化する動詞もあるだろう。逆に、-lor ~ -lの交代が文法化された結果として語源的に-lorであるものまで-lに交代するケースもあるかもだけど。</p>
+<p>あと命令形。-lが残ったり-lorにlevelingされたりとまちまちではありそう。不定詞古形と区別がつかない？いや別に困らんやろ。</p>
+<p>さらに鼻音短動詞問題もある。鼻音じゃないけど。例えば、dan- と同型の *dal- という形の語根を想定すると、不定詞 daḷor(úḷ)（l-darkeningに注意）, 三人称女性過去分詞 daḷazená, 命令形 daḷ(or), 名詞化第四接尾辞 dalí（当然 light l）, 名詞化第一接尾辞 dallaz（語幹の強化、二重のlは常にlight） という変幻自在っぷりを見せてくれることだろう。</p>
+
+<p>え、流音短動詞があるならなんで -r で起きないかって？そりゃ本来的単語において -r の前は長母音だからだよ。本来的でない場合？えーどっから借用したらそんな語が生えるの。アイル？アイルか。まあとりあえず *dar を想定すると darúḷ, darazená, dar, darí, dáraz かなぁ。-rr-は不可なので直前の母音の長化として反映。</p>
+
+<h3>161-2. 具体例</h3>
+<p>koli「疲れ」の動詞化とか適用できそう。koḷorúḷ …「長年の使用により材料が劣化すること」かなぁ。活用表書くか。</p>
+
+<table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
+<tr>
+<td></td>
+<td>一人称</td>
+<td>二人称</td>
+<td>三人称女</td>
+<td>三人称男</td>
+<td>指示・固有</td>
+</tr>
+<tr>
+<td>命令形</td>
+<td colspan="5">koḷ</td>
+</tr>
+<tr>
+<td>不定詞</td>
+<td colspan="5">koḷ<span style="color: red">or</span>úḷ</td>
+</tr>
+<tr>
+<td>終止詞</td>
+<td>koḷadhí</td>
+<td>koḷamú</td>
+<td>koḷaze</td>
+<td>koḷabhá</td>
+<td>koḷaká</td>
+</tr>
+<tr>
+<td>過去分詞</td>
+<td>koḷadína</td>
+<td>koḷamúná</td>
+<td>koḷazená</td>
+<td>koḷabáta</td>
+<td>koḷakátá</td>
+</tr>
+<tr>
+<td>未来分詞</td>
+<td>koḷadíha</td>
+<td>koḷamúha</td>
+<td>koḷazebá</td>
+<td>koḷabáṣlo</td>
+<td>koḷakáṣlo</td>
+</tr>
+<tr><td>名詞化第一接尾辞</td><td colspan="5">koḷaz</td></tr>
+<tr><td>名詞化第二接尾辞</td><td colspan="5">koḷ<span style="color: red">or</span>ú</td></tr>
+<tr><td>名詞化第三接尾辞</td><td colspan="5">ko<span style="color:red">l</span>íṣ</td></tr>
+<tr><td>名詞化第四接尾辞</td><td colspan="5">ko<span style="color:red">l</span>í</td></tr>
+<tr><td>名詞化第五接尾辞（中性）</td><td colspan="5">koḷakáta</td></tr>
+<tr><td>名詞化第五接尾辞（男性・女性）</td><td colspan="5">koḷabát</td></tr>
+</table>
+
+<h2>162. rijaḷadhíもいいけど普通はríladhí</h2>
+<p>「〜を願います」「〜をしてほしいです」はよく使うので、丁寧一人称/丁寧二人称は規則的rijaḷa-の他にríla-も許可。</p>
+<p>*rílaúḷとかは不可なので、特殊縮約として文法書に載せるしかないわな</p>
+<p>というか丁寧形そのものが文法書に載っていない。載せなきゃ。</p>
+<p>ちなみになぜrijladhíと綴らないかという話だが、まあlの直前がスクーン()で直後がファトハ()だとḷになっちゃうからでは？となった。</p>
+
+<h2>163. núḷ, núzem, núz, núaze, núadhí</h2>
+<p>「洗う」。まーた動詞活用パラダイム同値類が増える。まあそういうもんでしょ。
+	まあ要するに「nuʔʔ- &gt; nú-」「nuʔʔə &gt; núa-」ということなんですが。</p>
+<p>ちなみに母音の後にaが来る例って他にea（間投詞）、pedia（借用）、xízía（借用）しか観測されていないわけで、かなり変則的。
+	全部声門閉鎖のせいだ。</p>
+<p>二重声門閉鎖、「偽りのt」みたいな名称がついてそう。文字名案件あったな。</p>
+
+<h2>164. 「形態素(ammán &lt; et2 man1) → 語幹と接辞と接語 → nautu（正書法上の語） → ピッチ句 → アンシェヌマン句 → 文 →
+	段落」という階層構造</h2>
+
+<p>（juecleoneとかは一単語中に2ピッチ句だけど）を説明し、ピッチの完全解明をせよ。</p>
+
+<h3>164-1. アンシェヌマンとバート語の階層構造</h3>
+<p>前に「<a href="#akaze">woghit ákazeなどにおいて-tが声門閉鎖音として実現できる</a>」と書いた。（ákazeの前にも声門閉鎖があるので、結果として長い閉鎖となる。）</p>
+<p>ここで、tがáと結びついて1音節を構成していないことが前から知られている。つまり、これは「文節」をまたぐとアンシェヌマンが起こらないということを意味する。</p>
+<p>一方、rúṣán ákíjamでは声門閉鎖が入らず/naa/と発音できているので、「文節」内ではアンシェヌマンが起こることが分かる。</p>
+
+<p>さて、ここでの「文節」ってピッチの話をしたときの「文節」よりも広く取られるので、曖昧さ回避のために前者を「ピッチ句」と呼ぶようにしていた。アンシェヌマンにまつわるのはアンシェヌマン句となる。</p>
+
+<img src="img/hierarchy_venn.png" style="width: 70%">
+<img src="img/hierarchy.png" style="width: 70%">
+<p>この下にさらに「段落」がある。ここまで入れてやっとピッチが分かる。というのも、<a href="#rethinkpitch">159. ピッチ再考</a>にあるように、</p>
+
+<div class="box">
+	話し始めるとき、特に長い文章を話し始めるときには、話のまとまり（要は段落である）の頭の単語を下降で読む
+</div>
+<p>というのがあるからである。</p>
+
+<p>なお、階層構造には以下のように例外もある。</p>
+<img src="img/hierarchy_counterexample.png" style="width: 70%">
+
+<h3>164-2. 具体的なピッチ</h3>
+<p>具体的なピッチについても、私の実験とFafs氏の音声の両方からデータを導き出せるはず。</p>
+<p>今測ってみたら私はおよそlow 97Hzでmid 114Hzでhigh 164Hzといった感じだった。2019年6月22日に測ったときのを確認してみるとLow G2(~F#2), Mid Bb2(~A2), High
+	F3(~E3)と書いてある。</p>
+<p>Fafs氏のをpraatで見てみると、mid→highは以下の通り。</p>
+<ul>
+	<li>cájau: 116.5 Hz → 165.5 Hz</li>
+	<li>ṣomaḍi: 119.9 Hz → 188.2 Hz</li>
+	<li>hína: 125.3 Hz → 157.5 Hz</li>
+	<li>ṣí-ka-ha-ze-ná: 134.4 Hz ~ 154.8 Hz ~ 156.1 Hz ~ 145.4 Hz ~ 176.8 Hz </li>
+	<li>hem: 116.4 Hz → 104.5 Hz</li>
+	<li>lásihomá: 125 Hz → 177 Hz → 129.3 Hz → 166.6 Hz</li>
+	<li>káṇa jo: 116.1 Hz → 183.3 Hz</li>
+</ul>
+
+<p>いい感じのガウシアンを書いてやることで<a href="https://www.desmos.com/calculator/34j4bmakix">いい感じになる</a>。</p>
+
+<img src="img/pitch_gaussian.png" width="800">
+
+<p>基準音高に対して、</p>
+<ul>
+	<li>lowは基準音高より280±50セントほど低く（このlowが自分が普通に出せる声域の最低音ぐらいにするとよい）</li>
+	<li>midは基準音高±70セントぐらい（ただし高い方にはマージンが結構あるので、180セントぐらいまではセーフ）</li>
+	<li>highは基準音高より580±120セントぐらい高く</li>
+</ul>
+<p>するといいっぽい。</p>
+<p><a href="https://www.desmos.com/calculator/okux7zzpyl">100セント表記のグラフ</a>。</p>
+
+<p>ところで録音です。<audio src="laasihomaa.wav" controls="">あなたのブラウザは<code>audio</code>に対応していません。</audio>この文はhighが結構多いので優秀。</p>
+
+<h3>164-3. 説明書いていきましょうか。</h3>
+
+<p>もうなんか既に書いてある気もするけど。</p>
+
+<div class="box">
+	<h4>概要</h4>
+	<p>バート語の文章の標準的な読み上げをするときは、音の高低についても気を配らねばならない。イメージを掴むために、とりあえず著者(jekto.vatimeliju)の発話の録音を一つ聞いてもらおう。</p>
+	<audio src="laasihomaa.wav" controls="">あなたのブラウザは<code>audio</code>に対応していません。</audio>
+	<p>このように、「文中のたいていの音節を同じ高さで読むが、たまにそれよりかなり高く読む音節があり、さらに文末では音が下がっていく」というのが、標準的な読み上げの基本である。音の高低に気を配ることは、文を読み上げる際だけではなく、シャハバート詩の構造を理解する際にも不可欠である。どこを高く読み、どのように文末の音を下げていくのかを自力で導出するための方法を以下では説明していく。</p>
+
+	<h4>階層構造</h4>
+	<p>バート語の文章はnautu【正書法上の語。文字にしたときにナウトゥホーマーエーでひとまとまりに繋がっているもの。】の集まりからなることは明らかだが、音の高低を明らかにする上では、nautuの集まりからなる「ピッチ句」というものを基準にものごとを考える必要がある。たとえば、sáhomá woghiti cájau【姉/妹と一緒に】という表現は3つのnautuから構成されるが、単一のピッチ句からなる。例外的に、juecleone【ユエスレオネ】などの一部の外来語は、単一のnautuでありながら複数のピッチ句で構成され、juecとleoneがそれぞれピッチ句を成す。</p>
+	<p>次に、ピッチ句が集まってできる「アンシェヌマン句」という階層がある。これはピッチとはほとんど関係ないので詳細な説明は割愛するが、子音終わりの単語の後に母音始まりの単語が来た際に、アンシェヌマン句の中では子音とそのあとの母音をひとまとまりに発音することが許される（たとえば、rúṣán ákíjam【新たな日】は単一のアンシェヌマン句であるので、rúṣá nákíjamであるかのように発音される）一方で、複数のアンシェヌマン句をまたぐ場合はそれができない（たとえば、sáhomá woghit ákaze【姉/妹が読む】においてはsáhomá woghitが一つのアンシェヌマン句、ákazeが一つのアンシェヌマン句を成すので、sáhomá woghi tákazeのように発音することはできない）。
+	</p>
+	<p>アンシェヌマン句が集まったものがaccabát【一文】である。accabátはピリオドや疑問符によって終了する。ピリオドはaccabátの終わりに置いて音が下がっていくことを表す。疑問符はaccabátの終わりに置き、音が一旦下がってから最後に上がることを表す。</p>
+	<p>accabátが集まることで段落ができる。これは話のひとまとまりを表し、話し始めるとき、特に長い文章を話し始めるときは、注意を引くために段落の頭の単語は高く読み始めてそこから音が下がっていくような読み方となる。</p>
+	<p>段落が集まることで文章ができる。</p>
+	<h4>音節の長短</h4>
+	<ul>
+		<li>á, í, ú, e, o, ai, auがある音節は長い。（例：ídúḷ【入る】やbháro【風邪】は長長）</li>
+		<li>a, i, uの後に子音が2つ連なるのであれば、そのa, i, uを含む音節は長い（例：rakkúḷ【生きている】は長長、nínaccú【貝葉】は長長長）</li>
+		<li>それ以外は短い（例：aḍuhazozená【彼女は見た】は短短短長長長）</li>
+	</ul>
+	<h4>音の高さ</h4>
+	<p>low・mid・highの三種類に分類して整理する。参考までに著者(jekto.vatimeliju)の発声を掲載しておく。</p>
+	<h5>low</h5>
+	<p>普通に出せる声域の最低音ぐらいの高さ。</p>
+	<audio src="low.wav" controls="">あなたのブラウザは<code>audio</code>に対応していません。</audio>
+	<p>この音源では89Hzくらい（サンプル点20個のうち平均89.40Hz、標準偏差1.16Hz）。</p>
+	<h5>mid</h5>
+	<p>会話をする際にもっとも自然に発することのできる高さ。</p>
+	<audio src="mid.wav" controls="">あなたのブラウザは<code>audio</code>に対応していません。</audio>
+	<p>この音源では112Hzくらい（サンプル点20個のうち平均111.8Hz、標準偏差0.8Hz）。</p>
+	<h5>high</h5>
+	<p>midから勢いよく音を高くして自然に到達することのできる高さ。</p>
+	<audio src="high.wav" controls="">あなたのブラウザは<code>audio</code>に対応していません。</audio>
+	<p>この音源では168Hzくらい（サンプル点20個のうち平均168.3Hz、標準偏差0.9Hz）</p>
+	<h4>ピッチ句</h4>
+	<p>後置詞・名詞接続詞は直前のnautuと同じピッチ句に属する。ゆえに、複数のnautuが単一のピッチ句に入る例としては、たとえば以下のようなパターンが挙げられる。</p>
+	<ul>
+		<li>名詞後置格 + 後置詞：aghauṭaḍi hína【本に】</li>
+		<li>不定詞 + 後置詞：hemúḷ ema【在ることを】</li>
+		<li>名詞無格 + 接続詞：káṇa jo【時もしくは】</li>
+	</ul>
+	<p>これ以外にも複数のnautuが単一のピッチ句に入るパターンはある。たとえば、sáhomá woghit（sá【女】、woghit【兄弟姉妹；はらから】）は単一のピッチ句で読むと【女という性質を持った兄弟姉妹】、つまり【姉妹】の意味であり、一方「ある女にとって兄弟姉妹に当たる人」の意味の場合は二つのピッチ句に分けて読む。一般に、名詞の属格が所有属格としても性質属格としても使えるとき、性質属格として使われるときは属格が直後の名詞と同一のピッチ句に属する場合がある。また、ピッチ句は必ず一音節以上であるという制約から、k hem【〜のものである】などについても複数のnautuが単一のピッチ句に入ることとなる。</p>
+	<h4>ピッチ句単位での高低規則</h4>
+	<p>1音節からなるピッチ句は常にmidで読む。</p>
+	<p style="font-size: 90%;">例: ko【これ】: mid</p>
+	<p>ピッチ句が複数音節からなる場合、ピッチ句の最終音節はhighとなり、それ以外は基本的にmidである。</p>
+	<p style="font-size: 90%;">例: aghauṭaḍi hína【本に】: mid-mid-mid-mid-mid-high</p>
+	<p>á, í, ú, e, o, ai, auがあるような2つのmidな音節に挟まれた短音節は、midではなくhighとすることが多い。（midでもよい。）この操作のことをdhez【小休憩】と言う。</p>
+	<p style="font-size: 90%;">例: cepatepa【会話】 : mid-high-mid-high または mid-mid-mid-high</p>
+	<p>条件「2つのmidな音節に挟まれた」を満たさない場合に注意。</p>
+	<p style="font-size: 90%;">例: ṣomadhí【私は積む/私は敬礼する】 : mid-mid-high であって mid-high-high ではない</p>
+	<p>条件「短音節」を満たさない場合にも注意。</p>
+	<p style="font-size: 90%;">例: nínaccúzá【貝葉(複数)】 : mid-mid-mid-high であって　mid-high-mid-high ではない</p>
+	
+	<h4>accabát単位での高低規則</h4>
+	<p>accabátの高低は、それを構成するピッチ句の高低を集めた後に、文末に変更を加えることによって構成される。ピリオドで終わる文はlowで終わるようになり、疑問符で終わる文は最後から2番目の音節でlowに達した後に最終音節をhighで読む。</p>
+
+	<p>以下の規則を、ピリオドで終わる文はそのまま適用、疑問符で終わる文は最終音節を無視して適用することで、accabát単位での高低が得られる。</p>
+
+	<p>文末に来るのが1音節語であり、á, í, ú, e, o, ai, auを含むのであれば、音節内で mid → low へと下げる。</p>
+	<p style="font-size: 90%;">例: hem.【である。】 : fall</p>
+	
+	<p>文末に来るのが複数音節からなる語であり、最後から二番目の音節が長いならば、最終音節は low となる。最後から二番目の音節については、その音節が母音や鼻音で終わる場合は音節内で mid → low へと下げ、そうでないならば mid である。</p>
+	<p style="font-size: 90%;">例: ema.【〜だなんて。】 : fall-low</p>
+	<p style="font-size: 90%;">例: ammán.【形態素。】 : fall-low</p>
+	<p style="font-size: 90%;">例: nutta.【水。】 : mid-low</p>
+
+	<p>そうでなくて、最後から三番目の音節が長音節なら、その音節が上記と同様に mid → low または mid となり、それ以降が low。 </p>
+	<p style="font-size: 90%;">例: rúkasa.【老婆。】 : fall-low-low</p>
+	<p style="font-size: 90%;">例: ammama.【降りながら。/上回りながら。】 : fall-low-low</p>
+	<p style="font-size: 90%;">例: rakkama. 【生存しながら。】 : mid-low-low</p>
+
+	<p>そうでなくて、最後から三番目の音節が短音節ならば、mid-low-low で終わらせる。</p>
+	<p style="font-size: 90%;">例: aṭaza.【思想。】 : mid-low-low</p>
+
+	<p>文末に来るのが1音節語であり、á, í, ú, e, o, ai, auを含まないのであれば、直前の単語と繋げて前述の規則を適用する。</p>
+
+	<p style="font-size: 90%;">例: sujadína su.【私が使った金銭。】 : mid-mid-fall-low-low</p>
+	<p style="font-size: 90%;">例: sujamúná su.【あなたが使った金銭。】 : mid-mid-mid-fall-low</p>
+
+	<p>文末に来るのが2音節語であり、最後から二番目の音節が短いならば、mid-lowで終わらせる。</p>
+	<p style="font-size: 90%;">例: adheṣ.【王。】 : mid-low</p>
+
+	<p>疑問文の場合の例は以下の通り。</p>
+
+	<p style="font-size: 90%;">例: heyákáṣlo?【〜だろうか？】 : mid-fall-low-high</p>
+	<p style="font-size: 90%;">例: cákíkamúná síbha?【あなたの出身は？】 : mid-mid-high-mid-high fall-high</p>
+	<p style="font-size: 90%;">例: káṇa nána bháma cákíkadíha hem?【私たちが集まる時間は？】 : mid-high mid-high mid-high mid-mid-high-fall-low high</p>
+
+	<p>最後の例においては、cákíkadíhaはピッチ句の時点でdhezが起こっておりmid-mid-high-mid-highとなっていて、それの最後の2音節が疑問文文末規則により変更されているのであることに注意。疑問文文末規則により-dí-はfallとなり、もはやkaはmidとmidに挟まれていないが、dhezはピッチ句の段階で起こる現象なのでそのことは関係ない。</p>
+
+	<h4>段落単位での高低規則</h4>
+	<p>段落単位での高低は、段落を構成するaccabátの高低を集めた後に、段落頭に変更を加えることによって構成される。</p>
+
+	<p style="font-size: 90%;">例: ¶xízía.【こんにちは。】 : high-fall-low</p>
+	<p style="font-size: 90%;">例: ¶alic ṣíkahazená hem.【アリス(現世人名)は座った。】 : high-low mid-mid-mid-mid-high fall</p>
+</div>
+
+<p>こんぐらい書いとけばいいか。</p>
+
+<h2>165. skurlavenija.mavijaの作文</h2>
+
+<h3>165-1. 人間は水を使い、国家は人間を使う。</h3>
+
+<blockquote class="twitter-tweet" data-conversation="none">
+	<p lang="ja" dir="ltr">ásúkazá nuttahomá sujaze ja ṣibhai ásúkaomá sujaká.<br>人間は水を使い、国家は人間を使う。</p>&mdash;
+	まい/まいさん/MIT@言語垢 (@mai_lang0) <a
+		href="https://twitter.com/mai_lang0/status/1228679612579762176?ref_src=twsrc%5Etfw">February 15, 2020</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>これは文意不適で、対格の代わりに属格になってしまっているせいで「人々は水に属するなにかを使い、国は人々に属するなにかを使う。」の意味になってしまう。</p>
+
+<blockquote class="twitter-tweet">
+	<p lang="ja" dir="ltr">-homá や -omá は属格接辞。今回は対格なので -dhel と -dhelá。 <a
+			href="https://t.co/eZXP8quJJD">https://t.co/eZXP8quJJD</a></p>&mdash; バートさん(bhátaim) (@bhaataan_zepha) <a
+		href="https://twitter.com/bhaataan_zepha/status/1228758652565118976?ref_src=twsrc%5Etfw">February 15, 2020</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h3>165-2. 人間は水のようである。</h3>
+<blockquote class="twitter-tweet">
+	<p lang="ja" dir="ltr">ásúkazá nuttaḍi ema hem.<br>人間は水のようである<br><br>これでええんか?</p>&mdash; まい/まいさん/MIT@言語垢
+	(@mai_lang0) <a href="https://twitter.com/mai_lang0/status/1228675106173378561?ref_src=twsrc%5Etfw">February 15,
+		2020</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>これも文意不適である。</p>
+
+<blockquote class="twitter-tweet">
+	<p lang="ja" dir="ltr">
+		emaはパイグ語emなどと異なり「〜のような、〜ように」として使われることは少なく、不定詞の対格を補充する目的で使うのが普通。さらにそれ以前に、「〜ように」だったとしてもそもそもhemは名詞主格を2つ取るので、これだと「人間はナニカである」を「水のように」で修飾している形となる。
+		<a href="https://t.co/OE2Kyyo8i6">https://t.co/OE2Kyyo8i6</a></p>&mdash; バートさん(bhátaim) (@bhaataan_zepha) <a
+		href="https://twitter.com/bhaataan_zepha/status/1228761287053561856?ref_src=twsrc%5Etfw">February 15, 2020</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-conversation="none">
+	<p lang="ja" dir="ltr">「まるで〜のようである」を表すときに使うのは状態動詞cajúḷ「まるで〜(hína)のようである」。<br>ásúkazá nuttaḍi hína cajazená.
+		<br>とすればよい。<br><br>なお、「空間的に近い」の意味用法のときはhínaではなく具格で受けることに注意。</p>&mdash; バートさん(bhátaim) (@bhaataan_zepha) <a
+		href="https://twitter.com/bhaataan_zepha/status/1228762398435078145?ref_src=twsrc%5Etfw">February 15, 2020</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h3>165-3. 参加したい！</h3>
+
+<blockquote class="twitter-tweet">
+	<p lang="und" dir="ltr">bohúḷ ema rijadína t.</p>&mdash; まい/まいさん/MIT@言語垢 (@mai_lang0) <a
+		href="https://twitter.com/mai_lang0/status/1232642529910112261?ref_src=twsrc%5Etfw">February 26, 2020</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>これは問題ないはず。</p>
+
+<h2>166. 仮定part2</h2>
+
+<h3>166-1. 過去ログ</h3>
+
+<p>完全に書いたことを忘れていたのだが、<a href="#conditional">58. 仮定表現</a>に</p>
+
+<div class="box">
+<h3 class="do_not_create_header">58-2. バート語</h3>
+<p>さて、どうなるだろうか。とりあえず例文を考えてみるか。</p>
+<p>「もし風が吹いていないなら、私は火を起こす。」「もし風が吹いていなかったなら、私は火を起こしただろうに。」</p>
+<p>「風が吹いていない」は状態動詞bhárúḷの過去分詞なのでám bhárakátá。「私は火を起こす」は動作動詞janáúḷの終止詞でghánidhel janádhí。</p>
+<p>アイルyuwiu「もし〜なら」が使えるかも。じゃあjuか。んー、とはいえ、文をどう繋ぐんだろうか。</p>
+<p>単純に、"ám bhárakátá júju ghánidhel janádhí."でいいか。この構文にするなら、juだと弱い気がするので、jújuにしよう。</p>
+</div>
+<div class="box">
+<p>やっぱり仮定の辞は接中辞ではなくて活用語尾の後ろかなぁ。</p>
+<p>活用語尾に直にくっついて-sáかな。jújuとは多分何らかの違いか使い分けがありそう。それが具体的に何なのかはこれから考えるけど。</p>
+</div>
+<div class="box">
+<p>考えた結果、反実仮想を示唆する接中辞を導入するのがよさそうということになった。主節には入れるとして、従属節には…（コロコロ）入れない。なるほど。</p>
+<p>タカンでは完了表現の挿入で反実仮想の従属節を明示するらしい。じゃあバートもhemでも入れておけばいいか。</p>
+<div class="box">
+<p>従属節が状態動詞・瞬間動詞</p>
+<table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
+<tr><td>従属節</td><td>主節に反実仮想</td><td>意味</td></tr>
+<tr><td>瞬間動詞終止詞</td><td>なし</td><td>今〜となるなら、</td></tr>
+<tr><td>状態動詞過去分詞</td><td>なし</td><td>今〜であるなら、</td></tr>
+<tr><td>状態動詞過去分詞+hem</td><td>あり</td><td>事実に反してもし今〜であるなら、</td></tr>
+<tr><td>状態動詞過去分詞+hem</td><td rowspan="2">なし</td><td rowspan="2">過去に〜であったのなら、</td></tr>
+<tr><td>状態動詞過去分詞+bháp</td></tr>
+<tr><td>状態動詞過去分詞+bháp+hem</td><td>あり</td><td>事実に反してもし過去に〜であったのなら、</td></tr>
+<tr><td>瞬間動詞未来分詞</td><td>なし</td><td>将来〜となるなら、</td></tr>
+<tr><td>状態動詞未来分詞+hem</td><td>なし</td><td>将来もう〜となっているなら、</td></tr>
+<tr><td>状態動詞未来分詞+hem</td><td>あり</td><td>事実に反してもし将来〜となるなら、</td></tr>
+</table>
+</div>
+<div class="box">
+<p>従属節が動作動詞</p>
+<table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
+<tr><td>従属節</td><td>主節に反実仮想</td><td>意味</td></tr>
+<tr><td>動作動詞終止詞</td><td>なし</td><td>今〜するなら、</td></tr>
+<tr><td>動作動詞不定詞+hemúḷ過去分詞</td><td>なし</td><td>今〜しているなら、</td></tr>
+<tr><td>動作動詞不定詞+hemúḷ過去分詞+hem</td><td>あり</td><td>事実に反してもし今〜しているなら、</td></tr>
+<tr><td>動作動詞不定詞+hemúḷ過去分詞+hem</td><td rowspan="2">なし</td><td rowspan="2">過去に〜していたのなら、</td></tr>
+<tr><td>動作動詞不定詞+hemabhápúḷ過去分詞</td></tr>
+<tr><td>動作動詞不定詞+hemabhápúḷ過去分詞+hem</td><td>あり</td><td>事実に反してもし過去に〜していたのなら、</td></tr>
+<tr><td>動作動詞過去分詞</td><td>なし</td><td>過去に〜したのなら、</td></tr>
+<tr><td>動作動詞過去分詞+hem</td><td>あり</td><td>事実に反してもし過去に〜したのなら、</td></tr>
+<tr><td>動作動詞未来分詞</td><td>なし</td><td>将来〜するなら、</td></tr>
+<tr><td>動作動詞未来分詞+hem</td><td>なし</td><td>将来もう〜し終わっているなら、</td></tr>
+<tr><td>動作動詞未来分詞+hem</td><td>あり</td><td>事実に反してもし将来〜するなら、</td></tr>
+</table>
+</div>
+
+<h3  class="do_not_create_header">58.5 -sáとjúju</h3>
+<p>とりあえずhemに-sáは付きそうにない。</p>
+<p>…と思ったけど、んー、hemasáならアリか。</p>
+</div>
+
+<p>とか書いてあった。これ全然書いた記憶がなくてすごい。</p>
+
+<h3>166-2. 具体的に</h3>
+
+<p>とりあえずjújuってアレなのでたぶんこれ歴史的綴りで、現代的正書法ではjoyaって綴られているはず。あと、hemの後にjoyaが来ると緩衝の-i-が自明に入るはずであり、問題はそれをどう綴るか。</p>
+
+<p>hem i joyaではないだろうし、hem ijoyaでもないだろうし、まあhemi joyaか？ hemijoyaかもしれない。hemijoyaですね。</p>
+
+<p>まずjoyaの例文。</p>
+
+<div class="box" style="width:800px;">
+	<div data-gloss>
+		<p>ám bhár-akátá joya gháni-dhel janá-dhí.</p>
+		<p>〜しない 風が吹いている-3N.PST.PTCP ならば 火-ACC 作る-1.REAL</p>
+		<p>もし風が吹いていないなら、私は火を起こす。</p>
+	</div>
+</div>
+
+<p>一方の-sá。多分-sáとjoyaを併用することもできる。あと反実仮想にはjoyaは使えなそう。でも-sá joyaだと不可能とは言い切れない反実仮想ぐらいが言えそう。-sá joyaで不可能と言い切れる反実仮想を言うのもセーフ。普通の仮定文に-sáを使うのも問題なさそう。</p>
+
+<div class="box" style="width:800px;">
+	<div data-gloss>
+		<p>ám bhár-akátá-sá gháni-dhel janá-dhí.</p>
+		<p>〜しない 風が吹いている-3N.PST.PTCP-COND 火-ACC 作る-1.REAL</p>
+		<p>もし風が吹いていないなら、私は火を起こす。</p>
+	</div>
+</div>
+
+<div class="box" style="width:800px;">
+	<div data-gloss>
+		<p>ám bhár-akátá-sá joya gháni-dhel janá-dhí.</p>
+		<p>〜しない 風が吹いている-3N.PST.PTCP-COND ならば 火-ACC 作る-1.REAL</p>
+		<p>もし風が吹いていないなら、私は火を起こす。</p>
+	</div>
+</div>
+
+<p>-sáだと倒置ができる。</p>
+
+<div class="box" style="width:800px;">
+	<div data-gloss>
+		<p>gháni-dhel janá-dhí ám bhár-akátá-sá.</p>
+		<p>火-ACC 作る-1.REAL 〜しない 風が吹いている-3N.PST.PTCP-COND</p>
+		<p>もし風が吹いていないなら、私は火を起こす。</p>
+	</div>
+</div>
+
+<h3>166-3. 反実仮想</h3>
+
+<p>反実仮想を示唆する接中辞が主節に要るらしい。考えなきゃ。</p>
+<p>-(a)ni-になりました。</p>
+
+<div class="box" style="width:800px;">
+	<div data-gloss>
+		<p>ám bhár-akátá-sá gháni-dhel janá-ni-dhí.</p>
+		<p>〜しない 風が吹いている-3N.PST.PTCP-COND 火-ACC 作る-CF-1.REAL</p>
+		<p>もし風が吹いていなかったなら、私はいま火を起こしただろうに。</p>
+	</div>
+</div>
+
+<p>倒置もできる。</p>
+
+<div class="box" style="width:800px;">
+	<div data-gloss>
+		<p>gháni-dhel janá-ni-dhí ám bhár-akátá-sá.</p>
+		<p>火-ACC 作る-CF-1.REAL 〜しない 風が吹いている-3N.PST.PTCP-COND</p>
+		<p>もし風が吹いていなかったなら、私はいま火を起こしただろうに。</p>
+	</div>
+</div>
+
+<h2>167. 段落頭記号</h2>
+
+<p>ピリオドが文末下降を、疑問符が文末下降後の上昇を表すのだから、段落頭下降もそれを表す記号があって然るべきである。実際に話者がそれを日常的に使うかどうかは別問題として。</p>
+
+<p>とりあえずこれを<img src="IMG_20200308_015713.jpg" width="200"></p>
+
+<p>こうして<img src="section.png" width="100"></p>
+
+<p>SYに投げること12分。</p>
+
+<p>完成（SYの手によって）。<img src="section.svg" width="70"></p>
+
+<h2>168. skurlavenija.mavijaの作文part2</h2>
+
+<h3>168-0. 本文</h3>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">hodhel nána ká nána dímadhel nána adheṣá ám zámabhápakátá accabáta hem bhá rízele zádebáta cánajamúná?<br>王は親切でないものであったと書いた者がすべての希望を恐れていることをお前は知っているか?<br><br>抽象的形式名詞を3種類すべて使った文を書いてみた<a href="https://twitter.com/hashtag/bhaataan?src=hash&amp;ref_src=twsrc%5Etfw">#bhaataan</a></p>&mdash; まい/まいさん/MIT@言語垢 (@mai_lang0) <a href="https://twitter.com/mai_lang0/status/1243568521826709504?ref_src=twsrc%5Etfw">March 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>えーhoがcánaj-、k-áがzáde-、dímaがacc-の主語や目的語になっている文構造。</p>
+<p>気になる点は3つ。まずcánaj-はhoではなくdímaを取るのではないかという疑惑。</p>
+<p>次に、kは人を指せないのではないかという疑惑。</p>
+<p>最後に、さすがに関係詞節3重入れ子とそれに付随する名詞と動詞の間の長すぎる間隙は非常に読みづらい文をもたらすという話。</p>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ほーでーる・なーな・かー・なーな・でぃーまでーる・なーな（情報量実質ゼロ）</p>&mdash; まい/まいさん/MIT@言語垢 (@mai_lang0) <a href="https://twitter.com/mai_lang0/status/1243570608379740164?ref_src=twsrc%5Etfw">March 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h3>168-1. cánaj-はhoではなくdímaを取るのではないかという疑惑</h3>
+<p>coin.htmlの方に「客観的・点的な、時間や空間上の位置を指定できる特定の現象を受けるのが『ho』、人の認識・判断が入るような、過去の事象についての人の判断のような、ものは『気づく』と組み合わせる「díma」なのかなぁ。」という記載がある。</p>
+<p>「dímaは『hoが存在すること』である、と言いかえればいいかなぁ。うーん。」と書いてある。</p>
+
+<p>dímaの例文は次の通り。</p>
+
+<div class="box" style="width:670px;">
+	<div data-gloss>
+		<p>díma-dhel nána ká-∅ ko-dhel ṣonároná-úḷ-∅ zallo-bháp-akátá hem ká-∅ cánaj-azená hem,</p>
+		<p>こと-ACC REL 彼女-NOM これ-ACC 不思議に思う-INF-NOM 〜すべきである-PRF-3N.PST.PTCP PFV 彼女-NOM 気づく-3F.PST.PTCP PFV,</p>
+		<p>彼女はこれを不思議に思うべきであった、ということにアリスは気づいた。</p>
+	</div>
+	<hr>
+	<div data-gloss>
+		<p>cainíju-homá hátaṣom-i jo zíghíṣ-ele nána kom epa-ḍi oṣa rec-aká bhom-akátá phúpen-ele ká-∅ ám aḍuhazo-bháp-azená díma-dhel seṇa cánaj-úḷ-∅ áṣá.</p>
+		<p>チョッキ-GEN ポケット-ZERO または 時計-ACC REL この 場所-POST 〜から 取り出す-3N.REAL 持っている-3N.PST.PTCP ウサギ-ACC 彼女-NOM 〜しない 見る-PRF-3F.PST.PTCP こと-ACC 突然 気づく-INF-POST 〜を原因として</p>
+		<p>（というのも）チョッキのポケットや、そこ（=チョッキのポケット）から取り出す時計を持っているウサギを彼女は見たことがないことに突然気づいたからだ。</p>
+	</div>
+</div>
+
+<p>hoの例文は次の通り。</p>
+<div class="box" style="width:670px;">
+	<div data-gloss>
+		<p>ko-ḍi hína kit kit bháṭám-akátá ho-zá ám hem-akátá hem.</p>
+		<p>これ-POST 〜に とても とても 珍しい-3N.PST.PTCP 出来事-NOM.PL 〜しない 在る-3N.PST.PTCP PFV</p>
+		<p>このことの中に、非常に珍しい事象があったわけではなかった。</p>
+	</div>
+</div>
+
+<p>ちなみにcánaj-は不定詞は取れるっぽい。</p>
+
+<div class="box" style="width:670px;">
+	<div data-gloss>
+		<p>ám ghíyo hemáká cánaj-∅ bom rakk-úḷ-∅</p>
+		<p>ない 塩-NOM 在る-ADV 知る-IMP できない 生きる-INF-POST</p>
+		<p>塩無き命は無しと知れ。</p>
+	</div>
+</div>
+
+<p>「cánajúḷで『～という過去の事象に気づく』という表現をする際、気づく対象は事象そのものではなく『事象が存在するのだということ』だからdíma」、ってことか？んーでも上記例文ってどちらも『事象が存在するのだということ』ではないよな。『するのが当然であったのにしなかった』『～したことがない』であって、ともに事象の<b>不存在</b>。</p>
+
+<p>んー、いろいろ考えたが、今回の場合はhoとcánaj-の相性というより、状態動詞zádebátaが指しているのは「時空内の点」ではないからダメ、というべきっぽそう。</p>
+
+<h3>168-2. kは人を指せないのではないかという疑惑</h3>
+<p>アイルとパイグは指せます。しかし英語との辞書でもthingとしているしバートは男女中性が対立するし。</p>
+<p>んー、前置修飾が掛かっているときはギリギリ人を指せなくもないように思えるが、少なくともká nánaとかkele nánaとかについては「物」でしか使えないという直感がある。</p>
+<p>前置修飾で人を指せるホンマか？前置でゼロで現れているなら行けそうだが、kで現れていると無理であるように思えるぞ。</p>
+<p>なんかゼロでも無理な気がしてきた。無理ですね。</p>
+
+<h3>168-3. 関係詞節3重入れ子</h3>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">↑の文を目にしたときの私の感想：↓<a href="https://t.co/IdX41jympA">https://t.co/IdX41jympA</a></p>&mdash; バートさん(bhátaim) (@bhaataan_zepha) <a href="https://twitter.com/bhaataan_zepha/status/1245517836623077376?ref_src=twsrc%5Etfw">April 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<p>という気分になった。</p>
+
+<h3>168-4. そもそもaccúḷじゃなくてhorúḷですな</h3>
+<p>添削結果を書こうとして気づいたが、辞書に「accúḷは、『文字を書く』などのように、あくまで筆記具を動かして文字などを生み出す動作を表す。一方、horúḷは『書いて記録する』『まとまりのある文章を書き表す』といったような、意味を記録する方に重点が置かれる動詞である。」「accúḷの目的語は、書いた結果生まれるもの（『文字』など）である。」であるのでここでaccúḷは不可であり、horúḷであらねばならない。</p>
+
+<h3>168-5. 結論</h3>
+<p>まあとりあえず、ásúka nána adheṣá ám zámabhápakátá dímadhel horabáta hem bhá rízele (zádebáta díma|zádeúḷ ema) cánajamúná?にすることで全て解決しそう。後者、dímaは不可ではないだろうけど不定詞の方が無標（したがって無難）かなぁというのがある。</p>
+
+<h3>168-6. 追加の疑問点</h3>
+<p>「adheṣá ám zámabhápakátá」、ダメじゃん、なにゆえ中性？「ただし、性別が不明な場合など、アニマシーがあっても『指示・固有』を用いることができる。」とは一応文法書にあるが、これ原文がitのウサギに関して足した規定だった気がするし……。人の複数だしデフォは男女混合で女性じゃない？</p>
+<p>調べた。性別不明規定は2018年3月2日に文法書に書かれている。特にウサギ文脈は見当たらなかった。</p>
+<p>ちなみに、</p>
+<div class="box">
+	歌や詩、また口頭的な発話の場合は格語尾が部分的に省略されることがありうるが、一般的な文では基本的に省略されることはない。対格や具格において省略される場合、「動詞の人称変化の情報から主格と紛れることがない」という条件が必要である。
+</div>
+<p>とあるんだけど、これって三人称での男女中性の情報においての矛盾である場合って適用されるんだろうか。「ká [nána ...] bhá rízele zádebátaにおいてkáは「もの」または「彼女」であり男性にはなりえないので、『うーん、このkáは具格語尾の省略！』といえる」という推論は無理があるように思われる。男性になりうるかどうかで解釈が変わるというのは流石にアレである。</p>
+<p>意図は「人称変化によると主語が三人称だけど一人称が主/無で浮いているとき」とかであって、三人称どうしではこの排除の推論の根拠たりえないと思う。</p>
+<p>ということで記述に加筆が要る。</p>
+
+<p>「なぜ中性？」の質問への応答が返ってきた。</p>
+<div class="box">
+	<p>j.v「adheṣá ám zámabhápakátáが指示・固有なのなにゆえ？」</p>
+	<p>s.m「王の性別についての歴史設定がわからんかったので逃げた(たしか性不定は指示・固有で取れなかったっけ)(あれ複数の人間で混ざってる場合は女性か?)」</p>
+	<p>j.v「ということで今回のコメントには【「ただし、性別が不明な場合など、アニマシーがあっても『指示・固有』を用いることができる。」とは一応文法書にあるが、これ原文がitのウサギに関して足した規定だった気がするし……。人の複数だしデフォは男女混合で女性じゃない？調べた。性別不明規定は2018年3月2日に文法書に書かれている。特にウサギ文脈は見当たらなかった。】という文字列が含まれました。」</p>
+	<p>s.m「なるほど」</p>
+</div>
+<h3>168-5. 結論part2</h3>
+<p>中性を女性に直して、ásúka nána adheṣá ám zámabhápazená dímadhel horabáta hem bhá rízele zádeúḷ ema cánajamúná?にすることで全て解決しそう。不定詞の方が無標（したがって無難）なのでそっちで載せる。</p>
+
+<h2>169. [ɾə]で読まれる語末-lの転写は「ラ」または「ル」。</h2>
+<p>[ɾə]で読まれる語末-lの転写は「ラ」である、としていたが、「ル」も許容することにした。</p>
+
+<h2>170. skurlavenija.mavijaの作文part3</h2>
+<p>ゆかたゆさん（<a href="https://twitter.com/yukata_yu_vrc">@yukata_yu_vrc</a>）のDiscord鯖でskurlavenija.mavija氏が生成した文をもとに</p>
+<div class="box">
+	wátimilíju ghitto, áma zádedhí t.
+</div>
+<div class="box">
+	wátimilíju ghitto, áma zádedína t.
+</div>
+
+<p>という二つの例文が生まれた。前者は状態動詞を瞬間動詞的に使って「今この瞬間あなたのことがこわくなりました」、後者は状態動詞を普通に使って「あなたのことがこわいです」。ともに文脈に合う。</p>
+
+<p>「ところでこのwátimilíju ghittoって格をどう扱えばいいんだ？呼格とか多分ないぞ」「『黄色い、または、黒い、勇者のシンボルであるよ！』みたいな感じの単立主格でいいのでは」「まあそうだよなぁ。んーこれピリオドで綴るべきか？」「見た目のまとまりの良さのためにカンマで綴るけどピッチとしては二文として読まれるんでしょ」「それだ」となった。</p>
+<p>ちなみにこういうwátimilíju ghittoみたいなのはそれぞれの単語がピッチ句を構成します。</p>
+
+<h2>171. lとḷ、part2</h2>
+
+<p><a href="#light_l_dark_l">71. lとḷ</a>にて</p>
+
+<div class="box">
+	「語頭」「ll」「eかiに隣り合う」のどれかの条件をみたすときはl、どれも満たさないならḷ、という規則
+</div>
+
+<p>が記述されていたが、そり舌音の後のiは[ɨ]であるので、-ṣil-や-ṣíl-といったケースについてはlの直前のi/íはlをlightにする作用を持たない気がした。</p>
+
+<p>逆にḷのあとにeが付いたときって-ḷí- [ɭɨː]になったりするんかね。少なくとも母音対立が消えそうという気持ちがある。ほんまか。</p>
+
+<p>あ、そもそもdark lとlight lってどうやって言うんだろう。文字名案件だ。</p>
+
+<h2>172. ピッチ句末に4連続で長母音</h2>
+<p>2019年11月16日に「dholopánáの2番目のoは短い」という知見が観測された。</p>
+<p>その後、2020年1月6日にlinepáneが登場したことにより、linepánehomáでこの話が再燃。2020年2月6日に「ピッチ句末に4連続で長母音が並ぶなら、最後から三番目が短縮（e, oでも構わない）するが、kúcúhomáという綴りから分かるように綴りは保たれる。」ということが分かった。</p>
+<p>2020年4月12日になってそれをやっと文法書に収録。</p>
+
+<h2>173. 5の曲用と人名の曲用</h2>
+<p>詳しい経緯は<a href="coin3.html#fiveandname">coin3の56-4.</a>に載せてあるが、</p>
+
+<div class="box">
+	<h4>2-7. 主属同形名詞</h4>
+	<p>nやmで終わる名詞の中には、単数主格と単数属格が同じ形になるものがある。特に、nやmで終わるバート人名は基本的に主属同形である。</p>
+
+	<p>その中でも、ṣán「5」などの名詞には対格語尾として-elと-eleのどちらも用いることができる。</p>
+	<table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
+		<tr><td></td><td>主格</td><td>無格</td><td>対格</td><td>属格</td><td>具格</td><td>後置格</td></tr>
+		<tr><td>単数</td><td>ṣán</td><td>ṣáni</td><td>ṣánel<br>ṣánele</td><td>ṣán</td><td>ṣánai</td><td>ṣáni</td></tr>
+	</table>
+
+	<p>non「劣悪なもの」は単数対格語尾として-elのみを取る。</p>
+	<table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
+		<tr><td></td><td>主格</td><td>無格</td><td>対格</td><td>属格</td><td>具格</td><td>後置格</td></tr>
+		<tr><td>単数</td><td>non</td><td>noni</td><td>nonel</td><td>non</td><td>nonai</td><td>noni</td></tr>
+		<tr><td>複数</td><td>noná</td><td>noná</td><td>nonelená</td><td>nonáná</td><td>nonainá</td><td>noniná</td></tr>
+	</table>
+</div>
+
+<p>ということになった。「non『劣悪なもの』は」は「nonなどは」になるかもしれないけど、non一単語というのもおもろいので今のところはこれで。</p>
+<p>ちなみに固有名詞のみ振る舞いが異なる現世言語ってのは普通にあったはずで、ハワイ語とか<a href="https://linguistics.stackexchange.com/a/3111">タガログ語</a>とかがそう。</p>
+
+<h2>174. 辞書</h2>
+<p>検索クエリは[^\s!-~áíúṭḍṣṇḷ藍牌→←伐理ヴェフィス皇アイツォʂːɔ/ʔʰʱɻəɣɨɛʈɖɭɳʋɾʃɥɡāīēōū]</p>
+
+<h2>175. a と á の音価</h2>
+
+<h3>175-1. 義務的にəとして発音されるa</h3>
+<p>フィラーea [e̞ːə], aḍí [əɖɨː], gaṇṇí, khaṇṇí, khaṇḍí</p>
+
+<h3>175-2. bh, dhの後のaは後舌、b, dの後のaは前舌の傾向がある</h3>
+<p>2020年2月15日に提案され、「PMCFショーケース確認して検証しなきゃね」ということになった。</p>
+<p>2020年5月7日にSYからの同意が得られた。</p>
+<p>2020年5月13日（今日）に調べてみたところ、そもそもPMCFショーケースにbha, dha, bhá, dhá はなかった（baukkáはbauなのでカウントしない）。</p>
+<p>ということで問題が一切なく実情に合うので採用。</p>
+<p>b, dのあとのá は [æ̞ː]（非円唇前舌広母音、IPA本来の[a]、普通話ānとかの母音）、a は [ä]（非円唇中舌広母音、よく[a]と書かれるやつ、日本語のア行）。bh, dh のあとの á, a は [ɑː], [ɑ]（非円唇後舌広母音）、または[ə]。</p>
+
+<h2>176. 二重コンマ</h2>
+<p>例えば</p>
+
+<div class="box" style="width:700px;">
+	<div data-gloss>
+		<p>xízía, ápa-∅ wátimilíju ghitto-∅ hem.</p>
+		<p>こんにちは 私-NOM ワーティミリーユ ギットー-NOM である</p>
+		<p>こんにちは、私はワーティミリーユ・ギットー。</p>
+	</div>
+</div>
+
+<p>という文において、xízíaとápa wátimilíju ghitto hemは二つのaccabátに分かれるのだが、これを厳密に表現するためにカンマを2重にするという表記があることになった。</p>
+
+<h2>177. ghátuの扱い、そして同格</h2>
+<div class="box">
+	フルネームはghátu「子供」という語を用いて「父親の名前 ghátu 名前 (苗字/bhátnímaṣ)」と表現する。
+</div>
+
+<p>というのが最初期からあるわけだが、このghátuにどのような文法的解釈を与えられるかという話が前から上がっていた。</p>
+
+<p>2020年2月16日においては、「固有名詞は無格が-∅であり、ghátuは名詞接続詞である」という説が上がっていた。「固有名詞と名詞の曲用が違うのは前例アリ」ということもあって。</p>
+
+<p>ただ、「nやmで終わるバート人名は基本的に主属同形である。」により、まあ普通に「[父親の名前]の子、[名前]」という常識的な解釈がされるべきとなった。</p>
+
+<p>さて、こういう名詞並列による同格表現、痕跡的なのか生産的なのかを考えないといかんよなとは思う。直感では生産的でないと思う。かつ、前に来る方の名詞は主格形なのか？それとも無格形なのか？今回ghátuになったことによってその点は不明となった。わからん。まあとりあえず現在は生産的ではないと思うんですよね。</p>
+
+<h2>178. 格</h2>
+<p>ユーゴック語discordでバート語の格について話していた2020年5月21日。話しているうちにいくつかの既知の事実を言語化できた。</p>
+
+<h3>178-1. 与格としての具格</h3>
+<p>わりと具格は間接目的語を指す用法が多い、という話になった。じゃあなんで具格のことを与格と言わないのかを考えるに、多分「『与格を受け取る』と決まっている動詞以外にそれをくっつけた際の主要な意味が『～を使って』方面である」という要素があるからではなかろうか、となった。</p>
+
+<p>与格みのある使用例は次の通り。</p>
+
+<ul>
+	<li>他動詞を使役化した際のoriginal agent（ただしこれは与格で取る言語も具格で取る言語も処格で取る言語も<a href="https://en.wikipedia.org/w/index.php?title=Causative&oldid=943229299#Syntax">あるらしい</a>ので、強い与格みとは言えない）</li>
+	<li>ṣíyáúḷ「〜(対格)を〜(具格)とみなす」。「基準具格」の一種にまとめられている。</li>
+	<li>cazúḷ「〜(具格)との関係を深める」</li>
+	<li>náhozúḷ「〜(対格)を〜(具格)の形に格変化させる」</li>
+	<li>ṣomaúḷ「〜(具格)に対して敬礼する」</li>
+</ul>
+
+<p>一方で具格性のつよいやつもわりとある。</p>
+
+<ul>
+	<li>suḷorúḷ「〜(具格)の強い香りで〜(対格)の不快なにおいを隠す」</li>
+	<li>naunilorúḷ「〜(対格)を刺す, 〜(対格)を貫く, 〜(具格)を〜(対格)に突き刺す（＝具格で対格を貫く）」</li>
+	<li>otúḷ「〜(対格)を〜(具格)で置き換える」</li>
+</ul>
+
+<p>あとはもちろん連体修飾語としての「基準具格」用法。</p>
+
+<p>さらにいえば、hínaも与格みのあるアレを作り出すことを忘れてはならない。</p>
+
+<p>「与格、具格が吸収した説」というのも提示された。実際-aiと-bhauが混交するのは不思議なのでとてもあり得る。</p>
+
+<h3>178-2. hína格</h3>
+
+<p>具格が「与格になれる具格」であるなら、hína格は「与格になれる処格」といえるのかもしれない（てきとう）。</p>
+
+<p>処格っぽさある用例：</p>
+
+<ul>
+	<li>bhoúḷ「〜(主格)は〜(hína)という場所にあるものを満たしている」</li>
+	<li>cákíkúḷ「〜(hína)を訪れる, 〜(hína)を来訪する」</li>
+	<li>「土手に座る」とか「一日中」とかとか。というかデフォはやっぱり処格よね。</li>
+</ul>
+	
+<p>与格みのある用例：</p>
+
+<ul>
+	<li>bhápúḷ「〜(hína)である」</li>
+	<li>bohúḷ「〜(主格)は〜(hína)に参加する・出席する・顔を出す・通う」（純粋な目的地ならghiで取る）</li>
+	<li>cajúḷ「〜(hína)に似ている・まるで〜(hína)のようである」（具格だと「空間的に近い」）</li>
+	<li>hemúḷ「〜(hína)には〜(主語)がある」</li>
+	<li>sujúḷ「〜(hína)のために〜(対格)を使う・利用する」</li>
+</ul>
+
+<h2>179. 感嘆符</h2>
+<p>実情に合わせ、「ラテン字転写では感嘆符で転写する。」から「ラテン字転写では感嘆符で転写してもよいし、そのまま t. と転写してもよい。」へと変更。</p>
+
+<h2>180. 終助詞</h2>
+<p>Mandarin Chinese―A Functional Reference Grammar に "sentence-final particles" という記載があったので、伐英辞書に採用。</p>
+<p>あと終助詞は基本的に主観性を表現するのに使うんだよな（したがって例えばthird person omniscientであればほぼ使わない）。</p>
+
+<h2>181. 聞き手ではない他人の行動が主語または話し手にとって困る/不快であるときに入れると感情的になる接辞-(a)man-</h2>
+<p>聞き手であれば入らない。-lo-系統と融合して-(a)mallo-となる。訳語「～やがる、how dare he ...」。2020年3月24日辺りに着想。</p>
+<p>まあ</p>
+<ul>
+	<li>一人称受身「私は○○された；あいつは私を○○しやがった」（話し手 = 主語にとって）</li>
+	<li>二人称受身「君は○○された；あいつは君を○○しやがった」（話し手にとって）</li>
+	<li>三人称能動「あいつは○○しやがった」（話し手にとって）</li>
+	<li>三人称受身「彼は○○された；あいつは彼を○○しやがった」（話し手にとって）</li>
+</ul>
+<p>で主に使われ、</p>
+<ul>
+	<li>二人称受身「君にとって不快であろうが君は○○された」（主語にとって）</li>
+	<li>三人称受身「彼にとって不快であろうが彼は○○された」（主語にとって）</li>
+</ul>
+<p>に使うこともまあできる、という感じかなぁ。</p>
+<p>2020年3月17日辺りに被害受身みたいなものの表現方法がほしいとなって生まれたものであり、まあ受け身と相性がよい接辞となった。</p>
+<p>全体としてはこんな感じかな。</p>
+
+<table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
+	<tr>
+	<td></td>
+	<td>一人称</td>
+	<td>二人称</td>
+	<td>三人称女</td>
+	<td>三人称男</td>
+	<td>指示・固有</td>
+	</tr>
+	<tr>
+	<td>命令形</td>
+	<td colspan="5"><strong style="color: red">-(a)mán</strong></td>
+	</tr>
+	<tr>
+	<td>不定詞</td>
+	<td colspan="5">-(a)manúḷ</td>
+	</tr>
+	<tr>
+	<td>終止詞</td>
+	<td>-(a)manadhí</td>
+	<td>-(a)manamú</td>
+	<td>-(a)manaze</td>
+	<td>-(a)manabhá</td>
+	<td>-(a)manaká</td>
+	</tr>
+	<tr>
+	<td>過去分詞</td>
+	<td>-(a)manadína</td>
+	<td>-(a)manamúná</td>
+	<td>-(a)manazená</td>
+	<td>-(a)manabáta</td>
+	<td>-(a)manakátá</td>
+	</tr>
+	<tr>
+	<td>未来分詞</td>
+	<td>-(a)manadíha</td>
+	<td>-(a)manamúha</td>
+	<td>-(a)manazebá</td>
+	<td>-(a)manabáṣlo</td>
+	<td>-(a)manakáṣlo</td>
+	</tr>
+	
+	
+	<tr>
+		<td>受動不定詞</td>
+		<td colspan="5">-(a)manáḷ</td>
+	</tr>
+	<tr>
+		<td>受動終止詞</td>
+		<td><strong style="color: red">-(a)mallo</strong></td>
+		<td><strong style="color: red">-(a)manní</strong></td>
+		<td>-(a)manasá</td>
+		<td>-(a)manaṣí</td>
+		<td>-(a)manaho</td>
+	</tr>
+	<tr>
+		<td>受動過去分詞</td>
+		<td><strong style="color: red">-(a)malloná</strong></td>
+		<td><strong style="color: red">-(a)manína</strong></td>
+		<td>-(a)manasátá</td>
+		<td>-(a)manaṣíná</td>
+		<td>-(a)manahoná</td>
+
+	</tr>
+	<tr>
+		<td>受動未来分詞</td>
+		<td>✗</td>
+		<td><strong style="color: red">-(a)maníha</strong></td>
+		<td>-(a)manasáṣlo</td>
+		<td>✗</td>
+		<td>-(a)manahobá</td>
+	</tr>
+</table>
+
+<p>これを辞書に足さねばならない（現在2020年7月21日、4ヶ月放置）。足した。</p>
+	
+<h2>182. bháradhí /bʱɑːɖɖiː/</h2>
+<p>口語縮約。rにつられてdhがそり舌化、しかし/iː/は引きずられない。口語縮約は長母音+長子音が許されんだろうなぁ。ということはbaukkáって比較的最近の語形なのか？過去考察を振り返らねば。バート文字で表音的に書く方法ないけどどうしよう。ああまあbháQ-ḍъ-íとは書けるか。</p>
+
+<h2>183. 「バート語の時制・相の構造の思想」</h2>
+<p>skurlavenija.mavijaが「<a href="https://docs.google.com/document/d/1AHNly9a_H_3P-fOrW56zCLZOOsX8d0WdAiv0i2lIKrw/">バート語の時制・相の構造の思想</a>」という文章を書いてくれた。便利なので文法書からもリンクしておこう。</p>
+
+<h2>184. バート文字の点いらない説</h2>
+<p>バート文字における点、明らかに機能負担量が低いので無くても全然読めるのでは、という説が2020年8月30日にjekto.vatimelijuによって提唱された。</p>
+<p>実際にやってみたところ、</p>
+
+<p>kodi hína kit kit bátámakátá hozá ám hemakátá hem. ja púpen dínadi gi bátúl, "há kána! há kána! báhedíha hem!", kodel ká deseúl ema alic ám kit kit conáronázená hem. rúcán kánadi nána kodi ema zu hejáze hína, dímadel nána ká kodel conáronáúl zallobápakátá hem ká cánajazená hem, cinna, díom kánadi hína ká dízá báci kit úrajúl ema hejázená hem. cinna, kánadi nána púpen deja zígícele díom cainíjuhomá hátacomi oca recaká, jarúci kodel ákaká, jarúci kánataká hína, alic bocahazená hem, cainíjuhomá hátacomi jo zígícele nána kom epadi oca recaká bomakátá púpenele ká ám aduhazobápazená dímadel sena cánajúl ácá. jarúci amáma bajhídi cájau kotáná epadel wákahama kánatama ká dídel lánahazená hem. jarúci cákíkátadi cájau kánadi nána púpen kotáná cojabau rúcán amáma bonaudi gi kánagama ídaká hína kánaisa kodel aduhazozená hem.</p>
+
+<p>「あっめっちゃ読める」となった。強いて言うならbhとbがわずかにつらいか。</p>
+<p>とはいえ、文を書いた本人である私が読んでもアレなので、skurlavenija.mavijaにも読ませてみることにした。</p>
+<p>結果「<a href="https://docs.google.com/document/d/1nVuwFOktG-4LEZYz6eAzQQuUj1G4d6IqECFZ6Nc3PUA">バート文字の点いらない説</a>」が立った。やってみた結果、やっぱり点は無くても全然読めることがわかった。やっぱり。</p>
+
+<p>あと、ṣonáronázená が ṣonáronazená と読まれており、よく考えたら動詞活用に長母音4連続回避は発生しないなという内省が生えたので、その旨書いた。</p>
+
+<p>SY「ところでじゃあなんで点書いてあるんだろう」j.v「旧正書法があまりにひどすぎたのでそれの反動、という説がある」SY「なるほどね。でもひどい正書法って創作しにくいのよな」j.v「わかる。スキュリオーティエ・バートもやらんとね」</p>
+
+<p>具体的には úro vs. hor- あたりをなるべく一貫して綴るみたいなひどさがほしい。</p>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ˈæɾəm ~ əˈtʰɑːmɪk　みたいな交替を示す言語が「格変化と動詞の変化が少なくて簡単です」みたいな扱いされているのおもろいよな</p>&mdash; jekto.vatimeliju@hsjoihs@.sozysozbot. (@sosoBOTpi) <a href="https://twitter.com/sosoBOTpi/status/1273429840155168769?ref_src=twsrc%5Etfw">June 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<h2>185. スタイルシート</h2>
+<p>Arialになってくれないと ḷ とかがきれいに表示されないので、デフォルトをArialにするようにスタイルシート側で指定した。</p>
+
+<h2>186. ghau ja ghá の複数の話</h2>
+<p><a href="coin2.html#ghau_ja_gaa">coin2の29-3.</a>に載っている</p>
+<div class="box">
+	<h3>29-3. 並立語の借用規則</h3>
+	<p>パイグgau2 gua2「武器」のような、複数の形態素の並立からなる語をバートで借用するときには、ghau ja gháのように、jaで並立させることとした。当然、格変化するときにはそれぞれの文法に従うので、格変化表を書くなら次のようになる。</p>
+
+	<div class="box">
+	<p>ghau ja ghá「武器」</p>
+	<table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
+	<tr><td></td><td>主格・無格</td><td>対格</td><td>属格</td><td>具格</td><td>後置格</td></tr>
+	<tr><td>単数</td><td>ghau ja ghá</td><td>ghau ja ghádhel</td><td>ghau ja gháom<br>ghau ja gháhomá</td><td>ghau ja ghábhau</td><td>ghau ja gháḍi</td></tr>
+	<tr><td>複数</td><td>ghauzá ja gházá</td><td>ghauzá ja ghádhelá</td><td>ghauzá ja gháomá<br>ghauzá ja gháhome</td><td>ghauzá ja ghábhauná</td><td>ghauzá ja ghádhíná</td></tr>
+	</table>
+	</div>
+</div>
+
+<p>に対してskurlavenija.mavijaが非自明の意を表明していた。これに対してのjekto.vatimelijuの解答は以下の通り。</p>
+
+<ul>
+	<li>まず、ghau ja ghá「武器」という語の語源意識が失われていないのだろうな。刃物と弓矢を提示することが武器を表すための成句化した比喩になっているだけであり、あくまで刃物と弓矢を提示しているのだという。</li>
+	<li>したがって、「一本の刃物および複数の弓矢」という語形でghau ja ghá「武器」の複数を表現するのは変なのだろう。</li>
+	<li>さて、そもそもバート語は複数形の衰退が起き始めており、数詞および数詞に準ずる表現で修飾されている単数形を用いて複数形をあまり用いない話者が少なくない（あれ？これどこにも文書化されてなくね？）という話がある。そういう話者は「多くの武器」をṣot ghau ja gháで言うのか、それとも ṣot ghau ja ṣot gháなのか。いや明らかに前者でしょ。</li>
+	<li>ghauzá ja ghádhelá だけど ṣot ghau ja ṣot gháなのか。おもしろいね。</li>
+</ul>
+
+<p>せっかくなので文法書にも載せた。</p>
+
+<h2>187. 比喩的な使役</h2>
+
+<p>skurlavenija.mavijaの『バート語アリス文をしゃぶりつくす』という企画で、『<a href="https://skurlavenijamavija.github.io/lanerme_mittoi/bhaataan/bhaataan_alic.html#id4">3-1-1. ṣonáronázákátá、何?</a>』という疑問が提示された。</p>
+
+<div class="box">
+	<p>えー"ṣonáronázákátá epaḍi hína hemakátá alic"か。読むか。</p>
+	<p>一単語目、ṣonáronázákátá。-kátáって語尾あったな。辞書に曰く指示・固有過去分詞。ṣonáronáúḷで「〜(不定詞+ema, または対格)を不思議に思う」って動作動詞か。-zá-何?</p>
+	<p>へー使役化接辞。じゃあ「不思議に思わせた」。は? 「不思議の国」でしょ? 状態動詞でとって「不思議に思わせるような」にしたいが?</p>
+	
+	<p>wátimilíju ghitto: -zá-、動作動詞って制約あったっけ、ṣonáronáúḷって状態動詞だから使役化しても... え、動作動詞? じゃあ使役化したら状態動詞になるんでしょ。</p>
+	
+	<p>やったー(白目)。使役化して動作/瞬間/状態のどれになるか非自明なのか。</p>
+	
+	<p>wátimilíju ghitto: ṣonáronázá- に「不思議に思わせる」（動作動詞）と「不思議である」（状態動詞）の両方を語義として載せるべきなんだよな</p>
+	
+	<p>なるほど。比喩的な使役了解。</p>
+</div>
+
+<p>ということでこのことを辞書と文法書に載せねばならない。というか動詞接中辞のセクション作るか。</p>
+
+<p>おっと、-ni-は載せてるのに-ani-を辞書に載せていない。まずい。</p>
+
+<h2>188. 連体修飾語として働く分詞</h2>
+
+<h3>188-1. 問題提起</h3>
+<p>『<a href="https://skurlavenijamavija.github.io/lanerme_mittoi/bhaataan/bhaataan_alic.html#id7">3-1-4. 我々はalicを女の子だと思っとったが</a>』にも載せたが、このような会話をやった。</p>
+
+<div class="box">
+	<p>あれ、alicなのにhemakátá(hemúḷの<b>指示・固有</b>過去分詞)なの? hemazená alicじゃないんか。</p>
+	
+	<p>wátimilíju ghitto:
+	えーとhemúḷには指示・固有しかないとすると...矛盾が生じるから、えー「分詞が修飾する名詞がその分詞にとっての主語であるとき、分詞の前に名詞が出てこないので指示・固有になる」とすれば解決ですね。なんと反例がない。この規則、後で間違えそう。</p>
+	
+	<p>今になってアリス文から規則が生成されるのウケるな。</p>
+</div>
+
+<h3>188-2. 解決</h3>
+
+<p>翌日（2021年3月27日）桜を見に行ったところ、次のようにするのがよいと分かった。</p>
+
+<div class="box">分詞が連体修飾語として働き、かつその修飾する名詞が分詞にとって三人称の主語であるときは、主語の性に分詞を合わせることもできるし、合わせずに指示・固有で言うこともできる。ただし、例えば「サーワタイムを殺した男」という文では「Aがサーワタイムを殺した」という条件を満たすAの範囲が非常に狭い（一人の男であり、それ以外ではないので）。このような場合においては、主語の性に分詞を合わせるのが普通である。
+</div>
+
+<p>ということで、その旨文法書に記載。あと、連体修飾語として働く分詞のglossはPTCP.RELという表記にすることにした。</p>
+
+<h3>188-3. 説明不足</h3>
+
+<p>skurlavenija.mavija が上記の説明を読み、 2021/03/28 に『固有名詞、「Aの範囲が非常に狭い」に入りそうだから不自然なことには変わりなくないかと思ったが、バート語社会が「Aliceは女性名である」という直感を共有していないから説明つくのかな』と書いた。</p>
+
+<p>「誤読の可能性があるとは思っていたがまあいいや」と思っていたところが見事に誤読された形である。</p>
+
+<p>その後 skurlavenija.mavija は jekto.vatimeliju の言いたかったことを理解し、誤読を言語化することに成功した。</p>
+<div class="box">
+	「サーワタイムを殺した男」が性別を明示されがちなのは、「"サーワタイムを殺した男"が定義より男である」からではなく、「サーワタイムを殺した」存在が男であると話している人間が知っているからであり、「不思議なところにいるアリス」において性別を表示しないのは「不思議なところにいる」存在の性別が一意でないからである
+</div>
+
+<p>ということで、</p>
+
+<div class="box">
+	分詞が直後の名詞を修飾しており、<b>かつその修飾する名詞が分詞にとって三人称の主語</b>であるときは、主語の性に分詞を合わせることもできるし、合わせずに指示・固有で言うこともできる。ただし、例えば「サーワタイムを殺した男」という名詞句では「Aがサーワタイムを殺した」という条件を満たすAの範囲が非常に狭い（殺人というのは一般に一人または少数の人数で行われることが多く、さらにその名詞句を発話した人間は殺害が一人の男によってのみ行われていたことを知っているので）。このような場合においては、主語の性に分詞を合わせるのが普通である。一方で、「マカティに住んでいる男」という名詞句では、話題に出している男以外にも有象無象がマカティに存在するのであって、「Aはマカティに住んでいる」の条件を満たす存在が非常に多い。このような場合は指示・固有が普通である。
+</div>
+
+<p>ぐらいには言葉を尽くしておくことにした。</p>
+
+<h2>189. -(a)boh- が bohúḷ 由来の動詞に付くとき</h2>
+
+<p>「〜しようとしている」「〜するつもりである」を作る -(a)boh- だが、これの由来は当然 bohúḷ である。さて、この接辞自体が bohúḷ 由来の動詞に付くときは、規則通りの bohabohúḷ も許容されるが、 bomohúḷ という形もアリであろう、という結論になった。</p>
+
+<p>SY「cf: mormoku.tk」 j.v「はい、そういうことです」</p>
+
+<h3>189-1. bohúḷ 由来の動詞</h3>
+
+<p>janúḷ「生じる」と複合した jamohúḷ「なんらかがどこかから出る」とか jammohúḷ「人が物理的に外に出る」などがこのグループに入りそう。</p>
+<div class="box">
+	jamohúḷ「なんらかがどこかから出る」<br>
+	jammohúḷ「人が物理的に外に出る」<br>
+	<br>
+	jamomohúḷ「出ようとしている」<br>
+	janabohúḷ「生じようとしている」（規則的）<br>
+	<br>
+	bomohúḷ「行こうとしている」
+</div>
+
+<h2>190. 「外気に触れる」</h2>
+
+<p>skurlavenija.mavijaが「命令形は語幹末の子音が外気に触れるのでめんどくさい」という表現をした。気に入ったので採用するか。</p>
+
+
+<h2>191. -lor語幹、-ḷor語幹part2</h2>
+
+<div class="box">
+<p>koḷorúḷとbhoḷorúḷは共に-ḷor語幹だけど、もちろん直前の母音によっては-lor語幹もあるはず。zalloúḷのことも考えると-llorúḷの形もありえる。</p>
+<p>あと短動詞と-lorの組み合わせもありうるな。と思ったらちゃんと書いてあった。suḷorúḷは不定詞 suḷorúḷ, 三人称女性過去分詞 suḷazená, 命令形 suḷ, 名詞化第四接尾辞 sulí, 名詞化第一接尾辞sullazという変幻自在っぷりを見せてくれるわけだ。</p>
+
+<p>とりあえず現状の案件としては、</p>
+
+<ul>
+	<li>『levelingが起きて-lorazenáと規則化する動詞もあるだろう。逆に、-lor ~ -lの交代が文法化された結果として語源的に-lorであるものまで-lに交代するケースもあるかもだけど。』の話
+		<ul>
+			<li>
+				levelingが起きた動詞は既に-ḷor語幹から外れ、ただの規則動詞になる、という意図か。要するに、『-lor/-ḷor語幹というパラダイムと規則動詞というパラダイムがある』『どちらがどちらになるかは語源とは無関係である』という2つの主張を入れていると思われる。
+			</li>
+		</ul>
+	</li>
+	<li>『更に-úḷを付加した -lorúḷ という形が現代語の形であろう。ただし-lorで終わらせて古さを演出する用法もあるかもである。』
+		<ul>
+			なるほど古いのか。じゃあ現代文法書には載せなくていいかな。正書法改定前の話とかも文法書からは抜いているし。備考あたりに書くかも。
+		</ul>
+	</li>
+	<li>『あと命令形。-lが残ったり-lorにlevelingされたりとまちまちではありそう。』
+		<ul>
+			levelingされないやつはいいんだよ。問題は-rúḷの命令形ってどうなるの？っていう話があること。
+		</ul>
+	</li>
+</ul>
+</div>
+
+<p>という考察が2020年3月22日に行われ、そのまま放置されていた。現在は2021年4月10日である。つまり1年以上放置されていたことになる。こんなんばっかりだな。</p>
+
+<p>「文法書だとどうだっけ」と思って見てみたら、なんと載っていない。<a href="coin3.html#law">coin3.htmlの 48. 法</a>に「-ḷor語幹、文法書にしっかり載せなきゃね」とか書いてある。おい。</p>
+
+<p>えーと辞書に載っているのは？bhoḷorúḷ「法を定める」、koḷorúḷ「長年の使用により材料が劣化している」、naunilorúḷ「〜(対格)を刺す」、suḷorúḷ「〜(対格)の葬儀をする」。どれも -ḷor / -lor 語幹として辞書に掲載されている。</p>
+
+<h3>191-1. 受動</h3>
+<p>えー現在2021年7月13日。naunilorúḷの一人称単数受動をツイートしたかったが、受動をどういうのか考えてなかったのでツイートできなかった。</p>
+<p>というか動作動詞なのか。瞬間動詞じゃないのね。いずれにせよ言いたいのは過去分詞 + hem。</p>
+
+<p>本来的な語幹 naunil- に -loná hem をそのまま付けて naunilloná hem でいいんじゃないの？さて、suḷorúḷのほうは同様に sulloná hem なんだろうけど、じゃあ bhoḷorúḷ と koḷorúḷ みたいに直前が長い場合はどうなんだろう。bhulloná は bhátán rásit に欠けるし、bhoḷoraḷoná かなぁ。koḷorúḷ は、んー、koḷoná と koḷoraḷoná の両方可かね。</p>
+
+<h3>191-2. 考察</h3>
+<p>そもそもバート語の動詞って何個の principal form を覚えればいいんだ？とりあえずlor動詞を忘れると、</p>
+
+<table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px; margin: 5px">
+	<tr>
+	<td></td>
+	<td>一人称</td>
+	<td>二人称</td>
+	<td>三人称女</td>
+	<td>三人称男</td>
+	<td>指示・固有</td>
+	</tr>
+	<tr>
+	<td>終止詞</td>
+	<td><b><u>A</u></b>-dhí</td>
+	<td><b><u>A</u></b>-mú</td>
+	<td><b><u>A</u></b>-ze</td>
+	<td><b><u>A</u></b>-bhá</td>
+	<td><b><u>A</u></b>-ká</td>
+	</tr>
+	<tr>
+	<td>過去分詞</td>
+	<td><b><u>A</u></b>-dína</td>
+	<td><b><u>A</u></b>-múná</td>
+	<td><b><u>A</u></b>-zená</td>
+	<td><b><u>A</u></b>-báta</td>
+	<td><b><u>A</u></b>-kátá</td>
+	</tr>
+	<tr>
+	<td>未来分詞</td>
+	<td><b><u>A</u></b>-díha</td>
+	<td><b><u>A</u></b>-múha</td>
+	<td><b><u>A</u></b>-zebá</td>
+	<td><b><u>A</u></b>-báṣlo</td>
+	<td><b><u>A</u></b>-káṣlo</td>
+	</tr>
+	<tr>
+			<td>受動終止詞</td>
+			<td><b><u>L</u></b>-o</td>
+			<td><b><u>A</u></b>-ní</td>
+			<td><b><u>A</u></b>-sá</td>
+			<td><b><u>A</u></b>-ṣí</td>
+			<td><b><u>A</u></b>-ho</td>
+		</tr>
+		<tr>
+			<td>受動過去分詞</td>
+			<td><b><u>L</u></b>-oná</td>
+			<td><b><u>A</u></b>-nína</td>
+			<td><b><u>A</u></b>-sátá</td>
+			<td><b><u>A</u></b>-ṣíná</td>
+			<td><b><u>A</u></b>-honá</td>
+	
+		</tr>
+		<tr>
+			<td>受動未来分詞</td>
+			<td>✗</td>
+			<td><b><u>A</u></b>-níha</td>
+			<td><b><u>A</u></b>-sáṣlo</td>
+			<td>✗</td>
+			<td><b><u>A</u></b>-hobá</td>
+		</tr>
+		<tr>
+			<td>丁寧終止詞</td>
+			<td><b><u>L</u></b>-adhí</td>
+			<td><b><u>L</u></b>-amú</td>
+			<td colspan="2"><b><u>A</u></b>-cai</td>
+			<td><b><u>A</u></b>-ká</td>
+		</tr>
+		<tr>
+			<td>丁寧過去分詞</td>
+			<td><b><u>L</u></b>-adína</td>
+			<td><b><u>L</u></b>-amúná</td>
+			<td colspan="2"><b><u>A</u></b>-cainá</td>
+			<td><b><u>A</u></b>-kátá</td>
+		</tr>
+		<tr>
+			<td>丁寧未来分詞</td>
+			<td><b><u>L</u></b>-adíha</td>
+			<td><b><u>L</u></b>-amúha</td>
+			<td colspan="2"><b><u>A</u></b>-caiha</td>
+			<td><b><u>A</u></b>-káṣlo</td>
+		</tr>
+	</table>	
+	
+	<table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px; margin:5px">
+		<tr><td>命令形</td><td><b><u>外気</u></b>-Ø / -zem</td></tr>
+		<tr><td>不定詞</td><td><b><u>不定</u></b>-úḷ</td></tr>
+		<tr><td>受動不定詞</td><td><b><u>不定</u></b>-áḷ</td></tr>
+		<tr><td>名詞化第一接尾辞</td><td><b><u>A強</u></b>-z</td></tr>
+		<tr><td>名詞化第二接尾辞</td><td><b><u>不定</u></b>-ú</td></tr>
+		<tr><td>名詞化第三接尾辞</td><td><b><u>Í①</u></b>-ṣ</td></tr>
+		<tr><td>名詞化第四接尾辞</td><td><b><u>Í②</u></b></td></tr>
+		<tr><td>名詞化第五接尾辞（中性）</td><td><b><u>A</u></b>-káta</td></tr>
+		<tr><td>名詞化第五接尾辞（男性・女性）</td><td><b><u>A</u></b>-bát</td></tr>
+		<tr><td>非完了の状況副詞化</td><td><b><u>A強</u></b>-ma</td></tr>
+		<tr><td>意図性・近接性のある未来</td><td><b><u>BOH</u></b></td></tr>
+	</table>
+	<p>に対して</p>
+
+	<style type="text/css">
+		.s17{background-color:#d0e0e3;text-align:left;color:#000000;font-family:'Arial';font-size:10pt;white-space:nowrap;padding:2px 3px 2px 3px;}
+		.s19{background-color:#ead1dc;text-align:left;color:#000000;font-family:'Arial';font-size:10pt;white-space:nowrap;padding:2px 3px 2px 3px;}
+		.s0{background-color:#ffffff;text-align:left;color:#000000;font-family:'Arial';font-size:10pt;white-space:nowrap;padding:2px 3px 2px 3px;}
+		.s1{background-color:#ffffff;text-align:left;color:#000000;font-family:'Arial';font-size:10pt;white-space:nowrap;padding:2px 3px 2px 3px;}
+		.s12{background-color:#ea9999;text-align:left;color:#000000;font-family:'Arial';font-size:10pt;white-space:nowrap;padding:2px 3px 2px 3px;}
+		.s14{background-color:#cc0000;text-align:left;color:#ffffff;font-family:'Arial';font-size:10pt;white-space:nowrap;padding:2px 3px 2px 3px;}
+		.s18{background-color:#a64d79;text-align:left;color:#ffffff;font-family:'Arial';font-size:10pt;white-space:nowrap;padding:2px 3px 2px 3px;}
+		.s13{background-color:#d5a6bd;text-align:left;color:#000000;font-family:'Arial';font-size:10pt;white-space:nowrap;padding:2px 3px 2px 3px;}
+		.s3{background-color:#f4cccc;text-align:left;color:#000000;font-family:'Arial';font-size:10pt;white-space:nowrap;padding:2px 3px 2px 3px;}
+		.s9{background-color:#e6b8af;text-align:left;color:#000000;font-family:'Arial';font-size:10pt;white-space:nowrap;padding:2px 3px 2px 3px;}
+		.s11{background-color:#f4cccc;text-align:left;color:#000000;font-family:'Arial';font-size:10pt;white-space:nowrap;padding:2px 3px 2px 3px;}
+		.s7{background-color:#d9ead3;text-align:left;color:#000000;font-family:'Arial';font-size:10pt;white-space:nowrap;padding:2px 3px 2px 3px;}
+		.s2{background-color:#e6b8af;text-align:left;color:#000000;font-family:'Arial';font-size:10pt;white-space:nowrap;padding:2px 3px 2px 3px;}
+		.s5{background-color:#d5a6bd;text-align:left;color:#000000;font-family:'Arial';font-size:10pt;white-space:nowrap;padding:2px 3px 2px 3px;}
+		.s8{background-color:#f6b26b;text-align:left;color:#000000;font-family:'Arial';font-size:10pt;white-space:nowrap;padding:2px 3px 2px 3px;}
+		.s6{background-color:#fce5cd;text-align:left;color:#000000;font-family:'Arial';font-size:10pt;white-space:nowrap;padding:2px 3px 2px 3px;}
+		.s16{background-color:#d9d2e9;text-align:left;color:#000000;font-family:'Arial';font-size:10pt;white-space:nowrap;padding:2px 3px 2px 3px;}
+		.s10{background-color:#d9ead3;text-align:left;color:#000000;font-family:'Arial';font-size:10pt;white-space:nowrap;padding:2px 3px 2px 3px;}
+		.s15{background-color:#cfe2f3;text-align:left;color:#000000;font-family:'Arial';font-size:10pt;white-space:nowrap;padding:2px 3px 2px 3px;}
+		.s4{background-color:#ea9999;text-align:left;color:#000000;font-family:'Arial';font-size:10pt;white-space:nowrap;padding:2px 3px 2px 3px;}</style>
+			<table cellspacing="0" cellpadding="0">
+				<tbody>
+		<tr><td class="s0"></td><td class="s0">-úḷ</td><td class="s0">-∅ / -zem</td><td class="s1">-z</td><td class="s0">-mú</td><td></td><td class="s1">-o</td><td class="s1">-ṣ</td><td class="s1"></td></tr>
+		<tr><td class="s0"></td><td class="s0">不定</td><td class="s0">外気</td><td class="s1">A強</td><td class="s0">A</td><td class="s1">BOH</td><td class="s1">L</td><td class="s1">Í①</td><td class="s1">Í②</td></tr>
+		<tr><td class="s0">子音幹</td><td class="s2">cákík-</td><td class="s2">cákík-</td><td class="s3">cákíka-</td><td class="s3">cákíka-</td><td class="s4">cákíkaboh-</td><td class="s5">cákíkaḷ-</td><td class="s6">cákíkí-</td><td class="s6">cákíkí</td></tr>
+		<tr><td class="s0">二重子音</td><td class="s2">rakk-</td><td class="s2">rakk- /rakkə/</td><td class="s3">rakka-</td><td class="s3">rakka-</td><td class="s4">rakkaboh-</td><td class="s5">rakkaḷ-</td><td class="s6">rakkí-</td><td class="s6">rakkí</td></tr>
+		<tr><td class="s0">c幹</td><td class="s2">rec-</td><td class="s7">rec-, reṣ-</td><td class="s3">reca-</td><td class="s3">reca-</td><td class="s4">recaboh-</td><td class="s5">recaḷ-</td><td class="s8">recí-, reṣí-</td><td class="s8">recí, reṣí</td></tr>
+		<tr><td class="s1">ah語幹</td><td class="s9">ṣíkah-</td><td class="s10">ṣíkau-</td><td class="s11">ṣíkaha-</td><td class="s11">ṣíkaha-</td><td class="s12">ṣíkahaboh-</td><td class="s13">ṣíkahaḷ-</td><td class="s6">ṣíkahí-</td><td class="s6">ṣíkahí</td></tr>
+		<tr><td class="s1">oh語幹</td><td class="s9">roh-</td><td class="s10">ro-</td><td class="s11">roha-</td><td class="s11">roha-</td><td class="s12">rohaboh-</td><td class="s13">rohaḷ-</td><td class="s6">rohí-</td><td class="s6">rohí</td></tr>
+		<tr><td class="s1">bohúḷとその派生</td><td class="s9">boh-</td><td class="s10">bo-</td><td class="s11">boha-</td><td class="s11">boha-</td><td class="s14">bohaboh-, bomoh-</td><td class="s13">bohaḷ-</td><td class="s6">bohí-</td><td class="s6">bohí</td></tr>
+		<tr><td class="s1">長母音+gh語幹</td><td class="s9">zígh-</td><td class="s10">zíg-</td><td class="s11">zígha-</td><td class="s11">zígha-</td><td class="s12">zíghaboh-</td><td class="s13">zíghaḷ-</td><td class="s6">zíghí-</td><td class="s6">zíghí</td></tr>
+		<tr><td class="s1">短母音+gh語幹</td><td class="s9">kánagh-</td><td class="s10">káná-</td><td class="s11">kánagha-</td><td class="s11">kánagha-</td><td class="s12">kánaghaboh-</td><td class="s13">kánaghaḷ-</td><td class="s6">kánaghí-</td><td class="s6">kánaghí</td></tr>
+		<tr><td class="s1">m短</td><td class="s9">am-</td><td class="s9">am-</td><td class="s10">amma-</td><td class="s11">ama-</td><td class="s12">amaboh-</td><td class="s13">amaḷ-</td><td class="s6">amí-</td><td class="s6">amí</td></tr>
+		<tr><td class="s1">n短</td><td class="s9">dan-</td><td class="s9">dan-</td><td class="s10">danna-</td><td class="s11">dana-</td><td class="s12">danaboh-</td><td class="s13">danaḷ-</td><td class="s6">daní-</td><td class="s6">daní</td></tr>
+		<tr><td class="s1">cazúḷ</td><td class="s9">caz-</td><td class="s10">cazau-</td><td class="s10">cazau-</td><td class="s11">caza-</td><td class="s12">cazaboh-</td><td class="s13">cazaḷ-</td><td class="s6">cazí-</td><td class="s6">cazí</td></tr>
+		<tr><td class="s1">cahúḷ</td><td class="s9">cah-</td><td class="s10">cau-</td><td class="s10">cau-</td><td class="s11">caha-</td><td class="s12">cahaboh-</td><td class="s13">cahaḷ-</td><td class="s6">cahí-</td><td class="s6">cahí</td></tr>
+		<tr><td class="s1">zúḷ</td><td class="s9">z-</td><td class="s10">zau-</td><td class="s10">zau-</td><td class="s11">za-</td><td class="s12">zaboh-</td><td class="s13">zaḷ-</td><td class="s15">zauḍí-</td><td class="s16">zauhí</td></tr>
+		<tr><td class="s1">núḷ</td><td class="s9">n-</td><td class="s10">nú-</td><td class="s10">nú-</td><td class="s17">núa-</td><td class="s12">núaboh-</td><td class="s13">núaḷ-</td><td class="s15">núaḍí-</td><td class="s16">núahí</td></tr>
+		<tr><td class="s1">j語幹</td><td class="s9">cánaj-</td><td class="s9">cánaj-</td><td class="s11">cánaja-</td><td class="s11">cánaja-</td><td class="s12">cánajaboh-</td><td class="s13">cánajaḷ-</td><td class="s15">cánajḍí-</td><td class="s16">cánajhí</td></tr>
+		<tr><td class="s1">uj語幹</td><td class="s9">kúcuj-</td><td class="s10">kúcú-</td><td class="s11">kúcuja-</td><td class="s11">kúcuja-</td><td class="s12">kúcujaboh-</td><td class="s13">kúcujaḷ-</td><td class="s15">kúcúḍí</td><td class="s16">kúcúhí</td></tr>
+		<tr><td class="s1">aj短</td><td class="s9">caj-</td><td class="s9">caj-</td><td class="s9">caj-</td><td class="s11">caja-</td><td class="s12">cajaboh-</td><td class="s13">cajaḷ-</td><td class="s15">cajḍí-</td><td class="s16">cajhí</td></tr>
+		<tr><td class="s1">rijúḷ</td><td class="s9">rij-</td><td class="s9">rij-</td><td class="s9">rij-</td><td class="s11">rija-</td><td class="s12">rijaboh-</td><td class="s18">rijaḷ-, ríl-</td><td class="s15">rijḍí-</td><td class="s16">rijhí</td></tr>
+		<tr><td class="s1">uj短</td><td class="s9">suj-</td><td class="s10">sú-</td><td class="s10">sú-</td><td class="s11">suja-</td><td class="s12">sujaboh-</td><td class="s13">sujaḷ-</td><td class="s15">súḍí</td><td class="s16">súhí</td></tr>
+		<tr><td class="s0">母音幹a</td><td class="s2">cákíka-</td><td class="s2">cákíka-</td><td class="s2">cákíka-</td><td class="s2">cákíka-</td><td class="s4">cákíkaboh-</td><td class="s13">cákíkaḷ-</td><td class="s15">cákíkaḍí-</td><td class="s16">cákíkahí</td></tr>
+		<tr><td class="s1">母音幹e</td><td class="s9">bháhe-</td><td class="s9">bháhe-</td><td class="s9">bháhe-</td><td class="s9">bháhe-</td><td class="s12">bháheboh-</td><td class="s19">bháhel-</td><td class="s15">bháheḍí-</td><td class="s16">bháhehí</td></tr>
+		<tr><td class="s1">母音幹á</td><td class="s9">zá-</td><td class="s9">zá-</td><td class="s9">zá-</td><td class="s9">zá-</td><td class="s12">záboh-</td><td class="s13">záḷ-</td><td class="s15">záḍí-</td><td class="s16">záhí</td></tr>
+		<tr><td class="s1">suúḷ</td><td class="s9">su-</td><td class="s9">su-</td><td class="s10">su_zau-</td><td class="s9">su-</td><td class="s12">suboh-</td><td class="s13">suḷ-</td><td class="s15">suḍí-</td><td class="s16">suhí</td></tr></tbody></table>
+	<p>といったところかな。なんかちょこちょこ既存の説明にない語形がある気がする。書き足さないと。</p>	
+
+	<p>ヌッ、迷惑幹忘れてた。まあでもこれL幹周りだから、lorとともに考えよう。</p>
+	<p>あ、そう、rohúḷ「平らである；（海などが）穏やかである」を作ってあったけど公開していなかったので、例示に使っちゃった以上載せておこう。</p>
+<h3>191-3. 追加考察</h3>
+	<p>-rúḷの命令形は（少なくとも直前が長母音なら）-rでいいっぽいということになっており、「-lorにlevelingされる命令形」があってもいいということになっている。</p>
+	<p>「命令形 suḷ」「命令形 koḷ」と書いてある。bhoḷorúḷ は bhoḷor かなぁ。 bhoḷog だし。naunilorúḷ は両方アリな気がする。
+	</p>
+
+	<p>分析そのものは、迷惑幹の処理だけ追加ですればいいっぽい？</p>
+	<table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px; margin: 5px">
+		<tr>
+		<td></td>
+		<td>一人称</td>
+		<td>二人称</td>
+		<td>三人称女</td>
+		<td>三人称男</td>
+		<td>指示・固有</td>
+		</tr>
+		<tr>
+		<td>終止詞</td>
+		<td><b><u>A</u></b>-dhí</td>
+		<td><b><u>A</u></b>-mú</td>
+		<td><b><u>A</u></b>-ze</td>
+		<td><b><u>A</u></b>-bhá</td>
+		<td><b><u>A</u></b>-ká</td>
+		</tr>
+		<tr>
+		<td>過去分詞</td>
+		<td><b><u>A</u></b>-dína</td>
+		<td><b><u>A</u></b>-múná</td>
+		<td><b><u>A</u></b>-zená</td>
+		<td><b><u>A</u></b>-báta</td>
+		<td><b><u>A</u></b>-kátá</td>
+		</tr>
+		<tr>
+		<td>未来分詞</td>
+		<td><b><u>A</u></b>-díha</td>
+		<td><b><u>A</u></b>-múha</td>
+		<td><b><u>A</u></b>-zebá</td>
+		<td><b><u>A</u></b>-báṣlo</td>
+		<td><b><u>A</u></b>-káṣlo</td>
+		</tr>
+		<tr>
+				<td>受動終止詞</td>
+				<td><b><u>L</u></b>-o</td>
+				<td><b><u>A②</u></b>-ní</td>
+				<td><b><u>A</u></b>-sá</td>
+				<td><b><u>A</u></b>-ṣí</td>
+				<td><b><u>A</u></b>-ho</td>
+			</tr>
+			<tr>
+				<td>受動過去分詞</td>
+				<td><b><u>L</u></b>-oná</td>
+				<td><b><u>A②</u></b>-nína</td>
+				<td><b><u>A</u></b>-sátá</td>
+				<td><b><u>A</u></b>-ṣíná</td>
+				<td><b><u>A</u></b>-honá</td>
+		
+			</tr>
+			<tr>
+				<td>受動未来分詞</td>
+				<td>✗</td>
+				<td><b><u>A②</u></b>-níha</td>
+				<td><b><u>A</u></b>-sáṣlo</td>
+				<td>✗</td>
+				<td><b><u>A</u></b>-hobá</td>
+			</tr>
+			<tr>
+				<td>丁寧終止詞</td>
+				<td><b><u>L</u></b>-adhí</td>
+				<td><b><u>L</u></b>-amú</td>
+				<td colspan="2"><b><u>A</u></b>-cai</td>
+				<td><b><u>A</u></b>-ká</td>
+			</tr>
+			<tr>
+				<td>丁寧過去分詞</td>
+				<td><b><u>L</u></b>-adína</td>
+				<td><b><u>L</u></b>-amúná</td>
+				<td colspan="2"><b><u>A</u></b>-cainá</td>
+				<td><b><u>A</u></b>-kátá</td>
+			</tr>
+			<tr>
+				<td>丁寧未来分詞</td>
+				<td><b><u>L</u></b>-adíha</td>
+				<td><b><u>L</u></b>-amúha</td>
+				<td colspan="2"><b><u>A</u></b>-caiha</td>
+				<td><b><u>A</u></b>-káṣlo</td>
+			</tr>
+		</table>	
+		
+		<table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px; margin:5px">
+			<tr><td>命令形</td><td><b><u>外気</u></b>-Ø / -zem</td></tr>
+			<tr><td>不定詞</td><td><b><u>不定</u></b>-úḷ</td></tr>
+			<tr><td>受動不定詞</td><td><b><u>不定</u></b>-áḷ</td></tr>
+			<tr><td>名詞化第一接尾辞</td><td><b><u>A強</u></b>-z</td></tr>
+			<tr><td>名詞化第二接尾辞</td><td><b><u>不定</u></b>-ú</td></tr>
+			<tr><td>名詞化第三接尾辞</td><td><b><u>Í①</u></b>-ṣ</td></tr>
+			<tr><td>名詞化第四接尾辞</td><td><b><u>Í②</u></b></td></tr>
+			<tr><td>名詞化第五接尾辞（中性）</td><td><b><u>A</u></b>-káta</td></tr>
+			<tr><td>名詞化第五接尾辞（男性・女性）</td><td><b><u>A</u></b>-bát</td></tr>
+			<tr><td>非完了の状況副詞化</td><td><b><u>A強</u></b>-ma</td></tr>
+			<tr><td>意図性・近接性のある未来</td><td><b><u>BOH</u></b></td></tr>
+		</table>
+
+		
+<style type="text/css">
+	.updatedtable td { font-family: 'Arial'; font-size: 10pt; white-space: nowrap; padding: 2px 3px 2px 3px; text-align: left; }
+	.updatedtable .s19{background-color:#d0e0e3;color:#000000;}
+	.updatedtable .s21{background-color:#ead1dc;color:#000000;}
+	.updatedtable .s0{background-color:#ffffff;color:#000000;}
+	.updatedtable .s16{background-color:#fff2cc;color:#000000;}
+	.updatedtable .s12{background-color:#ea9999;color:#000000;}
+	.updatedtable .s14{background-color:#cc0000;color:#ffffff;}
+	.updatedtable .s20{background-color:#a64d79;color:#ffffff;}
+	.updatedtable .s13{background-color:#d5a6bd;color:#000000;}
+	.updatedtable .s3{background-color:#f4cccc;color:#000000;}
+	.updatedtable .s15{background-color:#351c75;color:#ffffff;}
+	.updatedtable .s9{background-color:#e6b8af;color:#000000;}
+	.updatedtable .s11{background-color:#f4cccc;color:#000000;}
+	.updatedtable .s1{background-color:#ffffff;color:#000000;}
+	.updatedtable .s7{background-color:#d9ead3;color:#000000;}
+	.updatedtable .s2{background-color:#e6b8af;color:#000000;}
+	.updatedtable .s5{background-color:#d5a6bd;color:#000000;}
+	.updatedtable .s8{background-color:#f6b26b;color:#000000;}
+	.updatedtable .s6{background-color:#fce5cd;color:#000000;}
+	.updatedtable .s18{background-color:#d9d2e9;color:#000000;}
+	.updatedtable .s10{background-color:#d9ead3;color:#000000;}
+	.updatedtable .s17{background-color:#cfe2f3;color:#000000;}
+	.updatedtable .s4{background-color:#ea9999;color:#000000;}</style>
+	
+		<table class="updatedtable" cellspacing="0" cellpadding="0"><tbody>
+	<tr style="height: 20px"><td class="s0"></td><td class="s0">-úḷ</td><td class="s0">-∅ / -zem</td><td class="s1">-z</td><td class="s0">-mú</td><td class="s0">-ní</td><td></td><td class="s1">-o</td><td class="s1">-ṣ</td><td class="s1"></td></tr>
+	<tr style="height: 20px"><td class="s0"></td><td class="s0">不定</td><td class="s0">外気</td><td class="s1">A強</td><td class="s0">A</td><td class="s0">A②</td><td class="s1">BOH</td><td class="s1">L</td><td class="s1">Í①</td><td class="s1">Í②</td></tr>
+	<tr style="height: 20px"><td class="s0">子音幹</td><td class="s2">cákík-</td><td class="s2">cákík-</td><td class="s3">cákíka-</td><td class="s3">cákíka-</td><td class="s3">cákíka-</td><td class="s4">cákíkaboh-</td><td class="s5">cákíkaḷ-</td><td class="s6">cákíkí-</td><td class="s6">cákíkí</td></tr>
+	<tr style="height: 20px"><td class="s0">二重子音</td><td class="s2">rakk-</td><td class="s2">rakk- /rakkə/</td><td class="s3">rakka-</td><td class="s3">rakka-</td><td class="s3">rakka-</td><td class="s4">rakkaboh-</td><td class="s5">rakkaḷ-</td><td class="s6">rakkí-</td><td class="s6">rakkí</td></tr>
+	<tr style="height: 20px"><td class="s0">c幹</td><td class="s2">rec-</td><td class="s7">rec-, reṣ-</td><td class="s3">reca-</td><td class="s3">reca-</td><td class="s3">reca-</td><td class="s4">recaboh-</td><td class="s5">recaḷ-</td><td class="s8">recí-, reṣí-</td><td class="s8">recí, reṣí</td></tr>
+	<tr style="height: 20px"><td class="s1">ah語幹</td><td class="s9">ṣíkah-</td><td class="s10">ṣíkau-</td><td class="s11">ṣíkaha-</td><td class="s11">ṣíkaha-</td><td class="s11">ṣíkaha-</td><td class="s12">ṣíkahaboh-</td><td class="s13">ṣíkahaḷ-</td><td class="s6">ṣíkahí-</td><td class="s6">ṣíkahí</td></tr>
+	<tr style="height: 20px"><td class="s1">oh語幹</td><td class="s9">roh-</td><td class="s10">ro-</td><td class="s11">roha-</td><td class="s11">roha-</td><td class="s11">roha-</td><td class="s12">rohaboh-</td><td class="s13">rohaḷ-</td><td class="s6">rohí-</td><td class="s6">rohí</td></tr>
+	<tr style="height: 20px"><td class="s1">bohúḷとその派生</td><td class="s9">boh-</td><td class="s10">bo-</td><td class="s11">boha-</td><td class="s11">boha-</td><td class="s11">boha-</td><td class="s14">bohaboh-, bomoh-</td><td class="s13">bohaḷ-</td><td class="s6">bohí-</td><td class="s6">bohí</td></tr>
+	<tr style="height: 20px"><td class="s1">長母音+gh語幹</td><td class="s9">zígh-</td><td class="s10">zíg-</td><td class="s11">zígha-</td><td class="s11">zígha-</td><td class="s11">zígha-</td><td class="s12">zíghaboh-</td><td class="s13">zíghaḷ-</td><td class="s6">zíghí-</td><td class="s6">zíghí</td></tr>
+	<tr style="height: 20px"><td class="s1">短母音+gh語幹</td><td class="s9">kánagh-</td><td class="s10">káná-</td><td class="s11">kánagha-</td><td class="s11">kánagha-</td><td class="s11">kánagha-</td><td class="s12">kánaghaboh-</td><td class="s13">kánaghaḷ-</td><td class="s6">kánaghí-</td><td class="s6">kánaghí</td></tr>
+	<tr style="height: 20px"><td class="s0">迷惑幹</td><td class="s2">zaman-</td><td class="s7">zamán-</td><td class="s3">zamana-</td><td class="s3">zamana-</td><td class="s2">zaman-</td><td class="s4">zamanaboh-</td><td class="s15">zamall-</td><td class="s6">zamaní-</td><td class="s6">zamaní</td></tr>
+	<tr style="height: 20px"><td class="s0">ilor幹</td><td class="s16">naunilor-</td><td style="background: linear-gradient(to right, #e6b8af, #fff2cc)" class="s2">naunil-, naunilor-</td><td class="s3">naunila-</td><td class="s3">naunila-</td><td class="s3">naunila-</td><td class="s4">naunilaboh-</td><td class="s15">naunill-</td><td class="s6">naunilí-</td><td class="s6">naunilí</td></tr>
+	<tr style="height: 20px"><td class="s0">oḷor幹①</td><td class="s16">koḷor-</td><td class="s2">koḷ-</td><td class="s3">koḷa-</td><td class="s3">koḷa-</td><td class="s3">koḷa-</td><td class="s4">koḷaboh-</td><td class="s15">koḷ-, koḷoraḷ-</td><td class="s8">kolí-</td><td class="s8">kolí</td></tr>
+	<tr style="height: 20px"><td class="s0">oḷor幹②</td><td class="s16">bhoḷor-</td><td class="s16">bhoḷor-</td><td class="s3">bhoḷa-</td><td class="s3">bhoḷa-</td><td class="s3">bhoḷa-</td><td class="s4">bhoḷaboh-</td><td class="s15">bhoḷoraḷ-</td><td class="s8">bholí-</td><td class="s8">bholí</td></tr>
+	<tr style="height: 20px"><td class="s0">uḷor短</td><td class="s16">suḷor-</td><td class="s2">suḷ-</td><td class="s7">sulla-</td><td class="s3">suḷa-</td><td class="s3">suḷa-</td><td class="s4">suḷaboh-</td><td class="s15">sull-</td><td class="s8">sulí-</td><td class="s8">sulí</td></tr>
+	<tr style="height: 20px"><td class="s1">m短</td><td class="s9">am-</td><td class="s9">am-</td><td class="s10">amma-</td><td class="s11">ama-</td><td class="s11">ama-</td><td class="s12">amaboh-</td><td class="s13">amaḷ-</td><td class="s6">amí-</td><td class="s6">amí</td></tr>
+	<tr style="height: 20px"><td class="s1">n短</td><td class="s9">dan-</td><td class="s9">dan-</td><td class="s10">danna-</td><td class="s11">dana-</td><td class="s11">dana-</td><td class="s12">danaboh-</td><td class="s13">danaḷ-</td><td class="s6">daní-</td><td class="s6">daní</td></tr>
+	<tr style="height: 20px"><td class="s1">cazúḷ</td><td class="s9">caz-</td><td class="s10">cazau-</td><td class="s10">cazau-</td><td class="s11">caza-</td><td class="s11">caza-</td><td class="s12">cazaboh-</td><td class="s13">cazaḷ-</td><td class="s6">cazí-</td><td class="s6">cazí</td></tr>
+	<tr style="height: 20px"><td class="s1">cahúḷ</td><td class="s9">cah-</td><td class="s10">cau-</td><td class="s10">cau-</td><td class="s11">caha-</td><td class="s11">caha-</td><td class="s12">cahaboh-</td><td class="s13">cahaḷ-</td><td class="s6">cahí-</td><td class="s6">cahí</td></tr>
+	<tr style="height: 20px"><td class="s1">zúḷ</td><td class="s9">z-</td><td class="s10">zau-</td><td class="s10">zau-</td><td class="s11">za-</td><td class="s11">za-</td><td class="s12">zaboh-</td><td class="s13">zaḷ-</td><td class="s17">zauḍí-</td><td class="s18">zauhí</td></tr>
+	<tr style="height: 20px"><td class="s1">núḷ</td><td class="s9">n-</td><td class="s10">nú-</td><td class="s10">nú-</td><td class="s19">núa-</td><td class="s19">núa-</td><td class="s12">núaboh-</td><td class="s13">núaḷ-</td><td class="s17">núaḍí-</td><td class="s18">núahí</td></tr>
+	<tr style="height: 20px"><td class="s1">aj語幹</td><td class="s9">cánaj-</td><td class="s9">cánaj-</td><td class="s11">cánaja-</td><td class="s11">cánaja-</td><td class="s11">cánaja-</td><td class="s12">cánajaboh-</td><td class="s13">cánajaḷ-</td><td class="s17">cánajḍí-</td><td class="s18">cánajhí</td></tr>
+	<tr style="height: 20px"><td class="s1">ij語幹</td><td class="s9">lásij-</td><td class="s9">lásij-</td><td class="s11">lásija-</td><td class="s11">lásija-</td><td class="s11">lásija-</td><td class="s12">lásijaboh-</td><td class="s13">lásijaḷ-</td><td class="s17">lásijḍí-</td><td class="s18">lásijhí</td></tr>
+	<tr style="height: 20px"><td class="s1">uj語幹</td><td class="s9">kúcuj-</td><td class="s10">kúcú-</td><td class="s11">kúcuja-</td><td class="s11">kúcuja-</td><td class="s11">kúcuja-</td><td class="s12">kúcujaboh-</td><td class="s13">kúcujaḷ-</td><td class="s17">kúcúḍí</td><td class="s18">kúcúhí</td></tr>
+	<tr style="height: 20px"><td class="s1">aj短</td><td class="s9">caj-</td><td class="s9">caj-</td><td class="s9">caj-</td><td class="s11">caja-</td><td class="s11">caja-</td><td class="s12">cajaboh-</td><td class="s13">cajaḷ-</td><td class="s17">cajḍí-</td><td class="s18">cajhí</td></tr>
+	<tr style="height: 20px"><td class="s1">rijúḷ</td><td class="s9">rij-</td><td class="s9">rij-</td><td class="s9">rij-</td><td class="s11">rija-</td><td class="s11">rija-</td><td class="s12">rijaboh-</td><td class="s20">rijaḷ-, ríl-</td><td class="s17">rijḍí-</td><td class="s18">rijhí</td></tr>
+	<tr style="height: 20px"><td class="s1">uj短</td><td class="s9">suj-</td><td class="s10">sú-</td><td class="s10">sú-</td><td class="s11">suja-</td><td class="s11">suja-</td><td class="s12">sujaboh-</td><td class="s13">sujaḷ-</td><td class="s17">súḍí</td><td class="s18">súhí</td></tr>
+	<tr style="height: 20px"><td class="s0">母音幹a</td><td class="s2">cákíka-</td><td class="s2">cákíka-</td><td class="s2">cákíka-</td><td class="s2">cákíka-</td><td class="s2">cákíka-</td><td class="s4">cákíkaboh-</td><td class="s13">cákíkaḷ-</td><td class="s17">cákíkaḍí-</td><td class="s18">cákíkahí</td></tr>
+	<tr style="height: 20px"><td class="s1">母音幹e</td><td class="s9">bháhe-</td><td class="s9">bháhe-</td><td class="s9">bháhe-</td><td class="s9">bháhe-</td><td class="s9">bháhe-</td><td class="s12">bháheboh-</td><td class="s21">bháhel-</td><td class="s17">bháheḍí-</td><td class="s18">bháhehí</td></tr>
+	<tr style="height: 20px"><td class="s1">母音幹á</td><td class="s9">zá-</td><td class="s9">zá-</td><td class="s9">zá-</td><td class="s9">zá-</td><td class="s9">zá-</td><td class="s12">záboh-</td><td class="s13">záḷ-</td><td class="s17">záḍí-</td><td class="s18">záhí</td></tr>
+	<tr style="height: 20px"><td class="s1">母音幹o</td><td class="s9">aḍuhazo-</td><td class="s9">aḍuhazo-</td><td class="s9">aḍuhazo-</td><td class="s9">aḍuhazo-</td><td class="s9">aḍuhazo-</td><td class="s12">aḍuhazoboh-</td><td class="s13">aḍuhazo︎ḷ-</td><td class="s17">aḍuhazoḍí-</td><td class="s18">aḍuhazohí</td></tr>
+	<tr style="height: 20px"><td class="s1">suúḷ</td><td class="s9">su-</td><td class="s9">su-</td><td class="s10">su_zau-</td><td class="s9">su-</td><td class="s9">su-</td><td class="s12">suboh-</td><td class="s13">suḷ-</td><td class="s17">suḍí-</td><td class="s18">suhí</td></tr></tbody></table>
+
+<h3>191-4. 結論</h3>
+
+<div class="box">suḷorúḷは不定詞 suḷorúḷ, 三人称女性過去分詞 suḷazená, 命令形 suḷ, 名詞化第四接尾辞 sulí, 名詞化第一接尾辞sullazという変幻自在っぷりを見せてくれるわけだ。</div>
+
+<p>という言及の仕方はわりと適切で、不定詞（→<b><u>不定</u></b>）・命令形（→<b><u>外気</u></b>）・二人称過去分詞（→<b><u>A</u></b>）・名詞化第一（→<b><u>A強</u></b>）・名詞化第三（→<b><u>Í①</u></b>）に加えて二人称丁寧過去分詞（→<b><u>L</u></b>）が取れれば、あとは</p>
+
+<ul>
+	<li>迷惑幹の<b><u>A</u></b>はnの前で母音が落ちる</li>
+	<li>bohúḷとその派生は-aboh-と縮約してもよい</li>
+</ul>
+
+<p>だけ気に掛ければいい。<b><u>Í②</u></b>は、<b><u>Í①</u></b>が -ḍí で終わってたらそれを -hí にし、そうでなければそのまま。</p>
+
+<h3>191-5. 結論その2</h3>
+<p>これをskurlavenija.mavijaに見せたところ、いい感じの反応が得られた。</p>
+<p>j.v「ところで、núḷの受動って *náḷ ではないだろ。」</p>
+<p>skurlavenija.mavija「たしかに *náḷ ではないように思える」</p>
+<p>j.v「núáḷ だなぁ。カラムが増えるぞ～」</p>
+
+<p>ということで、結論その②は以下の通りである。</p>
+
+<table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px; margin: 5px">
+	<tr>
+	<td></td>
+	<td>一人称</td>
+	<td>二人称</td>
+	<td>三人称女</td>
+	<td>三人称男</td>
+	<td>指示・固有</td>
+	</tr>
+	<tr>
+	<td>終止詞</td>
+	<td><b><u>A</u></b>-dhí</td>
+	<td><b><u>A</u></b>-mú</td>
+	<td><b><u>A</u></b>-ze</td>
+	<td><b><u>A</u></b>-bhá</td>
+	<td><b><u>A</u></b>-ká</td>
+	</tr>
+	<tr>
+	<td>過去分詞</td>
+	<td><b><u>A</u></b>-dína</td>
+	<td><b><u>A</u></b>-múná</td>
+	<td><b><u>A</u></b>-zená</td>
+	<td><b><u>A</u></b>-báta</td>
+	<td><b><u>A</u></b>-kátá</td>
+	</tr>
+	<tr>
+	<td>未来分詞</td>
+	<td><b><u>A</u></b>-díha</td>
+	<td><b><u>A</u></b>-múha</td>
+	<td><b><u>A</u></b>-zebá</td>
+	<td><b><u>A</u></b>-báṣlo</td>
+	<td><b><u>A</u></b>-káṣlo</td>
+	</tr>
+	<tr>
+			<td>受動終止詞</td>
+			<td><b><u>L</u></b>-o</td>
+			<td><b><u>A②</u></b>-ní</td>
+			<td><b><u>A</u></b>-sá</td>
+			<td><b><u>A</u></b>-ṣí</td>
+			<td><b><u>A</u></b>-ho</td>
+		</tr>
+		<tr>
+			<td>受動過去分詞</td>
+			<td><b><u>L</u></b>-oná</td>
+			<td><b><u>A②</u></b>-nína</td>
+			<td><b><u>A</u></b>-sátá</td>
+			<td><b><u>A</u></b>-ṣíná</td>
+			<td><b><u>A</u></b>-honá</td>
+	
+		</tr>
+		<tr>
+			<td>受動未来分詞</td>
+			<td>✗</td>
+			<td><b><u>A②</u></b>-níha</td>
+			<td><b><u>A</u></b>-sáṣlo</td>
+			<td>✗</td>
+			<td><b><u>A</u></b>-hobá</td>
+		</tr>
+		<tr>
+			<td>丁寧終止詞</td>
+			<td><b><u>L</u></b>-adhí</td>
+			<td><b><u>L</u></b>-amú</td>
+			<td colspan="2"><b><u>A</u></b>-cai</td>
+			<td><b><u>A</u></b>-ká</td>
+		</tr>
+		<tr>
+			<td>丁寧過去分詞</td>
+			<td><b><u>L</u></b>-adína</td>
+			<td><b><u>L</u></b>-amúná</td>
+			<td colspan="2"><b><u>A</u></b>-cainá</td>
+			<td><b><u>A</u></b>-kátá</td>
+		</tr>
+		<tr>
+			<td>丁寧未来分詞</td>
+			<td><b><u>L</u></b>-adíha</td>
+			<td><b><u>L</u></b>-amúha</td>
+			<td colspan="2"><b><u>A</u></b>-caiha</td>
+			<td><b><u>A</u></b>-káṣlo</td>
+		</tr>
+	</table>	
+	
+	<table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px; margin:5px">
+		<tr><td>命令形</td><td><b><u>外気</u></b>-Ø / -zem</td></tr>
+		<tr><td>不定詞</td><td><b><u>不定</u></b>-úḷ</td></tr>
+		<tr><td>受動不定詞</td><td><b><u>不定②</u></b>-áḷ</td></tr>
+		<tr><td>名詞化第一接尾辞</td><td><b><u>A強</u></b>-z</td></tr>
+		<tr><td>名詞化第二接尾辞</td><td><b><u>不定</u></b>-ú</td></tr>
+		<tr><td>名詞化第三接尾辞</td><td><b><u>Í①</u></b>-ṣ</td></tr>
+		<tr><td>名詞化第四接尾辞</td><td><b><u>Í②</u></b></td></tr>
+		<tr><td>名詞化第五接尾辞（中性）</td><td><b><u>A</u></b>-káta</td></tr>
+		<tr><td>名詞化第五接尾辞（男性・女性）</td><td><b><u>A</u></b>-bát</td></tr>
+		<tr><td>非完了の状況副詞化</td><td><b><u>A強</u></b>-ma</td></tr>
+		<tr><td>意図性・近接性のある未来</td><td><b><u>BOH</u></b></td></tr>
+	</table>
+
+	
+<style type="text/css">
+.updatedtable td { font-family: 'Arial'; font-size: 10pt; white-space: nowrap; padding: 2px 3px 2px 3px; text-align: left; }
+.updatedtable .s19{background-color:#d0e0e3;color:#000000;}
+.updatedtable .s21{background-color:#ead1dc;color:#000000;}
+.updatedtable .s0{background-color:#ffffff;color:#000000;}
+.updatedtable .s16{background-color:#fff2cc;color:#000000;}
+.updatedtable .s12{background-color:#ea9999;color:#000000;}
+.updatedtable .s14{background-color:#cc0000;color:#ffffff;}
+.updatedtable .s20{background-color:#a64d79;color:#ffffff;}
+.updatedtable .s13{background-color:#d5a6bd;color:#000000;}
+.updatedtable .s3{background-color:#f4cccc;color:#000000;}
+.updatedtable .s15{background-color:#351c75;color:#ffffff;}
+.updatedtable .s9{background-color:#e6b8af;color:#000000;}
+.updatedtable .s11{background-color:#f4cccc;color:#000000;}
+.updatedtable .s1{background-color:#ffffff;color:#000000;}
+.updatedtable .s7{background-color:#d9ead3;color:#000000;}
+.updatedtable .s2{background-color:#e6b8af;color:#000000;}
+.updatedtable .s5{background-color:#d5a6bd;color:#000000;}
+.updatedtable .s8{background-color:#f6b26b;color:#000000;}
+.updatedtable .s6{background-color:#fce5cd;color:#000000;}
+.updatedtable .s18{background-color:#d9d2e9;color:#000000;}
+.updatedtable .s10{background-color:#d9ead3;color:#000000;}
+.updatedtable .s17{background-color:#cfe2f3;color:#000000;}
+.updatedtable .s4{background-color:#ea9999;color:#000000;}</style>
+
+	<table class="updatedtable" cellspacing="0" cellpadding="0"><tbody>
+<tr style="height: 20px"><td class="s0"></td><td class="s0">-úḷ</td><td class="s0">-áḷ</td><td class="s0">-∅ / -zem</td><td class="s1">-z</td><td class="s0">-mú</td><td class="s0">-ní</td><td></td><td class="s1">-o</td><td class="s1">-ṣ</td><td class="s1"></td></tr>
+<tr style="height: 20px"><td class="s0"></td><td class="s0">不定</td><td class="s0">不定②</td><td class="s0">外気</td><td class="s1">A強</td><td class="s0">A</td><td class="s0">A②</td><td class="s1">BOH</td><td class="s1">L</td><td class="s1">Í①</td><td class="s1">Í②</td></tr>
+<tr style="height: 20px"><td class="s0">子音幹</td><td class="s2">cákík-</td><td class="s2">cákík-</td><td class="s2">cákík-</td><td class="s3">cákíka-</td><td class="s3">cákíka-</td><td class="s3">cákíka-</td><td class="s4">cákíkaboh-</td><td class="s5">cákíkaḷ-</td><td class="s6">cákíkí-</td><td class="s6">cákíkí</td></tr>
+<tr style="height: 20px"><td class="s0">二重子音</td><td class="s2">rakk-</td><td class="s2">rakk-</td><td class="s2">rakk- /rakkə/</td><td class="s3">rakka-</td><td class="s3">rakka-</td><td class="s3">rakka-</td><td class="s4">rakkaboh-</td><td class="s5">rakkaḷ-</td><td class="s6">rakkí-</td><td class="s6">rakkí</td></tr>
+<tr style="height: 20px"><td class="s0">c幹</td><td class="s2">rec-</td><td class="s2">rec-</td><td class="s7">rec-, reṣ-</td><td class="s3">reca-</td><td class="s3">reca-</td><td class="s3">reca-</td><td class="s4">recaboh-</td><td class="s5">recaḷ-</td><td class="s8">recí-, reṣí-</td><td class="s8">recí, reṣí</td></tr>
+<tr style="height: 20px"><td class="s1">ah語幹</td><td class="s9">ṣíkah-</td><td class="s9">ṣíkah-</td><td class="s10">ṣíkau-</td><td class="s11">ṣíkaha-</td><td class="s11">ṣíkaha-</td><td class="s11">ṣíkaha-</td><td class="s12">ṣíkahaboh-</td><td class="s13">ṣíkahaḷ-</td><td class="s6">ṣíkahí-</td><td class="s6">ṣíkahí</td></tr>
+<tr style="height: 20px"><td class="s1">oh語幹</td><td class="s9">roh-</td><td class="s9">roh-</td><td class="s10">ro-</td><td class="s11">roha-</td><td class="s11">roha-</td><td class="s11">roha-</td><td class="s12">rohaboh-</td><td class="s13">rohaḷ-</td><td class="s6">rohí-</td><td class="s6">rohí</td></tr>
+<tr style="height: 20px"><td class="s1">bohúḷとその派生</td><td class="s9">boh-</td><td class="s9">boh-</td><td class="s10">bo-</td><td class="s11">boha-</td><td class="s11">boha-</td><td class="s11">boha-</td><td class="s14">bohaboh-, bomoh-</td><td class="s13">bohaḷ-</td><td class="s6">bohí-</td><td class="s6">bohí</td></tr>
+<tr style="height: 20px"><td class="s1">長母音+gh語幹</td><td class="s9">zígh-</td><td class="s9">zígh-</td><td class="s10">zíg-</td><td class="s11">zígha-</td><td class="s11">zígha-</td><td class="s11">zígha-</td><td class="s12">zíghaboh-</td><td class="s13">zíghaḷ-</td><td class="s6">zíghí-</td><td class="s6">zíghí</td></tr>
+<tr style="height: 20px"><td class="s1">短母音+gh語幹</td><td class="s9">kánagh-</td><td class="s9">kánagh-</td><td class="s10">káná-</td><td class="s11">kánagha-</td><td class="s11">kánagha-</td><td class="s11">kánagha-</td><td class="s12">kánaghaboh-</td><td class="s13">kánaghaḷ-</td><td class="s6">kánaghí-</td><td class="s6">kánaghí</td></tr>
+<tr style="height: 20px"><td class="s0">迷惑幹</td><td class="s2">zaman-</td><td class="s2">zaman-</td><td class="s7">zamán-</td><td class="s3">zamana-</td><td class="s3">zamana-</td><td class="s2">zaman-</td><td class="s4">zamanaboh-</td><td class="s15">zamall-</td><td class="s6">zamaní-</td><td class="s6">zamaní</td></tr>
+<tr style="height: 20px"><td class="s0">ilor幹</td><td class="s16">naunilor-</td><td class="s16">naunilor-</td><td style="background: linear-gradient(to right, #e6b8af, #fff2cc)" class="s2">naunil-, naunilor-</td><td class="s3">naunila-</td><td class="s3">naunila-</td><td class="s3">naunila-</td><td class="s4">naunilaboh-</td><td class="s15">naunill-</td><td class="s6">naunilí-</td><td class="s6">naunilí</td></tr>
+<tr style="height: 20px"><td class="s0">oḷor幹①</td><td class="s16">koḷor-</td><td class="s16">koḷor-</td><td class="s2">koḷ-</td><td class="s3">koḷa-</td><td class="s3">koḷa-</td><td class="s3">koḷa-</td><td class="s4">koḷaboh-</td><td class="s15">koḷ-, koḷoraḷ-</td><td class="s8">kolí-</td><td class="s8">kolí</td></tr>
+<tr style="height: 20px"><td class="s0">oḷor幹②</td><td class="s16">bhoḷor-</td><td class="s16">bhoḷor-</td><td class="s16">bhoḷor-</td><td class="s3">bhoḷa-</td><td class="s3">bhoḷa-</td><td class="s3">bhoḷa-</td><td class="s4">bhoḷaboh-</td><td class="s15">bhoḷoraḷ-</td><td class="s8">bholí-</td><td class="s8">bholí</td></tr>
+<tr style="height: 20px"><td class="s0">uḷor短</td><td class="s16">suḷor-</td><td class="s16">suḷor-</td><td class="s2">suḷ-</td><td class="s7">sulla-</td><td class="s3">suḷa-</td><td class="s3">suḷa-</td><td class="s4">suḷaboh-</td><td class="s15">sull-</td><td class="s8">sulí-</td><td class="s8">sulí</td></tr>
+<tr style="height: 20px"><td class="s1">m短</td><td class="s9">am-</td><td class="s9">am-</td><td class="s9">am-</td><td class="s10">amma-</td><td class="s11">ama-</td><td class="s11">ama-</td><td class="s12">amaboh-</td><td class="s13">amaḷ-</td><td class="s6">amí-</td><td class="s6">amí</td></tr>
+<tr style="height: 20px"><td class="s1">n短</td><td class="s9">dan-</td><td class="s9">dan-</td><td class="s9">dan-</td><td class="s10">danna-</td><td class="s11">dana-</td><td class="s11">dana-</td><td class="s12">danaboh-</td><td class="s13">danaḷ-</td><td class="s6">daní-</td><td class="s6">daní</td></tr>
+<tr style="height: 20px"><td class="s1">cazúḷ</td><td class="s9">caz-</td><td class="s9">caz-</td><td class="s10">cazau-</td><td class="s10">cazau-</td><td class="s11">caza-</td><td class="s11">caza-</td><td class="s12">cazaboh-</td><td class="s13">cazaḷ-</td><td class="s6">cazí-</td><td class="s6">cazí</td></tr>
+<tr style="height: 20px"><td class="s1">cahúḷ</td><td class="s9">cah-</td><td class="s9">cah-</td><td class="s10">cau-</td><td class="s10">cau-</td><td class="s11">caha-</td><td class="s11">caha-</td><td class="s12">cahaboh-</td><td class="s13">cahaḷ-</td><td class="s6">cahí-</td><td class="s6">cahí</td></tr>
+<tr style="height: 20px"><td class="s1">zúḷ</td><td class="s9">z-</td><td class="s9">z-</td><td class="s10">zau-</td><td class="s10">zau-</td><td class="s11">za-</td><td class="s11">za-</td><td class="s12">zaboh-</td><td class="s13">zaḷ-</td><td class="s17">zauḍí-</td><td class="s18">zauhí</td></tr>
+<tr style="height: 20px"><td class="s1">núḷ</td><td class="s9">n-</td><td class="s10">nú-</td><td class="s10">nú-</td><td class="s10">nú-</td><td class="s19">núa-</td><td class="s19">núa-</td><td class="s12">núaboh-</td><td class="s13">núaḷ-</td><td class="s17">núaḍí-</td><td class="s18">núahí</td></tr>
+<tr style="height: 20px"><td class="s1">aj語幹</td><td class="s9">cánaj-</td><td class="s9">cánaj-</td><td class="s9">cánaj-</td><td class="s11">cánaja-</td><td class="s11">cánaja-</td><td class="s11">cánaja-</td><td class="s12">cánajaboh-</td><td class="s13">cánajaḷ-</td><td class="s17">cánajḍí-</td><td class="s18">cánajhí</td></tr>
+<tr style="height: 20px"><td class="s1">ij語幹</td><td class="s9">lásij-</td><td class="s9">lásij-</td><td class="s9">lásij-</td><td class="s11">lásija-</td><td class="s11">lásija-</td><td class="s11">lásija-</td><td class="s12">lásijaboh-</td><td class="s13">lásijaḷ-</td><td class="s17">lásijḍí-</td><td class="s18">lásijhí</td></tr>
+<tr style="height: 20px"><td class="s1">uj語幹</td><td class="s9">kúcuj-</td><td class="s9">kúcuj-</td><td class="s10">kúcú-</td><td class="s11">kúcuja-</td><td class="s11">kúcuja-</td><td class="s11">kúcuja-</td><td class="s12">kúcujaboh-</td><td class="s13">kúcujaḷ-</td><td class="s17">kúcúḍí</td><td class="s18">kúcúhí</td></tr>
+<tr style="height: 20px"><td class="s1">aj短</td><td class="s9">caj-</td><td class="s9">caj-</td><td class="s9">caj-</td><td class="s9">caj-</td><td class="s11">caja-</td><td class="s11">caja-</td><td class="s12">cajaboh-</td><td class="s13">cajaḷ-</td><td class="s17">cajḍí-</td><td class="s18">cajhí</td></tr>
+<tr style="height: 20px"><td class="s1">rijúḷ</td><td class="s9">rij-</td><td class="s9">rij-</td><td class="s9">rij-</td><td class="s9">rij-</td><td class="s11">rija-</td><td class="s11">rija-</td><td class="s12">rijaboh-</td><td class="s20">rijaḷ-, ríl-</td><td class="s17">rijḍí-</td><td class="s18">rijhí</td></tr>
+<tr style="height: 20px"><td class="s1">uj短</td><td class="s9">suj-</td><td class="s9">suj-</td><td class="s10">sú-</td><td class="s10">sú-</td><td class="s11">suja-</td><td class="s11">suja-</td><td class="s12">sujaboh-</td><td class="s13">sujaḷ-</td><td class="s17">súḍí</td><td class="s18">súhí</td></tr>
+<tr style="height: 20px"><td class="s0">母音幹a</td><td class="s2">cákíka-</td><td class="s2">cákíka-</td><td class="s2">cákíka-</td><td class="s2">cákíka-</td><td class="s2">cákíka-</td><td class="s2">cákíka-</td><td class="s4">cákíkaboh-</td><td class="s13">cákíkaḷ-</td><td class="s17">cákíkaḍí-</td><td class="s18">cákíkahí</td></tr>
+<tr style="height: 20px"><td class="s1">母音幹e</td><td class="s9">bháhe-</td><td class="s9">bháhe-</td><td class="s9">bháhe-</td><td class="s9">bháhe-</td><td class="s9">bháhe-</td><td class="s9">bháhe-</td><td class="s12">bháheboh-</td><td class="s21">bháhel-</td><td class="s17">bháheḍí-</td><td class="s18">bháhehí</td></tr>
+<tr style="height: 20px"><td class="s1">母音幹á</td><td class="s9">zá-</td><td class="s9">zá-</td><td class="s9">zá-</td><td class="s9">zá-</td><td class="s9">zá-</td><td class="s9">zá-</td><td class="s12">záboh-</td><td class="s13">záḷ-</td><td class="s17">záḍí-</td><td class="s18">záhí</td></tr>
+<tr style="height: 20px"><td class="s1">母音幹o</td><td class="s9">aḍuhazo-</td><td class="s9">aḍuhazo-</td><td class="s9">aḍuhazo-</td><td class="s9">aḍuhazo-</td><td class="s9">aḍuhazo-</td><td class="s9">aḍuhazo-</td><td class="s12">aḍuhazoboh-</td><td class="s13">aḍuhazo︎ḷ-</td><td class="s17">aḍuhazoḍí-</td><td class="s18">aḍuhazohí</td></tr>
+<tr style="height: 20px"><td class="s1">suúḷ</td><td class="s9">su-</td><td class="s9">su-</td><td class="s9">su-</td><td class="s10">su_zau-</td><td class="s9">su-</td><td class="s9">su-</td><td class="s12">suboh-</td><td class="s13">suḷ-</td><td class="s17">suḍí-</td><td class="s18">suhí</td></tr></tbody></table>
+
+<h2 id="h_contraction">192. h語幹の縮約</h2>
+<p>ところで、rohakátá とか ṣárahakátá とかって縮約して rokhátá, ṣárakhátá と発音されそうよね。（ṣíkahzená とか ṣíkházená といった俗な発音に関する言及が既にあるし。）</p>
+<p>こういう俗なやつをどう綴るんだろうな。とりあえずラテン字においてはaが飛んだところにъ入れとくか。</p>
+
+<table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px; margin: 5px">
+	<tr>
+		<td>非縮約</td>
+		<td>縮約</td>
+		<td>発音</td>
+	</tr>
+	<tr>
+		<td>ṣárahakátá</td>
+		<td>ṣárahъkátá</td>
+		<td>ṣárakhátá</td>
+	</tr>
+	<tr>
+		<td rowspan="2">ṣíkahazená</td>
+		<td>ṣíkahъzená</td>
+		<td>ṣíkahzená</td>
+	</tr>
+	<tr>
+		<td>ṣíkъhazená</td>
+		<td>ṣíkházená</td>
+	</tr>
+	<tr>
+		<td>rohakátá</td>
+		<td>rohъkátá</td>
+		<td>rokhátá</td>
+	</tr>
+</table>
+
+<h2>193. 不定詞を kohomá で受けて属格とする行為について</h2>
+
+<p>2021年10月16日、skurlavenija.mavija が bághadhelá zúl kohomá aghauṭa というタイトルの文章を提出してきたので、jekto.vatimelijuはとりあえず「た、たしかに文法書にある記述を見たら -úḷ kohomá が通ってしまうけど、いやいや不定詞の属格は無理ですって。分詞にして名詞に掛けてください」とコメントした。三日後の2021年10月19日、jekto.vatimeliju はこれが許されない理由について改めて考察し、その結果、以下の文言を文法書に書き加えるべきだという結論に至った。</p>
+
+<div class="box">
+	この ko で受け直す形を使って不定詞で名詞を修飾することは、あまりない。したがって、属格や基準具格に対してこの形を使うことは少ない。普通は代わりに分詞や関係詞節を用いる。特に、リパライン語なら呼格がつくような、単立した名詞を作る際には、この形は絶対に用いない。なぜなら、この形というのは、「不定詞語尾が一旦文に対して小休止を与え、その後にその不定詞を ko で受けた文が続くことによって発話を完成させる」という形である以上、直後に続くのは文であるべきであって、単立名詞ではあり得ないからだ。
+</div>
+
+<h2>194. -ghi がコーダ -j として反映し、さらに superheavy syllable の禁則をトリガーする変種</h2>
+
+<p>たとえば eghizá「石（複数）」が ĕjza という単数名詞として振る舞う変種。woghit とかも wŏjta って反映してそう。ághi は縮約していない形が再借用されており、その方言においても複合語の構成要素として ai- が見られることぐらいでしか確認できないんだろうな。</p>
+
+<p>-ḍi ghi とかも -ḍij [ɖiː] になってそうだな。-radhí [ɖɖʱiː] と同様の、そり舌音の後にも [iː] が立つやつ。</p>
+
+<h2>195. 「擬属格後置詞」</h2>
+<p>「犬を殺害する」→「犬の殺害」、「私たちに影響する」→「私たちへの影響」、「足で移動する」→「足での移動」などの動詞句の名詞化だったり、「ヤトゥキヤからのテティェン」といった一般名詞の修飾だったり。まあ「動詞を補って言うのが普通」という可能性はあるけど。</p>
+
+<h3>195-1. ghi</h3>
+<p>-homá というのは bhom-「持つ」由来らしいとされているけれど、「私たちへ持った被害」ではないということを根拠に、-homá 方面の形を取らず、-án 方面の形と「～へ与える」方面の形を取るという挙動が推察された。</p>
+
+<p>ghi というのは ji であることから、まあ ghi + -án は ján 、一方で「与える」としては dákín- の異形（方言形としてどっかにあるかもな）がくっついた ghidín（古くは ghadín）かなぁ。</p>
+
+<h3>195-2. 具格</h3>
+<p>-dhel sujakátá と迂言的にする手がまずある。具格は名詞を直に修飾する用法があるわけだが、こういう手段に関するときに直に掛けるのは古い表現かもしれん。あとは、-bhau + -n と形が類似していることも相まって、bhán と混用される可能性があるな。となると bhán はそれ自身が擬属格用法を持つのか。</p>
+
+<p>そういや前に</p>
+
+<div class="box">
+	sujakátáとかは微妙に違和感が無くもないが、bházahakátáの後半部分とリズムが同じだし、まあそこまで問題はなさそう。
+</div>
+
+<p>とか言ってたな。</p>
+
+<h3>195-3. oṣa</h3>
+<p>無難に -án のついた oṣán だけではなく、「来る」系統と融合した osakán という形がありそうだな。</p>
+
+<h3>195-4. -dhel, -ele, -dhelá, -elená</h3>
+<p>「-dhen, -elen, -dhelán, -elenán が一応あるにはあるものの、わりと翻訳調的であり、むしろ対格になっていた名詞が直後の語と複合語を構成する方が普通」とかな気がする。</p>
+
+<h3>195-5. hína</h3>
+<p>対象の性に関わらず「指示・固有」で取りがちな hína hemakátá がありますね。存在というよりも動作であるときに使う hínazáwán (hína + zau + -án)って形があってもいいかもな。内省したところ mid-mid-mid-high になっていて dhez が起こっていないので、これは hínázáwán と綴ってからの4連続長母音短音則だな。</p>
+
+<h3>195-6. cájau</h3>
+<p>お前は bhán。</p>
+
+<h3>195-7. ema</h3>
+<p>稀なほうの用法に連体用法がある以上、emaそれ自身に擬属格用法アリとしていいでしょう。</p>
+
+<h3>195-8. áṣá</h3>
+<p>じゃあ áṣán で。</p>
+
+<h3>195-9. 辞書に追加</h3>
+<p>辞書に足した。うおー日本語版と英語版を両方メンテするのめんどい。</p>
+
+<p>あ、「古くは ghadín」載せてない。まあいいや。現代語ではないという扱いで。</p>
+
+<p>さて文法書に足さないといけないんだよな。</p>
+
+<h3>195-10. 「擬属格」</h3>
+<p>バートでは xalli- が ánom につくので、 i が落ちて（あっじゃあ xall- を載せなきゃ）xallánom だけど、えっとリパライン語だとどう言うんだ？</p>
+
+<p>xaleerl, xaleon の用例としては、いせにほ#244の</p>
+
+<div class="box">
+	<div data-gloss>
+		<p>xaleerl es loler fal lkurftless-e-stan-a-ss.</p>
+		<p>似たもの である 多い 〜において 言語-EPE-定性-EPE-PL</p>
+		<p>それらの言語（リパライン語とヴェフィス語）において似てるの（=単語）は多いんじゃないかな。</p>
+	</div>
+</div>
+
+<p>Kranteerl y io xal の</p>
+
+<div class="box">
+	<div data-gloss>
+		<p>fi liaxu la_lex xale-on mol, elx xeleback niv.</p>
+		<p>もし PROG LALEX ～のような-ADV 在る ELX 埒が明かない状態が終わる ～ない</p>
+		<p>このままじゃ埒が明かない。</p>
+	</div>
+</div>
+
+<p>そして liqkaxy io ircalart lot sulaun の</p>
+
+<div class="box">
+	<div data-gloss>
+		<p>floaple larta-ss-a-'s la_lex xale-on es.</p>
+		<p>自分勝手な 人-PL-EPE-SUBJ LALEX ～のような-ADV である</p>
+		<p>そういうものなのか、まったく、勝手な奴らだ。</p>
+	</div>
+</div>
+
+<p>xale が項を取っている例が古いやつしか見当たらない、というのは少し気になるけれども、とはいえまあ他の動詞派生名詞のことを考えても、まあゼロマーキングで項を取って派生名詞になれるんじゃないかな。ということで diursans xaleerl にしましょう。</p>
+
+<h2>196. ḍṭṇḷは固有語の頭に立たない</h2>
+
+<p><a href="#store">67. ḍázの語源</a>に書いたように、</p>
+<div class="box">
+	
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">ḍaz「店、商店」の語源は*dkoop「島」とされることがあるけれど、音韻も意味も合わないことから、アイル語doche「店」と同根語であるという説が有力。 <a href="https://twitter.com/hashtag/bhaataan?src=hash&amp;ref_src=twsrc%5Etfw">#bhaataan</a></p>&mdash; バートさん(bhátaim) (@bhaataan_zepha) <a href="https://twitter.com/bhaataan_zepha/status/987548354283360257?ref_src=twsrc%5Etfw">2018年4月21日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">ḍazではなくḍáz。</p>&mdash; バートさん(bhátaim) (@bhaataan_zepha) <a href="https://twitter.com/bhaataan_zepha/status/987568278926123008?ref_src=twsrc%5Etfw">2018年4月21日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+<p>これ ḍáz が 借用語で、アイル do- 周りの何かを ḍá- で借用しているのかもしれないな。[t̪] と [ʈ] を持つ言語だと他言語の [t] が [ʈ] へと借用されたりするというし。</p>
+
+<p><a href="#stores">49-4. ḍáz</a>に書いたように、</p>
+<div class="box">
+	<p>ḍṭṇḷが語頭に立つ例がこいつしかないんだよなぁ。</p>
+</div>
+
+<p>ということで、ḍáz も何らかの借用であって、本来語の語頭にはこいつらは立たないとするのが良いかなぁ。同じ反り舌音でも ṣ は語頭に立ちまくる気がするが、これはそもそも ṣ が多くの場合 laminal flat postalveolar で発音される以上、ḍṭṇḷ のような反り舌音とは異質の存在と見た方がいいのだろう。</p>
+
+<h2>197. 辞書翻訳</h2>
+<p>最近辞書を ZpDIC Online に上げてなかった。発音表記とかを増やした結果、翻訳率の計算に使う正規表現は<pre>[^\s!-~áíúṭḍṣṇḷʔʈɳɾɔːʃʋʱāəʂīēō藍牌→←伐理ヴェフィス皇アイツォ]</pre>になった。</p>
+<p>えー未翻訳は 27/635 だから 95.74% 翻訳済か。</p>
+
+<h2>198. skurlavenija.mavija の ṣahabát 収録</h2>
+<h3>198-1. skurlavenija.mavija の ṣahabát</h3>
+<p>2022年1月25日に、skurlavenija.mavija が以下のような詩を Twitter に投稿した。</p>
+
+<blockquote class="twitter-tweet"><p lang="hu" dir="ltr">okákadína bhodihomá bhogele<br>ṣot rízai rúṣi hína ám heyádhí.<br>bhajъdína sádhel seṇa ghaccáká<br>bhá káom káḍi hína rakkúḷ huṭeúḷ.<br><br>okákadína bhodihomá bhogele<br>ṣot rízai rúṣi hína ám heyádhí.<br>kádakátá sádhel seṇa ghaccáká<br>bhá káom káḍi hína rakkúḷ huṭeúḷ.</p>&mdash; MIT(Μίττον)@大学垢 (@mit00042) <a href="https://twitter.com/mit00042/status/1485680976013709314?ref_src=twsrc%5Etfw">January 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<textarea rows="30" cols="70">-----------------------------------------------------------
+
+	私の見た海の色を、
+	okáka/dína bhodi/homá/ bhogele
+	
+	多くの明るい見通しの後で私は思わない。
+	ṣot rízai/ rúṣi hína/ ám/ heyádhí.
+	
+	私が心引かれた女性を突然に見て、
+	bhajъdína/ sádhel/ seṇa/ ghaccáká
+	
+	ちょうどその瞬間に彼女のすべてが視線において生き始めた
+	bhá káom/ káḍi hína/ rakkúḷ/ huṭeúḷ.
+	-----------------------------------------------------------
+	
+	-----------------------------------------------------------
+	
+	私の見た海の色を、
+	okáka/dína bhodi/homá/ bhogele
+	
+	多くの明るい見通しの後で私は思わない。
+	ṣot rízai/ rúṣi hína/ ám/ heyádhí.
+	
+	輝く女性を突然に見て、
+	kádakátá/ sádhel/ seṇa/ ghaccáká
+	
+	ちょうどその瞬間に彼女のすべてが視線において生き始めた
+	bhá káom/ káḍi hína/ rakkúḷ/ huṭeúḷ.
+	-----------------------------------------------------------</textarea>
+
+<p>これを収録しようと思ったが、最終行の意味が取れない。</p>
+<ul>
+	<li>bhá (すべての)</li>
+	<li>káom ká ("ká" という単語のうち、「物たち」じゃなくて「彼女」の方)</li>
+	<li>-ḍi hína (～に)</li>
+</ul>
+<p>としか読めないのよな。とりあえずこの káḍi は kádi の誤りだろう。あと「～のすべて」は bhá じゃなくて nau を用いるんですよね。そもそもなんで ká が属格になってる？</p>
+<p>skurlavenija.mavija「káom で『彼女のもの』にしてそれを bhá『すべての』で修飾している意図だった」</p>
+<p>jekto.vatimeliju「属格単立ってなにが許されるんでしょうねぇ～」</p>
+
+<p>てなわけで、最終行を káom nau kádi hína rakkúḷ huṭeúḷ. へとすり替えて登録。nau は一音節からなるピッチ句なので普通はピッチが上がらないのだけど、まあ詩でなら上げて読むこともできるのでしょう。</p>
+
+<h3>198-2. そもそも ṣahabát という語が辞書に載ってないぞ</h3>
+<p>困る。</p>
+
+<h3>198-3. ṣahabát 韻律チェッカーが欲しいわね</h3>
+<p>ほしい。</p>
+
+<h3>198-4. ъ の説明がまだでは？</h3>
+<p>一応「<a href="#h_contraction">192. h語幹の縮約</a>」にありますね。ここではh語幹を縮約したときの話としてしか出てきていないけど、一般に「俗なやつを綴るには、とりあえずラテン字においてはaが飛んだところにъを入れる」という運用にする。</p>
+
+<h2>199. skurlavenija.mavija の短歌（？）収録</h2>
+<p>2022年2月23日に、skurlavenija.mavijaが以下の短歌（？）を発表。</p>
+<pre>
+kaikaziná bhán もがきを通り抜けた (5)
+ápaom ṣot nautu ja 私の多くの言葉と (7)
+kom híjadhel この心を (5)
+kádakátá sáḍi ghi 輝く女性に (7)
+dákínabohadína. 私は与えたい (7)
+</pre>
+
+<p>これに対して、2022年3月25日、jekto.vatimeliju は「-aboh- なので、直訳は『与えたい』からもう一歩踏み込んで『与えようと思う』ぐらいですね。」と返答し、文法書の例文にこれを収録した。あと、-(a)boh- の伐日での説明を改良した。</p>
+
+<h2>200. ṣahabát という語を辞書に載せた</h2>
+<p>ついに ṣahabát という語を辞書に載せた。どうして今まで載っていなかったのか。</p>
+
+<h2>201. 「形容詞」→「連体詞」、"adjective" → "prenominal"</h2>
+<p>ついに訳語を変更。まあこの方がいいよね。</p>
+
+<h2>202. 頻度表の改訂</h2>
+
+<h3>202-1. 経緯</h3>
+<p>今までお世話になってきた頻度表、しかしながら</p>
+<ul>
+	<li>古い<ul><li>2017年12月23日だから、えっ4年前！？</li></ul></li>
+	<li>長子音のことを考えてない</li>
+</ul>
+<p>という問題点がある。一念発起して作り直すか。</p>
+
+<h3>202-2. やっていく</h3>
+<p>まず657個の見出し語を取り出す。</p>
+
+<div class="box">
+	ちなみに、単語の一覧は<code>dat.words.map(a=&gt;a.entry.form).join(",")</code>で取得するのが早い。
+</div>
+<p>ありがとうございます過去の自分。</p>
+<p>スペースやアンダースコアの入ってる単語を取り除いて626個。</p>
+<p>目視でいろいろ削って394個。まあこんぐらいでいいか。</p>
+<div class="box">
+	<p>-a-, -abháp-, -aboh-, -abát, -aghi, -aim, -akáta, -am, -ama, -an, -ani-, -az, -azá-, -bháp-, -boh-, -bát, -dhelán, -dhen, -dhína, -elen, -elenán, -ghi, -hí, -i, -ij-, -ilor-, -itaim, -itam, -káta, -m, -ma, -n, -ni-, -sá, -waim, -z, -zá-, -á-, -í, -ína, -íṣ, -ú, -ḍíṣ, -ṇauṭu, acc-, accabát, adha, adheṣ, aghauṭa, aibhausa, am-, amila, amm-, ammán, amáma, asíja-, aum-, aḍuhaid-, aḍuhazo-, aḍuhazá-, aḍí, aṭam, aṭaza, bacú, banáman, baukká, bhai, bhaj-, bhattá, bhaum, bhaṣ, bho-, bhodakí, bhodi, bhodíyo, bhog, bhohe-, bhom-, bhoma, bhoman, bhoḷog, bhoḷor-, bhoṇau, bhoṣah-, bhá, bhá, bháhe-, bháhepa, bhájabáni, bhákáṇa, bháma, bhámaum, bhán, bháp-, bhár-, bhára, bháro, bhát, bhát-, bházah-, bházau, bháṇ-, bháṣ, bháṭám-, boh-, bohamátuj-, bom, boṇ-, bácuj-, bágha, bák-, bákatú, bákaz, báni, bánim, bániwaim, bániṣom, bátat, bátuj-, báṣi, cah-, cai, cainíju, caj-, catíg, cau-, caz-, cekhai, cepatepa, ceṣlo, coghi, coghom, com, coraj-, coḍu, coṇaná, coṇá, cájau, cákíka-, cánaj-, cátaghi, cáwaṭaim, dan-, dat, daupha, deja, dhedighat, dhese-, dhet, dhez, dhezá-, dhokit, dhozoc-, dhoḷop, dhárad, dház-, dhímat, dhíná, dhíp, doghaj-, doma, dác-, dákín-, dáp, dáṣ, dí, díghi, dílitam, díma, dína, díṣlo, ea, eghi, ehai, ek, elesa, ema, epa, epam, epha-, eyá-, gaṇṇí, ghacc-, ghau, ghauṣ, ghi, ghidín, ghikísa, ghá, ghán-, ghána-, gháni, ghátu, gháyo-, ghíyo, ha, helazá, hem, hem-, hemasá, hemijoya, heyá-, heyáz, ho, hor-, horabát, huṭe-, há, háta, hátaṣom, híja, hína, hínázáwán, ja, jammoh-, jamoh-, jan-, janá-, jarúṣi, jo, jog, jok, jora-, josed-, joya, jám, ján, k, kaik-, kaṣlo, kaṭádha, khak, khaṇḍí, khaṇṇí, khem, kit, kiṣlo, ko, koli, kom, koraj-, korúṣam, koḷor-, koṭ, kujacú, ká, kád, kánagh-, kánat-, káná, kázalek, káṇa, káṇaisa, káṇám, káṇám, kí, kúcuj-, kúcú, legh-, lom, lábha, lánah-, lási, lásij-, líṇa-, manáman, masátu, mábha, n-, nau, nauki, nautu, nauṇagh-, non, not, nota, nudhor-, numíju, nutta, nádít-, náh-, náhaz, náhepa, nához, nám-, nána, náḷa, nímaṣ, nín, nínaccú, nú-, núdha, núsu, ohi, okák-, osakán, ot-, oṣa, oṣán, rakk-, rauki, rec-, rek, rekasúk, rij-, rod, roh-, rásit, ríka, ríla-, ríz, rúkasa, rúṣ, súḷa, sakká, seház-, sese, seṇa, su, su-, suj-, suḷor-, sá, sáka, sáp-, síbha, sít, síyo-, sú-, woghit, wákah-, wát, wáḷa, yám, z-, zallo-, zau-, ze-, zekáta, zepha, zu, zá-, záde-, zám-, záwaim, zí, zígh-, zíghíṣ, zíṣlo, á, ácah-, ághat, ághi, ághim, ák-, ákíjam, ám, áma, ánom, ápa, áphíyo, ásúka, ázá, áṣá, áṣán, áṭam, íd-, íditaim, újo, úraj-, úro, ḍáz, ṣabhahu, ṣah-, ṣahabát, ṣahe, ṣe, ṣibhai, ṣiṇṇa, ṣoma, ṣonároná-, ṣot, ṣoya, ṣá, ṣán, ṣánom, ṣárah-, ṣásubhoz-, ṣíka, ṣíkah-, ṣím, ṣíyabát, ṣíyá-, ṣúsa</p>
+</div>
+
+<p>んー、めんどいので語尾は削って、</p>
+
+<div class="box">
+	<p>acc, accabát, adha, adheṣ, aghauṭa, aibhausa, am, amila, amm, ammán, amáma, asíja, aum, aḍuhaid, aḍuhazo, aḍuhazá, aḍí, aṭam, aṭaza, bacú, banáman, baukká, bhai, bhaj, bhattá, bhaum, bhaṣ, bho, bhodakí, bhodi, bhodíyo, bhog, bhohe, bhom, bhoma, bhoman, bhoḷog, bhoḷor, bhoṇau, bhoṣah, bhá, bhá, bháhe, bháhepa, bhájabáni, bhákáṇa, bháma, bhámaum, bhán, bháp, bhár, bhára, bháro, bhát, bházah, bházau, bháṇ, bháṣ, bháṭám, boh, bohamátuj, bom, boṇ, bácuj, bágha, bák, bákatú, bákaz, báni, bánim, bániwaim, bániṣom, bátat, bátuj, báṣi, cah, cai, cainíju, caj, catíg, cau, caz, cekhai, cepatepa, ceṣlo, coghi, coghom, com, coraj, coḍu, coṇaná, coṇá, cájau, cákíka, cánaj, cátaghi, cáwaṭaim, dan, dat, daupha, deja, dhedighat, dhese, dhet, dhez, dhezá, dhokit, dhozoc, dhoḷop, dhárad, dház, dhímat, dhíná, dhíp, doghaj, doma, dác, dákín, dáp, dáṣ, dí, díghi, dílitam, díma, dína, díṣlo, ea, eghi, ehai, ek, elesa, ema, epa, epam, epha, eyá, gaṇṇí, ghacc, ghau, ghauṣ, ghi, ghidín, ghikísa, ghá, ghán, ghána, gháni, ghátu, gháyo, ghíyo, ha, helazá, hem, hem, hemasá, hemijoya, heyá, heyáz, ho, hor, horabát, huṭe, há, háta, hátaṣom, híja, hína, hínázáwán, ja, jammoh, jamoh, jan, janá, jarúṣi, jo, jog, jok, jora, josed, joya, jám, ján, k, kaik, kaṣlo, kaṭádha, khak, khaṇḍí, khaṇṇí, khem, kit, kiṣlo, ko, koli, kom, koraj, korúṣam, koḷor, koṭ, kujacú, ká, kád, kánagh, kánat, káná, kázalek, káṇa, káṇaisa, káṇám, káṇám, kí, kúcuj, kúcú, legh, lom, lábha, lánah, lási, lásij, líṇa, manáman, masátu, mábha, n, nau, nauki, nautu, nauṇagh, non, not, nota, nudhor, numíju, nutta, nádít, náh, náhaz, náhepa, nához, nám, nána, náḷa, nímaṣ, nín, nínaccú, nú, núdha, núsu, ohi, okák, osakán, ot, oṣa, oṣán, rakk, rauki, rec, rek, rekasúk, rij, rod, roh, rásit, ríka, ríla, ríz, rúkasa, rúṣ, súḷa, sakká, seház, sese, seṇa, su, suj, suḷor, sá, sáka, sáp, síbha, sít, síyo, sú, woghit, wákah, wát, wáḷa, yám, z, zallo, zau, ze, zekáta, zepha, zu, zá, záde, zám, záwaim, zí, zígh, zíghíṣ, zíṣlo, á, ácah, ághat, ághi, ághim, ák, ákíjam, ám, áma, ánom, ápa, áphíyo, ásúka, ázá, áṣá, áṣán, áṭam, íd, íditaim, újo, úraj, úro, ḍáz, ṣabhahu, ṣah, ṣahabát, ṣahe, ṣe, ṣibhai, ṣiṇṇa, ṣoma, ṣonároná, ṣot, ṣoya, ṣá, ṣán, ṣánom, ṣárah, ṣásubhoz, ṣíka, ṣíkah, ṣím, ṣíyabát, ṣíyá, ṣúsa</p>
+</div>
+
+<p>これを <a href="sort.html">sort.html</a> のコンソールで <code>var k = "...";</code> して、<code>var l = k.split(", ").map(a =&gt; syllabifyBaani(lexNautu(a)))</code> してやる。 <code>var toCount = arr =&gt; {var obj={}; arr.forEach(a =&gt; obj[a]=arr.filter(b =&gt; b == a).length); return obj};</code> を定義してやって、<code>toCount(l.map(a =&gt; a[0][0]))</code> をしてやれば、語頭回数が出る。</p>
+
+<div class="box">
+	{"∅":57,"b":19,"bh":37,"c":22,"d":16,"dh":13,"g":1,"gh":13,"h":18,"j":14,"k":27,"kh":4,"l":7,"m":3,"n":25,"r":14,"s":15,"w":4,"y":1,"z":15,"ḍ":1,"ṣ":22}
+</div>
+
+<p><code>toCount(l.flatMap(a =&gt; a.map(b =&gt; b[1])))</code> してやれば、母音。</p>
+
+<div class="box">
+	{"aQ":13,"ъ":179,"a":159,"á":156,"e":52,"au":18,"ai":14,"i":36,"í":53,"u":24,"o":95,"ú":22,"auQ":1,"uQ":1,"iQ":1}
+</div>
+
+<p><code>toCount(l.flatMap(a =&gt; {const [_, ...c] = a.map(b =&gt; b[0]); return c}))</code> してやれば、語中子音。</p>
+
+<div class="box">
+	{"c":13,"b":5,"t":40,"dh":5,"ṣ":23,"gh":18,"ṭ":9,"bh":7,"s":20,"m":62,"l":13,"n":45,"j":25,"ḍ":6,"h":30,"d":14,"z":22,"k":36,"y":13,"g":4,"ḷ":8,"r":19,"ṇ":17,"p":12,"w":4,"kh":1,"ph":4,"∅":1}
+</div>
+
+<h3>202-3. 結論（頭子音）</h3>
+<p>頭子音は、こんな感じ。前と大きくは変わってなくて、いいですね。</p>
+<div class="box">
+頭子音
+	<pre>
+∅	57	57.5	57.5
+bh	37	37.5	95
+k	27	27.5	122.5
+h	18	18.5	141
+s	15	15.5	156.5
+z	15	15.5	172
+ṣ	22	22.5	194.5
+n	25	25.5	220
+c	22	22.5	242.5
+b	19	19.5	262
+dh	13	13.5	275.5
+d	16	16.5	292
+j	14	14.5	306.5
+r	14	14.5	321
+gh	13	13.5	334.5
+l	7	7.5	342
+m	3	3.5	345.5
+kh	4	4.5	350
+w	4	4.5	354.5
+ḍ	1	1.5	356
+g	1	1.5	357.5
+y	1	1.5	359
+	</pre>
+</div>
+
+<img src="new_initial.png" width="400" />
+
+<h3>202-4. 結論（母音）</h3>
+<p>一応こんな感じなんですが、</p>
+<div class="box">
+<pre>
+a	159
+á	156
+o	95
+e	52
+í	53
+i	36
+u	24
+ú	22
+au	18
+ai	14
+aQ	13
+iQ	1
+uQ	1
+auQ	1
+</pre>
+</div>
+<p>だいぶ例外的な -auQ- はともかく、 -iQ- と -uQ- が少ないのは今までのガチャがこれらを misrepresent していたのが原因である。</p>
+<p>a が 159 個あるのに対して aQ が 13 あるのだから、iQ は 36 × 13 ÷ 159 = 2.94 個、uQ は 24 × 13 ÷ 159 = 1.96 個ぐらいあってもいいんじゃなかろうか。</p>
+<p>……これ、ともに整数にめっちゃ近いな。じゃあもう -iQ- を追加で 2 単語、-uQ- を追加で 1 単語作ることで解決としちゃえばいいか。後でやっておきます。</p>
+<p>ということで、結論。</p>
+
+<div class="box">
+母音
+<pre>
+	a	159	159.5	159.5
+	á	156	156.5	316
+	o	95	95.5	411.5
+	e	52	52.5	464
+	í	53	53.5	517.5
+	i	36	36.5	554
+	u	24	24.5	578.5
+	ú	22	22.5	601
+	au	18	18.5	619.5
+	ai	14	14.5	634
+	aQ	13	13.5	647.5
+	iQ	3	3.5	651
+	uQ	2	2.5	653.5
+	auQ	1	1.5	655
+</pre>
+</div>
+<img src="new_vowel.png" width="400" />
+<p>e に比べて o が結構躍進しましたね。実際 e ってバート語で少し使いにくい感ある。唇音の後でも k の後でも忌避されるし。</p>
+
+<h3>202-4. 結論（語中子音）</h3>
+<p>gのうち三つは語末の -gh なので、gh としてカウント。</p>
+
+
+<div class="box">
+語中子音
+<pre>
+m	62	62.5	62.5
+k	36	36.5	99
+n	45	45.5	144.5
+bh	7	7.5	152
+h	30	30.5	182.5
+z	22	22.5	205
+t	40	40.5	245.5
+b	5	5.5	251
+c	13	13.5	264.5
+d	14	14.5	279
+l	8	8.5	287.5
+gh	21	21.5	309
+r	19	19.5	328.5
+ṣ	18	18.5	347
+dh	5	5.5	352.5
+s	20	20.5	373
+ṣl	5	5.5	378.5
+j	25	25.5	404
+p	12	12.5	416.5
+ṇ	17	17.5	434
+ṭ	9	9.5	443.5
+ḍ	6	6.5	450
+w	4	4.5	454.5
+ḷ	8	8.5	463
+y	13	13.5	476.5
+kh	1	1.5	478
+ph	4	4.5	482.5
+g	1	1.5	484
+∅	1	1.5	485.5
+</pre>
+</div>
+
+<img src="new_middle.png" width="400" />
+<p>tが増えたな！まあ別にいいんじゃないでしょうか。あとbとbhがかなり減ってるけど、これは語尾をカウントから除いたのが効いてそう。</p>
+
+<h3>203-5. リンクとか</h3>
+<p><a href="https://docs.google.com/spreadsheets/d/1lEIR_G9vQchec4rsgJtUgj-C2M0Hwgq-zmSMSEqzoaw/edit#gid=1623995539">今回のGoogle Spreadsheets</a>、そして <a href="freq2022.html">頻度表2022</a>。</p>
+
 <hr>
 <h3 class="do_not_create_header">to do:</h3>
 「これ」「それ」の使い分け、<br>
 bháṇíwaim<br>
-bhátnímaṣ<br>
-ü > yiがiじゃなくてwiに行った方言 (fokjutがwoghitなのだから、ü > yiがiに行ったという発想がある)<br>
-<br>
-「長母音 + zĕm」 → 「長母音 + zim」だけど「短母音 + zēm」 → 「短母音 + zēm」な方言
-
+ü &gt; yiがiじゃなくてwiに行った方言 (fokjutがwoghitなのだから、ü &gt; yiがiに行ったという発想がある)<br>
+sを喪失しcと合流させた方言<br>
+<s>ásúka ápaom woghit ám hem.「私には兄弟姉妹がいない。」（直訳：「人は(一般に)私の兄弟姉妹ではない。」）って言えそう。</s> 人一般を指すのにásúkaは使えないと辞書に書いてある<br>
+直前の音節とその前両方にzが入るなら-záが付かないかも？<br>
+auがáに行く方言<br>
+bháhepa [bʱaːe̞ːpa] と bhá epa [bʱaːje̞ːpa] という対立のしかたをする方言<br>
+<s>-rúḷの命令形どうなるの？</s>少なくとも直前が長母音である場合は -r でもいい<br>
+「こういうwátimilíju ghittoみたいなのはそれぞれの単語がピッチ句を構成します。」載せろ<br>
+文字名と「偽りのt」<br>
+ṣahabát 韻律チェッカー<br>
 <!--
 <table border="1" cellspacing="0" cellpadding="3" style="font-family:'arial'">
 <tr><td></td><td colspan="2">唇音</td><td colspan="2">歯茎音</td><td colspan="2">そり舌音</td><td colspan="2">軟口蓋音</td>
@@ -3304,7 +5956,8 @@ bhátnímaṣ<br>
 <script>
  document.addEventListener('DOMContentLoaded', function() {
   	var leipzig = Leipzig();
-    leipzig.addAbbreviations({REAL:"realis",ZERO:"zero",POST:"postpositional",REL:"relativizer"});
+    leipzig.addAbbreviations({REAL:"realis",ZERO:"zero",POST:"postpositional",REL:"relativizer", ADJR: "adjectiviser" 
+	/* https://pdfs.semanticscholar.org/12eb/3bf8d3e1ec63d5d97ded07438a63b66ee1e0.pdf */, EPE:"緩衝音; epenthetic",J:"方向変化の-j",LEX:"連体形のlex",ELX:"助動詞遮断のelx",LALEX:"la lex",NLL: "ny la lex", CF: "counterfactual conditional"/* https://en.wikipedia.org/wiki/Counterfactual_conditional */});
     leipzig.gloss()
   });
 </script>

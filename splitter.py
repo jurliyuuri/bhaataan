@@ -12,7 +12,7 @@ bhat_list = ["i" ,"a" ,"u" ,"á" ,"í" ,"ú" ,"o" ,"e" ,"-" ,"ai",
 def main():
 	A = imread('bhat_bitmap_nonborder.png')
 	for i in range(len(bhat_list)):
-		save(A,int(i/10),i%10,bhat_list[i]);
+		save(A,int(i/10),i%10,bhat_list[i])
 
 
 # ith row, jth column
