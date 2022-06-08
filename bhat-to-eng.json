@@ -15011,6 +15011,38 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 665,
+      "form" : "dhán"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "Lake Dhaan (one of the lakes in Gwon-Alt)" ]
+    } ],
+    "tags" : [ "toponym" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍daunou"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 666,
+      "form" : "dhauna"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "tiger" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌dau2, 藍daunou"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

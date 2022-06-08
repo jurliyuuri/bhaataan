@@ -14975,6 +14975,38 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 665,
+      "form" : "dhán"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "ダーン湖（グォン・アルト藩国にある湖の一つ）" ]
+    } ],
+    "tags" : [ "地名" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍daunou"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 666,
+      "form" : "dhauna"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "虎" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌dau2, 藍daunou"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

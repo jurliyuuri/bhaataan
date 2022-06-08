@@ -21,6 +21,7 @@
 * [bhátán dictionary](http://zpdic.ziphil.com/dictionary/52) - bhátán → English dictionary (external link)
 * [Githubリポジトリ](https://github.com/jurliyuuri/bhaataan) - このサイトの進捗や更新履歴などが確認できる
 * [バート文字フォント](https://haar-you.github.io/BhaataanFont/) - [@HaarLangLove様](https://twitter.com/HaarLangLove)によるバート文字のフォント(外部サイト)
+* [グォン・アルト藩国の地理](http://jurliyuuri.com/bhaataan/gwon-alt-geography.html) - バート人の心の故郷である地について
 
 ## サブコンテンツ
 * [バート語の仮名への転写法](transcription.html) - バート語の仮名への転写法
