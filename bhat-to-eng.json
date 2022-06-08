@@ -14998,6 +14998,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 664,
+      "form" : "ṣánímo"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "heavily-seasoned savory chicken skin" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

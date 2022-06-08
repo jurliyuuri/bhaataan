@@ -14962,6 +14962,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 664,
+      "form" : "ṣánímo"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "濃い味のついた鶏などの皮" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
