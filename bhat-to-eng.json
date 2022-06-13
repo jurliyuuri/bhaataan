@@ -15043,6 +15043,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 667,
+      "form" : "ghuttám"
+    },
+    "translations" : [ {
+      "title" : "consonant stem noun",
+      "forms" : [ "ceramic or terracotta vase with a neck and a shoulder" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

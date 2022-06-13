@@ -15007,6 +15007,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 667,
+      "form" : "ghuttám"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "焼き物の壺" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
