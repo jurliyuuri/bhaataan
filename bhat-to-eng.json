@@ -15072,6 +15072,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 669,
+      "form" : "nághu"
+    },
+    "translations" : [ {
+      "title" : "vowel stem noun",
+      "forms" : [ "9", "nine" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍naku"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
