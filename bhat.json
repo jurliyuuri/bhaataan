@@ -15036,6 +15036,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 669,
+      "form" : "nághu"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "9", "九" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍naku"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
