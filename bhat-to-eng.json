@@ -15088,6 +15088,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 670,
+      "form" : "kuṇannúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to shave off", "to scrape off", "to erode" ]
+    }, {
+      "title" : "dynamic verb",
+      "forms" : [ "to pick one's nose" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Possibly 藍hungaai"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
