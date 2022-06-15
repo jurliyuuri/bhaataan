@@ -15131,6 +15131,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 674,
+      "form" : "rabháṭúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "砕く", "粉々にする", "粒にする", "破片にする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
