@@ -612,7 +612,7 @@
       "form" : "-á"
     },
     "translations" : [ {
-      "title" : "consonant stem suffix",
+      "title" : "suffix for a consonant-stem noun",
       "forms" : [ "consonant stem plural nominative/zero case" ]
     } ],
     "tags" : [ ],
@@ -643,7 +643,7 @@
       "form" : "-ele"
     },
     "translations" : [ {
-      "title" : "consonant stem suffix",
+      "title" : "suffix for a consonant-stem noun",
       "forms" : [ "consonant stem singular accusative" ]
     } ],
     "tags" : [ ],
@@ -668,7 +668,7 @@
       "form" : "-elená"
     },
     "translations" : [ {
-      "title" : "consonant stem suffix",
+      "title" : "suffix for a consonant-stem noun",
       "forms" : [ "consonant stem plural accusative" ]
     } ],
     "tags" : [ ],
@@ -693,7 +693,7 @@
       "form" : "-án"
     },
     "translations" : [ {
-      "title" : "consonant stem suffix",
+      "title" : "suffix for a consonant-stem noun",
       "forms" : [ "consonant stem singular genitive" ]
     } ],
     "tags" : [ ],
@@ -760,7 +760,7 @@
       "form" : "-áná"
     },
     "translations" : [ {
-      "title" : "consonant stem suffix",
+      "title" : "suffix for a consonant-stem noun",
       "forms" : [ "consonant stem plural genitive" ]
     } ],
     "tags" : [ ],
@@ -827,7 +827,7 @@
       "form" : "-ai"
     },
     "translations" : [ {
-      "title" : "consonant stem suffix",
+      "title" : "suffix for a consonant-stem noun",
       "forms" : [ "consonant stem singular instrumental" ]
     } ],
     "tags" : [ ],
@@ -852,7 +852,7 @@
       "form" : "-ainá"
     },
     "translations" : [ {
-      "title" : "consonant stem suffix",
+      "title" : "suffix for a consonant-stem noun",
       "forms" : [ "consonant stem plural instrumental" ]
     } ],
     "tags" : [ ],
@@ -877,7 +877,7 @@
       "form" : "-i"
     },
     "translations" : [ {
-      "title" : "consonant stem suffix",
+      "title" : "suffix for a consonant-stem noun",
       "forms" : [ "consonant stem singular postpositional " ]
     } ],
     "tags" : [ ],
@@ -902,7 +902,7 @@
       "form" : "-iná"
     },
     "translations" : [ {
-      "title" : "consonant stem suffix",
+      "title" : "suffix for a consonant-stem noun",
       "forms" : [ "consonant stem plural postpositional " ]
     } ],
     "tags" : [ ],
@@ -933,7 +933,7 @@
       "form" : "-zá"
     },
     "translations" : [ {
-      "title" : "vowel stem suffix",
+      "title" : "suffix for a vowel-stem noun",
       "forms" : [ "vowel stem plural nominative/zero case" ]
     } ],
     "tags" : [ ],
@@ -952,7 +952,7 @@
       "form" : "-dhel"
     },
     "translations" : [ {
-      "title" : "vowel stem suffix",
+      "title" : "suffix for a vowel-stem noun",
       "forms" : [ "vowel stem singular accusative" ]
     } ],
     "tags" : [ ],
@@ -977,7 +977,7 @@
       "form" : "-dhelá"
     },
     "translations" : [ {
-      "title" : "vowel stem suffix",
+      "title" : "suffix for a vowel-stem noun",
       "forms" : [ "vowel stem plural accusative" ]
     } ],
     "tags" : [ ],
@@ -1002,7 +1002,7 @@
       "form" : "-homá"
     },
     "translations" : [ {
-      "title" : "vowel stem suffix",
+      "title" : "suffix for a vowel-stem noun",
       "forms" : [ "vowel stem singular genitive" ]
     } ],
     "tags" : [ ],
@@ -1075,7 +1075,7 @@
       "form" : "-home"
     },
     "translations" : [ {
-      "title" : "vowel stem suffix",
+      "title" : "suffix for a vowel-stem noun",
       "forms" : [ "vowel stem plural genitive" ]
     } ],
     "tags" : [ ],
@@ -1112,7 +1112,7 @@
       "form" : "-om"
     },
     "translations" : [ {
-      "title" : "vowel stem suffix",
+      "title" : "suffix for a vowel-stem noun",
       "forms" : [ "vowel stem singular genitive" ]
     } ],
     "tags" : [ ],
@@ -1149,7 +1149,7 @@
       "form" : "-omá"
     },
     "translations" : [ {
-      "title" : "vowel stem suffix",
+      "title" : "suffix for a vowel-stem noun",
       "forms" : [ "vowel stem plural genitive" ]
     } ],
     "tags" : [ ],
@@ -1180,7 +1180,7 @@
       "form" : "-bhau"
     },
     "translations" : [ {
-      "title" : "vowel stem suffix",
+      "title" : "suffix for a vowel-stem noun",
       "forms" : [ "vowel stem singular instrumental" ]
     } ],
     "tags" : [ ],
@@ -1205,7 +1205,7 @@
       "form" : "-bhauná"
     },
     "translations" : [ {
-      "title" : "vowel stem suffix",
+      "title" : "suffix for a vowel-stem noun",
       "forms" : [ "vowel stem plural instrumental" ]
     } ],
     "tags" : [ ],
@@ -1230,7 +1230,7 @@
       "form" : "-ḍi"
     },
     "translations" : [ {
-      "title" : "vowel stem suffix",
+      "title" : "suffix for a vowel-stem noun",
       "forms" : [ "vowel stem singular postpositional " ]
     } ],
     "tags" : [ ],
@@ -1261,7 +1261,7 @@
       "form" : "-dhíná"
     },
     "translations" : [ {
-      "title" : "vowel stem suffix",
+      "title" : "suffix for a vowel-stem noun",
       "forms" : [ "vowel stem plural postpositional " ]
     } ],
     "tags" : [ ],
@@ -1335,7 +1335,7 @@
       "form" : "adha"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "eye" ]
     } ],
     "tags" : [ ],
@@ -1376,7 +1376,7 @@
       "form" : "aghauṭa"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "book" ]
     } ],
     "tags" : [ ],
@@ -1401,7 +1401,7 @@
       "form" : "ákíjam"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "east", "sun", "day" ]
     } ],
     "tags" : [ ],
@@ -1458,7 +1458,7 @@
       "form" : "áma"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "second person singular " ]
     } ],
     "tags" : [ ],
@@ -1499,7 +1499,7 @@
       "form" : "amila"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "fish" ]
     } ],
     "tags" : [ ],
@@ -1530,7 +1530,7 @@
       "form" : "ápa"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "first person singular " ]
     } ],
     "tags" : [ ],
@@ -1543,7 +1543,7 @@
       "form" : "aṭam"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "deity", "emperor" ]
     } ],
     "tags" : [ ],
@@ -1568,7 +1568,7 @@
       "form" : "aṭaza"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "doctrine", "ism", "ideology" ]
     } ],
     "tags" : [ ],
@@ -1584,7 +1584,7 @@
       "form" : "banáman"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "parent" ]
     } ],
     "tags" : [ ],
@@ -1609,7 +1609,7 @@
       "form" : "báni"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "character (as in \"Chinese character\" or \"character encoding\")" ]
     } ],
     "tags" : [ ],
@@ -1659,7 +1659,7 @@
       "form" : "bhá"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "we (exclusive)" ]
     } ],
     "tags" : [ ],
@@ -1672,7 +1672,7 @@
       "form" : "bháma"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "we (inclusive)" ]
     } ],
     "tags" : [ "always singular declension" ],
@@ -1719,7 +1719,7 @@
       "form" : "bhára"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "wind" ]
     } ],
     "tags" : [ ],
@@ -1738,7 +1738,7 @@
       "form" : "bháro"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "disease", "sickness", "infection" ]
     } ],
     "tags" : [ ],
@@ -1779,7 +1779,7 @@
       "form" : "bhát"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "bhátán language", "bhátán people" ]
     } ],
     "tags" : [ ],
@@ -1847,7 +1847,7 @@
       "form" : "bhoma"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "hand" ]
     } ],
     "tags" : [ ],
@@ -2030,7 +2030,7 @@
       "form" : "cepatepa"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "conversation", "talk" ]
     } ],
     "tags" : [ ],
@@ -2046,7 +2046,7 @@
       "form" : "ḍáz"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "shop", "store" ]
     } ],
     "tags" : [ ],
@@ -2068,7 +2068,7 @@
       "form" : "dhárad"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "union", "federation", "(political) party" ]
     } ],
     "tags" : [ ],
@@ -2087,7 +2087,7 @@
       "form" : "dhoḷop"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "island" ]
     } ],
     "tags" : [ ],
@@ -2159,7 +2159,7 @@
       "form" : "epa"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "land", "territory", "domain", "region", "area (not as in \"the area of a square\")", "location", "place" ]
     } ],
     "tags" : [ ],
@@ -2196,7 +2196,7 @@
       "form" : "ghátu"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "child" ]
     } ],
     "tags" : [ ],
@@ -2405,7 +2405,7 @@
       "form" : "horabát"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "culture", "manners", "customs" ]
     } ],
     "tags" : [ ],
@@ -2495,7 +2495,7 @@
       "form" : "juecleone"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "Yuesleone" ]
     } ],
     "tags" : [ ],
@@ -2511,7 +2511,7 @@
       "form" : "ká"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "third person feminine singular " ]
     } ],
     "tags" : [ ],
@@ -2558,10 +2558,10 @@
       "form" : "kád"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "light" ]
     }, {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "視線", "注目" ]
     } ],
     "tags" : [ ],
@@ -2601,10 +2601,10 @@
       "form" : "káṇa"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "time" ]
     }, {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "(modified with the genitive of a numeral and is followed by hína) times (as in once", "twice", "three times...)" ]
     } ],
     "tags" : [ ],
@@ -2666,7 +2666,7 @@
       "form" : "káṇám"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "perpetuity", "eternity" ]
     } ],
     "tags" : [ ],
@@ -2691,7 +2691,7 @@
       "form" : "kaṣlo"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "third person feminine plural " ]
     } ],
     "tags" : [ "always singular declension" ],
@@ -2704,7 +2704,7 @@
       "form" : "khak"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "father" ]
     } ],
     "tags" : [ ],
@@ -2723,13 +2723,13 @@
       "form" : "kí"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "third person masculine singular", "he" ]
     }, {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "that one over there" ]
     }, {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "man", "male" ]
     } ],
     "tags" : [ ],
@@ -2760,7 +2760,7 @@
       "form" : "kiṣlo"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "third person masculine plural " ]
     } ],
     "tags" : [ "always singular declension" ],
@@ -2779,7 +2779,7 @@
       "form" : "ko"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "this one" ]
     } ],
     "tags" : [ ],
@@ -2810,7 +2810,7 @@
       "form" : "koli"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "tiredness" ]
     } ],
     "tags" : [ ],
@@ -2829,10 +2829,10 @@
       "form" : "lási"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "one", "1" ]
     }, {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "one person" ]
     } ],
     "tags" : [ ],
@@ -2854,7 +2854,7 @@
       "form" : "legha"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "picture (does not include photographs)" ]
     } ],
     "tags" : [ ],
@@ -2892,7 +2892,7 @@
       "form" : "mábha"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "second person plural " ]
     } ],
     "tags" : [ "always singular declension" ],
@@ -2905,7 +2905,7 @@
       "form" : "manáman"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "parent" ]
     } ],
     "tags" : [ ],
@@ -2930,7 +2930,7 @@
       "form" : "nána"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "what?", "which?" ]
     } ],
     "tags" : [ ],
@@ -2968,7 +2968,7 @@
       "form" : "nímaṣ"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "ethnic group", "tribe" ]
     } ],
     "tags" : [ ],
@@ -2993,7 +2993,7 @@
       "form" : "nínaccú"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "palm-leaf manuscript" ]
     } ],
     "tags" : [ ],
@@ -3030,7 +3030,7 @@
       "form" : "nutta"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "liquid", "water" ]
     } ],
     "tags" : [ "multiple standard pronunciation" ],
@@ -3064,7 +3064,7 @@
       "form" : "pedia"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "Fedi'a" ]
     } ],
     "tags" : [ ],
@@ -3099,7 +3099,7 @@
       "form" : "ríka"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "2", "two" ]
     } ],
     "tags" : [ ],
@@ -3118,7 +3118,7 @@
       "form" : "sá"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "woman", "female" ]
     } ],
     "tags" : [ ],
@@ -3137,7 +3137,7 @@
       "form" : "ṣabhahu"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "opal" ]
     } ],
     "tags" : [ ],
@@ -3162,7 +3162,7 @@
       "form" : "sáka"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "road", "sidewalk" ]
     } ],
     "tags" : [ ],
@@ -3206,7 +3206,7 @@
       "form" : "síbha"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "hometown", "homeland", "birthplace", "fatherland", "motherland", "native country" ]
     } ],
     "tags" : [ ],
@@ -3237,7 +3237,7 @@
       "form" : "ṣibhai"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "country", "nation" ]
     } ],
     "tags" : [ ],
@@ -3315,7 +3315,7 @@
       "form" : "ṣoma"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "bank (edge of river)", "dike" ]
     } ],
     "tags" : [ ],
@@ -3334,7 +3334,7 @@
       "form" : "ṣomatáku"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "(used with aṭaza) communism/collectivism" ]
     } ],
     "tags" : [ ],
@@ -3394,7 +3394,7 @@
       "form" : "su"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "money", "cash" ]
     } ],
     "tags" : [ ],
@@ -3475,7 +3475,7 @@
       "form" : "taku"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "流れ", "link", "connection" ]
     } ],
     "tags" : [ "learned word" ],
@@ -3497,10 +3497,10 @@
       "form" : "úro"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "carbon ink" ]
     }, {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "(in genitive) black" ]
     } ],
     "tags" : [ ],
@@ -3522,7 +3522,7 @@
       "form" : "woghit"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "brother", "sister", "sibling" ]
     } ],
     "tags" : [ ],
@@ -3553,7 +3553,7 @@
       "form" : "xeju"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "xeju" ]
     } ],
     "tags" : [ ],
@@ -3569,7 +3569,7 @@
       "form" : "zekáta"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "lungi" ]
     } ],
     "tags" : [ ],
@@ -3600,7 +3600,7 @@
       "form" : "zepha"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "language" ]
     } ],
     "tags" : [ ],
@@ -3862,7 +3862,7 @@
       "form" : "dí"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "that one" ]
     } ],
     "tags" : [ ],
@@ -3884,7 +3884,7 @@
       "form" : "-waim"
     },
     "translations" : [ {
-      "title" : "vowel stem suffix",
+      "title" : "suffix for a vowel-stem noun",
       "forms" : [ "suffix used in names" ]
     } ],
     "tags" : [ ],
@@ -3933,7 +3933,7 @@
       "form" : "-aim"
     },
     "translations" : [ {
-      "title" : "consonant stem suffix",
+      "title" : "suffix for a consonant-stem noun",
       "forms" : [ "suffix used in names" ]
     } ],
     "tags" : [ ],
@@ -3964,7 +3964,7 @@
       "form" : "-m"
     },
     "translations" : [ {
-      "title" : "vowel stem suffix",
+      "title" : "suffix for a vowel-stem noun",
       "forms" : [ "suffix used in names" ]
     } ],
     "tags" : [ ],
@@ -4037,7 +4037,7 @@
       "form" : "-n"
     },
     "translations" : [ {
-      "title" : "vowel stem suffix",
+      "title" : "suffix for a vowel-stem noun",
       "forms" : [ "suffix used in names" ]
     } ],
     "tags" : [ ],
@@ -4080,7 +4080,7 @@
       "form" : "-am"
     },
     "translations" : [ {
-      "title" : "consonant stem suffix",
+      "title" : "suffix for a consonant-stem noun",
       "forms" : [ "suffix used in names" ]
     } ],
     "tags" : [ ],
@@ -4123,7 +4123,7 @@
       "form" : "-an"
     },
     "translations" : [ {
-      "title" : "consonant stem suffix",
+      "title" : "suffix for a consonant-stem noun",
       "forms" : [ "suffix used in names" ]
     } ],
     "tags" : [ ],
@@ -4260,7 +4260,7 @@
       "form" : "bhoṇau"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "burrow that small animals dig" ]
     } ],
     "tags" : [ ],
@@ -4323,7 +4323,7 @@
       "form" : "phúpen"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "rabbit", "hare" ]
     } ],
     "tags" : [ ],
@@ -4355,7 +4355,7 @@
       "form" : "gháni"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "fire" ]
     } ],
     "tags" : [ ],
@@ -4387,7 +4387,7 @@
       "form" : "numíju"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "(in genitive) pink" ]
     } ],
     "tags" : [ ],
@@ -4406,7 +4406,7 @@
       "form" : "díṣlo"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "flower" ]
     } ],
     "tags" : [ "always singular declension" ],
@@ -4548,7 +4548,7 @@
       "form" : "dhíp"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "chain" ]
     } ],
     "tags" : [ ],
@@ -4602,7 +4602,7 @@
       "form" : "háta"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "cloth", "fabric" ]
     } ],
     "tags" : [ ],
@@ -4618,7 +4618,7 @@
       "form" : "hátaṣom"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "pocket" ]
     } ],
     "tags" : [ ],
@@ -4634,7 +4634,7 @@
       "form" : "híja"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "mind" ]
     } ],
     "tags" : [ ],
@@ -4799,7 +4799,7 @@
       "form" : "zíghíṣ"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "clock", "watch" ]
     } ],
     "tags" : [ ],
@@ -5007,7 +5007,7 @@
       "form" : "koṭ"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "grass" ]
     } ],
     "tags" : [ ],
@@ -5035,7 +5035,7 @@
       "form" : "dína"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "oneself" ]
     } ],
     "tags" : [ ],
@@ -5089,10 +5089,10 @@
       "form" : "rúṣ"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "the place under/beneath/below [instrumental]" ]
     }, {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "(in genitive) new" ]
     } ],
     "tags" : [ ],
@@ -5149,7 +5149,7 @@
       "form" : "cainíju"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "vest" ]
     } ],
     "tags" : [ ],
@@ -5181,7 +5181,7 @@
       "form" : "daupha"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "limit", "edge" ]
     } ],
     "tags" : [ ],
@@ -5225,7 +5225,7 @@
       "form" : "cákíkáta"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "luck", "fortune" ]
     } ],
     "tags" : [ ],
@@ -5259,7 +5259,7 @@
       "form" : "k"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "(dependent noun #1)", "thing" ]
     } ],
     "tags" : [ "dependent noun", "abstract dependent noun" ],
@@ -5296,7 +5296,7 @@
       "form" : "cai"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "place that is close to [instrumental]" ]
     } ],
     "tags" : [ ],
@@ -5369,7 +5369,7 @@
       "form" : "ṣoya"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "wall" ]
     } ],
     "tags" : [ ],
@@ -5407,7 +5407,7 @@
       "form" : "adheṣ"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "king" ]
     } ],
     "tags" : [ ],
@@ -5442,7 +5442,7 @@
       "form" : "bhog"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "color" ]
     } ],
     "tags" : [ ],
@@ -5493,7 +5493,7 @@
       "form" : "díma"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "(dependent noun #3)", "the fact (that S V)", "that (S V)" ]
     } ],
     "tags" : [ "dependent noun", "abstract dependent noun" ],
@@ -5509,7 +5509,7 @@
       "form" : "ho"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "dependent noun #2", "the event/situation (that S V)" ]
     } ],
     "tags" : [ "dependent noun", "abstract dependent noun" ],
@@ -5608,7 +5608,7 @@
       "form" : "ghíyo"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "salt" ]
     } ],
     "tags" : [ ],
@@ -5717,7 +5717,7 @@
       "form" : "heyáz"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "thought" ]
     } ],
     "tags" : [ ],
@@ -5742,7 +5742,7 @@
       "form" : "ríz"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "wishful thinking", "positive prospect" ]
     } ],
     "tags" : [ ],
@@ -5782,7 +5782,7 @@
       "form" : "rijz"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "aspiration", "wish" ]
     } ],
     "tags" : [ ],
@@ -5813,7 +5813,7 @@
       "form" : "ṣúsa"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "sky" ]
     } ],
     "tags" : [ ],
@@ -5873,7 +5873,7 @@
       "form" : "lom"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "three", "3" ]
     } ],
     "tags" : [ ],
@@ -5945,7 +5945,7 @@
       "form" : "júgok"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "Yuugokku" ]
     } ],
     "tags" : [ ],
@@ -5961,7 +5961,7 @@
       "form" : "ohi"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "friend" ]
     } ],
     "tags" : [ ],
@@ -5977,7 +5977,7 @@
       "form" : "bágha"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "number" ]
     } ],
     "tags" : [ ],
@@ -6008,7 +6008,7 @@
       "form" : "bhájabáni"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "numerical digit" ]
     } ],
     "tags" : [ ],
@@ -6033,7 +6033,7 @@
       "form" : "rauki"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "breast", "chest" ]
     } ],
     "tags" : [ ],
@@ -6192,7 +6192,7 @@
       "form" : "amilahomá nutta"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "fish sauce" ]
     } ],
     "tags" : [ "multiple standard pronunciation" ],
@@ -6229,7 +6229,7 @@
       "form" : "sákahomá ḍáz"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "street vendor" ]
     } ],
     "tags" : [ ],
@@ -6260,7 +6260,7 @@
       "form" : "ṣúsahomá nutta"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "rain", "rainwater" ]
     } ],
     "tags" : [ "multiple standard pronunciation" ],
@@ -6297,7 +6297,7 @@
       "form" : "koṭáná epa"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "grassland", "grass field" ]
     } ],
     "tags" : [ ],
@@ -6328,7 +6328,7 @@
       "form" : "rúṣán káṇa"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "temporally after" ]
     } ],
     "tags" : [ ],
@@ -6362,7 +6362,7 @@
       "form" : "koṭáná ṣoya"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "hedge" ]
     } ],
     "tags" : [ ],
@@ -6393,7 +6393,7 @@
       "form" : "nímaṣáná taku"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "federation" ]
     } ],
     "tags" : [ ],
@@ -6452,7 +6452,7 @@
       "form" : "káṇahomá amila"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "April fool" ]
     } ],
     "tags" : [ "joke", "NOT CANON" ],
@@ -6486,7 +6486,7 @@
       "form" : "lipakoḷ"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "Lipakorl" ]
     } ],
     "tags" : [ "name" ],
@@ -6561,7 +6561,7 @@
       "form" : "ásúka"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "person", "people", "human" ]
     } ],
     "tags" : [ ],
@@ -6577,7 +6577,7 @@
       "form" : "bákaz"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "endurance" ]
     } ],
     "tags" : [ ],
@@ -6602,7 +6602,7 @@
       "form" : "nautu"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "word" ]
     } ],
     "tags" : [ ],
@@ -6642,7 +6642,7 @@
       "form" : "-i"
     },
     "translations" : [ {
-      "title" : "consonant stem suffix",
+      "title" : "suffix for a consonant-stem noun",
       "forms" : [ "consonant stem singular zero case" ]
     } ],
     "tags" : [ ],
@@ -6683,7 +6683,7 @@
       "form" : "-ína"
     },
     "translations" : [ {
-      "title" : "consonant stem suffix",
+      "title" : "suffix for a consonant-stem noun",
       "forms" : [ "contraction of consonant stem plural postpositional and hína" ]
     } ],
     "tags" : [ ],
@@ -6708,7 +6708,7 @@
       "form" : "-dhína"
     },
     "translations" : [ {
-      "title" : "vowel stem suffix",
+      "title" : "suffix for a vowel-stem noun",
       "forms" : [ "contraction of vowel stem plural postpositional and hína" ]
     } ],
     "tags" : [ ],
@@ -6733,7 +6733,7 @@
       "form" : "bháhepa"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "(in genitive) international" ]
     } ],
     "tags" : [ ],
@@ -6845,7 +6845,7 @@
       "form" : "ghau"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "sword" ]
     } ],
     "tags" : [ ],
@@ -6867,7 +6867,7 @@
       "form" : "ghá"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "bow (weapon)" ]
     } ],
     "tags" : [ ],
@@ -6889,7 +6889,7 @@
       "form" : "ghau ja ghá"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "weapon" ]
     } ],
     "tags" : [ ],
@@ -6923,7 +6923,7 @@
       "form" : "bániṣom"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "Manicoma" ]
     } ],
     "tags" : [ ],
@@ -6993,7 +6993,7 @@
       "form" : "non"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "something of poor quality", "something that is inferior" ]
     } ],
     "tags" : [ "NomGen: Zero, Acc: -el" ],
@@ -7059,7 +7059,7 @@
       "form" : "áṭam"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "(sweet) paste" ]
     } ],
     "tags" : [ ],
@@ -7078,13 +7078,13 @@
       "form" : "ká"
     },
     "translations" : [ {
-      "title" : "consonant stem noun plural",
+      "title" : "consonant-stem noun plural",
       "forms" : [ "the plural form of k" ]
     } ],
     "tags" : [ "dependent noun", "abstract dependent noun" ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "the plural form of the consonant stem noun k. Since this is extremely confusing, I added this as an entry of this dictionary."
+      "text" : "the plural form of the consonant-stem noun k. Since this is extremely confusing, I added this as an entry of this dictionary."
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -7100,7 +7100,7 @@
       "form" : "káná ká"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "the phrase used to denote the phrase \"ká\" to mean the plural of \"k\"" ]
     } ],
     "tags" : [ ],
@@ -7146,7 +7146,7 @@
       "form" : "káom ká"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "the phrase used to denote the phrase \"ká\" to mean the third person feminine singular pronoun" ]
     } ],
     "tags" : [ ],
@@ -7180,7 +7180,7 @@
       "form" : "rásit"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "香り", "良い香り", "いいにおい", "匂い", "(肯定的な)特徴" ]
     } ],
     "tags" : [ ],
@@ -7208,7 +7208,7 @@
       "form" : "bhátán rásit"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "\"bhát-ness\"", "phonological feature of bhát language and its vocabulary" ]
     } ],
     "tags" : [ ],
@@ -7239,7 +7239,7 @@
       "form" : "wephise"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "ヴェフィス language", "the people of ヴェフィス" ]
     } ],
     "tags" : [ ],
@@ -7255,7 +7255,7 @@
       "form" : "ṣabhahum"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "(name of a person)" ]
     } ],
     "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
@@ -7280,7 +7280,7 @@
       "form" : "aghauṭawaim"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "(name of a person)" ]
     } ],
     "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
@@ -7305,7 +7305,7 @@
       "form" : "bánim"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "(name of a person)" ]
     } ],
     "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
@@ -7330,7 +7330,7 @@
       "form" : "kádan"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "(name of a person)" ]
     } ],
     "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
@@ -7364,7 +7364,7 @@
       "form" : "rízan"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "(name of a person)" ]
     } ],
     "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
@@ -7467,7 +7467,7 @@
       "form" : "accabát"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "(grammatical) sentence" ]
     } ],
     "tags" : [ ],
@@ -7508,7 +7508,7 @@
       "form" : "ceṣlo"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "dog" ]
     } ],
     "tags" : [ "always singular declension" ],
@@ -7521,7 +7521,7 @@
       "form" : "bhákáṇa"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "(in genitive)常なる" ]
     } ],
     "tags" : [ ],
@@ -7589,7 +7589,7 @@
       "form" : "nautuhomá e"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "シローレーカー", "バート語の単語を繋ぐ上の線" ]
     } ],
     "tags" : [ ],
@@ -7621,7 +7621,7 @@
       "form" : "líṇabáni"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "Lanermic logogram" ]
     } ],
     "tags" : [ ],
@@ -7646,10 +7646,10 @@
       "form" : "ehai"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "crown" ]
     }, {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "Ai'ren republic" ]
     } ],
     "tags" : [ ],
@@ -7671,7 +7671,7 @@
       "form" : "aṭam_kád"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "divine light", "divine act" ]
     } ],
     "tags" : [ ],
@@ -7712,7 +7712,7 @@
       "form" : "ehaihomá kád"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "the light of the crown", "\"The Light of the Crown\" (national anthem of Ai'ren Republic)" ]
     } ],
     "tags" : [ ],
@@ -7775,7 +7775,7 @@
       "form" : "bhátán zepha"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "bhátán language" ]
     } ],
     "tags" : [ ],
@@ -7812,7 +7812,7 @@
       "form" : "wát"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "wátán dialect", "speakers of wátan dialect" ]
     } ],
     "tags" : [ "colloquial" ],
@@ -7840,7 +7840,7 @@
       "form" : "wátán zepha"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "wátán dialect" ]
     } ],
     "tags" : [ "colloquial" ],
@@ -8074,7 +8074,7 @@
       "form" : "nín"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "paper" ]
     } ],
     "tags" : [ ],
@@ -8133,7 +8133,7 @@
       "form" : "lexeḷ"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "Lexerl" ]
     } ],
     "tags" : [ "name", "family name", "foreign family name" ],
@@ -8294,7 +8294,7 @@
       "form" : "phaiga"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "(in genitive)パイグの" ]
     } ],
     "tags" : [ ],
@@ -8313,7 +8313,7 @@
       "form" : "phaigahomá zepha"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "パイグ語" ]
     } ],
     "tags" : [ ],
@@ -8344,7 +8344,7 @@
       "form" : "xághaika"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "目立ちたがり屋" ]
     } ],
     "tags" : [ "colloquial" ],
@@ -8376,7 +8376,7 @@
       "form" : "amáma bohú"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "The Great Migration of phil. 2000", "The Great Deportation of phil. 2000" ]
     } ],
     "tags" : [ ],
@@ -8410,7 +8410,7 @@
       "form" : "ghitto"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "Family name: jekto" ]
     } ],
     "tags" : [ "name", "family name", "foreign family name" ],
@@ -8423,7 +8423,7 @@
       "form" : "epam"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "(name of a person)" ]
     } ],
     "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
@@ -8448,7 +8448,7 @@
       "form" : "woghitam"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "(name of a person)" ]
     } ],
     "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
@@ -8473,7 +8473,7 @@
       "form" : "woghitaim"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "(name of a person)" ]
     } ],
     "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
@@ -8517,7 +8517,7 @@
       "form" : "nauṭu"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "dialectal form of \"nautu\"" ]
     } ],
     "tags" : [ "colloquial" ],
@@ -8584,7 +8584,7 @@
       "form" : "náhaz"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "addition (both mathematic and non-mathematic)" ]
     } ],
     "tags" : [ ],
@@ -8609,7 +8609,7 @@
       "form" : "nához"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "the act of adding a case ending to a noun", "the act of declining a noun", "the act of declension" ]
     } ],
     "tags" : [ "grammatical term" ],
@@ -8650,7 +8650,7 @@
       "form" : "elameniác"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "worker", "someone who works and receives wage or board members' compensation or whatever" ]
     } ],
     "tags" : [ ],
@@ -8669,7 +8669,7 @@
       "form" : "kádakáná"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "spark", "incandescent particle" ]
     } ],
     "tags" : [ ],
@@ -8688,7 +8688,7 @@
       "form" : "nau"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "all of ... (following a genitive)", "the entirety of ... (following a genitive)" ]
     } ],
     "tags" : [ "dependent noun", "dependent noun of choice" ],
@@ -8707,7 +8707,7 @@
       "form" : "ṣahe"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "both of ... (following a genitive)" ]
     } ],
     "tags" : [ "dependent noun", "dependent noun of choice" ],
@@ -8723,7 +8723,7 @@
       "form" : "ṣe"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "both of ... (following a genitive)" ]
     } ],
     "tags" : [ "dependent noun", "abstract dependent noun", "colloquial" ],
@@ -8736,7 +8736,7 @@
       "form" : "sít"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "clay" ]
     } ],
     "tags" : [ ],
@@ -8752,7 +8752,7 @@
       "form" : "bházau"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "(in genitive) white" ]
     } ],
     "tags" : [ ],
@@ -8793,7 +8793,7 @@
       "form" : "kujacú"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "(in genitive) yellow" ]
     } ],
     "tags" : [ ],
@@ -8809,7 +8809,7 @@
       "form" : "kúcú"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "(in genitive) yellow" ]
     } ],
     "tags" : [ ],
@@ -8854,7 +8854,7 @@
       "form" : "áphíyo"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "mark", "logo", "symbol" ]
     } ],
     "tags" : [ ],
@@ -8870,7 +8870,7 @@
       "form" : "bákatú"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "someone who is brave" ]
     } ],
     "tags" : [ ],
@@ -8920,7 +8920,7 @@
       "form" : "ákíjamán dhoḷopáná ṣibhaiomá dhárad"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "Republic Union of the Eastern Islands", "PMCF" ]
     } ],
     "tags" : [ "always singular declension" ],
@@ -8945,7 +8945,7 @@
       "form" : "dhoḷopáná dhárad"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "Republic Union of the Eastern Islands", "PMCF" ]
     } ],
     "tags" : [ "always singular declension" ],
@@ -8970,7 +8970,7 @@
       "form" : "pemecepe"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "Republic Union of the Eastern Islands", "PMCF" ]
     } ],
     "tags" : [ "always singular declension" ],
@@ -8995,7 +8995,7 @@
       "form" : "makati"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "Makati", "the capital of the Ai'r Republic" ]
     } ],
     "tags" : [ ],
@@ -9030,7 +9030,7 @@
       "form" : "aumakátá rod"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "halant", "virama", "vowel-suppressing diacritic" ]
     } ],
     "tags" : [ ],
@@ -9064,7 +9064,7 @@
       "form" : "rod"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "something that is short", "the short one" ]
     } ],
     "tags" : [ ],
@@ -9089,7 +9089,7 @@
       "form" : "bátat"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "the place outside [instrumental]" ]
     } ],
     "tags" : [ ],
@@ -9157,7 +9157,7 @@
       "form" : "bátatṇauṭu"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "borrowed word", "loanword", "loan word" ]
     } ],
     "tags" : [ "multiple standard pronunciation" ],
@@ -9185,7 +9185,7 @@
       "form" : "líṇaṇauṭu"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "word of Lanermic origin" ]
     } ],
     "tags" : [ ],
@@ -9235,7 +9235,7 @@
       "form" : "eghi"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "rock", "stone" ]
     } ],
     "tags" : [ ],
@@ -10602,7 +10602,7 @@
       "form" : "táphíyot"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "fancy box", "fancy case" ]
     } ],
     "tags" : [ ],
@@ -10675,7 +10675,7 @@
       "form" : "rúkasa"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "old woman" ]
     } ],
     "tags" : [ ],
@@ -10697,7 +10697,7 @@
       "form" : "záwaim"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "(name of a person)" ]
     } ],
     "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
@@ -10719,7 +10719,7 @@
       "form" : "íditaim"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "(name of a person)" ]
     } ],
     "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
@@ -10769,7 +10769,7 @@
       "form" : "ághi"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "blood" ]
     } ],
     "tags" : [ ],
@@ -10791,7 +10791,7 @@
       "form" : "rúkasam"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "(name of a person)" ]
     } ],
     "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
@@ -10816,7 +10816,7 @@
       "form" : "ághim"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "(name of a person)" ]
     } ],
     "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
@@ -10873,7 +10873,7 @@
       "form" : "núdha"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "game" ]
     } ],
     "tags" : [ ],
@@ -10933,7 +10933,7 @@
       "form" : "núdhabágha"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "game's score", "game's point" ]
     } ],
     "tags" : [ ],
@@ -10958,7 +10958,7 @@
       "form" : "ghikísa"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "wood piece", "wood chip" ]
     } ],
     "tags" : [ "learned word" ],
@@ -10993,7 +10993,7 @@
       "form" : "cekhai"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "Cetkaik" ]
     } ],
     "tags" : [ ],
@@ -11012,7 +11012,7 @@
       "form" : "linepáne"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "Linepāine" ]
     } ],
     "tags" : [ ],
@@ -11031,7 +11031,7 @@
       "form" : "dáṣ"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "behind [instrumental]" ]
     } ],
     "tags" : [ ],
@@ -11127,7 +11127,7 @@
       "form" : "bacú"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "liquid vegetable oil" ]
     } ],
     "tags" : [ ],
@@ -11254,7 +11254,7 @@
       "form" : "júpheja"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "(name of a person)" ]
     } ],
     "tags" : [ "name" ],
@@ -11273,7 +11273,7 @@
       "form" : "núsu"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "army" ]
     } ],
     "tags" : [ ],
@@ -11323,7 +11323,7 @@
       "form" : "ammán"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "morpheme" ]
     } ],
     "tags" : [ ],
@@ -11339,10 +11339,10 @@
       "form" : "dhez"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "short break", "breathing time" ]
     }, {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "the act of reading a word-internal short syllable in high pitch" ]
     } ],
     "tags" : [ ],
@@ -11474,7 +11474,7 @@
       "form" : "pautawauta"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "skill level" ]
     } ],
     "tags" : [ ],
@@ -11522,7 +11522,7 @@
       "form" : "bhoḷog"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "law", "legal system" ]
     } ],
     "tags" : [ ],
@@ -11594,7 +11594,7 @@
       "form" : "súḷa"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "aromatic plants and seeds of grasses" ]
     } ],
     "tags" : [ ],
@@ -11663,7 +11663,7 @@
       "form" : "jápáeo"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "Japan" ]
     } ],
     "tags" : [ "NOT CANON" ],
@@ -11774,7 +11774,7 @@
       "form" : "dílitam"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "(name of a person)" ]
     } ],
     "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
@@ -11812,7 +11812,7 @@
       "form" : "korúṣam"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "(name of a person)" ]
     } ],
     "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
@@ -11866,7 +11866,7 @@
       "form" : "ṣíka"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "7", "seven" ]
     } ],
     "tags" : [ ],
@@ -11882,7 +11882,7 @@
       "form" : "ṣánom"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "8", "eight" ]
     } ],
     "tags" : [ ],
@@ -11901,7 +11901,7 @@
       "form" : "bániwaim"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "(name of a person)" ]
     } ],
     "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
@@ -11926,7 +11926,7 @@
       "form" : "ṣán"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "5", "five" ]
     } ],
     "tags" : [ "NomGen: Zero, Acc: -ele", "NomGen: Zero, Acc: -el" ],
@@ -11942,7 +11942,7 @@
       "form" : "cajxit"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "political revolution" ]
     } ],
     "tags" : [ "learned word" ],
@@ -11980,7 +11980,7 @@
       "form" : "cajxitanaunijasuka"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "フェンテショレー" ]
     } ],
     "tags" : [ ],
@@ -12071,7 +12071,7 @@
       "form" : "díghi"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "teniēk (a bird species)" ]
     } ],
     "tags" : [ "name of a plant / animal" ],
@@ -12090,7 +12090,7 @@
       "form" : "dhet"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "tetien (a bird species)" ]
     } ],
     "tags" : [ "name of a plant / animal" ],
@@ -12109,7 +12109,7 @@
       "form" : "dhedighat"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "chicken of tetien (a bird species)" ]
     } ],
     "tags" : [ "name of a plant / animal" ],
@@ -12125,7 +12125,7 @@
       "form" : "náḷa"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "nalva (a bird species)" ]
     } ],
     "tags" : [ "name of a plant / animal" ],
@@ -12150,7 +12150,7 @@
       "form" : "náḷawaim"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "(name of a person)" ]
     } ],
     "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
@@ -12175,7 +12175,7 @@
       "form" : "ápasíbha"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "my hometown", "my homeland", "my birthplace", "my fatherland", "my motherland", "my native country" ]
     } ],
     "tags" : [ ],
@@ -12188,7 +12188,7 @@
       "form" : "sápabhát"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "old bhátán language", "people of ancient bhát" ]
     } ],
     "tags" : [ ],
@@ -12201,7 +12201,7 @@
       "form" : "masátu"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "a deliberate lie meant to deceive someone" ]
     } ],
     "tags" : [ ],
@@ -12223,7 +12223,7 @@
       "form" : "jog"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "inaccurate information", "misinformation without the intent of deceiving", "false information", "untruth" ]
     }, {
       "title" : "interjection",
@@ -12264,7 +12264,7 @@
       "form" : "zíṣlo"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "vine", "climbing plants" ]
     } ],
     "tags" : [ "always singular declension" ],
@@ -12277,7 +12277,7 @@
       "form" : "bhodi"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "ocean", "sea" ]
     } ],
     "tags" : [ ],
@@ -12299,7 +12299,7 @@
       "form" : "bhodibhára"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "sea breeze" ]
     } ],
     "tags" : [ ],
@@ -12788,7 +12788,7 @@
       "form" : "ázá"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "nominative case" ]
     } ],
     "tags" : [ "grammatical term" ],
@@ -12801,7 +12801,7 @@
       "form" : "ánom"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "genitive case" ]
     } ],
     "tags" : [ "grammatical term" ],
@@ -12820,7 +12820,7 @@
       "form" : "elesa"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "accusative case" ]
     } ],
     "tags" : [ "grammatical term" ],
@@ -12833,7 +12833,7 @@
       "form" : "aibhausa"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "instrumental case" ]
     } ],
     "tags" : [ "grammatical term" ],
@@ -12846,7 +12846,7 @@
       "form" : "dhíná"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "postpositional case" ]
     } ],
     "tags" : [ "grammatical term" ],
@@ -12887,7 +12887,7 @@
       "form" : "bhodíyo"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "sea salt" ]
     } ],
     "tags" : [ ],
@@ -12912,7 +12912,7 @@
       "form" : "nauki"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "a wooden box storing either salt or grains" ]
     } ],
     "tags" : [ ],
@@ -12928,7 +12928,7 @@
       "form" : "bhoman"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "(name of a person)" ]
     } ],
     "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
@@ -12956,7 +12956,7 @@
       "form" : "síbham"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "(name of a person)" ]
     } ],
     "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
@@ -12981,7 +12981,7 @@
       "form" : "adheṣ"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "Adhesh" ]
     } ],
     "tags" : [ "name", "family name" ],
@@ -13000,7 +13000,7 @@
       "form" : "ṣíyabát"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "law court" ]
     } ],
     "tags" : [ ],
@@ -13013,7 +13013,7 @@
       "form" : "bhátnímaṣ"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "bhátán ethnicity" ]
     } ],
     "tags" : [ "multiple standard pronunciation" ],
@@ -13029,7 +13029,7 @@
       "form" : "bhátnímaṣ"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "Bhātnīmash" ]
     } ],
     "tags" : [ "multiple standard pronunciation", "name", "family name" ],
@@ -13048,7 +13048,7 @@
       "form" : "gháwanúnímaṣ"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "ドゥバーギョ民族" ]
     } ],
     "tags" : [ ],
@@ -13073,7 +13073,7 @@
       "form" : "cáwaṭaim"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "(name of a person)" ]
     } ],
     "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
@@ -13098,7 +13098,7 @@
       "form" : "jok"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "Family name: viokk" ]
     } ],
     "tags" : [ "name", "family name", "foreign family name" ],
@@ -13111,7 +13111,7 @@
       "form" : "doma"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "who?" ]
     } ],
     "tags" : [ ],
@@ -13127,7 +13127,7 @@
       "form" : "domana"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "someone" ]
     } ],
     "tags" : [ ],
@@ -13143,7 +13143,7 @@
       "form" : "coṇá"
     },
     "translations" : [ {
-      "title" : "consonant stem noun plural",
+      "title" : "consonant-stem noun plural",
       "forms" : [ "which one?" ]
     } ],
     "tags" : [ "always plural declension" ],
@@ -13159,7 +13159,7 @@
       "form" : "coṇaná"
     },
     "translations" : [ {
-      "title" : "consonant stem noun plural",
+      "title" : "consonant-stem noun plural",
       "forms" : [ "どれか" ]
     } ],
     "tags" : [ "always plural declension" ],
@@ -13172,7 +13172,7 @@
       "form" : "náhepa"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "what place?" ]
     } ],
     "tags" : [ ],
@@ -13185,7 +13185,7 @@
       "form" : "náhepani"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "some place" ]
     } ],
     "tags" : [ ],
@@ -13404,7 +13404,7 @@
       "form" : "phecú"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "la phertarrarsiten-curibajmorbern", "so-called bhátán mushroom soup" ]
     } ],
     "tags" : [ ],
@@ -13483,7 +13483,7 @@
       "form" : "helazá"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "waves" ]
     } ],
     "tags" : [ "always plural declension" ],
@@ -13579,7 +13579,7 @@
       "form" : "dhokit"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "fruit", "dead body hanged from a tree" ]
     } ],
     "tags" : [ ],
@@ -13657,7 +13657,7 @@
       "form" : "ḍubájonímaṣ"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "ドゥバーギョ民族" ]
     } ],
     "tags" : [ ],
@@ -13682,7 +13682,7 @@
       "form" : "zausáṇauṭu"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "dynamic verb" ]
     } ],
     "tags" : [ ],
@@ -13707,7 +13707,7 @@
       "form" : "hemasáṇauṭu"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "stative verb" ]
     } ],
     "tags" : [ ],
@@ -13732,7 +13732,7 @@
       "form" : "ghauṣ"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "noun" ]
     } ],
     "tags" : [ ],
@@ -13748,7 +13748,7 @@
       "form" : "rodahemasáṇauṭu"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "instantaneous verb" ]
     } ],
     "tags" : [ ],
@@ -13776,7 +13776,7 @@
       "form" : "núdhabhoḷog"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "rule of a game", "ruleset of a game" ]
     } ],
     "tags" : [ ],
@@ -13874,7 +13874,7 @@
       "form" : "catíg"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "an insect that sting (such as mosquitoes or flies)" ]
     } ],
     "tags" : [ ],
@@ -13893,7 +13893,7 @@
       "form" : "cátaghi"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "an insect that sting (such as mosquitoes or flies)" ]
     } ],
     "tags" : [ "colloquial" ],
@@ -14031,7 +14031,7 @@
       "form" : "-dhen"
     },
     "translations" : [ {
-      "title" : "vowel stem suffix",
+      "title" : "suffix for a vowel-stem noun",
       "forms" : [ "pseudo-genitive form of vowel stem singular accusative" ]
     } ],
     "tags" : [ "translationese" ],
@@ -14056,7 +14056,7 @@
       "form" : "-dhelán"
     },
     "translations" : [ {
-      "title" : "vowel stem suffix",
+      "title" : "suffix for a vowel-stem noun",
       "forms" : [ "pseudo-genitive form of vowel stem plural accusative" ]
     } ],
     "tags" : [ "translationese" ],
@@ -14081,7 +14081,7 @@
       "form" : "-elen"
     },
     "translations" : [ {
-      "title" : "consonant stem suffix",
+      "title" : "suffix for a consonant-stem noun",
       "forms" : [ "pseudo-genitive form of consonant stem singular accusative" ]
     } ],
     "tags" : [ "translationese" ],
@@ -14106,7 +14106,7 @@
       "form" : "-elenán"
     },
     "translations" : [ {
-      "title" : "consonant stem suffix",
+      "title" : "suffix for a consonant-stem noun",
       "forms" : [ "pseudo-genitive form of consonant stem plural accusative" ]
     } ],
     "tags" : [ "translationese" ],
@@ -14166,7 +14166,7 @@
       "form" : "epa_híja"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "culture" ]
     } ],
     "tags" : [ "translationese" ],
@@ -14219,7 +14219,7 @@
       "form" : "xallánom"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "pseudo-genitive" ]
     } ],
     "tags" : [ ],
@@ -14244,7 +14244,7 @@
       "form" : "rek"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "dirt", "soil" ]
     } ],
     "tags" : [ "early borrowing" ],
@@ -14260,7 +14260,7 @@
       "form" : "kázalek"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "mud" ]
     } ],
     "tags" : [ ],
@@ -14279,7 +14279,7 @@
       "form" : "rekasúk"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "mud doll" ]
     } ],
     "tags" : [ ],
@@ -14314,7 +14314,7 @@
       "form" : "gápaden"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "font", "glyph", "artistically written alphabets", "decorative lettering" ]
     } ],
     "tags" : [ ],
@@ -14330,7 +14330,7 @@
       "form" : "toyat"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "トイター教徒" ]
     } ],
     "tags" : [ ],
@@ -14423,7 +14423,7 @@
       "form" : "bammic"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "banmis" ]
     } ],
     "tags" : [ ],
@@ -14442,7 +14442,7 @@
       "form" : "zápiopec"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "republic", "country adoptic a republican government" ]
     } ],
     "tags" : [ ],
@@ -14461,7 +14461,7 @@
       "form" : "ríon"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "countermeasure" ]
     } ],
     "tags" : [ ],
@@ -14477,7 +14477,7 @@
       "form" : "númama"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "(name of a city)" ]
     } ],
     "tags" : [ ],
@@ -14493,7 +14493,7 @@
       "form" : "kítaitúwa"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "(name of a city)" ]
     } ],
     "tags" : [ ],
@@ -14509,7 +14509,7 @@
       "form" : "bhattá"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "taste felt by the tongue" ]
     } ],
     "tags" : [ "always plural declension" ],
@@ -14538,7 +14538,7 @@
       "form" : "bhodibhattá"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "taste of the sea (collectively refers to both fish-based seasonings and salt)" ]
     } ],
     "tags" : [ "always plural declension" ],
@@ -14554,7 +14554,7 @@
       "form" : "dáp"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "lip" ]
     } ],
     "tags" : [ ],
@@ -14570,7 +14570,7 @@
       "form" : "phaicnixate"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "noodle" ]
     } ],
     "tags" : [ ],
@@ -14586,7 +14586,7 @@
       "form" : "phecúphaicnixate"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "phecú noodle" ]
     } ],
     "tags" : [ ],
@@ -14602,10 +14602,10 @@
       "form" : "dhímat"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "needle" ]
     }, {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "thorn", "prickle" ]
     } ],
     "tags" : [ ],
@@ -14621,7 +14621,7 @@
       "form" : "kaṭádha"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "ship" ]
     } ],
     "tags" : [ ],
@@ -14634,7 +14634,7 @@
       "form" : "bhodakí"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "sailor" ]
     } ],
     "tags" : [ ],
@@ -14689,7 +14689,7 @@
       "form" : "síbhadhoḷop"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "hometown island", "one's native island" ]
     } ],
     "tags" : [ ],
@@ -14772,7 +14772,7 @@
       "form" : "ághat"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "spice" ]
     } ],
     "tags" : [ ],
@@ -14788,7 +14788,7 @@
       "form" : "ṣahabát"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "シャハバート詩" ]
     } ],
     "tags" : [ ],
@@ -14816,7 +14816,7 @@
       "form" : "linepáneṇauṭu"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "Linepāine words" ]
     } ],
     "tags" : [ ],
@@ -14841,7 +14841,7 @@
       "form" : "ṣím"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "unleavened bread" ]
     } ],
     "tags" : [ ],
@@ -14854,7 +14854,7 @@
       "form" : "bházau kázalek"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "euphemism for sperms" ]
     } ],
     "tags" : [ ],
@@ -14904,7 +14904,7 @@
       "form" : "káṇabhodi"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "oblivion", "the state of being unable to know due to lack of records" ]
     } ],
     "tags" : [ ],
@@ -14933,7 +14933,7 @@
       "form" : "limmo"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "dust" ]
     } ],
     "tags" : [ ],
@@ -15004,7 +15004,7 @@
       "form" : "ṣánímo"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "heavily-seasoned savory chicken skin" ]
     } ],
     "tags" : [ ],
@@ -15017,7 +15017,7 @@
       "form" : "dhán"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "Lake Dhaan (one of the lakes in Gwon-Alt)" ]
     } ],
     "tags" : [ "toponym" ],
@@ -15033,7 +15033,7 @@
       "form" : "dhauna"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "tiger" ]
     } ],
     "tags" : [ ],
@@ -15049,7 +15049,7 @@
       "form" : "ghuttám"
     },
     "translations" : [ {
-      "title" : "consonant stem noun",
+      "title" : "consonant-stem noun",
       "forms" : [ "ceramic or terracotta vase with a neck and a shoulder" ]
     } ],
     "tags" : [ ],
@@ -15078,7 +15078,7 @@
       "form" : "nághu"
     },
     "translations" : [ {
-      "title" : "vowel stem noun",
+      "title" : "vowel-stem noun",
       "forms" : [ "9", "nine" ]
     } ],
     "tags" : [ ],
@@ -15113,7 +15113,7 @@
       "form" : "-ṣág"
     },
     "translations" : [ {
-      "title" : "vowel stem suffix",
+      "title" : "suffix for a vowel-stem noun",
       "forms" : [ "(derogatory suffix)" ]
     } ],
     "tags" : [ ],
@@ -15135,7 +15135,7 @@
       "form" : "-aṣág"
     },
     "translations" : [ {
-      "title" : "consonant stem suffix",
+      "title" : "suffix for a consonant-stem noun",
       "forms" : [ "(derogatory suffix)" ]
     } ],
     "tags" : [ ],
