@@ -15107,6 +15107,50 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 671,
+      "form" : "-ṣág"
+    },
+    "translations" : [ {
+      "title" : "vowel stem suffix",
+      "forms" : [ "(derogatory suffix)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "Attaches to a noun that describes a person and expresses a discriminatory or derogatory meaning."
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 672,
+        "form" : "-aṣág"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 672,
+      "form" : "-aṣág"
+    },
+    "translations" : [ {
+      "title" : "consonant stem suffix",
+      "forms" : [ "(derogatory suffix)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "Attaches to a noun that describes a person and expresses a discriminatory or derogatory meaning."
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 671,
+        "form" : "-ṣág"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

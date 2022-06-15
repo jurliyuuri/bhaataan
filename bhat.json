@@ -15071,6 +15071,50 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 671,
+      "form" : "-ṣág"
+    },
+    "translations" : [ {
+      "title" : "母音幹接尾辞",
+      "forms" : [ "～の野郎" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "人を表す語について、差別的・軽蔑的意味を表す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 672,
+        "form" : "-aṣág"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 672,
+      "form" : "-aṣág"
+    },
+    "translations" : [ {
+      "title" : "子音幹接尾辞",
+      "forms" : [ "～の野郎" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "人を表す語について、差別的・軽蔑的意味を表す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 671,
+        "form" : "-ṣág"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
