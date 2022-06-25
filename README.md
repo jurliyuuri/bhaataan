@@ -3,6 +3,12 @@
 
 （かつてindex.htmlに置いてあった「[バート語について考察する](./investigate.html)」は[こちら](./investigate.html)に移動しました。リンクの貼り替えをお願いします）
 
+## コーパスのコンパイル
+
+```
+npx tsc compile_corpus.ts; node compile_corpus.js
+```
+
 ## メインコンテンツ
 
 ### 概要
