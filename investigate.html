@@ -5914,6 +5914,24 @@ g	1	1.5	484
 <h3>203-5. リンクとか</h3>
 <p><a href="https://docs.google.com/spreadsheets/d/1lEIR_G9vQchec4rsgJtUgj-C2M0Hwgq-zmSMSEqzoaw/edit#gid=1623995539">今回のGoogle Spreadsheets</a>、そして <a href="freq2022.html">頻度表2022</a>。</p>
 
+<h2>204. 例文管理について</h2>
+
+<h3>204-1. 方針</h3>
+
+<p>2022年6月9日に<a href="https://github.com/AIL-MO-LETI-CEP/issues/issues/47">「例文と辞書をどうにか合一させる機構（まずはバートに導入）」</a>という issue を立てた。</p>
+
+<p>そういや ZpDIC に例文管理機能がついたんだっけ。どういう仕様になってるんだろう。ちょっと見てみなきゃな。</p>
+
+<p>……と思って調べたり訊いたりしたところ、</p>
+
+<ul>
+	<li>OTM-JSONに例文の仕様がないので、そもそも ZpDIC-Online からは例文がエクスポートされない</li>
+	<li>なので、OTM-JSONエクスポートとZpDIC形式エクスポートの両方実装しようと Ziphil さんは考えている</li>
+	<li>ZpDIC 形式の仕様はいま Ziphil さんが策定中 (全然考えられてない)</li>
+</ul>
+
+<p>とのことであった。なるほど。じゃあ私の都合に最もふさわしいフォーマットで先に組んで、あとで仕様が策定された際に適宜それを変換する、という方針にしよう。</p>
+
 <hr>
 <h3 class="do_not_create_header">to do:</h3>
 「これ」「それ」の使い分け、<br>
