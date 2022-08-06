@@ -608,16 +608,44 @@
 	},
 	{"document_title": "バート語辞書",
 		"type": "leipzigjs-glossed-doc",
-		"content": [{
-			"type": "leipzigjs-glossed-text",
-			"analyzed_text": "ṣoya-bhau rúṣ-án bhoṇau",
-			"gloss": "壁-INS 下-GEN 巣穴",
-			"translation": "壁の下の巣穴"
-		}]
+		"content": [
+			{
+				"section_title": "", 
+				"content": [
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "ṣoya-bhau rúṣ-án bhoṇau",
+						"gloss": "壁-INS 下-GEN 巣穴",
+						"translation": "壁の下の巣穴"
+					}
+				]
+			},
+			{
+				"section_title": "",
+				"content": [
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "bhá ákíjam-i hína",
+						"gloss": "全ての 一日-POST ～に",
+						"translation": "毎日"
+					},{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "ákíjam-án nau-ḍi hína",
+						"gloss": "一日-GEN 全て-POST ～に",
+						"translation": "一日中"
+					},{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "bhá ákíjam-án nau-ḍi hína",
+						"gloss": "全ての 一日-POST 全て-POST ～に",
+						"translation": "24時間年中無休で"
+					}
+				]
+			}
+		]
 	},
 	{"document_title": "バート語辞書",
 		"type": "raw-text-doc",
-		"text": "ṣoyabhau rúṣán bhoṇau"
+		"text": "ṣoyabhau rúṣán bhoṇau\nbhá ákíjami hína\nákíjamán nauḍi hína\nbhá ákíjamán nauḍi hína"
 	},
 	{"document_title": "ṣahabát 詩 ― 「数字が集まり数が成る」",
 		"type": "leipzigjs-glossed-doc",
