@@ -49,6 +49,9 @@ export type Section<Txt> = {
     "content": Elem<Txt>[],
 };
 
+// ひとまとまりのテクストを囲むための箱。
+// 一段落ぐらいを囲むことを想定している。
+// 意味的に関連の薄いテクスト群は箱で囲むべきではない。
 export type Box<Txt> = {
     "type": "box",
     "metadata"?: Metadata,

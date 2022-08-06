@@ -117,9 +117,6 @@ function chooseAdequateColsRows(txt) {
         return { cols, rows: txt.split("\n").length };
     }
 }
-function isLeipzigJsGlossedText(a) {
-    return a.type === "leipzigjs-glossed-text";
-}
 function serializeGlossList(content, o) {
     const outer_div = document.createElement("div");
     outer_div.classList.add("box");

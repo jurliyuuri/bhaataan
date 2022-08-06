@@ -1,11 +1,5 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-/*export type Folder = {
-    "folder_title": string,
-    "metadata"?: Metadata,
-    "docs": Doc[]
-}*/
-// 「出典リンク」とかも貼れるといいのかも
 // 画像を埋め込む機能も最初から定義しとこう。実装するかは optional かなぁ
 // プレーンテキスト版とグロス版を別 Doc とするのはあんま気に入らないけど、うーん、どうするか
 // イメージとして、もうファイルとフォルダの比喩にしてしまって、

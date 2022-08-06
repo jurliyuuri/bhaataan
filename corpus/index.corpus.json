@@ -263,31 +263,49 @@
 				]
 			},
 			{
-				"type": "box",
+				"type": "section",
 				"title": "バート語（旧サイト）",
 				"metadata": {
 					"src_link": [
 						"https://web.archive.org/web/20201010211053/https://sites.google.com/site/3tvalineparine/plsnk/bhat"
 					]
 				},
-				"lines": [
+				"content": [
 					{
-						"type": "leipzigjs-glossed-text",
-						"analyzed_text": "bhát-án",
-						"gloss": "バート-GEN",
-						"translation": "バートの"
+						"type": "box",
+						"title": "",
+						"lines": [
+							{
+								"type": "leipzigjs-glossed-text",
+								"analyzed_text": "bhát-án",
+								"gloss": "バート-GEN",
+								"translation": "バートの"
+							}
+						]
 					},
 					{
-						"type": "leipzigjs-glossed-text",
-						"analyzed_text": "bhát-án zepha",
-						"gloss": "バート-GEN 言語",
-						"translation": "バートの言語"
+						"type": "box",
+						"title": "",
+						"lines": [
+							{
+								"type": "leipzigjs-glossed-text",
+								"analyzed_text": "bhát-án zepha",
+								"gloss": "バート-GEN 言語",
+								"translation": "バートの言語"
+							}
+						]
 					},
 					{
-						"type": "leipzigjs-glossed-text",
-						"analyzed_text": "káṇa-∅ nána bháma-∅ cákík-adíha hem?",
-						"gloss": "時間-NOM REL 我々(包括)-NOM 来る-1.FUT.PTCP PFV",
-						"translation": "私たちが集まる時間は？"
+						"type": "box",
+						"title": "",
+						"lines": [
+							{
+								"type": "leipzigjs-glossed-text",
+								"analyzed_text": "káṇa-∅ nána bháma-∅ cákík-adíha hem?",
+								"gloss": "時間-NOM REL 我々(包括)-NOM 来る-1.FUT.PTCP PFV",
+								"translation": "私たちが集まる時間は？"
+							}
+						]
 					}
 				]
 			}
@@ -298,74 +316,129 @@
 		"type": "leipzigjs-glossed-doc",
 		"content": [
 			{
-				"title": "原文",
-				"type": "html-sidenote",
-				"sidenote": "<p>'munq: ám bhátadína hem. 喋ってないです</p>\n<p>dradq: ákíjamán dhoḷopáná ṣibhaiomá dhárad 東諸島共和国連合</p>\n<p>i'q: ká ṣomazená, káom síbhaḍi hína. 彼女は彼女の故郷で功績を上げた。</p>\n<p>nimslu: nímaṣáná taku 連邦</p>\n<p>phed: ápa aṭamáná manámanelená bhátadhí. 私は神の親を話す</p>\n<p>pura: kiṣlo bhárabáta ek. 彼等は風邪に掛かったらしい</p>\n<p>qmuile': amilahomá nutta 魚醤、ナンプラー</p>\n<p>sljoomq: juecleone juecleonehomá ṣomatákuhomá aṭazahomá xejuhomá nímaṣáná taku　ユエスレオネ・ユエスレオネ社会主義シェユ連邦</p>\n<p>srakkq: ámaom cákíkamúná síbha? あなたは何処の出身ですか？</p>\n<p>srakkq: sákahomá ḍázá 路商；露天商</p>\n<p>zau: nánadhel zamú! 何をする！!</p>"
-			},
-			{
 				"type": "box",
-				"title": "",
+				"title": "'munq: ám bhátadína hem. 喋ってないです",
 				"lines": [
 					{
 						"type": "leipzigjs-glossed-text",
 						"analyzed_text": "ám bhát-adína hem.",
 						"gloss": "〜しない 喋っている-1.PST.PTCP PFV",
 						"translation": "私は喋っていなかった"
-					},
+					}
+				]
+			},
+			{
+				"type": "box",
+				"title": "dradq: ákíjamán dhoḷopáná ṣibhaiomá dhárad 東諸島共和国連合",
+				"lines": [
 					{
 						"type": "leipzigjs-glossed-text",
 						"analyzed_text": "ákíjam-án dhoḷop-áná ṣibhai-omá dhárad",
 						"gloss": "東-GEN 島-GEN.PL 国家-GEN.PL 連合",
 						"translation": "東の島たちの国家たちの連合"
-					},
+					}
+				]
+			},
+			{
+				"type": "box",
+				"title": "i'q: ká ṣomazená, káom síbhaḍi hína. 彼女は彼女の故郷で功績を上げた。",
+				"lines": [
 					{
 						"type": "leipzigjs-glossed-text",
 						"analyzed_text": "ká-∅ ṣom-azená, ká-om síbha-ḍi hína",
 						"gloss": "彼女-NOM 功績を上げる-3F.PST.PTCP 彼女-GEN 故郷-POST 〜で",
 						"translation": "彼女は彼女の故郷で功績を上げた。"
-					},
+					}
+				]
+			},
+			{
+				"type": "box",
+				"title": "nimslu: nímaṣáná taku 連邦",
+				"lines": [
 					{
 						"type": "leipzigjs-glossed-text",
 						"analyzed_text": "nímaṣ-áná taku",
 						"gloss": "民族-GEN.PL 繋がり",
 						"translation": "民族たちの繋がり（=連邦）"
-					},
+					}
+				]
+			},
+			{
+				"type": "box",
+				"title": "phed: ápa aṭamáná manámanelená bhátadhí. 私は神の親を話す",
+				"lines": [
 					{
 						"type": "leipzigjs-glossed-text",
 						"analyzed_text": "ápa-∅ aṭam-áná manáman-elená bhát-adhí.",
 						"gloss": "私-NOM 神-GEN.PL 親-ACC.PL 喋る-1.REAL",
 						"translation": "私は神の親を話す。"
-					},
+					}
+				]
+			},
+			{
+				"type": "box",
+				"title": "pura: kiṣlo bhárabáta ek. 彼等は風邪に掛かったらしい",
+				"lines": [
 					{
 						"type": "leipzigjs-glossed-text",
 						"analyzed_text": "kiṣlo-∅ bhár-abáta ek",
 						"gloss": "彼ら-NOM 風邪にかかる-3M.PST.PTCP 〜らしい",
 						"translation": "彼等は風邪に掛かったらしい。"
-					},
+					}
+				]
+			},
+			{
+				"type": "box",
+				"title": "qmuile': amilahomá nutta 魚醤、ナンプラー",
+				"lines": [
 					{
 						"type": "leipzigjs-glossed-text",
 						"analyzed_text": "amila-homá nutta",
 						"gloss": "魚-GEN 水",
 						"translation": "魚の水（=魚醤）"
-					},
+					}
+				]
+			},
+			{
+				"type": "box",
+				"title": "sljoomq: juecleone juecleonehomá ṣomatákuhomá aṭazahomá xejuhomá nímaṣáná taku　ユエスレオネ・ユエスレオネ社会主義シェユ連邦",
+				"lines": [
 					{
 						"type": "leipzigjs-glossed-text",
 						"analyzed_text": "juecleone juecleone-homá ṣomatáku-homá aṭaza-homá xeju-homá nímaṣ-áná taku",
 						"gloss": "ユエスレオネ ユエスレオネ-GEN 共産-GEN 主義-GEN シェユ-GEN 民族-GEN.PL 繋がり",
 						"translation": "ユエスレオネ・ユエスレオネ社会主義シェユ連邦"
-					},
+					}
+				]
+			},
+			{
+				"type": "box",
+				"title": "srakkq: ámaom cákíkamúná síbha? あなたは何処の出身ですか？",
+				"lines": [
 					{
 						"type": "leipzigjs-glossed-text",
 						"analyzed_text": "áma-om cákík-amúná síbha-∅ ?",
 						"gloss": "あなた-GEN 出身である-2.PST.PTCP.REL 故郷-NOM",
 						"translation": "あなたは何処の出身ですか？"
-					},
+					}
+				]
+			},
+			{
+				"type": "box",
+				"title": "srakkq: sákahomá ḍázá 路商；露天商",
+				"lines": [
 					{
 						"type": "leipzigjs-glossed-text",
 						"analyzed_text": "sáka-homá ḍáz-á",
 						"gloss": "道-GEN 店-NOM.PL",
 						"translation": "道の店（=路商、露天商）"
-					},
+					}
+				]
+			},
+			{
+				"type": "box",
+				"title": "zau: nánadhel zamú! 何をする！",
+				"lines": [
 					{
 						"type": "leipzigjs-glossed-text",
 						"analyzed_text": "nána-dhel z-amú!",
@@ -584,26 +657,44 @@
 				"sidenote": "バート語の文章を書いて、自己言及的に「これはバート語です。」と表現する際に許容されるものと許容されないものを対比する。"
 			},
 			{
-				"type": "box",
+				"type": "section",
 				"title": "許容されるもの",
-				"lines": [
+				"content": [
 					{
-						"type": "leipzigjs-glossed-text",
-						"analyzed_text": "ko-∅ bhát-án ∅.",
-						"gloss": "これ-NOM バート-GEN [〜である]",
-						"translation": "これはバート語（で書かれた文）です。"
+						"type": "box",
+						"title": "",
+						"lines": [
+							{
+								"type": "leipzigjs-glossed-text",
+								"analyzed_text": "ko-∅ bhát-án ∅.",
+								"gloss": "これ-NOM バート-GEN [〜である]",
+								"translation": "これはバート語（で書かれた文）です。"
+							}
+						]
 					},
 					{
-						"type": "leipzigjs-glossed-text",
-						"analyzed_text": "ko-∅ bhát-án hem.",
-						"gloss": "これ-NOM バート-GEN 〜である",
-						"translation": "これはバート語（で書かれた文）です。"
+						"type": "box",
+						"title": "",
+						"lines": [
+							{
+								"type": "leipzigjs-glossed-text",
+								"analyzed_text": "ko-∅ bhát-án hem.",
+								"gloss": "これ-NOM バート-GEN 〜である",
+								"translation": "これはバート語（で書かれた文）です。"
+							}
+						]
 					},
 					{
-						"type": "leipzigjs-glossed-text",
-						"analyzed_text": "ko-∅ bhát-án accabát ∅.",
-						"gloss": "これ-NOM バート-GEN 文 [〜である]",
-						"translation": "これはバート語で書かれた文です。"
+						"type": "box",
+						"title": "",
+						"lines": [
+							{
+								"type": "leipzigjs-glossed-text",
+								"analyzed_text": "ko-∅ bhát-án accabát ∅.",
+								"gloss": "これ-NOM バート-GEN 文 [〜である]",
+								"translation": "これはバート語で書かれた文です。"
+							}
+						]
 					}
 				]
 			},
@@ -654,20 +745,32 @@
 		"type": "leipzigjs-glossed-doc",
 		"content": [
 			{
-				"type": "box",
+				"type": "section",
 				"title": "",
-				"lines": [
+				"content": [
 					{
-						"type": "leipzigjs-glossed-text",
-						"analyzed_text": "kom zíghíṣ-∅ numíju-homá k hem.",
-						"gloss": "この 時計-NOM ピンク-GEN もの 〜である",
-						"translation": "この時計はピンクです。"
+						"type": "box",
+						"title": "",
+						"lines": [
+							{
+								"type": "leipzigjs-glossed-text",
+								"analyzed_text": "kom zíghíṣ-∅ numíju-homá k hem.",
+								"gloss": "この 時計-NOM ピンク-GEN もの 〜である",
+								"translation": "この時計はピンクです。"
+							}
+						]
 					},
 					{
-						"type": "leipzigjs-glossed-text",
-						"analyzed_text": "kúcú-homá bhog-∅ bházau-homá bhog-i hína caj-akátá.",
-						"gloss": "黄色-GEN 色-NOM 白-GEN 色-POST ～に 似ている-3N.PST.PTCP",
-						"translation": "黄色は白に似ている。"
+						"type": "box",
+						"title": "",
+						"lines": [
+							{
+								"type": "leipzigjs-glossed-text",
+								"analyzed_text": "kúcú-homá bhog-∅ bházau-homá bhog-i hína caj-akátá.",
+								"gloss": "黄色-GEN 色-NOM 白-GEN 色-POST ～に 似ている-3N.PST.PTCP",
+								"translation": "黄色は白に似ている。"
+							}
+						]
 					}
 				]
 			},
@@ -712,7 +815,7 @@
 		"content": [
 			{
 				"type": "box",
-				"title": "",
+				"title": "\"rúṣ\" の「用法」欄",
 				"lines": [
 					{
 						"type": "leipzigjs-glossed-text",
@@ -723,26 +826,44 @@
 				]
 			},
 			{
-				"type": "box",
-				"title": "",
-				"lines": [
+				"type": "section",
+				"title": "\"nau\" の「類義語の使い分け」欄",
+				"content": [
 					{
-						"type": "leipzigjs-glossed-text",
-						"analyzed_text": "bhá ákíjam-i hína",
-						"gloss": "全ての 一日-POST ～に",
-						"translation": "毎日"
+						"type": "box",
+						"title": "",
+						"lines": [
+							{
+								"type": "leipzigjs-glossed-text",
+								"analyzed_text": "bhá ákíjam-i hína",
+								"gloss": "全ての 一日-POST ～に",
+								"translation": "毎日"
+							}
+						]
 					},
 					{
-						"type": "leipzigjs-glossed-text",
-						"analyzed_text": "ákíjam-án nau-ḍi hína",
-						"gloss": "一日-GEN 全て-POST ～に",
-						"translation": "一日中"
+						"type": "box",
+						"title": "",
+						"lines": [
+							{
+								"type": "leipzigjs-glossed-text",
+								"analyzed_text": "ákíjam-án nau-ḍi hína",
+								"gloss": "一日-GEN 全て-POST ～に",
+								"translation": "一日中"
+							}
+						]
 					},
 					{
-						"type": "leipzigjs-glossed-text",
-						"analyzed_text": "bhá ákíjam-án nau-ḍi hína",
-						"gloss": "全ての 一日-POST 全て-POST ～に",
-						"translation": "24時間年中無休で"
+						"type": "box",
+						"title": "",
+						"lines": [
+							{
+								"type": "leipzigjs-glossed-text",
+								"analyzed_text": "bhá ákíjam-án nau-ḍi hína",
+								"gloss": "全ての 一日-POST 全て-POST ～に",
+								"translation": "24時間年中無休で"
+							}
+						]
 					}
 				]
 			}
