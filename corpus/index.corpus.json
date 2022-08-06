@@ -609,7 +609,7 @@
 			},
 			{
 				"type": "box_for_inadequate",
-				"box_for_inadequate_title": "許容されないもの",
+				"title": "許容されないもの",
 				"lines": [
 					{
 						"type": "leipzigjs-glossed-text",
@@ -1052,7 +1052,7 @@
 		"content": [
 			{
 				"type": "box_for_inadequate",
-				"box_for_inadequate_title": "",
+				"title": "",
 				"lines": [
 					{
 						"type": "leipzigjs-glossed-text",
@@ -1076,7 +1076,7 @@
 			},
 			{
 				"type": "box_for_inadequate",
-				"box_for_inadequate_title": "",
+				"title": "",
 				"lines": [
 					{
 						"type": "leipzigjs-glossed-text",
@@ -1112,7 +1112,7 @@
 			},
 			{
 				"type": "box_for_inadequate",
-				"box_for_inadequate_title": "",
+				"title": "",
 				"lines": [
 					{
 						"type": "leipzigjs-glossed-text",

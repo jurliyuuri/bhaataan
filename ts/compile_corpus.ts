@@ -97,10 +97,6 @@ function chooseAdequateColsRows(txt: string): { cols: number, rows: number } {
 	}
 }
 
-function isLeipzigJsGlossedText(a: unknown): a is LeipzigJsGlossedText {
-	return (a as any).type === "leipzigjs-glossed-text"
-}
-
 function serializeGlossList(content: LeipzigJsGlossedText[], o: { poisoned: boolean }): (HTMLElement | string)[] {
 	const outer_div = document.createElement("div");
 	outer_div.classList.add("box");
@@ -158,11 +154,11 @@ function serializeNestedContent(content: (HTMLSidenote | PlainTextSidenote | Sec
 			ans = [...ans, "\n", title, "\n", ...serializeGlossList(c.lines, { poisoned: false }), "\n"];
 		} else if (c.type === "box_for_inadequate") {
 			const title = document.createElement("p");
-			title.textContent = c.box_for_inadequate_title.trim() === "" ? "" : `${c.box_for_inadequate_title}：`;
+			title.textContent = c.title.trim() === "" ? "" : `${c.title}：`;
 			if (c.metadata?.src_link) {
 				const a = document.createElement("a");
 				a.href = c.metadata?.src_link;
-				a.textContent = `${c.box_for_inadequate_title}`;
+				a.textContent = `${c.title}`;
 				title.textContent = ``;
 				title.appendChild(a);
 			}

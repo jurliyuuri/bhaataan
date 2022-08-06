@@ -172,11 +172,11 @@ function serializeNestedContent(content) {
         }
         else if (c.type === "box_for_inadequate") {
             const title = document.createElement("p");
-            title.textContent = c.box_for_inadequate_title.trim() === "" ? "" : `${c.box_for_inadequate_title}：`;
+            title.textContent = c.title.trim() === "" ? "" : `${c.title}：`;
             if (c.metadata?.src_link) {
                 const a = document.createElement("a");
                 a.href = c.metadata?.src_link;
-                a.textContent = `${c.box_for_inadequate_title}`;
+                a.textContent = `${c.title}`;
                 title.textContent = ``;
                 title.appendChild(a);
             }

@@ -43,22 +43,25 @@ export type Sidenote = HTMLSidenote | PlainTextSidenote
 
 export type Section<Txt> = {
     "type": "section",
-    "title": string,
     "metadata"?: Metadata,
+    "title": string,
+
     "content": Elem<Txt>[],
 };
 
 export type Box<Txt> = {
     "type": "box",
-    "title": string,
     "metadata"?: Metadata,
+    "title": string,
+
     "lines": Txt[],
 };
 
 export type BoxForInadequate<Txt> = {
     "type": "box_for_inadequate",
-    "box_for_inadequate_title": string,
     "metadata"?: Metadata,
+    "title": string,
+
     "lines": Txt[],
 }
 
@@ -72,27 +75,22 @@ export type Metadata = {
 
 export type LeipzigJsGlossedDoc = {
     "type": "leipzigjs-glossed-doc",
-    "title": string,
     "metadata"?: Metadata,
+    "title": string,
+
     "content": Elem<LeipzigJsGlossedText>[],
 };
 
 export type RawTextDoc = {
     "type": "raw-text-doc",
-    "title": string,
     "metadata"?: Metadata,
+    "title": string,
+
     "text": TargetLanguageTextString,
 }
 
 export type Doc = RawTextDoc | LeipzigJsGlossedDoc;
 
-/*export type Folder = {
-    "folder_title": string,
-    "metadata"?: Metadata,
-    "docs": Doc[]
-}*/
-
-// 「出典リンク」とかも貼れるといいのかも
 // 画像を埋め込む機能も最初から定義しとこう。実装するかは optional かなぁ
 // プレーンテキスト版とグロス版を別 Doc とするのはあんま気に入らないけど、うーん、どうするか
 // イメージとして、もうファイルとフォルダの比喩にしてしまって、
