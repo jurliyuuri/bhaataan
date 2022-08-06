@@ -572,9 +572,9 @@
 				]
 			},
 			{
-				"type": "section_for_inadequate",
-				"section_for_inadequate_title": "許容されないもの",
-				"content": [
+				"type": "box_for_inadequate",
+				"box_for_inadequate_title": "許容されないもの",
+				"lines": [
 					{
 						"type": "leipzigjs-glossed-text",
 						"analyzed_text": "* ko bhátán zepha hem.",
@@ -949,9 +949,9 @@
 		"type": "leipzigjs-glossed-doc",
 		"content": [
 			{
-				"type": "section_for_inadequate",
-				"section_for_inadequate_title": "",
-				"content": [
+				"type": "box_for_inadequate",
+				"box_for_inadequate_title": "",
+				"lines": [
 					{
 						"type": "leipzigjs-glossed-text",
 						"analyzed_text": "* ásúka-zá nutta-homá ∅-∅ suj-aze ja ṣibhai-∅ ásúka-omá ∅-∅ suj-aká.",
@@ -973,9 +973,9 @@
 				]
 			},
 			{
-				"type": "section_for_inadequate",
-				"section_for_inadequate_title": "",
-				"content": [
+				"type": "box_for_inadequate",
+				"box_for_inadequate_title": "",
+				"lines": [
 					{
 						"type": "leipzigjs-glossed-text",
 						"analyzed_text": "* ásúka-zá nutta-ḍi ema ∅-∅ hem.",
@@ -1009,9 +1009,9 @@
 				]
 			},
 			{
-				"type": "section_for_inadequate",
-				"section_for_inadequate_title": "",
-				"content": [
+				"type": "box_for_inadequate",
+				"box_for_inadequate_title": "",
+				"lines": [
 					{
 						"type": "leipzigjs-glossed-text",
 						"analyzed_text": "* ho-dhel nána 【 k-á | ká-∅ 】 nána díma-dhel nána adheṣ-á ám zám-abháp-akátá acc-abáta hem bhá ríz-ele záde-báta cánaj-amúná?",

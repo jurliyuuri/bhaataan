@@ -158,17 +158,17 @@ function serializeNestedContent(content) {
             }
             ans = [...ans, "\n", title, "\n", ...serializeContent(c.content, { poisoned: false }), "\n"];
         }
-        else if (c.type === "section_for_inadequate") {
+        else if (c.type === "box_for_inadequate") {
             const title = document.createElement("p");
-            title.textContent = c.section_for_inadequate_title.trim() === "" ? "" : `${c.section_for_inadequate_title}：`;
+            title.textContent = c.box_for_inadequate_title.trim() === "" ? "" : `${c.box_for_inadequate_title}：`;
             if (c.metadata?.src_link) {
                 const a = document.createElement("a");
                 a.href = c.metadata?.src_link;
-                a.textContent = `${c.section_for_inadequate_title}`;
+                a.textContent = `${c.box_for_inadequate_title}`;
                 title.textContent = ``;
                 title.appendChild(a);
             }
-            ans = [...ans, "\n", title, "\n", ...serializeContent(c.content, { poisoned: true }), "\n"];
+            ans = [...ans, "\n", title, "\n", ...serializeContent(c.lines, { poisoned: true }), "\n"];
         }
         else if (c.type === "plaintext-sidenote") {
             const title_and_sidenote = document.createElement("p");
