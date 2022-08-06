@@ -25,8 +25,6 @@ var __importStar = (this && this.__importStar) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 const fs = __importStar(require("fs"));
 const jsdom = __importStar(require("jsdom"));
-let dictionary = JSON.parse(fs.readFileSync('bhat.json', { encoding: 'utf8', flag: 'r' }));
-let dictionary_eng = JSON.parse(fs.readFileSync('bhat-to-eng.json', { encoding: 'utf8', flag: 'r' }));
 const corpus = JSON.parse(fs.readFileSync('corpus/index.corpus.json', { encoding: 'utf8', flag: 'r' }));
 const dom = new jsdom.JSDOM(`<!doctype html>
 <html>
@@ -97,15 +95,13 @@ textarea { font-family: 'Noto Sans Mono', 'Source Code Pro', 'Inconsolata', 'Spa
 </html>
 `);
 const document = dom.window.document;
-let counter = 1;
 for (let ind = 0; ind < corpus.length; ++ind) {
     const doc = corpus[ind];
     if (doc.title !== corpus[ind - 1]?.title) {
-        document.getElementById("main_content")?.append(...serializeDoc(document, doc, counter, { show_title: true }));
-        counter++;
+        document.getElementById("main_content")?.append(...serializeDoc(document, doc, { show_title: true }));
     }
     else {
-        document.getElementById("main_content")?.append(...serializeDoc(document, doc, counter, { show_title: false }));
+        document.getElementById("main_content")?.append(...serializeDoc(document, doc, { show_title: false }));
     }
 }
 function chooseAdequateColsRows(txt) {
@@ -140,44 +136,29 @@ function serializeGlossList(content, o) {
     }
     return [outer_div, "\n"];
 }
-function serializeNestedContent(content) {
+function createTagFromTitleAndMetadata(tagname, c) {
+    const title = document.createElement(tagname);
+    title.textContent = c.title.trim() === "" ? "" : `${c.title}：`;
+    if (c.metadata?.src_link) {
+        const a = document.createElement("a");
+        a.href = c.metadata?.src_link;
+        a.textContent = `${c.title}`;
+        title.textContent = ``;
+        title.appendChild(a);
+    }
+    return title;
+}
+function serializeElems(content) {
     let ans = [];
     for (const c of content) {
         if (c.type === "section") {
-            const title = document.createElement("p");
-            title.textContent = c.title.trim() === "" ? "" : `${c.title}：`;
-            if (c.metadata?.src_link) {
-                const a = document.createElement("a");
-                a.href = c.metadata?.src_link;
-                a.textContent = `${c.title}`;
-                title.textContent = ``;
-                title.appendChild(a);
-            }
-            ans = [...ans, "\n", title, "\n", ...serializeNestedContent(c.content), "\n"];
+            ans = [...ans, "\n", createTagFromTitleAndMetadata("p", c), "\n", ...serializeElems(c.content), "\n"];
         }
         else if (c.type === "box") {
-            const title = document.createElement("p");
-            title.textContent = c.title.trim() === "" ? "" : `${c.title}：`;
-            if (c.metadata?.src_link) {
-                const a = document.createElement("a");
-                a.href = c.metadata?.src_link;
-                a.textContent = `${c.title}`;
-                title.textContent = ``;
-                title.appendChild(a);
-            }
-            ans = [...ans, "\n", title, "\n", ...serializeGlossList(c.lines, { poisoned: false }), "\n"];
+            ans = [...ans, "\n", createTagFromTitleAndMetadata("p", c), "\n", ...serializeGlossList(c.lines, { poisoned: false }), "\n"];
         }
         else if (c.type === "box_for_inadequate") {
-            const title = document.createElement("p");
-            title.textContent = c.title.trim() === "" ? "" : `${c.title}：`;
-            if (c.metadata?.src_link) {
-                const a = document.createElement("a");
-                a.href = c.metadata?.src_link;
-                a.textContent = `${c.title}`;
-                title.textContent = ``;
-                title.appendChild(a);
-            }
-            ans = [...ans, "\n", title, "\n", ...serializeGlossList(c.lines, { poisoned: true }), "\n"];
+            ans = [...ans, "\n", createTagFromTitleAndMetadata("p", c), "\n", ...serializeGlossList(c.lines, { poisoned: true }), "\n"];
         }
         else if (c.type === "plaintext-sidenote") {
             const title_and_sidenote = document.createElement("p");
@@ -199,10 +180,10 @@ function serializeNestedContent(content) {
     }
     return ans;
 }
-function serializeDoc(document, doc, ind, o) {
-    let title = document.createElement("h3");
-    title.textContent = `${ind}. ${doc.title}`;
+function serializeDoc(document, doc, o) {
     if (doc.type === "raw-text-doc") {
+        let title = document.createElement("h3");
+        title.textContent = `${doc.title}`;
         const textarea = document.createElement("textarea");
         const { cols, rows } = chooseAdequateColsRows(doc.text);
         textarea.setAttribute("cols", `${cols}`);
@@ -215,27 +196,13 @@ function serializeDoc(document, doc, ind, o) {
         return [title, "\n", textarea, "\n"];
     }
     else if (doc.type === "leipzigjs-glossed-doc") {
-        if (doc.metadata?.src_link) {
-            const a = document.createElement("a");
-            a.href = doc.metadata?.src_link;
-            a.textContent = `${doc.title}`;
-            title.textContent = `${ind}. `;
-            title.appendChild(a);
-            const elems = serializeNestedContent(doc.content);
-            if (!o.show_title) {
-                title = document.createElement("p");
-                title.textContent = "単純テキスト：";
-            }
-            return [title, "\n", ...elems, "\n"];
+        let title = createTagFromTitleAndMetadata("h3", doc);
+        const elems = serializeElems(doc.content);
+        if (!o.show_title) {
+            title = document.createElement("p");
+            title.textContent = "単純テキスト：";
         }
-        else {
-            const elems = serializeNestedContent(doc.content);
-            if (!o.show_title) {
-                title = document.createElement("p");
-                title.textContent = "単純テキスト：";
-            }
-            return [title, "\n", ...elems, "\n"];
-        }
+        return [title, "\n", ...elems, "\n"];
     }
     else {
         let _ = doc;
@@ -244,22 +211,3 @@ function serializeDoc(document, doc, ind, o) {
     }
 }
 fs.writeFileSync("corpus/index.html", dom.serialize());
-// console.log(textContent); // "Hello world"
-// console.log(dictionary.words);
-// console.log(get_duplicates(["1", "2", "1"]))
-// console.log(get_duplicates(dictionary.words.map((e: { entry: { id: number, form: string } }) => e.entry.form)));
-function get_duplicates(arrs) {
-    const counted = arrs.map((name) => ({ count: 1, name }))
-        .reduce((result, b) => {
-        result.set(b.name, (result.get(b.name) || 0) + b.count);
-        return result;
-    }, new Map());
-    // console.log(counted);
-    const ans = [];
-    counted.forEach((value, key) => {
-        if (value > 1) {
-            ans.push(key);
-        }
-    });
-    return ans;
-}
