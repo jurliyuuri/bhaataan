@@ -182,7 +182,7 @@ function serializeNestedContent(content) {
                 title.textContent = ``;
                 title.appendChild(a);
             }
-            ans = [...ans, "\n", title, "\n", ...serializeContent(c.lines, { poisoned: false }), "\n"];
+            ans = [...ans, "\n", title, "\n", ...serializeGlossList(c.lines, { poisoned: false }), "\n"];
         }
         else if (c.type === "box_for_inadequate") {
             const title = document.createElement("p");
