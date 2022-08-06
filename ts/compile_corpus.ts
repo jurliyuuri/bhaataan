@@ -1,10 +1,26 @@
 import * as fs from 'fs';
 import * as jsdom from 'jsdom';
-import { Content, Doc, HTMLSidenote, LeipzigJsGlossedText, PlainTextSidenote, Section, BoxForInadequate, Sidenote } from './corpus_type';
+import { Content, Doc, HTMLSidenote, LeipzigJsGlossedText, PlainTextSidenote, Section, BoxForInadequate, Sidenote, Box } from './corpus_type';
 
 let dictionary = JSON.parse(fs.readFileSync('bhat.json', { encoding: 'utf8', flag: 'r' }));
 let dictionary_eng = JSON.parse(fs.readFileSync('bhat-to-eng.json', { encoding: 'utf8', flag: 'r' }));
 const corpus: Doc[] = JSON.parse(fs.readFileSync('corpus/index.corpus.json', { encoding: 'utf8', flag: 'r' }));
+
+/*for (let doc of corpus) {
+	if (doc.type === "leipzigjs-glossed-doc") {
+		if (isLeipzigJsGlossedText(doc.content[0])) {
+			let box: Box<LeipzigJsGlossedText> = {
+				"type": "box",
+				"box_title": "",
+				"lines": doc.content as LeipzigJsGlossedText[],
+			};
+			doc.content = [box];
+		}
+	}
+}
+
+fs.writeFileSync("corpus/index.corpus_.json", JSON.stringify(corpus, undefined, "\t"));*/
+
 
 const dom = new jsdom.JSDOM(`<!doctype html>
 <html>
@@ -131,7 +147,7 @@ function serializeGlossList(content: LeipzigJsGlossedText[], o: { poisoned: bool
 	return [outer_div, "\n"];
 }
 
-function serializeNestedContent(content: (HTMLSidenote | PlainTextSidenote | Section<LeipzigJsGlossedText> | BoxForInadequate<LeipzigJsGlossedText>)[]): (HTMLElement | string)[] {
+function serializeNestedContent(content: (HTMLSidenote | PlainTextSidenote | Section<LeipzigJsGlossedText> | Box<LeipzigJsGlossedText> | BoxForInadequate<LeipzigJsGlossedText>)[]): (HTMLElement | string)[] {
 	let ans: (HTMLElement | string)[] = [];
 	for (const c of content) {
 		if (c.type === "section") {
@@ -145,6 +161,17 @@ function serializeNestedContent(content: (HTMLSidenote | PlainTextSidenote | Sec
 				title.appendChild(a);
 			}
 			ans = [...ans, "\n", title, "\n", ...serializeContent(c.content, { poisoned: false }), "\n"];
+		} else if (c.type === "box") {
+			const title = document.createElement("p");
+			title.textContent = c.box_title.trim() === "" ? "" : `${c.box_title}：`;
+			if (c.metadata?.src_link) {
+				const a = document.createElement("a");
+				a.href = c.metadata?.src_link;
+				a.textContent = `${c.box_title}`;
+				title.textContent = ``;
+				title.appendChild(a);
+			}
+			ans = [...ans, "\n", title, "\n", ...serializeContent(c.lines, { poisoned: false }), "\n"];
 		} else if (c.type === "box_for_inadequate") {
 			const title = document.createElement("p");
 			title.textContent = c.box_for_inadequate_title.trim() === "" ? "" : `${c.box_for_inadequate_title}：`;
@@ -155,7 +182,7 @@ function serializeNestedContent(content: (HTMLSidenote | PlainTextSidenote | Sec
 				title.textContent = ``;
 				title.appendChild(a);
 			}
-			ans = [...ans, "\n", title, "\n", ...serializeContent(c.lines, { poisoned: true }), "\n"];
+			ans = [...ans, "\n", title, "\n", ...serializeGlossList(c.lines, { poisoned: true }), "\n"];
 		} else if (c.type === "plaintext-sidenote") {
 			const title_and_sidenote = document.createElement("p");
 			title_and_sidenote.textContent = c.sidenote_title === "" ? c.sidenote : `${c.sidenote_title}：${c.sidenote}`;
@@ -179,7 +206,7 @@ function serializeContent(content: Content<LeipzigJsGlossedText>, o: { poisoned:
 	if (isLeipzigJsGlossedText(content[0])) {
 		return serializeGlossList(content as LeipzigJsGlossedText[], o);
 	} else {
-		return serializeNestedContent(content as ((Sidenote | Section<LeipzigJsGlossedText> | BoxForInadequate<LeipzigJsGlossedText>)[]))
+		return serializeNestedContent(content as ((Sidenote | Section<LeipzigJsGlossedText> | Box<LeipzigJsGlossedText> | BoxForInadequate<LeipzigJsGlossedText>)[]))
 	}
 }
 

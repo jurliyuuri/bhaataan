@@ -189,28 +189,34 @@
 		"type": "leipzigjs-glossed-doc",
 		"content": [
 			{
-				"type": "leipzigjs-glossed-text",
-				"analyzed_text": "ṣoma-dhí ha síbha-bhau,",
-				"gloss": "敬礼する-1.REAL 〜しよう (我が)国-INS",
-				"translation": "国に敬礼を、"
-			},
-			{
-				"type": "leipzigjs-glossed-text",
-				"analyzed_text": "ṣoma-dhí ha aṭam_kád.",
-				"gloss": "敬礼する-1.REAL 〜しよう 神の光",
-				"translation": "神の光（に）敬礼を"
-			},
-			{
-				"type": "leipzigjs-glossed-text",
-				"analyzed_text": "káṇám rakk-∅ khak-án síbha-∅",
-				"gloss": "永遠に 生きる-IMP 父-GEN 故郷-NOM",
-				"translation": "祖国は永久に生きよ"
-			},
-			{
-				"type": "leipzigjs-glossed-text",
-				"analyzed_text": "woghit-iná bhán sakká, á!",
-				"gloss": "兄弟-POST.PL 〜とともに 万歳 あー",
-				"translation": "兄弟たちと共に、嗚呼！"
+				"type": "box",
+				"box_title": "",
+				"lines": [
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "ṣoma-dhí ha síbha-bhau,",
+						"gloss": "敬礼する-1.REAL 〜しよう (我が)国-INS",
+						"translation": "国に敬礼を、"
+					},
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "ṣoma-dhí ha aṭam_kád.",
+						"gloss": "敬礼する-1.REAL 〜しよう 神の光",
+						"translation": "神の光（に）敬礼を"
+					},
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "káṇám rakk-∅ khak-án síbha-∅",
+						"gloss": "永遠に 生きる-IMP 父-GEN 故郷-NOM",
+						"translation": "祖国は永久に生きよ"
+					},
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "woghit-iná bhán sakká, á!",
+						"gloss": "兄弟-POST.PL 〜とともに 万歳 あー",
+						"translation": "兄弟たちと共に、嗚呼！"
+					}
+				]
 			}
 		]
 	},
@@ -491,28 +497,34 @@
 		"type": "leipzigjs-glossed-doc",
 		"content": [
 			{
-				"type": "leipzigjs-glossed-text",
-				"analyzed_text": "cákík-akátá, rúṣ-án ákíjam.",
-				"gloss": "来る-3N.PST.PTCP 新しい-GEN 太陽",
-				"translation": "新しい太陽（≒朝）が来た。"
-			},
-			{
-				"type": "leipzigjs-glossed-text",
-				"analyzed_text": "ríz-án k-á hem, ákíjam.",
-				"gloss": "希望-GEN もの-NOM.PL 〜である 太陽",
-				"translation": "希望のある物である、太陽は。"
-			},
-			{
-				"type": "leipzigjs-glossed-text",
-				"analyzed_text": "rauki-dhel seház-í-ḍi cájau nám-∅.",
-				"gloss": "胸-ACC 嬉しい-NMLZ-POST 〜と一緒に 開く-IMP",
-				"translation": "胸を喜びとともに開け。"
-			},
-			{
-				"type": "leipzigjs-glossed-text",
-				"analyzed_text": "ṣúsa non-ai ṣíyá-∅ ám.",
-				"gloss": "空 劣悪なもの-INS 見なす-IMP 〜でない",
-				"translation": "空を見くびるな（≒敬え）。"
+				"type": "box",
+				"box_title": "",
+				"lines": [
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "cákík-akátá, rúṣ-án ákíjam.",
+						"gloss": "来る-3N.PST.PTCP 新しい-GEN 太陽",
+						"translation": "新しい太陽（≒朝）が来た。"
+					},
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "ríz-án k-á hem, ákíjam.",
+						"gloss": "希望-GEN もの-NOM.PL 〜である 太陽",
+						"translation": "希望のある物である、太陽は。"
+					},
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "rauki-dhel seház-í-ḍi cájau nám-∅.",
+						"gloss": "胸-ACC 嬉しい-NMLZ-POST 〜と一緒に 開く-IMP",
+						"translation": "胸を喜びとともに開け。"
+					},
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "ṣúsa non-ai ṣíyá-∅ ám.",
+						"gloss": "空 劣悪なもの-INS 見なす-IMP 〜でない",
+						"translation": "空を見くびるな（≒敬え）。"
+					}
+				]
 			}
 		]
 	},
@@ -526,10 +538,16 @@
 		"type": "leipzigjs-glossed-doc",
 		"content": [
 			{
-				"type": "leipzigjs-glossed-text",
-				"analyzed_text": "nautu-homá \"phúpen\"-∅ bhát-án rásit-ele ám bhom-akátá, dí wephise-ḍi oṣa cákík-úḷ áṣá.",
-				"gloss": "単語-GEN phúpen(ウサギ)-NOM バート-GEN 香り(=バートらしさ)-ACC 〜でない 持っている-3N.PST.PTCP, それ ヴェフィス語-POST 〜から 来る-INF 〜を原因として",
-				"translation": "phúpenという単語はヴェフィス語由来なのでバートらしさ（=phúやpeといった音節が来ないというバート語の性質を満たしている状態）が無い。"
+				"type": "box",
+				"box_title": "",
+				"lines": [
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "nautu-homá \"phúpen\"-∅ bhát-án rásit-ele ám bhom-akátá, dí wephise-ḍi oṣa cákík-úḷ áṣá.",
+						"gloss": "単語-GEN phúpen(ウサギ)-NOM バート-GEN 香り(=バートらしさ)-ACC 〜でない 持っている-3N.PST.PTCP, それ ヴェフィス語-POST 〜から 来る-INF 〜を原因として",
+						"translation": "phúpenという単語はヴェフィス語由来なのでバートらしさ（=phúやpeといった音節が来ないというバート語の性質を満たしている状態）が無い。"
+					}
+				]
 			}
 		]
 	},
@@ -595,10 +613,16 @@
 		"type": "leipzigjs-glossed-doc",
 		"content": [
 			{
-				"type": "leipzigjs-glossed-text",
-				"analyzed_text": "lási-∅ bhai-homá zepha-homá bháhepa-homá ákíjam-∅ kom ∅-∅ ∅ t. ",
-				"gloss": "一-ZERO 〜番目-GEN 言語-GEN 国際的な-GEN 日-NOM この [日]-[ZERO] [〜である] (感嘆)",
-				"translation": "「第一言語の、国際的な日」は今日である。"
+				"type": "box",
+				"box_title": "",
+				"lines": [
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "lási-∅ bhai-homá zepha-homá bháhepa-homá ákíjam-∅ kom ∅-∅ ∅ t. ",
+						"gloss": "一-ZERO 〜番目-GEN 言語-GEN 国際的な-GEN 日-NOM この [日]-[ZERO] [〜である] (感嘆)",
+						"translation": "「第一言語の、国際的な日」は今日である。"
+					}
+				]
 			}
 		]
 	},
@@ -646,10 +670,16 @@
 		"type": "leipzigjs-glossed-doc",
 		"content": [
 			{
-				"type": "leipzigjs-glossed-text",
-				"analyzed_text": "ehai-homá kád-∅ bhá nímaṣ-i hína bho-kátá.",
-				"gloss": "冠-GEN 光-NOM 全ての 民族-POST ～に 満たしている-3N.PST.PTCP",
-				"translation": "冠の光で全ての民族は満ちている。"
+				"type": "box",
+				"box_title": "",
+				"lines": [
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "ehai-homá kád-∅ bhá nímaṣ-i hína bho-kátá.",
+						"gloss": "冠-GEN 光-NOM 全ての 民族-POST ～に 満たしている-3N.PST.PTCP",
+						"translation": "冠の光で全ての民族は満ちている。"
+					}
+				]
 			}
 		]
 	},
@@ -781,28 +811,34 @@
 		"type": "leipzigjs-glossed-doc",
 		"content": [
 			{
-				"type": "leipzigjs-glossed-text",
-				"analyzed_text": "okák-adína bhodi-homá bhog-ele",
-				"gloss": "見ている-1.PST.PTCP 海-GEN 色-ACC",
-				"translation": "私が見ている海の色を、"
-			},
-			{
-				"type": "leipzigjs-glossed-text",
-				"analyzed_text": "ṣot ríz-ai rúṣ-i hína ám heyá-dhí.",
-				"gloss": "多くの 希望-INS 下-POST ～で ～しない 思う-1.REAL",
-				"translation": "多くの明るい見通しの後で私は思わない。"
-			},
-			{
-				"type": "leipzigjs-glossed-text",
-				"analyzed_text": "bhaj-ъdína sá-dhel seṇa ghacc-áká",
-				"gloss": "心ひかれている-1.PST.PTCP 女性-ACC 突然 新たに知る-ADV",
-				"translation": "私が心引かれる女性を突然に新たに知って（≒見て）、"
-			},
-			{
-				"type": "leipzigjs-glossed-text",
-				"analyzed_text": "ká-om nau-∅ kád-i hína rakk-úḷ-∅ huṭe-úḷ.",
-				"gloss": "彼女-GEN 全て-NOM 視線-POST ～で 生きている-INF-NOM 始まる-INF",
-				"translation": "（ちょうどその瞬間に）彼女のすべてが視線において生き始めた"
+				"type": "box",
+				"box_title": "",
+				"lines": [
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "okák-adína bhodi-homá bhog-ele",
+						"gloss": "見ている-1.PST.PTCP 海-GEN 色-ACC",
+						"translation": "私が見ている海の色を、"
+					},
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "ṣot ríz-ai rúṣ-i hína ám heyá-dhí.",
+						"gloss": "多くの 希望-INS 下-POST ～で ～しない 思う-1.REAL",
+						"translation": "多くの明るい見通しの後で私は思わない。"
+					},
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "bhaj-ъdína sá-dhel seṇa ghacc-áká",
+						"gloss": "心ひかれている-1.PST.PTCP 女性-ACC 突然 新たに知る-ADV",
+						"translation": "私が心引かれる女性を突然に新たに知って（≒見て）、"
+					},
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "ká-om nau-∅ kád-i hína rakk-úḷ-∅ huṭe-úḷ.",
+						"gloss": "彼女-GEN 全て-NOM 視線-POST ～で 生きている-INF-NOM 始まる-INF",
+						"translation": "（ちょうどその瞬間に）彼女のすべてが視線において生き始めた"
+					}
+				]
 			}
 		]
 	},
@@ -816,10 +852,16 @@
 		"type": "leipzigjs-glossed-doc",
 		"content": [
 			{
-				"type": "leipzigjs-glossed-text",
-				"analyzed_text": "júpheja-∅ amáma núsu-dhel eyá-úḷ ám bhát-amú?",
-				"gloss": "ユフィア-NOM 大きな 軍-ACC 指揮する-INF ない 言う-2.REAL",
-				"translation": "ユフィアが大きな軍を率いるのだろう？"
+				"type": "box",
+				"box_title": "",
+				"lines": [
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "júpheja-∅ amáma núsu-dhel eyá-úḷ ám bhát-amú?",
+						"gloss": "ユフィア-NOM 大きな 軍-ACC 指揮する-INF ない 言う-2.REAL",
+						"translation": "ユフィアが大きな軍を率いるのだろう？"
+					}
+				]
 			}
 		]
 	},
@@ -1196,10 +1238,16 @@
 		"type": "leipzigjs-glossed-doc",
 		"content": [
 			{
-				"type": "leipzigjs-glossed-text",
-				"analyzed_text": "ehai-homá bháhepa-homá bháṭám-akátá ṣíyabát",
-				"gloss": "アイル共和国-GEN 国際的な-GEN 特別措置的である-3N.PST.PTCP.REL 法廷",
-				"translation": "アイル国際特別法廷"
+				"type": "box",
+				"box_title": "",
+				"lines": [
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "ehai-homá bháhepa-homá bháṭám-akátá ṣíyabát",
+						"gloss": "アイル共和国-GEN 国際的な-GEN 特別措置的である-3N.PST.PTCP.REL 法廷",
+						"translation": "アイル国際特別法廷"
+					}
+				]
 			}
 		]
 	},

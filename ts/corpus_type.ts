@@ -48,6 +48,13 @@ export type Section<Txt> = {
     "content": Content<Txt>,
 };
 
+export type Box<Txt> = {
+    "type": "box",
+    "box_title": string,
+    "metadata"?: Metadata,
+    "lines": Txt[],
+};
+
 export type BoxForInadequate<Txt> = {
     "type": "box_for_inadequate",
     "box_for_inadequate_title": string,
@@ -55,7 +62,7 @@ export type BoxForInadequate<Txt> = {
     "lines": Txt[],
 }
 
-export type Content<Txt> = Txt[] | (Sidenote | Section<Txt> | BoxForInadequate<Txt>)[];
+export type Content<Txt> = Txt[] | (Sidenote | Section<Txt> | Box<Txt> | BoxForInadequate<Txt>)[];
 
 export type Metadata = {
     // "relevant_links"?: URLString[],
