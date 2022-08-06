@@ -28,32 +28,47 @@ export type LeipzigJsGlossedText = {
 };
 
 export type HTMLSidenote = {
-    "sidenote_title": string,
     "type": "html-sidenote",
+    "title": string,
     "sidenote": string
 };
 
 export type PlainTextSidenote = {
-    "sidenote_title": string,
     "type": "plaintext-sidenote",
+    "title": string,
     "sidenote": string,
 };
 
 export type Sidenote = HTMLSidenote | PlainTextSidenote
 
 export type Section<Txt> = {
-    "section_title": string,
+    "type": "section",
     "metadata"?: Metadata,
-    "content": Content<Txt>,
+    "title": string,
+
+    "content": Elem<Txt>[],
 };
 
-export type SectionForInadequate<Txt> = {
-    "section_for_inadequate_title": string,
+// ひとまとまりのテクストを囲むための箱。
+// 一段落ぐらいを囲むことを想定している。
+// 意味的に関連の薄いテクスト群は箱で囲むべきではない。
+export type Box<Txt> = {
+    "type": "box",
     "metadata"?: Metadata,
-    "content": Content<Txt>,
+    "title": string,
+
+    "lines": Txt[],
+};
+
+export type BoxForInadequate<Txt> = {
+    "type": "box_for_inadequate",
+    "metadata"?: Metadata,
+    "title": string,
+
+    "lines": Txt[],
 }
 
-export type Content<Txt> = Txt[] | (Sidenote | Section<Txt> | SectionForInadequate<Txt>)[];
+export type Elem<Txt> = Sidenote | Section<Txt> | Box<Txt> | BoxForInadequate<Txt>;
 
 export type Metadata = {
     // "relevant_links"?: URLString[],
@@ -62,28 +77,23 @@ export type Metadata = {
 }
 
 export type LeipzigJsGlossedDoc = {
-    "document_title": string,
-    "metadata"?: Metadata,
     "type": "leipzigjs-glossed-doc",
-    "content": Content<LeipzigJsGlossedText>,
+    "metadata"?: Metadata,
+    "title": string,
+
+    "content": Elem<LeipzigJsGlossedText>[],
 };
 
 export type RawTextDoc = {
-    "document_title": string,
-    "metadata"?: Metadata,
     "type": "raw-text-doc",
+    "metadata"?: Metadata,
+    "title": string,
+
     "text": TargetLanguageTextString,
 }
 
 export type Doc = RawTextDoc | LeipzigJsGlossedDoc;
 
-/*export type Folder = {
-    "folder_title": string,
-    "metadata"?: Metadata,
-    "docs": Doc[]
-}*/
-
-// 「出典リンク」とかも貼れるといいのかも
 // 画像を埋め込む機能も最初から定義しとこう。実装するかは optional かなぁ
 // プレーンテキスト版とグロス版を別 Doc とするのはあんま気に入らないけど、うーん、どうするか
 // イメージとして、もうファイルとフォルダの比喩にしてしまって、

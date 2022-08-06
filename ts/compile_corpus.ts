@@ -1,10 +1,8 @@
 import * as fs from 'fs';
 import * as jsdom from 'jsdom';
-import { Content, Doc, HTMLSidenote, LeipzigJsGlossedText, PlainTextSidenote, Section, SectionForInadequate, Sidenote } from './corpus_type';
+import { Doc, HTMLSidenote, LeipzigJsGlossedText, PlainTextSidenote, Section, BoxForInadequate, Sidenote, Box, Elem, Metadata } from './corpus_type';
 
-let dictionary = JSON.parse(fs.readFileSync('bhat.json', { encoding: 'utf8', flag: 'r' }));
-let dictionary_eng = JSON.parse(fs.readFileSync('bhat-to-eng.json', { encoding: 'utf8', flag: 'r' }));
-const corpus = JSON.parse(fs.readFileSync('corpus/index.corpus.json', { encoding: 'utf8', flag: 'r' }));
+const corpus: Doc[] = JSON.parse(fs.readFileSync('corpus/index.corpus.json', { encoding: 'utf8', flag: 'r' }));
 
 const dom = new jsdom.JSDOM(`<!doctype html>
 <html>
@@ -75,31 +73,15 @@ textarea { font-family: 'Noto Sans Mono', 'Source Code Pro', 'Inconsolata', 'Spa
 </html>
 `);
 
-function isDoc(a: unknown): a is Doc {
-	return typeof (a as any).document_title === "string"
-}
-
-/*function isFolder(a: unknown): a is Folder {
-	return typeof (a as any).folder_title === "string"
-}*/
-
 const document = dom.window.document;
 
-let counter = 1;
 for (let ind = 0; ind < corpus.length; ++ind) {
 	const doc = corpus[ind];
-	if (isDoc(doc)) {
-		if (doc.document_title !== corpus[ind - 1]?.document_title) {
-			document.getElementById("main_content")?.append(...serializeDoc(document, doc, counter, { show_title: true }));
-			counter++;
-		} else {
-			document.getElementById("main_content")?.append(...serializeDoc(document, doc, counter, { show_title: false }));
-		}
-	} /*else if (isFolder(doc)) {
-		const title = document.createElement("h3");
-		title.textContent = doc.folder_title;
-		document.getElementById("main_content")?.appendChild(title)
-	}*/
+	if (doc.title !== corpus[ind - 1]?.title) {
+		document.getElementById("main_content")?.append(...serializeDoc(document, doc,  { show_title: true }));
+	} else {
+		document.getElementById("main_content")?.append(...serializeDoc(document, doc,  { show_title: false }));
+	}
 }
 
 function chooseAdequateColsRows(txt: string): { cols: number, rows: number } {
@@ -109,10 +91,6 @@ function chooseAdequateColsRows(txt: string): { cols: number, rows: number } {
 	} else {
 		return { cols, rows: txt.split("\n").length };
 	}
-}
-
-function isLeipzigJsGlossedText(a: unknown): a is LeipzigJsGlossedText {
-	return (a as any).type === "leipzigjs-glossed-text"
 }
 
 function serializeGlossList(content: LeipzigJsGlossedText[], o: { poisoned: boolean }): (HTMLElement | string)[] {
@@ -145,46 +123,35 @@ function serializeGlossList(content: LeipzigJsGlossedText[], o: { poisoned: bool
 	return [outer_div, "\n"];
 }
 
-function isSection<T>(s: unknown): s is Section<T> {
-	return typeof (s as any).section_title === "string";
+function createTagFromTitleAndMetadata(tagname: string, c: { title: string, metadata?: Metadata }) {
+	const title = document.createElement(tagname);
+	title.textContent = c.title.trim() === "" ? "" : `${c.title}：`;
+	if (c.metadata?.src_link) {
+		const a = document.createElement("a");
+		a.href = c.metadata?.src_link;
+		a.textContent = `${c.title}`;
+		title.textContent = ``;
+		title.appendChild(a);
+	}
+	return title;
 }
 
-function isInadequateSection<T>(s: unknown): s is SectionForInadequate<T> {
-	return typeof (s as any).section_for_inadequate_title === "string";
-}
-
-function serializeNestedContent(content: (HTMLSidenote | PlainTextSidenote | Section<LeipzigJsGlossedText> | SectionForInadequate<LeipzigJsGlossedText>)[]): (HTMLElement | string)[] {
+function serializeElems(content: Elem<LeipzigJsGlossedText>[]): (HTMLElement | string)[] {
 	let ans: (HTMLElement | string)[] = [];
 	for (const c of content) {
-		if (isSection(c)) {
-			const title = document.createElement("p");
-			title.textContent = c.section_title.trim() === "" ? "" : `${c.section_title}：`;
-			if (c.metadata?.src_link) {
-				const a = document.createElement("a");
-				a.href = c.metadata?.src_link;
-				a.textContent = `${c.section_title}`;
-				title.textContent = ``;
-				title.appendChild(a);
-			}
-			ans = [...ans, "\n", title, "\n", ...serializeContent(c.content, { poisoned: false }), "\n"];
-		} else if (isInadequateSection(c)) {
-			const title = document.createElement("p");
-			title.textContent = c.section_for_inadequate_title.trim() === "" ? "" : `${c.section_for_inadequate_title}：`;
-			if (c.metadata?.src_link) {
-				const a = document.createElement("a");
-				a.href = c.metadata?.src_link;
-				a.textContent = `${c.section_for_inadequate_title}`;
-				title.textContent = ``;
-				title.appendChild(a);
-			}
-			ans = [...ans, "\n", title, "\n", ...serializeContent(c.content, { poisoned: true }), "\n"];
+		if (c.type === "section") {
+			ans = [...ans, "\n", createTagFromTitleAndMetadata("p", c), "\n", ...serializeElems(c.content), "\n"];
+		} else if (c.type === "box") {
+			ans = [...ans, "\n", createTagFromTitleAndMetadata("p", c), "\n", ...serializeGlossList(c.lines, { poisoned: false }), "\n"];
+		} else if (c.type === "box_for_inadequate") {
+			ans = [...ans, "\n", createTagFromTitleAndMetadata("p", c), "\n", ...serializeGlossList(c.lines, { poisoned: true }), "\n"];
 		} else if (c.type === "plaintext-sidenote") {
 			const title_and_sidenote = document.createElement("p");
-			title_and_sidenote.textContent = c.sidenote_title === "" ? c.sidenote : `${c.sidenote_title}：${c.sidenote}`;
+			title_and_sidenote.textContent = c.title === "" ? c.sidenote : `${c.title}：${c.sidenote}`;
 			ans = [...ans, "\n", title_and_sidenote];
 		} else if (c.type === "html-sidenote") {
 			const title = document.createElement("p");
-			title.textContent = c.sidenote_title;
+			title.textContent = c.title;
 			const sidenote = document.createElement("div");
 			sidenote.innerHTML = c.sidenote;
 			ans = [...ans, "\n", title, "\n", sidenote];
@@ -197,18 +164,10 @@ function serializeNestedContent(content: (HTMLSidenote | PlainTextSidenote | Sec
 	return ans;
 }
 
-function serializeContent(content: Content<LeipzigJsGlossedText>, o: { poisoned: boolean }): (HTMLElement | string)[] {
-	if (isLeipzigJsGlossedText(content[0])) {
-		return serializeGlossList(content as LeipzigJsGlossedText[], o);
-	} else {
-		return serializeNestedContent(content as ((Sidenote | Section<LeipzigJsGlossedText> | SectionForInadequate<LeipzigJsGlossedText>)[]))
-	}
-}
-
-function serializeDoc(document: Document, doc: Readonly<Doc>, ind: number, o: { show_title: boolean }): (HTMLElement | string)[] {
-	let title = document.createElement("h3");
-	title.textContent = `${ind}. ${doc.document_title}`;
+function serializeDoc(document: Document, doc: Readonly<Doc>, o: { show_title: boolean }): (HTMLElement | string)[] {
 	if (doc.type === "raw-text-doc") {
+		let title = document.createElement("h3");
+		title.textContent = `${doc.title}`;
 		const textarea = document.createElement("textarea");
 		const { cols, rows } = chooseAdequateColsRows(doc.text);
 		textarea.setAttribute("cols", `${cols}`);
@@ -217,22 +176,10 @@ function serializeDoc(document: Document, doc: Readonly<Doc>, ind: number, o: { 
 		if (!o.show_title) { title = document.createElement("p"); title.textContent = "単純テキスト："; }
 		return [title, "\n", textarea, "\n"];
 	} else if (doc.type === "leipzigjs-glossed-doc") {
-		if (doc.metadata?.src_link) {
-			const a = document.createElement("a");
-			a.href = doc.metadata?.src_link;
-			a.textContent = `${doc.document_title}`;
-			title.textContent = `${ind}. `;
-			title.appendChild(a);
-			const elems = serializeContent(doc.content, { poisoned: false });
-			if (!o.show_title) { title = document.createElement("p"); title.textContent = "単純テキスト："; }
-			return [title, "\n", ...elems, "\n"];
-		} else {
-			const elems = serializeContent(doc.content, { poisoned: false });
-			if (!o.show_title) { title = document.createElement("p"); title.textContent = "単純テキスト："; }
-
-			return [title, "\n", ...elems, "\n"];
-
-		}
+		let title = createTagFromTitleAndMetadata("h3", doc);
+		const elems = serializeElems(doc.content);
+		if (!o.show_title) { title = document.createElement("p"); title.textContent = "単純テキスト："; }
+		return [title, "\n", ...elems, "\n"];
 	} else {
 		let _: never = doc;
 		console.log(doc);
@@ -241,25 +188,3 @@ function serializeDoc(document: Document, doc: Readonly<Doc>, ind: number, o: { 
 }
 
 fs.writeFileSync("corpus/index.html", dom.serialize());
-// console.log(textContent); // "Hello world"
-
-// console.log(dictionary.words);
-
-// console.log(get_duplicates(["1", "2", "1"]))
-// console.log(get_duplicates(dictionary.words.map((e: { entry: { id: number, form: string } }) => e.entry.form)));
-
-function get_duplicates(arrs: ReadonlyArray<string>) {
-	type B = { count: number, name: string };
-	const counted = arrs.map((name: string) => ({ count: 1, name }))
-		.reduce((result: Map<string, number>, b: B) => {
-			result.set(b.name, (result.get(b.name) || 0) + b.count);
-			return result;
-		}, new Map());
-	// console.log(counted);
-	const ans: string[] = [];
-	counted.forEach((value, key) => {
-		if (value > 1) { ans.push(key); }
-	});
-
-	return ans;
-}
