@@ -49,6 +49,8 @@ textarea { font-family: 'Noto Sans Mono', 'Source Code Pro', 'Inconsolata', 'Spa
 </head>
 <body class="cool" style="font-family: Arial, Helvetica, sans-serif;">
 <a href="../index.html">トップに戻る</a>
+
+<p style="font-size: 140%; text-decoration: underline">注意：このページは corpus/index.corpus.json を compile_corpus.js で変換して自動生成しているものです。このページを手で直接編集しないでください。</p>
 <p>以下で用いるglossの凡例：</p>
 <table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
 <tr><td>略</td><td>語</td><td>意味</td></tr>
@@ -138,7 +140,7 @@ function serializeGlossList(content, o) {
     }
     for (let i = 0; i < content.length; ++i) {
         if (i !== 0) {
-            outer_div.appendChild(document.createElement("hr"));
+            outer_div.append("\t", document.createElement("hr"));
         }
         const inner_div = document.createElement("div");
         inner_div.setAttribute("data-gloss", "");
@@ -148,10 +150,10 @@ function serializeGlossList(content, o) {
         gloss.textContent = content[i].gloss;
         const translation = document.createElement("p");
         translation.textContent = content[i].translation;
-        inner_div.append(analyzed_text, gloss, translation);
-        outer_div.appendChild(inner_div);
+        inner_div.append("\n\t\t", analyzed_text, "\n\t\t", gloss, "\n\t\t", translation, "\n\t");
+        outer_div.append("\n\t", inner_div, "\n");
     }
-    return [outer_div];
+    return [outer_div, "\n"];
 }
 function isSection(s) {
     return typeof s.section_title === "string";
@@ -172,7 +174,7 @@ function serializeNestedContent(content) {
                 title.textContent = ``;
                 title.appendChild(a);
             }
-            ans = [...ans, title, ...serializeContent(c.content, { poisoned: false })];
+            ans = [...ans, "\n", title, "\n", ...serializeContent(c.content, { poisoned: false }), "\n"];
         }
         else if (isInadequateSection(c)) {
             const title = document.createElement("p");
@@ -184,19 +186,19 @@ function serializeNestedContent(content) {
                 title.textContent = ``;
                 title.appendChild(a);
             }
-            ans = [...ans, title, ...serializeContent(c.content, { poisoned: true })];
+            ans = [...ans, "\n", title, "\n", ...serializeContent(c.content, { poisoned: true }), "\n"];
         }
         else if (c.type === "plaintext-sidenote") {
             const title_and_sidenote = document.createElement("p");
             title_and_sidenote.textContent = c.sidenote_title === "" ? c.sidenote : `${c.sidenote_title}：${c.sidenote}`;
-            ans = [...ans, title_and_sidenote];
+            ans = [...ans, "\n", title_and_sidenote];
         }
         else if (c.type === "html-sidenote") {
             const title = document.createElement("p");
             title.textContent = c.sidenote_title;
             const sidenote = document.createElement("div");
             sidenote.innerHTML = c.sidenote;
-            ans = [...ans, title, sidenote];
+            ans = [...ans, "\n", title, "\n", sidenote];
         }
         else {
             let _ = c;
@@ -227,7 +229,7 @@ function serializeDoc(document, doc, ind, o) {
             title = document.createElement("p");
             title.textContent = "単純テキスト：";
         }
-        return [title, textarea];
+        return [title, "\n", textarea, "\n"];
     }
     else if (doc.type === "leipzigjs-glossed-doc") {
         if (doc.metadata?.src_link) {
@@ -241,7 +243,7 @@ function serializeDoc(document, doc, ind, o) {
                 title = document.createElement("p");
                 title.textContent = "単純テキスト：";
             }
-            return [title, ...elems];
+            return [title, "\n", ...elems, "\n"];
         }
         else {
             const elems = serializeContent(doc.content, { poisoned: false });
@@ -249,7 +251,7 @@ function serializeDoc(document, doc, ind, o) {
                 title = document.createElement("p");
                 title.textContent = "単純テキスト：";
             }
-            return [title, ...elems];
+            return [title, "\n", ...elems, "\n"];
         }
     }
     else {
@@ -258,7 +260,7 @@ function serializeDoc(document, doc, ind, o) {
         throw new Error(`Unexpected "type" found for a Doc: expected 'raw-text-doc' or 'leipzigjs-glossed-doc' but got '${doc.type}'`);
     }
 }
-fs.writeFileSync("corpus/index_.html", dom.serialize());
+fs.writeFileSync("corpus/index.html", dom.serialize());
 // console.log(textContent); // "Hello world"
 // console.log(dictionary.words);
 // console.log(get_duplicates(["1", "2", "1"]))

@@ -27,6 +27,8 @@ textarea { font-family: 'Noto Sans Mono', 'Source Code Pro', 'Inconsolata', 'Spa
 </head>
 <body class="cool" style="font-family: Arial, Helvetica, sans-serif;">
 <a href="../index.html">トップに戻る</a>
+
+<p style="font-size: 140%; text-decoration: underline">注意：このページは corpus/index.corpus.json を compile_corpus.js で変換して自動生成しているものです。このページを手で直接編集しないでください。</p>
 <p>以下で用いるglossの凡例：</p>
 <table border="1" cellspacing="0" cellpadding="3" style="border-collapse:collapse;border-width:1px">
 <tr><td>略</td><td>語</td><td>意味</td></tr>
@@ -113,7 +115,7 @@ function isLeipzigJsGlossedText(a: unknown): a is LeipzigJsGlossedText {
 	return (a as any).type === "leipzigjs-glossed-text"
 }
 
-function serializeGlossList(content: LeipzigJsGlossedText[], o: { poisoned: boolean }): HTMLElement[] {
+function serializeGlossList(content: LeipzigJsGlossedText[], o: { poisoned: boolean }): (HTMLElement | string)[] {
 	const outer_div = document.createElement("div");
 	outer_div.classList.add("box");
 	if (o.poisoned) {
@@ -121,7 +123,7 @@ function serializeGlossList(content: LeipzigJsGlossedText[], o: { poisoned: bool
 	}
 	for (let i = 0; i < content.length; ++i) {
 		if (i !== 0) {
-			outer_div.appendChild(document.createElement("hr"));
+			outer_div.append("\t", document.createElement("hr"));
 		}
 
 		const inner_div = document.createElement("div");
@@ -136,11 +138,11 @@ function serializeGlossList(content: LeipzigJsGlossedText[], o: { poisoned: bool
 		const translation = document.createElement("p");
 		translation.textContent = content[i].translation;
 
-		inner_div.append(analyzed_text, gloss, translation);
+		inner_div.append("\n\t\t", analyzed_text, "\n\t\t", gloss, "\n\t\t", translation, "\n\t");
 
-		outer_div.appendChild(inner_div);
+		outer_div.append("\n\t", inner_div, "\n");
 	}
-	return [outer_div];
+	return [outer_div, "\n"];
 }
 
 function isSection<T>(s: unknown): s is Section<T> {
@@ -151,8 +153,8 @@ function isInadequateSection<T>(s: unknown): s is SectionForInadequate<T> {
 	return typeof (s as any).section_for_inadequate_title === "string";
 }
 
-function serializeNestedContent(content: (HTMLSidenote | PlainTextSidenote | Section<LeipzigJsGlossedText> | SectionForInadequate<LeipzigJsGlossedText>)[]): HTMLElement[] {
-	let ans: HTMLElement[] = [];
+function serializeNestedContent(content: (HTMLSidenote | PlainTextSidenote | Section<LeipzigJsGlossedText> | SectionForInadequate<LeipzigJsGlossedText>)[]): (HTMLElement | string)[] {
+	let ans: (HTMLElement | string)[] = [];
 	for (const c of content) {
 		if (isSection(c)) {
 			const title = document.createElement("p");
@@ -164,7 +166,7 @@ function serializeNestedContent(content: (HTMLSidenote | PlainTextSidenote | Sec
 				title.textContent = ``;
 				title.appendChild(a);
 			}
-			ans = [...ans, title, ...serializeContent(c.content, { poisoned: false })];
+			ans = [...ans, "\n", title, "\n", ...serializeContent(c.content, { poisoned: false }), "\n"];
 		} else if (isInadequateSection(c)) {
 			const title = document.createElement("p");
 			title.textContent = c.section_for_inadequate_title.trim() === "" ? "" : `${c.section_for_inadequate_title}：`;
@@ -175,17 +177,17 @@ function serializeNestedContent(content: (HTMLSidenote | PlainTextSidenote | Sec
 				title.textContent = ``;
 				title.appendChild(a);
 			}
-			ans = [...ans, title, ...serializeContent(c.content, { poisoned: true })];
+			ans = [...ans, "\n", title, "\n", ...serializeContent(c.content, { poisoned: true }), "\n"];
 		} else if (c.type === "plaintext-sidenote") {
 			const title_and_sidenote = document.createElement("p");
 			title_and_sidenote.textContent = c.sidenote_title === "" ? c.sidenote : `${c.sidenote_title}：${c.sidenote}`;
-			ans = [...ans, title_and_sidenote];
+			ans = [...ans, "\n", title_and_sidenote];
 		} else if (c.type === "html-sidenote") {
 			const title = document.createElement("p");
 			title.textContent = c.sidenote_title;
 			const sidenote = document.createElement("div");
 			sidenote.innerHTML = c.sidenote;
-			ans = [...ans, title, sidenote];
+			ans = [...ans, "\n", title, "\n", sidenote];
 		} else {
 			let _: never = c;
 			console.log(c);
@@ -195,7 +197,7 @@ function serializeNestedContent(content: (HTMLSidenote | PlainTextSidenote | Sec
 	return ans;
 }
 
-function serializeContent(content: Content<LeipzigJsGlossedText>, o: { poisoned: boolean }): HTMLElement[] {
+function serializeContent(content: Content<LeipzigJsGlossedText>, o: { poisoned: boolean }): (HTMLElement | string)[] {
 	if (isLeipzigJsGlossedText(content[0])) {
 		return serializeGlossList(content as LeipzigJsGlossedText[], o);
 	} else {
@@ -203,7 +205,7 @@ function serializeContent(content: Content<LeipzigJsGlossedText>, o: { poisoned:
 	}
 }
 
-function serializeDoc(document: Document, doc: Readonly<Doc>, ind: number, o: { show_title: boolean }): HTMLElement[] {
+function serializeDoc(document: Document, doc: Readonly<Doc>, ind: number, o: { show_title: boolean }): (HTMLElement | string)[] {
 	let title = document.createElement("h3");
 	title.textContent = `${ind}. ${doc.document_title}`;
 	if (doc.type === "raw-text-doc") {
@@ -213,7 +215,7 @@ function serializeDoc(document: Document, doc: Readonly<Doc>, ind: number, o: { 
 		textarea.setAttribute("rows", `${rows}`);
 		textarea.textContent = doc.text;
 		if (!o.show_title) { title = document.createElement("p"); title.textContent = "単純テキスト："; }
-		return [title, textarea];
+		return [title, "\n", textarea, "\n"];
 	} else if (doc.type === "leipzigjs-glossed-doc") {
 		if (doc.metadata?.src_link) {
 			const a = document.createElement("a");
@@ -223,12 +225,12 @@ function serializeDoc(document: Document, doc: Readonly<Doc>, ind: number, o: { 
 			title.appendChild(a);
 			const elems = serializeContent(doc.content, { poisoned: false });
 			if (!o.show_title) { title = document.createElement("p"); title.textContent = "単純テキスト："; }
-			return [title, ...elems];
+			return [title, "\n", ...elems, "\n"];
 		} else {
 			const elems = serializeContent(doc.content, { poisoned: false });
 			if (!o.show_title) { title = document.createElement("p"); title.textContent = "単純テキスト："; }
 
-			return [title, ...elems];
+			return [title, "\n", ...elems, "\n"];
 
 		}
 	} else {
@@ -238,7 +240,7 @@ function serializeDoc(document: Document, doc: Readonly<Doc>, ind: number, o: { 
 	}
 }
 
-fs.writeFileSync("corpus/index_.html", dom.serialize());
+fs.writeFileSync("corpus/index.html", dom.serialize());
 // console.log(textContent); // "Hello world"
 
 // console.log(dictionary.words);
