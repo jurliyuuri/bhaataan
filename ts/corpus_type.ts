@@ -45,7 +45,7 @@ export type Section<Txt> = {
     "type": "section",
     "section_title": string,
     "metadata"?: Metadata,
-    "content": Content<Txt>,
+    "content": Elem<Txt>[],
 };
 
 export type Box<Txt> = {
@@ -63,8 +63,6 @@ export type BoxForInadequate<Txt> = {
 }
 
 export type Elem<Txt> = Sidenote | Section<Txt> | Box<Txt> | BoxForInadequate<Txt>;
-
-export type Content<Txt> = Txt[] | Elem<Txt>[];
 
 export type Metadata = {
     // "relevant_links"?: URLString[],

@@ -28,48 +28,6 @@ const jsdom = __importStar(require("jsdom"));
 let dictionary = JSON.parse(fs.readFileSync('bhat.json', { encoding: 'utf8', flag: 'r' }));
 let dictionary_eng = JSON.parse(fs.readFileSync('bhat-to-eng.json', { encoding: 'utf8', flag: 'r' }));
 const corpus = JSON.parse(fs.readFileSync('corpus/index.corpus.json', { encoding: 'utf8', flag: 'r' }));
-/*for (let doc of corpus) {
-    if (doc.type === "leipzigjs-glossed-doc") {
-        for (let i = 0; i < doc.content.length; i++) {
-            doc.content[i] = upgradeElem(doc.content[i]);
-        }
-    }
-}
-
-function upgradeElem(elem: Elem<LeipzigJsGlossedText>): Elem<LeipzigJsGlossedText> {
-    if (elem.type !== "section") return elem;
-    if (isLeipzigJsGlossedText(elem.content[0])) {
-        if (elem.metadata) {
-            return {
-                "type": "section",
-                "section_title": "",
-                "content": [{
-                    "type": "box",
-                    "box_title": elem.section_title,
-                    "metadata": elem.metadata,
-                    "lines": elem.content as LeipzigJsGlossedText[],
-                }]
-            }
-        } else {
-            return {
-                "type": "section",
-                "section_title": "",
-                "content": [{
-                    "type": "box",
-                    "box_title": elem.section_title,
-                    "lines": elem.content as LeipzigJsGlossedText[],
-                }]
-            }
-        }
-    } else {
-        for (let i = 0; i < elem.content.length; i++) {
-            elem.content[i] = upgradeElem(elem.content[i] as Elem<LeipzigJsGlossedText>);
-        }
-        return elem;
-    }
-}
-
-fs.writeFileSync("corpus/index.corpus_.json", JSON.stringify(corpus, undefined, "\t"));*/
 const dom = new jsdom.JSDOM(`<!doctype html>
 <html>
 <head>
@@ -198,7 +156,7 @@ function serializeNestedContent(content) {
                 title.textContent = ``;
                 title.appendChild(a);
             }
-            ans = [...ans, "\n", title, "\n", ...serializeContent(c.content, { poisoned: false }), "\n"];
+            ans = [...ans, "\n", title, "\n", ...serializeNestedContent(c.content), "\n"];
         }
         else if (c.type === "box") {
             const title = document.createElement("p");
@@ -243,14 +201,6 @@ function serializeNestedContent(content) {
         }
     }
     return ans;
-}
-function serializeContent(content, o) {
-    if (isLeipzigJsGlossedText(content[0])) {
-        return serializeGlossList(content, o);
-    }
-    else {
-        return serializeNestedContent(content);
-    }
 }
 function serializeDoc(document, doc, ind, o) {
     let title = document.createElement("h3");

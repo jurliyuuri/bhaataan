@@ -1,54 +1,10 @@
 import * as fs from 'fs';
 import * as jsdom from 'jsdom';
-import { Content, Doc, HTMLSidenote, LeipzigJsGlossedText, PlainTextSidenote, Section, BoxForInadequate, Sidenote, Box, Elem } from './corpus_type';
+import { Doc, HTMLSidenote, LeipzigJsGlossedText, PlainTextSidenote, Section, BoxForInadequate, Sidenote, Box, Elem } from './corpus_type';
 
 let dictionary = JSON.parse(fs.readFileSync('bhat.json', { encoding: 'utf8', flag: 'r' }));
 let dictionary_eng = JSON.parse(fs.readFileSync('bhat-to-eng.json', { encoding: 'utf8', flag: 'r' }));
 const corpus: Doc[] = JSON.parse(fs.readFileSync('corpus/index.corpus.json', { encoding: 'utf8', flag: 'r' }));
-
-/*for (let doc of corpus) {
-	if (doc.type === "leipzigjs-glossed-doc") {
-		for (let i = 0; i < doc.content.length; i++) {
-			doc.content[i] = upgradeElem(doc.content[i]);
-		}
-	}
-}
-
-function upgradeElem(elem: Elem<LeipzigJsGlossedText>): Elem<LeipzigJsGlossedText> {
-	if (elem.type !== "section") return elem;
-	if (isLeipzigJsGlossedText(elem.content[0])) {
-		if (elem.metadata) {
-			return {
-				"type": "section", 
-				"section_title": "", 
-				"content": [{
-					"type": "box",
-					"box_title": elem.section_title,
-					"metadata": elem.metadata,
-					"lines": elem.content as LeipzigJsGlossedText[],
-				}]
-			}
-		} else {
-			return {
-				"type": "section", 
-				"section_title": "", 
-				"content": [{
-					"type": "box",
-					"box_title": elem.section_title,
-					"lines": elem.content as LeipzigJsGlossedText[],
-				}]
-			}
-		}
-	} else {
-		for (let i = 0; i < elem.content.length; i++) {
-			elem.content[i] = upgradeElem(elem.content[i] as Elem<LeipzigJsGlossedText>);
-		}
-		return elem;
-	}
-}
-
-fs.writeFileSync("corpus/index.corpus_.json", JSON.stringify(corpus, undefined, "\t"));*/
-
 
 const dom = new jsdom.JSDOM(`<!doctype html>
 <html>
@@ -188,7 +144,7 @@ function serializeNestedContent(content: (HTMLSidenote | PlainTextSidenote | Sec
 				title.textContent = ``;
 				title.appendChild(a);
 			}
-			ans = [...ans, "\n", title, "\n", ...serializeContent(c.content, { poisoned: false }), "\n"];
+			ans = [...ans, "\n", title, "\n", ...serializeNestedContent(c.content), "\n"];
 		} else if (c.type === "box") {
 			const title = document.createElement("p");
 			title.textContent = c.box_title.trim() === "" ? "" : `${c.box_title}：`;
@@ -228,14 +184,6 @@ function serializeNestedContent(content: (HTMLSidenote | PlainTextSidenote | Sec
 		}
 	}
 	return ans;
-}
-
-function serializeContent(content: Content<LeipzigJsGlossedText>, o: { poisoned: boolean }): (HTMLElement | string)[] {
-	if (isLeipzigJsGlossedText(content[0])) {
-		return serializeGlossList(content as LeipzigJsGlossedText[], o);
-	} else {
-		return serializeNestedContent(content as ((Sidenote | Section<LeipzigJsGlossedText> | Box<LeipzigJsGlossedText> | BoxForInadequate<LeipzigJsGlossedText>)[]))
-	}
 }
 
 function serializeDoc(document: Document, doc: Readonly<Doc>, ind: number, o: { show_title: boolean }): (HTMLElement | string)[] {
