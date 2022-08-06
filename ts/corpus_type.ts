@@ -42,12 +42,14 @@ export type PlainTextSidenote = {
 export type Sidenote = HTMLSidenote | PlainTextSidenote
 
 export type Section<Txt> = {
+    "type": "section",
     "section_title": string,
     "metadata"?: Metadata,
     "content": Content<Txt>,
 };
 
 export type SectionForInadequate<Txt> = {
+    "type": "section_for_inadequate",
     "section_for_inadequate_title": string,
     "metadata"?: Metadata,
     "content": Content<Txt>,

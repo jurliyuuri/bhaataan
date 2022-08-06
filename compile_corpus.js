@@ -96,29 +96,17 @@ textarea { font-family: 'Noto Sans Mono', 'Source Code Pro', 'Inconsolata', 'Spa
 </body>
 </html>
 `);
-function isDoc(a) {
-    return typeof a.document_title === "string";
-}
-/*function isFolder(a: unknown): a is Folder {
-    return typeof (a as any).folder_title === "string"
-}*/
 const document = dom.window.document;
 let counter = 1;
 for (let ind = 0; ind < corpus.length; ++ind) {
     const doc = corpus[ind];
-    if (isDoc(doc)) {
-        if (doc.document_title !== corpus[ind - 1]?.document_title) {
-            document.getElementById("main_content")?.append(...serializeDoc(document, doc, counter, { show_title: true }));
-            counter++;
-        }
-        else {
-            document.getElementById("main_content")?.append(...serializeDoc(document, doc, counter, { show_title: false }));
-        }
-    } /*else if (isFolder(doc)) {
-        const title = document.createElement("h3");
-        title.textContent = doc.folder_title;
-        document.getElementById("main_content")?.appendChild(title)
-    }*/
+    if (doc.document_title !== corpus[ind - 1]?.document_title) {
+        document.getElementById("main_content")?.append(...serializeDoc(document, doc, counter, { show_title: true }));
+        counter++;
+    }
+    else {
+        document.getElementById("main_content")?.append(...serializeDoc(document, doc, counter, { show_title: false }));
+    }
 }
 function chooseAdequateColsRows(txt) {
     const cols = Math.max(...txt.split("\n").map(line => line.length));
@@ -155,16 +143,10 @@ function serializeGlossList(content, o) {
     }
     return [outer_div, "\n"];
 }
-function isSection(s) {
-    return typeof s.section_title === "string";
-}
-function isInadequateSection(s) {
-    return typeof s.section_for_inadequate_title === "string";
-}
 function serializeNestedContent(content) {
     let ans = [];
     for (const c of content) {
-        if (isSection(c)) {
+        if (c.type === "section") {
             const title = document.createElement("p");
             title.textContent = c.section_title.trim() === "" ? "" : `${c.section_title}：`;
             if (c.metadata?.src_link) {
@@ -176,7 +158,7 @@ function serializeNestedContent(content) {
             }
             ans = [...ans, "\n", title, "\n", ...serializeContent(c.content, { poisoned: false }), "\n"];
         }
-        else if (isInadequateSection(c)) {
+        else if (c.type === "section_for_inadequate") {
             const title = document.createElement("p");
             title.textContent = c.section_for_inadequate_title.trim() === "" ? "" : `${c.section_for_inadequate_title}：`;
             if (c.metadata?.src_link) {

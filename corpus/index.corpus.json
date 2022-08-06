@@ -1,176 +1,190 @@
 [
-	{"document_title": "「不思議の国のアリス」冒頭",
+	{
+		"document_title": "「不思議の国のアリス」冒頭",
 		"type": "leipzigjs-glossed-doc",
 		"content": [
-			{"section_title": "タイトル",
+			{
+				"type": "section",
+				"section_title": "タイトル",
 				"content": [
 					{
-    					"type": "leipzigjs-glossed-text",
-						"analyzed_text":"ṣonároná-zá-kátá epa-ḍi hína hem-akátá alic",
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "ṣonároná-zá-kátá epa-ḍi hína hem-akátá alic",
 						"gloss": "不思議に思う-CAUS-3N.PST.PTCP.REL ところ-POST ～で 在る-3N.PST.PTCP.REL アリス",
 						"translation": "不思議を抱かせる場所に居るアリス"
 					}
 				]
 			},
-			{"section_title": "第一段落",
+			{
+				"type": "section",
+				"section_title": "第一段落",
 				"content": [
 					{
 						"type": "leipzigjs-glossed-text",
-						"analyzed_text":"alic-∅ sá-homá woghit-i cájau ṣoma-ḍi hína ṣíkah-azená hem.",
+						"analyzed_text": "alic-∅ sá-homá woghit-i cájau ṣoma-ḍi hína ṣíkah-azená hem.",
 						"gloss": "アリス-NOM 女-GEN はらから-POST　〜と一緒に　土手-POST 〜で　座る-3F.PST.PTCP PFV",
 						"translation": "アリスは姉と一緒に土手で座った。"
 					},
 					{
 						"type": "leipzigjs-glossed-text",
-						"analyzed_text":"ṣiṇṇa, baukká koli-dhel cákíka-kátá hem.",
+						"analyzed_text": "ṣiṇṇa, baukká koli-dhel cákíka-kátá hem.",
 						"gloss": "しかし 段々 疲れ-ACC　訪れさせる-3N.PST.PTCP PFV",
 						"translation": "しかし、段々疲れを訪れさせた。"
 					},
 					{
 						"type": "leipzigjs-glossed-text",
-						"analyzed_text":"lási-homá káṇa-∅ jo ríka-homá káṇa-ḍi hína ká-∅ aghauṭa-dhel nána sá-homá woghit-∅ ák-aze aḍuhazo-zená hem.",
+						"analyzed_text": "lási-homá káṇa-∅ jo ríka-homá káṇa-ḍi hína ká-∅ aghauṭa-dhel nána sá-homá woghit-∅ ák-aze aḍuhazo-zená hem.",
 						"gloss": "一-GEN 時（＝一度）-ZERO　または　二-GEN 時（＝二度）-POST　〜で　彼女-NOM　本-ACC　REL　女-GEN はらから-NOM　読む-3F.REAL　見る-3F.PST.PTCP PFV",
 						"translation": "彼女は一度または二度姉が読む本を見た。"
 					},
 					{
 						"type": "leipzigjs-glossed-text",
-						"analyzed_text":"ṣiṇṇa, legha-∅ jo cepatepa-∅ aghauṭa-ḍi hína ám hem-akátá hem.",
+						"analyzed_text": "ṣiṇṇa, legha-∅ jo cepatepa-∅ aghauṭa-ḍi hína ám hem-akátá hem.",
 						"gloss": "しかし、 絵-ZERO　または　会話-NOM　本-POST　〜に　〜しない　在る-3N.PST.PTCP PFV",
 						"translation": "しかし、絵も会話も本には無かった。"
 					},
 					{
 						"type": "leipzigjs-glossed-text",
-						"analyzed_text":"\"há, ko-dhel nána-ḍi hína suj-úḷ-∅ heyá-káṣlo?\"",
+						"analyzed_text": "\"há, ko-dhel nána-ḍi hína suj-úḷ-∅ heyá-káṣlo?\"",
 						"gloss": "「じゃあ、 これ-ACC　何-POST　〜で　使う-INF-NOM　思う-3N.FUT.PTCP（＝だろうか）」",
 						"translation": "「じゃあ、これを何に使うのだろうか？」、"
 					},
 					{
 						"type": "leipzigjs-glossed-text",
-						"analyzed_text":"alic-∅ ko-ḍi ema heyá-zená hem.",
+						"analyzed_text": "alic-∅ ko-ḍi ema heyá-zená hem.",
 						"gloss": "アリス-NOM　これ-POST　〜を　思う-3F.PST.PTCP PFV",
 						"translation": "アリスはこう思った。"
 					},
 					{
 						"type": "leipzigjs-glossed-text",
-						"analyzed_text":"\"legha-∅ jo cepatepa-∅ ám hem-úḷ-∅ ema.\"",
+						"analyzed_text": "\"legha-∅ jo cepatepa-∅ ám hem-úḷ-∅ ema.\"",
 						"gloss": "「絵-ZERO　または　会話-NOM　〜しない　在る-INF-POST　〜なんて」",
 						"translation": "「絵も会話も存在しないなんて」"
 					}
 				]
-			}, 
-			{"sidenote_title": "備考", 
+			},
+			{
+				"sidenote_title": "備考",
 				"type": "html-sidenote",
 				"sidenote": "<ul>\n\t<li>原文では\"beginning to get very tired of\"「とても退屈しはじめて」であり\"beginning to get very tired from\"「とても疲れはじめて」ではないので<a href=\"http://www.honyaku-tsushin.net/hihyo/honnyakuka/yagawa-alliceaiwl.html\">「退屈」で訳すほうが適切であろう</a>と筆者は考える。しかし、『不思議の国のアリス』冒頭文を各人工言語に翻訳することを提唱している<a href=\"http://conlinguistics.org/conlinguistics/create_3.html\">人工言語学研究会「これを自言語で訳せるようになるのが初心者の当面の課題」</a>において「次第に疲れだしました」となっており（ただし、掲載されているアルカ訳はちゃんとvek「退屈」で訳されている）、それに従っている<a href=\"http://lineparine.blogspot.com/2017/12/blog-post_22.html\">リパライン語訳</a>でもtieesn「疲れる」と訳されていること、一段落目の翻訳は私が悠里に入る前から<a href=\"https://www.youtube.com/watch?v=RWUayszPnis\">動画化</a>されていて修正が困難であること、筆者が第一段落を丸暗記しており今更覚え直したくないことなどを理由に、翻訳はkoli「疲れ」を用いておく。これはバート語で「退屈」と「疲れ」が同様の単語で表されるということを意図するものではなく、あくまで「次第に疲れだしました」を翻訳したものであるとする。</li>\n\t<li>「数詞の後は単数形」規則により、*ríkahomá káṇadhínaではなくríkahomá káṇaḍi hínaとなる。</li>\n</ul>"
 			},
-			{"section_title": "第二段落",
+			{
+				"type": "section",
+				"section_title": "第二段落",
 				"content": [
 					{
 						"type": "leipzigjs-glossed-text",
-						"analyzed_text":"dí-ḍi áṣá dház-í-∅ nána díṣlo-homá dhíp-ele janá-zebá sese-hí-dhel nána bhoṣah-azebá jarúṣi díṣlo-dhel dhezá-zebá am-úḷ-∅ jo ám ∅ ema ká-∅ ká-om híja-ḍi hína heyá-úḷ-∅ hem-akátá hem,",
+						"analyzed_text": "dí-ḍi áṣá dház-í-∅ nána díṣlo-homá dhíp-ele janá-zebá sese-hí-dhel nána bhoṣah-azebá jarúṣi díṣlo-dhel dhezá-zebá am-úḷ-∅ jo ám ∅ ema ká-∅ ká-om híja-ḍi hína heyá-úḷ-∅ hem-akátá hem,",
 						"gloss": "それ-POST 〜を原因として 楽しい-NMLZ-NOM REL 花-GEN 鎖-ACC 作る-3F.FUT.PTCP 面倒だ-NMLZ-ACC REL 起き上がる-3F.FUT.PTCP そしてその後 花-ACC 摘む-3F.FUT.PTCP 勝る-INF-ZERO または 〜しない [勝る-INF-POST] 〜を 彼女-NOM 彼女-GEN 心-POST 〜で 考える-INF-NOM 在る（=考えている）-3N.PST.PTCP PFV",
 						"translation": "そのため、花の鎖を作る（未来での）楽しみが、起き上がって花を摘む面倒さに勝るか否かについて、彼女は彼女の心で考えていた。"
 					},
 					{
 						"type": "leipzigjs-glossed-text",
-						"analyzed_text":"ṣiṇṇa ká-om amáma nádít-í-∅ ja bháṇ-í-ḍi nána ghán-í-∅ cákíka-ká áṣá kom heyá-z-i hína daupha-∅ hem-akátá hem.", 
-						"gloss": "しかし 彼女-GEN 大きな 眠い-NMLZ-ZERO と 愚かだ-NMLZ-POST REL 暑い-NMLZ-NOM 訪れさせる-3N.REAL 〜を原因として この 考える-NMLZ-POST 〜に 限界-NOM 在る-3N.PST.PTCP PFV", 
+						"analyzed_text": "ṣiṇṇa ká-om amáma nádít-í-∅ ja bháṇ-í-ḍi nána ghán-í-∅ cákíka-ká áṣá kom heyá-z-i hína daupha-∅ hem-akátá hem.",
+						"gloss": "しかし 彼女-GEN 大きな 眠い-NMLZ-ZERO と 愚かだ-NMLZ-POST REL 暑い-NMLZ-NOM 訪れさせる-3N.REAL 〜を原因として この 考える-NMLZ-POST 〜に 限界-NOM 在る-3N.PST.PTCP PFV",
 						"translation": "しかし、暑さが訪れさせた（=暑さによる）彼女の大きな眠さと愚かさのせいで（=暑くて彼女がとても眠くて愚かであったせいで）この思考には限界があった。"
 					},
 					{
 						"type": "leipzigjs-glossed-text",
-						"analyzed_text":"dí-om káṇa-ḍi hína seṇa ká-bhau cai-ḍi hína numíju-homá adha-dhel bhom-akátá bházah-akátá phúpen-∅ kánat-akátá.",
+						"analyzed_text": "dí-om káṇa-ḍi hína seṇa ká-bhau cai-ḍi hína numíju-homá adha-dhel bhom-akátá bházah-akátá phúpen-∅ kánat-akátá.",
 						"gloss": "それ-GEN 時-POST 〜に 突然 彼女-INS 近く-POST 〜で ピンク色-GEN 目-ACC 持っている-3N.PST.PTCP.REL 白い-3N.PST.PTCP.REL ウサギ-NOM 走る-3N.PST.PTCP",
 						"translation": "その時、突然彼女の近くでピンク色の目の白いウサギが走った。"
 					}
 				]
 			},
-			{"sidenote_title": "備考",
+			{
+				"sidenote_title": "備考",
 				"type": "plaintext-sidenote",
 				"sidenote": "díṣlo「花」は単複同形であることに注意せよ。"
 			},
-			{"section_title": "第三段落",
+			{
+				"type": "section",
+				"section_title": "第三段落",
 				"content": [
 					{
 						"type": "leipzigjs-glossed-text",
-						"analyzed_text":"ko-ḍi hína kit kit bháṭám-akátá ho-zá ám hem-akátá hem.",
+						"analyzed_text": "ko-ḍi hína kit kit bháṭám-akátá ho-zá ám hem-akátá hem.",
 						"gloss": "これ-POST 〜に とても とても 珍しい-3N.PST.PTCP.REL 出来事-NOM.PL 〜しない 在る-3N.PST.PTCP PFV",
 						"translation": "このことの中に、非常に珍しい事象があったわけではなかった。"
 					},
 					{
 						"type": "leipzigjs-glossed-text",
-						"analyzed_text":"ja phúpen-∅ dína-ḍi ghi bhát-úḷ-∅, \"há káṇa-∅! há káṇa-∅! bháhe-díha hem!\",",
+						"analyzed_text": "ja phúpen-∅ dína-ḍi ghi bhát-úḷ-∅, \"há káṇa-∅! há káṇa-∅! bháhe-díha hem!\",",
 						"gloss": "そして ウサギ-NOM 自身-POST 〜へ 話す-INF-NOM ああ 時間-NOM ああ 時間-NOM 遅刻である-1.FUT.PTCP PFV",
 						"translation": "そして、ウサギが「ああ時間だ！ああ時間だ！私は遅刻してしまう！」と独り言を言うこと、"
 					},
 					{
 						"type": "leipzigjs-glossed-text",
-						"analyzed_text":"kodhel ká-∅ dhese-úḷ-∅ ema alic-∅ ám kit kit ṣonároná-zená hem.",
+						"analyzed_text": "kodhel ká-∅ dhese-úḷ-∅ ema alic-∅ ám kit kit ṣonároná-zená hem.",
 						"gloss": "これ-ACC 彼女-NOM 聞く-INF-POST 〜を アリス-NOM 〜しない とても とても 不思議に思う-3F.PST.PTCP PFV",
 						"translation": "これを彼女が聞いたことをも、アリスはそこまで不思議には思わなかった。"
 					},
 					{
 						"type": "leipzigjs-glossed-text",
-						"analyzed_text":"rúṣ-án káṇa-ḍi nána ko-ḍi ema zu heyá-ze hína,",
+						"analyzed_text": "rúṣ-án káṇa-ḍi nána ko-ḍi ema zu heyá-ze hína,",
 						"gloss": "下-GEN 時-POST REL これ-POST 〜を 再び 考える-3F.REAL 〜に",
 						"translation": "のちに、これについて再び考えた時、"
 					},
 					{
 						"type": "leipzigjs-glossed-text",
-						"analyzed_text":"díma-dhel nána ká-∅ ko-dhel ṣonároná-úḷ-∅ zallo-bháp-akátá hem ká-∅ cánaj-azená hem,",
+						"analyzed_text": "díma-dhel nána ká-∅ ko-dhel ṣonároná-úḷ-∅ zallo-bháp-akátá hem ká-∅ cánaj-azená hem,",
 						"gloss": "こと-ACC REL 彼女-NOM これ-ACC 不思議に思う-INF-NOM 〜すべきである-PRF-3N.PST.PTCP PFV 彼女-NOM 気づく-3F.PST.PTCP PFV,",
 						"translation": "彼女はこれを不思議に思うべきであった、ということにアリスは気づいた。"
 					},
 					{
 						"type": "leipzigjs-glossed-text",
-						"analyzed_text":"ṣiṇṇa, dí-om káṇa-ḍi hína ká-∅ dí-zá báṣi kit úraj-úḷ-∅ ema heyá-zená hem.",
+						"analyzed_text": "ṣiṇṇa, dí-om káṇa-ḍi hína ká-∅ dí-zá báṣi kit úraj-úḷ-∅ ema heyá-zená hem.",
 						"gloss": "しかし それ-GEN 時-POST 〜に 彼女-NOM それ-NOM.PL すっかり とても 普通である-INF-POST 〜を 考える-3F.PST.PTCP PFV",
 						"translation": "しかし、当時は彼女はそれらがすっかりとても普通であると考え（てい）た。"
 					},
 					{
 						"type": "leipzigjs-glossed-text",
-						"analyzed_text":"ṣiṇṇa, káṇa-ḍi nána phúpen-∅ deja zígh-íṣ-ele dí-om cainíju-homá hátaṣom-i oṣa rec-aká, jarúṣi ko-dhel ák-aká, jarúṣi kánat-aká hína,", 
+						"analyzed_text": "ṣiṇṇa, káṇa-ḍi nána phúpen-∅ deja zígh-íṣ-ele dí-om cainíju-homá hátaṣom-i oṣa rec-aká, jarúṣi ko-dhel ák-aká, jarúṣi kánat-aká hína,",
 						"gloss": "しかし 時-POST REL ウサギ-NOM なんとまあ 規則的だ-NMLZ（=時計）-ACC それ-GEN チョッキ-GEN ポケット-POST 〜から 取り出す-3N.REAL そしてその後 これ-ACC 読む-3N.REAL そしてその後 走る-3N.REAL 〜に",
 						"translation": "しかし、ウサギがなんとまあ時計をその（=自身の）チョッキのポケットから取り出し、読み、走ったとき、"
 					},
 					{
 						"type": "leipzigjs-glossed-text",
-						"analyzed_text":"alic-∅ bhoṣah-azená hem,",
+						"analyzed_text": "alic-∅ bhoṣah-azená hem,",
 						"gloss": "アリス-NOM 起き上がる-3F.PST.PTCP PFV",
 						"translation": "アリスは起き上がった、"
 					},
 					{
 						"type": "leipzigjs-glossed-text",
-						"analyzed_text":"cainíju-homá hátaṣom-i jo zíghíṣ-ele nána kom epa-ḍi oṣa rec-aká bhom-akátá phúpen-ele ká-∅ ám aḍuhazo-bháp-azená díma-dhel seṇa cánaj-úḷ-∅ áṣá.",
+						"analyzed_text": "cainíju-homá hátaṣom-i jo zíghíṣ-ele nána kom epa-ḍi oṣa rec-aká bhom-akátá phúpen-ele ká-∅ ám aḍuhazo-bháp-azená díma-dhel seṇa cánaj-úḷ-∅ áṣá.",
 						"gloss": "チョッキ-GEN ポケット-ZERO または 時計-ACC REL この 場所-POST 〜から 取り出す-3N.REAL 持っている-3N.PST.PTCP.REL ウサギ-ACC 彼女-NOM 〜しない 見る-PRF-3F.PST.PTCP.REL こと-ACC 突然 気づく-INF-POST 〜を原因として",
 						"translation": "（というのも）チョッキのポケットや、そこ（=チョッキのポケット）から取り出す時計を持っているウサギを彼女は見たことがないことに突然気づいたからだ。"
 					},
 					{
 						"type": "leipzigjs-glossed-text",
-						"analyzed_text":"jarúṣi amáma bhaj-hí-ḍi cájau koṭ-áná epa-dhel wákah-ama kánat-ama ká-∅ dí-dhel lánah-azená hem.",
+						"analyzed_text": "jarúṣi amáma bhaj-hí-ḍi cájau koṭ-áná epa-dhel wákah-ama kánat-ama ká-∅ dí-dhel lánah-azená hem.",
 						"gloss": "そしてその後 大きな 興味がある-NMLZ-POST 〜とともに 草-GEN.PL 地面-ACC 横切る-IPFV.ADV 走る-IPFV.ADV 彼女-NOM それ-ACC 追いかける-3F.PST.PTCP PFV",
 						"translation": "そしてその後、大きな興味をもって、草地を横切りながら走りながら彼女はそれを追いかけた。"
 					},
 					{
 						"type": "leipzigjs-glossed-text",
-						"analyzed_text":"jarúṣi cákíkáta-ḍi cájau káṇa-ḍi nána phúpen-∅ koṭ-áná ṣoya-bhau rúṣán amáma bhoṇau-ḍi ghi kánagh-ama íd-aká hína káṇaisa ko-dhel aḍuhazo-zená hem.",
+						"analyzed_text": "jarúṣi cákíkáta-ḍi cájau káṇa-ḍi nána phúpen-∅ koṭ-áná ṣoya-bhau rúṣán amáma bhoṇau-ḍi ghi kánagh-ama íd-aká hína káṇaisa ko-dhel aḍuhazo-zená hem.",
 						"gloss": "そしてその後 幸運-POST 〜とともに 時-POST REL ウサギ-NOM 草-GEN.PL 壁-INS 下-GEN 大きな 巣穴-POST 〜へ 跳ねる-IPFV.ADV 入る-3N.REAL 〜に 都合よく これ-ACC 見る-3F.PST.PTCP PFV",
 						"translation": "そして、幸運にも、ウサギが草壁の下の大きな巣穴へ飛び込む時に、都合よくこれ（=ウサギが飛び込む様子）を見たのだった。"
 					}
 				]
 			},
-			{"sidenote_title": "備考",
+			{
+				"sidenote_title": "備考",
 				"type": "html-sidenote",
 				"sidenote": "<ul>\n\t<li>aḍuhazobhápazenáは「過去の特定の時点以前に見た結果、過去の段階で見た経験を持っていた(動作動詞大過去)」なので、それを否定すれば「見たことがなかった」になる。</li>\n\t<li>原文ではウサギをitで指していることもあり、ウサギの行動は「指示・固有」で訳している。</li>\n</ul>"
 			}
 		]
 	},
-	{"document_title": "「不思議の国のアリス」冒頭",
+	{
+		"document_title": "「不思議の国のアリス」冒頭",
 		"type": "raw-text-doc",
 		"text": "ṣonáronázákátá epaḍi hína hemakátá alic\n\nalic sáhomá woghiti cájau ṣomaḍi hína ṣíkahazená hem. ṣiṇṇa, baukká kolidhel cákíkakátá hem. lásihomá káṇa jo ríkahomá káṇaḍi hína ká aghauṭadhel nána sáhomá woghit ákaze aḍuhazozená hem. ṣiṇṇa, legha jo cepatepa aghauṭaḍi hína ám hemakátá hem. \"há, kodhel nánaḍi hína sujúḷ heyákáṣlo?\" alic koḍi ema heyázená hem. \"legha jo cepatepa ám hemúḷ ema.\"\n\ndíḍi áṣá dhází nána díṣlohomá dhípele janázebá sesehídhel nána bhoṣahazebá jarúṣi díṣlodhel dhezázebá amúḷ jo ám ema ká káom híjaḍi hína heyáúḷ hemakátá hem, ṣiṇṇa káom amáma nádítí ja bháṇíḍi nána ghání cákíkaká áṣá kom heyázi hína daupha hemakátá hem. díom káṇaḍi hína seṇa kábhau caiḍi hína numíjuhomá adhadhel bhomakátá bházahakátá phúpen kánatakátá.\n\nkoḍi hína kit kit bháṭámakátá hozá ám hemakátá hem. ja phúpen dínaḍi ghi bhátúḷ, \"há káṇa! há káṇa! bháhedíha hem!\", kodhel ká dheseúḷ ema alic ám kit kit ṣonáronázená hem. rúṣán káṇaḍi nána koḍi ema zu heyáze hína, dímadhel nána ká kodhel ṣonáronáúḷ zallobhápakátá hem ká cánajazená hem, ṣiṇṇa, díom káṇaḍi hína ká dízá báṣi kit úrajúḷ ema heyázená hem. ṣiṇṇa, káṇaḍi nána phúpen deja zíghíṣele díom cainíjuhomá hátaṣomi oṣa recaká, jarúṣi kodhel ákaká, jarúṣi kánataká hína, alic bhoṣahazená hem, cainíjuhomá hátaṣomi jo zíghíṣele nána kom epaḍi oṣa recaká bhomakátá phúpenele ká ám aḍuhazobhápazená dímadhel seṇa cánajúḷ áṣá. jarúṣi amáma bhajhíḍi cájau koṭáná epadhel wákahama kánatama ká dídhel lánahazená hem. jarúṣi cákíkátaḍi cájau káṇaḍi nána phúpen koṭáná ṣoyabhau rúṣán amáma bhoṇauḍi ghi kánaghama ídaká hína káṇaisa kodhel aḍuhazozená hem."
 	},
-	{"document_title": "「冠光―アイル共和国国歌」",
+	{
+		"document_title": "「冠光―アイル共和国国歌」",
 		"metadata": {
-			"src_link":  "https://soundcloud.com/s-y-736219243/oavlsklolax1" 
+			"src_link": "https://soundcloud.com/s-y-736219243/oavlsklolax1"
 		},
 		"type": "leipzigjs-glossed-doc",
 		"content": [
@@ -200,46 +214,51 @@
 			}
 		]
 	},
-	{"document_title": "「冠光―アイル共和国国歌」",
+	{
+		"document_title": "「冠光―アイル共和国国歌」",
 		"metadata": {
-			"src_link": 
-				"https://soundcloud.com/s-y-736219243/oavlsklolax1"
+			"src_link": "https://soundcloud.com/s-y-736219243/oavlsklolax1"
 		},
 		"type": "raw-text-doc",
 		"text": "ṣomadhí ha síbhabhau, \nṣomadhí ha aṭam_kád.\nkáṇám rakk khakán síbha\nwoghitiná bhán sakká, á!"
 	},
-	{"document_title": "「リパライン倉庫」からの引用",
+	{
+		"document_title": "「リパライン倉庫」からの引用",
 		"type": "leipzigjs-glossed-doc",
 		"content": [
-			{"section_title": "Pi'en menisse'd chafi'ofes fantas",
+			{
+				"type": "section",
+				"section_title": "Pi'en menisse'd chafi'ofes fantas",
 				"metadata": {
-					"src_link": 
-						"https://web.archive.org/web/20201016212529/https://sites.google.com/site/riparaincangku/yuesureone-ren-gong-shi-jie-she-ding/li-shi/philerl/pyjen-menisss-chafiofes-fantas"
+					"src_link": "https://web.archive.org/web/20201016212529/https://sites.google.com/site/riparaincangku/yuesureone-ren-gong-shi-jie-she-ding/li-shi/philerl/pyjen-menisss-chafiofes-fantas"
 				},
 				"content": [
 					{
 						"type": "leipzigjs-glossed-text",
-						"analyzed_text": "ákíjam-án dhoḷop-áná ṣibhai-omá dhárad", 
+						"analyzed_text": "ákíjam-án dhoḷop-áná ṣibhai-omá dhárad",
 						"gloss": "東-GEN 島-GEN.PL 国家-GEN.PL 連合",
 						"translation": "東の島たちの国家たちの連合"
 					}
 				]
-			}, 
-			{"section_title": "フェディア文化共同体",
+			},
+			{
+				"type": "section",
+				"section_title": "フェディア文化共同体",
 				"metadata": {
-					"src_link": 
-						"https://web.archive.org/web/20201016212533/https://sites.google.com/site/riparaincangku/yuesureone-ren-gong-shi-jie-she-ding/li-shi/philerl/cmf"
+					"src_link": "https://web.archive.org/web/20201016212533/https://sites.google.com/site/riparaincangku/yuesureone-ren-gong-shi-jie-she-ding/li-shi/philerl/cmf"
 				},
 				"content": [
 					{
 						"type": "leipzigjs-glossed-text",
-						"analyzed_text":"pedia-homá horabát-áná dhárad",
+						"analyzed_text": "pedia-homá horabát-áná dhárad",
 						"gloss": "フェディア-GEN 文化-GEN.PL 連合",
 						"translation": "フェディアの文化たちの連合"
 					}
 				]
 			},
-			{"section_title": "バート語（旧サイト）",
+			{
+				"type": "section",
+				"section_title": "バート語（旧サイト）",
 				"metadata": {
 					"src_link": [
 						"https://web.archive.org/web/20201010211053/https://sites.google.com/site/3tvalineparine/plsnk/bhat"
@@ -268,7 +287,8 @@
 			}
 		]
 	},
-	{"document_title": "祖語辞書", 
+	{
+		"document_title": "祖語辞書",
 		"type": "leipzigjs-glossed-doc",
 		"content": [
 			{
@@ -277,6 +297,7 @@
 				"sidenote": "<p>'munq: ám bhátadína hem. 喋ってないです</p>\n<p>dradq: ákíjamán dhoḷopáná ṣibhaiomá dhárad 東諸島共和国連合</p>\n<p>i'q: ká ṣomazená, káom síbhaḍi hína. 彼女は彼女の故郷で功績を上げた。</p>\n<p>nimslu: nímaṣáná taku 連邦</p>\n<p>phed: ápa aṭamáná manámanelená bhátadhí. 私は神の親を話す</p>\n<p>pura: kiṣlo bhárabáta ek. 彼等は風邪に掛かったらしい</p>\n<p>qmuile': amilahomá nutta 魚醤、ナンプラー</p>\n<p>sljoomq: juecleone juecleonehomá ṣomatákuhomá aṭazahomá xejuhomá nímaṣáná taku　ユエスレオネ・ユエスレオネ社会主義シェユ連邦</p>\n<p>srakkq: ámaom cákíkamúná síbha? あなたは何処の出身ですか？</p>\n<p>srakkq: sákahomá ḍázá 路商；露天商</p>\n<p>zau: nánadhel zamú! 何をする！!</p>"
 			},
 			{
+				"type": "section",
 				"section_title": "",
 				"content": [
 					{
@@ -349,7 +370,8 @@
 			}
 		]
 	},
-	{"document_title": "翻訳依頼「サボっちゃだめかしら？」",
+	{
+		"document_title": "翻訳依頼「サボっちゃだめかしら？」",
 		"type": "leipzigjs-glossed-doc",
 		"content": [
 			{
@@ -358,8 +380,9 @@
 				"sidenote": "<p>2018年4月11日に「サボっちゃだめかしら？」の翻訳をして欲しいとfafs氏からDMで依頼され、生成された文。</p>\n<p>ám bohúḷ, ko danúḷ heyákáṣlo? サボっちゃだめかしら？</p>"
 			},
 			{
-				"section_title": "", 
-				"content":[
+				"type": "section",
+				"section_title": "",
+				"content": [
 					{
 						"type": "leipzigjs-glossed-text",
 						"analyzed_text": "ám boh-úḷ-∅, ko dan-úḷ-∅ heyákáṣlo?",
@@ -370,16 +393,22 @@
 			}
 		]
 	},
-	{"document_title": "バートさん周り",
+	{
+		"document_title": "バートさん周り",
 		"type": "leipzigjs-glossed-doc",
 		"content": [
-			{"section_title": "ヘッダ画像",
+			{
+				"type": "section",
+				"section_title": "ヘッダ画像",
 				"content": [
-					{"sidenote_title": "",
+					{
+						"sidenote_title": "",
 						"type": "html-sidenote",
 						"sidenote": "<img src=\"http://jurliyuuri.github.io/bhaataan/lets_use_bhat2.png\" width=\"500\"/><p>ápa bhátaim. mábha bhátán zephadhel sujúḷ ema rijadína.\n私はバートさん。あなた達にバート語を使ってほしい。</p>"
 					},
-					{"section_title": "",
+					{
+						"type": "section",
+						"section_title": "",
 						"content": [
 							{
 								"type": "leipzigjs-glossed-text",
@@ -394,13 +423,12 @@
 								"translation": "あなた達がバート語を使うことを私は願っている。"
 							}
 						]
-
 					}
-
 				]
-
 			},
-			{"section_title": "パングラム",
+			{
+				"type": "section",
+				"section_title": "パングラム",
 				"content": [
 					{
 						"sidenote_title": "",
@@ -408,6 +436,7 @@
 						"sidenote": "<p>xeju woghit. pedia khak. zepha ṣoya ja bhog. aṭam leghaḍi cájau káṇaisa bohúḷ ema ṣonáronádhí.\nシェユは兄弟なり。フェディアは父なり。言語は壁にてまた色彩なり。神が絵とともに折よく行くことを私は不思議に思う。</p>"
 					},
 					{
+						"type": "section",
 						"section_title": "",
 						"content": [
 							{
@@ -426,7 +455,9 @@
 					}
 				]
 			},
-			{"section_title": "リパコール",
+			{
+				"type": "section",
+				"section_title": "リパコール",
 				"content": [
 					{
 						"sidenote_title": "",
@@ -434,6 +465,7 @@
 						"sidenote": "<p>lipakoḷai ha ṣomadhí. リパコール様に敬礼しよう。</p><p>lipakoḷ káṇám rakk. リパコール様よ永遠なれ。</p>"
 					},
 					{
+						"type": "section",
 						"section_title": "",
 						"content": [
 							{
@@ -441,7 +473,7 @@
 								"analyzed_text": "lipakoḷ-ai ha ṣomadhí.",
 								"gloss": "リパコール-INS 〜しよう 敬礼する-1.REAL",
 								"translation": "リパコール様に敬礼しよう。"
-							} ,
+							},
 							{
 								"type": "leipzigjs-glossed-text",
 								"analyzed_text": "lipakoḷ-∅ káṇám rakk-∅.",
@@ -454,7 +486,8 @@
 			}
 		]
 	},
-	{"document_title": "ラジオ体操の歌（一番前半）",
+	{
+		"document_title": "ラジオ体操の歌（一番前半）",
 		"type": "leipzigjs-glossed-doc",
 		"content": [
 			{
@@ -483,11 +516,13 @@
 			}
 		]
 	},
-	{"document_title": "ラジオ体操の歌（一番前半）",
+	{
+		"document_title": "ラジオ体操の歌（一番前半）",
 		"type": "raw-text-doc",
 		"text": "cákíkakátá, rúṣán ákíjam.\nrízán ká hem, ákíjam.\nraukidhel seházíḍi cájau nám.\nṣúsa nonai ṣíyá ám."
 	},
-	{"document_title": "バートらしさ",
+	{
+		"document_title": "バートらしさ",
 		"type": "leipzigjs-glossed-doc",
 		"content": [
 			{
@@ -498,11 +533,13 @@
 			}
 		]
 	},
-	{"document_title": "バートらしさ",
+	{
+		"document_title": "バートらしさ",
 		"type": "raw-text-doc",
 		"text": "nautuhomá \"phúpen\" bhátán rásitele ám bhomakátá, dí wephiseḍi oṣa cákíkúḷ áṣá."
 	},
-	{"document_title": "「これはバート語です。」",
+	{
+		"document_title": "「これはバート語です。」",
 		"type": "leipzigjs-glossed-doc",
 		"content": [
 			{
@@ -511,6 +548,7 @@
 				"sidenote": "バート語の文章を書いて、自己言及的に「これはバート語です。」と表現する際に許容されるものと許容されないものを対比する。"
 			},
 			{
+				"type": "section",
 				"section_title": "許容されるもの",
 				"content": [
 					{
@@ -534,6 +572,7 @@
 				]
 			},
 			{
+				"type": "section_for_inadequate",
 				"section_for_inadequate_title": "許容されないもの",
 				"content": [
 					{
@@ -546,11 +585,13 @@
 			}
 		]
 	},
-	{"document_title": "「これはバート語です。」",
+	{
+		"document_title": "「これはバート語です。」",
 		"type": "raw-text-doc",
 		"text": "ko bhátán.\nko bhátán hem.\nko bhátán accabát.\n* ko bhátán zepha hem."
 	},
-	{"document_title": "「今日は国際母語の日！」",
+	{
+		"document_title": "「今日は国際母語の日！」",
 		"type": "leipzigjs-glossed-doc",
 		"content": [
 			{
@@ -561,14 +602,18 @@
 			}
 		]
 	},
-	{"document_title": "「今日は国際母語の日！」",
+	{
+		"document_title": "「今日は国際母語の日！」",
 		"type": "raw-text-doc",
 		"text": "lási bhaihomá zephahomá bháhepahomá ákíjam kom!"
 	},
-	{"document_title": "色",
+	{
+		"document_title": "色",
 		"type": "leipzigjs-glossed-doc",
 		"content": [
-			{"section_title": "", 
+			{
+				"type": "section",
+				"section_title": "",
 				"content": [
 					{
 						"type": "leipzigjs-glossed-text",
@@ -583,34 +628,43 @@
 						"translation": "黄色は白に似ている。"
 					}
 				]
-			}, {"sidenote_title": "備考",
+			},
+			{
+				"sidenote_title": "備考",
 				"type": "html-sidenote",
 				"sidenote": "<ul><li>kúcúhomáはピッチ句末に4連続で長母音が並んでいるので、最後から三番目の長母音が短音化する。</li></ul>"
 			}
 		]
 	},
-	{"document_title": "色",
+	{
+		"document_title": "色",
 		"type": "raw-text-doc",
 		"text": "kom zíghíṣ numíjuhomá k hem.\nkúcúhomá bhog bházauhomá bhogi hína cajakátá."
 	},
-	{"document_title": "「冠光」のパイグ語歌詞冒頭を直訳しようとしたやつ",
-		"type": "leipzigjs-glossed-doc",
-		"content": [{
-			"type": "leipzigjs-glossed-text",
-			"analyzed_text": "ehai-homá kád-∅ bhá nímaṣ-i hína bho-kátá.",
-			"gloss": "冠-GEN 光-NOM 全ての 民族-POST ～に 満たしている-3N.PST.PTCP",
-			"translation": "冠の光で全ての民族は満ちている。"
-		}]
-	},
-	{"document_title": "「冠光」のパイグ語歌詞冒頭を直訳しようとしたやつ",
-		"type": "raw-text-doc",
-		"text": "ehaihomá kád bhá nímaṣi hína bhokátá."
-	},
-	{"document_title": "バート語辞書",
+	{
+		"document_title": "「冠光」のパイグ語歌詞冒頭を直訳しようとしたやつ",
 		"type": "leipzigjs-glossed-doc",
 		"content": [
 			{
-				"section_title": "", 
+				"type": "leipzigjs-glossed-text",
+				"analyzed_text": "ehai-homá kád-∅ bhá nímaṣ-i hína bho-kátá.",
+				"gloss": "冠-GEN 光-NOM 全ての 民族-POST ～に 満たしている-3N.PST.PTCP",
+				"translation": "冠の光で全ての民族は満ちている。"
+			}
+		]
+	},
+	{
+		"document_title": "「冠光」のパイグ語歌詞冒頭を直訳しようとしたやつ",
+		"type": "raw-text-doc",
+		"text": "ehaihomá kád bhá nímaṣi hína bhokátá."
+	},
+	{
+		"document_title": "バート語辞書",
+		"type": "leipzigjs-glossed-doc",
+		"content": [
+			{
+				"type": "section",
+				"section_title": "",
 				"content": [
 					{
 						"type": "leipzigjs-glossed-text",
@@ -621,6 +675,7 @@
 				]
 			},
 			{
+				"type": "section",
 				"section_title": "",
 				"content": [
 					{
@@ -628,12 +683,14 @@
 						"analyzed_text": "bhá ákíjam-i hína",
 						"gloss": "全ての 一日-POST ～に",
 						"translation": "毎日"
-					},{
+					},
+					{
 						"type": "leipzigjs-glossed-text",
 						"analyzed_text": "ákíjam-án nau-ḍi hína",
 						"gloss": "一日-GEN 全て-POST ～に",
 						"translation": "一日中"
-					},{
+					},
+					{
 						"type": "leipzigjs-glossed-text",
 						"analyzed_text": "bhá ákíjam-án nau-ḍi hína",
 						"gloss": "全ての 一日-POST 全て-POST ～に",
@@ -643,15 +700,18 @@
 			}
 		]
 	},
-	{"document_title": "バート語辞書",
+	{
+		"document_title": "バート語辞書",
 		"type": "raw-text-doc",
 		"text": "ṣoyabhau rúṣán bhoṇau\nbhá ákíjami hína\nákíjamán nauḍi hína\nbhá ákíjamán nauḍi hína"
 	},
-	{"document_title": "ṣahabát 詩 ― 「数字が集まり数が成る」",
+	{
+		"document_title": "ṣahabát 詩 ― 「数字が集まり数が成る」",
 		"type": "leipzigjs-glossed-doc",
 		"content": [
 			{
-				"section_title": "", 
+				"type": "section",
+				"section_title": "",
 				"content": [
 					{
 						"type": "leipzigjs-glossed-text",
@@ -678,9 +738,10 @@
 						"translation": "人が集まり祖国成る"
 					}
 				]
-			}, 
+			},
 			{
-				"section_title": "", 
+				"type": "section",
+				"section_title": "",
 				"content": [
 					{
 						"type": "leipzigjs-glossed-text",
@@ -710,11 +771,13 @@
 			}
 		]
 	},
-	{"document_title": "ṣahabát 詩 ― 「数字が集まり数が成る」",
+	{
+		"document_title": "ṣahabát 詩 ― 「数字が集まり数が成る」",
 		"type": "raw-text-doc",
 		"text": "bhájabáni dháradáká bágha janaká\nlíṇabáni dháradáká nautu janaká\nkádakáná dháradáká gháni janaká\násúka dháradáká síbha janaká\n\násúkazá ja síbha wáḷa janáká\nám síbha hemáká sáka ám hemúḷ\nám sáka hemáká ghíyo ám hemúḷ\nám ghíyo hemáká cánaj bom rakkúḷ"
 	},
-	{"document_title": "ṣahabát 詩 ― 「私が見ている海の色を」",
+	{
+		"document_title": "ṣahabát 詩 ― 「私が見ている海の色を」",
 		"type": "leipzigjs-glossed-doc",
 		"content": [
 			{
@@ -743,11 +806,13 @@
 			}
 		]
 	},
-	{"document_title": "ṣahabát 詩 ― 「私が見ている海の色を」",
+	{
+		"document_title": "ṣahabát 詩 ― 「私が見ている海の色を」",
 		"type": "raw-text-doc",
-		"text": "okákadína bhodihomá bhogele\nṣot rízai rúṣi hína ám heyádhí.\nbhajъdína sádhel seṇa ghaccáká\nkáom nau kádi hína rakkúḷ huṭeúḷ." 
+		"text": "okákadína bhodihomá bhogele\nṣot rízai rúṣi hína ám heyádhí.\nbhajъdína sádhel seṇa ghaccáká\nkáom nau kádi hína rakkúḷ huṭeúḷ."
 	},
-	{"document_title": "いせにほスキュリオーティエ・バート語の現代語訳",
+	{
+		"document_title": "いせにほスキュリオーティエ・バート語の現代語訳",
 		"type": "leipzigjs-glossed-doc",
 		"content": [
 			{
@@ -758,35 +823,48 @@
 			}
 		]
 	},
-	{"document_title": "いせにほスキュリオーティエ・バート語の現代語訳",
+	{
+		"document_title": "いせにほスキュリオーティエ・バート語の現代語訳",
 		"type": "raw-text-doc",
 		"text": "júpheja amáma núsudhel eyáúḷ ám bhátamú?"
 	},
-	{"document_title": "investigate.html から抽出した文例",
+	{
+		"document_title": "investigate.html から抽出した文例",
 		"type": "leipzigjs-glossed-doc",
 		"metadata": {
 			"src_link": "http://jurliyuuri.com/bhaataan/investigate.html"
 		},
 		"content": [
 			{
+				"type": "section",
 				"section_title": "節70-2.",
 				"content": [
-					{"sidenote_title": "", "type": "plaintext-sidenote", "sidenote": "文法書規則「否定の対象が脳内で特定されている場合は、対象の数に合わせて単複を使い分ける。」の具体例。「注文して届いているはずの複数の絵がまだ届いていなかった」という状況で可能となる発話。"},
-					{"section_title": "", "content": [
-						{
-							"type": "leipzigjs-glossed-text",
-							"text": "kom leghazá ám hemakátá hem.",
-							"analyzed_text": "kom legha-zá ám hem-akátá hem.",
-							"gloss": "この 絵-NOM.PL 〜しない　在る-3N.PST.PTCP PFV",
-							"translation": "その複数の絵は無かった。"
-						}
-					]}
+					{
+						"sidenote_title": "",
+						"type": "plaintext-sidenote",
+						"sidenote": "文法書規則「否定の対象が脳内で特定されている場合は、対象の数に合わせて単複を使い分ける。」の具体例。「注文して届いているはずの複数の絵がまだ届いていなかった」という状況で可能となる発話。"
+					},
+					{
+						"type": "section",
+						"section_title": "",
+						"content": [
+							{
+								"type": "leipzigjs-glossed-text",
+								"text": "kom leghazá ám hemakátá hem.",
+								"analyzed_text": "kom legha-zá ám hem-akátá hem.",
+								"gloss": "この 絵-NOM.PL 〜しない　在る-3N.PST.PTCP PFV",
+								"translation": "その複数の絵は無かった。"
+							}
+						]
+					}
 				]
-			}, 
+			},
 			{
+				"type": "section",
 				"section_title": "節166-2.",
 				"content": [
 					{
+						"type": "section",
 						"section_title": "",
 						"content": [
 							{
@@ -798,6 +876,7 @@
 						]
 					},
 					{
+						"type": "section",
 						"section_title": "",
 						"content": [
 							{
@@ -809,6 +888,7 @@
 						]
 					},
 					{
+						"type": "section",
 						"section_title": "",
 						"content": [
 							{
@@ -820,6 +900,7 @@
 						]
 					},
 					{
+						"type": "section",
 						"section_title": "",
 						"content": [
 							{
@@ -831,6 +912,7 @@
 						]
 					},
 					{
+						"type": "section",
 						"section_title": "",
 						"content": [
 							{
@@ -842,6 +924,7 @@
 						]
 					},
 					{
+						"type": "section",
 						"section_title": "",
 						"content": [
 							{
@@ -856,14 +939,18 @@
 			}
 		]
 	},
-	{"document_title": "investigate.html から抽出した文例",
+	{
+		"document_title": "investigate.html から抽出した文例",
 		"type": "raw-text-doc",
 		"text": "ám bhárakátá joya ghánidhel janádhí.\nám bhárakátásá ghánidhel janádhí.\nám bhárakátásá joya ghánidhel janá-dhí.\nghánidhel janádhí ám bhárakátásá.\nám bhárakátásá ghánidhel janánidhí.\nghánidhel janánidhí ám bhárakátásá."
 	},
-	{"document_title": "skurlavenija.mavijaの作文およびその添削",
+	{
+		"document_title": "skurlavenija.mavijaの作文およびその添削",
 		"type": "leipzigjs-glossed-doc",
 		"content": [
-			{"section_for_inadequate_title": "",
+			{
+				"type": "section_for_inadequate",
+				"section_for_inadequate_title": "",
 				"content": [
 					{
 						"type": "leipzigjs-glossed-text",
@@ -873,7 +960,9 @@
 					}
 				]
 			},
-			{"section_title": "",
+			{
+				"type": "section",
+				"section_title": "",
 				"content": [
 					{
 						"type": "leipzigjs-glossed-text",
@@ -884,6 +973,7 @@
 				]
 			},
 			{
+				"type": "section_for_inadequate",
 				"section_for_inadequate_title": "",
 				"content": [
 					{
@@ -895,6 +985,7 @@
 				]
 			},
 			{
+				"type": "section",
 				"section_title": "",
 				"content": [
 					{
@@ -906,6 +997,7 @@
 				]
 			},
 			{
+				"type": "section",
 				"section_title": "",
 				"content": [
 					{
@@ -917,6 +1009,7 @@
 				]
 			},
 			{
+				"type": "section_for_inadequate",
 				"section_for_inadequate_title": "",
 				"content": [
 					{
@@ -928,6 +1021,7 @@
 				]
 			},
 			{
+				"type": "section",
 				"section_title": "",
 				"content": [
 					{
@@ -939,6 +1033,7 @@
 				]
 			},
 			{
+				"type": "section",
 				"section_title": "",
 				"content": [
 					{
@@ -950,6 +1045,7 @@
 				]
 			},
 			{
+				"type": "section",
 				"section_title": "",
 				"content": [
 					{
@@ -961,6 +1057,7 @@
 				]
 			},
 			{
+				"type": "section",
 				"section_title": "",
 				"content": [
 					{
@@ -995,66 +1092,78 @@
 					}
 				]
 			}
-
 		]
 	},
-	{"document_title": "skurlavenija.mavijaの作文およびその添削", 
+	{
+		"document_title": "skurlavenija.mavijaの作文およびその添削",
 		"type": "raw-text-doc",
 		"text": "* ásúkazá nuttahomá sujaze ja ṣibhai ásúkaomá sujaká.\násúkazá nuttadhel sujaze ja ṣibhai ásúkadhelá sujaká.\násúkazá nuttaḍi ema hem.\n* ásúkazá nuttaḍi hína cajazená.\nbohúḷ ema rijadína!\n* hodhel nána ká nána dímadhel nána adheṣá ám zámabhápakátá accabáta hem bhá rízele zádebáta cánajamúná?\násúka nána adheṣá ám zámabhápazená dímadhel horabáta hem bhá rízele zádeúḷ ema cánajamúná?\nwátimilíju ghitto, áma zádedhí t.\nwátimilíju ghitto, áma zádedína t.\nkaikaziná bhán ápaom ṣot nautu ja kom híjadhel kádakátá sáḍi ghi dákínabohadína.\n"
 	},
-	{"document_title": "『勇気のしるし』",
-		"type": "leipzigjs-glossed-doc",
-		"content": [
-			{"section_title": "", "content": [
-				{
-					"type": "leipzigjs-glossed-text",
-					"analyzed_text": "kujacú-∅ jo úro-om bákatú-om áphíyo-∅ t.",
-					"gloss": "黄色-ZERO または 黒-GEN 勇者-GEN シンボル-NOM (感嘆)",
-					"translation": "黄色い、または、黒い、勇者のシンボルであるよ！"
-				},
-				{
-					"type": "leipzigjs-glossed-text",
-					"analyzed_text": "ákíjam-án nau-ḍína kaik-úḷ ∅ ácah-amúná?",
-					"gloss": "一日-GEN 全て-〜で 打ち勝とうとする-INF-POST [-ACC] ～ができる-2.PST.PTCP",
-					"translation": "あなたは一日中戦うことができるか？"
-				},
-				{
-					"type": "leipzigjs-glossed-text",
-					"analyzed_text": "lighein-∅, lighein-∅, bháma-homá lighein-∅.",
-					"gloss": "リゲイン-NOM リゲイン-NOM 我々(包括)-GEN リゲイン-NOM",
-					"translation": "リゲイン、リゲイン、我々（包括）のリゲイン。"
-				},
-				{
-					"type": "leipzigjs-glossed-text",
-					"analyzed_text": "bákatú-om áphíyo-∅ hem-akátá táphíyot-∅.",
-					"gloss": "勇者-GEN シンボル-NOM 在る-3N.PST.PTCP.REL おしゃれな箱-NOM",
-					"translation": "勇者のシンボルがある（=が入っている）ケース。"
-				},
-				{
-					"type": "leipzigjs-glossed-text",
-					"analyzed_text": "bháhepa-om nau-ḍína kaik-úḷ ∅ ácah-amúná?",
-					"gloss": "国際的な-GEN 全て-〜で 打ち勝とうとする-INF-POST [-ACC] ～ができる-2.PST.PTCP",
-					"translation": "あなたは世界中で戦うことができるか？"
-				},
-				{
-					"type": "leipzigjs-glossed-text",
-					"analyzed_text": "elameniác-∅, elameniác-∅, jápáeo-om elameniác-∅.",
-					"gloss": "働く人-NOM 働く人-NOM 日本-GEN 働く人-NOM",
-					"translation": "働く人、働く人、日本の働く人。"
-				}
-			]},
-			{"sidenote_title": "備考", "type": "html-sidenote", "sidenote": "<ul>\n\t<li>ákíjamán nauḍína kaikúḷ ácahamúná? においては、二人称語尾が主格を追い出すのでemaが省略できている。</li>\n\t<li>音節頭にi-を綴るのはかなり珍しいが、外来語の音写ならありえなくもないのだろう。あとはまあghittoは/ji/の音写なのに対し、「リゲイン」は/ʔi/なのでiで写すのかも。あとghittoはバート語に取り込まれているという違いもある。</li></ul>"}
-		]
-	},
-	{"document_title": "『勇気のしるし』",
-		"type": "raw-text-doc",
-		"text": "kujacú jo úroom bákatúom áphíyo t.\nákíjamán nauḍína kaikúḷ ácahamúná?\nlighein, lighein, bhámahomá lighein.\nbákatúom áphíyo hemakátá táphíyot.\nbháhepaom nauḍína kaikúḷ ácahamúná?\nelameniác, elameniác, jápáeoom elameniác."
-	},
-	{"document_title": "jekto.vatimeliju自己紹介",
+	{
+		"document_title": "『勇気のしるし』",
 		"type": "leipzigjs-glossed-doc",
 		"content": [
 			{
-				"section_title": "", 
+				"type": "section",
+				"section_title": "",
+				"content": [
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "kujacú-∅ jo úro-om bákatú-om áphíyo-∅ t.",
+						"gloss": "黄色-ZERO または 黒-GEN 勇者-GEN シンボル-NOM (感嘆)",
+						"translation": "黄色い、または、黒い、勇者のシンボルであるよ！"
+					},
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "ákíjam-án nau-ḍína kaik-úḷ ∅ ácah-amúná?",
+						"gloss": "一日-GEN 全て-〜で 打ち勝とうとする-INF-POST [-ACC] ～ができる-2.PST.PTCP",
+						"translation": "あなたは一日中戦うことができるか？"
+					},
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "lighein-∅, lighein-∅, bháma-homá lighein-∅.",
+						"gloss": "リゲイン-NOM リゲイン-NOM 我々(包括)-GEN リゲイン-NOM",
+						"translation": "リゲイン、リゲイン、我々（包括）のリゲイン。"
+					},
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "bákatú-om áphíyo-∅ hem-akátá táphíyot-∅.",
+						"gloss": "勇者-GEN シンボル-NOM 在る-3N.PST.PTCP.REL おしゃれな箱-NOM",
+						"translation": "勇者のシンボルがある（=が入っている）ケース。"
+					},
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "bháhepa-om nau-ḍína kaik-úḷ ∅ ácah-amúná?",
+						"gloss": "国際的な-GEN 全て-〜で 打ち勝とうとする-INF-POST [-ACC] ～ができる-2.PST.PTCP",
+						"translation": "あなたは世界中で戦うことができるか？"
+					},
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "elameniác-∅, elameniác-∅, jápáeo-om elameniác-∅.",
+						"gloss": "働く人-NOM 働く人-NOM 日本-GEN 働く人-NOM",
+						"translation": "働く人、働く人、日本の働く人。"
+					}
+				]
+			},
+			{
+				"sidenote_title": "備考",
+				"type": "html-sidenote",
+				"sidenote": "<ul>\n\t<li>ákíjamán nauḍína kaikúḷ ácahamúná? においては、二人称語尾が主格を追い出すのでemaが省略できている。</li>\n\t<li>音節頭にi-を綴るのはかなり珍しいが、外来語の音写ならありえなくもないのだろう。あとはまあghittoは/ji/の音写なのに対し、「リゲイン」は/ʔi/なのでiで写すのかも。あとghittoはバート語に取り込まれているという違いもある。</li></ul>"
+			}
+		]
+	},
+	{
+		"document_title": "『勇気のしるし』",
+		"type": "raw-text-doc",
+		"text": "kujacú jo úroom bákatúom áphíyo t.\nákíjamán nauḍína kaikúḷ ácahamúná?\nlighein, lighein, bhámahomá lighein.\nbákatúom áphíyo hemakátá táphíyot.\nbháhepaom nauḍína kaikúḷ ácahamúná?\nelameniác, elameniác, jápáeoom elameniác."
+	},
+	{
+		"document_title": "jekto.vatimeliju自己紹介",
+		"type": "leipzigjs-glossed-doc",
+		"content": [
+			{
+				"type": "section",
+				"section_title": "",
 				"content": [
 					{
 						"type": "leipzigjs-glossed-text",
@@ -1069,16 +1178,21 @@
 						"translation": "バート語を作っている。"
 					}
 				]
-			}, {
-				"sidenote_title": "備考", "type": "html-sidenote", "sidenote": "<ul>\n\t<li>xízíaとápa wátimilíju ghitto hemは二つのaccabátに分かれる。</li>\n</ul>"
+			},
+			{
+				"sidenote_title": "備考",
+				"type": "html-sidenote",
+				"sidenote": "<ul>\n\t<li>xízíaとápa wátimilíju ghitto hemは二つのaccabátに分かれる。</li>\n</ul>"
 			}
 		]
 	},
-	{"document_title": "jekto.vatimeliju自己紹介",
+	{
+		"document_title": "jekto.vatimeliju自己紹介",
 		"type": "raw-text-doc",
 		"text": "xízía, ápa wátimilíju ghitto hem.\nbhátán zephadhel janádhí."
 	},
-	{"document_title": "アイル国際特別法廷",
+	{
+		"document_title": "アイル国際特別法廷",
 		"type": "leipzigjs-glossed-doc",
 		"content": [
 			{
@@ -1089,7 +1203,8 @@
 			}
 		]
 	},
-	{"document_title": "アイル国際特別法廷",
+	{
+		"document_title": "アイル国際特別法廷",
 		"type": "raw-text-doc",
 		"text": "ehaihomá bháhepahomá bháṭámakátá ṣíyabát"
 	}
