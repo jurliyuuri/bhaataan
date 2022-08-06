@@ -62,9 +62,9 @@ export type BoxForInadequate<Txt> = {
     "lines": Txt[],
 }
 
-export type Node<Txt> = Sidenote | Section<Txt> | Box<Txt> | BoxForInadequate<Txt>;
+export type Elem<Txt> = Sidenote | Section<Txt> | Box<Txt> | BoxForInadequate<Txt>;
 
-export type Content<Txt> = Txt[] | Node<Txt>[];
+export type Content<Txt> = Txt[] | Elem<Txt>[];
 
 export type Metadata = {
     // "relevant_links"?: URLString[],
@@ -76,7 +76,7 @@ export type LeipzigJsGlossedDoc = {
     "document_title": string,
     "metadata"?: Metadata,
     "type": "leipzigjs-glossed-doc",
-    "content": Node<LeipzigJsGlossedText>[],
+    "content": Elem<LeipzigJsGlossedText>[],
 };
 
 export type RawTextDoc = {

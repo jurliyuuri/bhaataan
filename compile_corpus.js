@@ -30,14 +30,42 @@ let dictionary_eng = JSON.parse(fs.readFileSync('bhat-to-eng.json', { encoding: 
 const corpus = JSON.parse(fs.readFileSync('corpus/index.corpus.json', { encoding: 'utf8', flag: 'r' }));
 /*for (let doc of corpus) {
     if (doc.type === "leipzigjs-glossed-doc") {
-        if (isLeipzigJsGlossedText(doc.content[0])) {
-            let box: Box<LeipzigJsGlossedText> = {
-                "type": "box",
-                "box_title": "",
-                "lines": doc.content as LeipzigJsGlossedText[],
-            };
-            doc.content = [box];
+        for (let i = 0; i < doc.content.length; i++) {
+            doc.content[i] = upgradeElem(doc.content[i]);
         }
+    }
+}
+
+function upgradeElem(elem: Elem<LeipzigJsGlossedText>): Elem<LeipzigJsGlossedText> {
+    if (elem.type !== "section") return elem;
+    if (isLeipzigJsGlossedText(elem.content[0])) {
+        if (elem.metadata) {
+            return {
+                "type": "section",
+                "section_title": "",
+                "content": [{
+                    "type": "box",
+                    "box_title": elem.section_title,
+                    "metadata": elem.metadata,
+                    "lines": elem.content as LeipzigJsGlossedText[],
+                }]
+            }
+        } else {
+            return {
+                "type": "section",
+                "section_title": "",
+                "content": [{
+                    "type": "box",
+                    "box_title": elem.section_title,
+                    "lines": elem.content as LeipzigJsGlossedText[],
+                }]
+            }
+        }
+    } else {
+        for (let i = 0; i < elem.content.length; i++) {
+            elem.content[i] = upgradeElem(elem.content[i] as Elem<LeipzigJsGlossedText>);
+        }
+        return elem;
     }
 }
 
