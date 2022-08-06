@@ -85,8 +85,8 @@
 				]
 			},
 			{"sidenote_title": "備考",
-				"type": "html-sidenote",
-				"html": "díṣlo「花」は単複同形であることに注意せよ。"
+				"type": "plaintext-sidenote",
+				"sidenote": "díṣlo「花」は単複同形であることに注意せよ。"
 			},
 			{"section_title": "第三段落",
 				"content": [
@@ -160,7 +160,7 @@
 			},
 			{"sidenote_title": "備考",
 				"type": "html-sidenote",
-				"html": "<ul>\n\t<li>aḍuhazobhápazenáは「過去の特定の時点以前に見た結果、過去の段階で見た経験を持っていた(動作動詞大過去)」なので、それを否定すれば「見たことがなかった」になる。</li>\n\t<li>原文ではウサギをitで指していることもあり、ウサギの行動は「指示・固有」で訳している。</li>\n</ul>"
+				"sidenote": "<ul>\n\t<li>aḍuhazobhápazenáは「過去の特定の時点以前に見た結果、過去の段階で見た経験を持っていた(動作動詞大過去)」なので、それを否定すれば「見たことがなかった」になる。</li>\n\t<li>原文ではウサギをitで指していることもあり、ウサギの行動は「指示・固有」で訳している。</li>\n</ul>"
 			}
 		]
 	},
@@ -170,7 +170,7 @@
 	},
 	{"document_title": "「冠光―アイル共和国国歌」",
 		"metadata": {
-			"relevant_links": [ "https://soundcloud.com/s-y-736219243/oavlsklolax1" ]
+			"src_link":  "https://soundcloud.com/s-y-736219243/oavlsklolax1" 
 		},
 		"type": "leipzigjs-glossed-doc",
 		"content": [
@@ -202,9 +202,8 @@
 	},
 	{"document_title": "「冠光―アイル共和国国歌」",
 		"metadata": {
-			"relevant_links": [
+			"src_link": 
 				"https://soundcloud.com/s-y-736219243/oavlsklolax1"
-			]
 		},
 		"type": "raw-text-doc",
 		"text": "ṣomadhí ha síbhabhau, \nṣomadhí ha aṭam_kád.\nkáṇám rakk khakán síbha\nwoghitiná bhán sakká, á!"
@@ -212,11 +211,10 @@
 	{"document_title": "「リパライン倉庫」からの引用",
 		"type": "leipzigjs-glossed-doc",
 		"content": [
-			{"section_title": "Pi'en menisse'd chafi'ofes fantas: ákíjamán dhoḷopáná ṣibhaiomá dhárad",
+			{"section_title": "Pi'en menisse'd chafi'ofes fantas",
 				"metadata": {
-					"relevant_links": [
+					"src_link": 
 						"https://web.archive.org/web/20201016212529/https://sites.google.com/site/riparaincangku/yuesureone-ren-gong-shi-jie-she-ding/li-shi/philerl/pyjen-menisss-chafiofes-fantas"
-					]
 				},
 				"content": [
 					{
@@ -227,11 +225,10 @@
 					}
 				]
 			}, 
-			{"section_title": "フェディア文化共同体: pediahomá horabátáná dhárad",
+			{"section_title": "フェディア文化共同体",
 				"metadata": {
-					"relevant_links": [
+					"src_link": 
 						"https://web.archive.org/web/20201016212533/https://sites.google.com/site/riparaincangku/yuesureone-ren-gong-shi-jie-she-ding/li-shi/philerl/cmf"
-					]
 				},
 				"content": [
 					{
@@ -242,9 +239,9 @@
 					}
 				]
 			},
-			{"section_title": "バート語（旧サイト）: ",
+			{"section_title": "バート語（旧サイト）",
 				"metadata": {
-					"relevant_links": [
+					"src_link": [
 						"https://web.archive.org/web/20201010211053/https://sites.google.com/site/3tvalineparine/plsnk/bhat"
 					]
 				},
@@ -277,7 +274,7 @@
 			{
 				"sidenote_title": "原文",
 				"type": "html-sidenote",
-				"html": "<p>'munq: ám bhátadína hem. 喋ってないです</p>\n<p>dradq: ákíjamán dhoḷopáná ṣibhaiomá dhárad 東諸島共和国連合</p>\n<p>i'q: ká ṣomazená, káom síbhaḍi hína. 彼女は彼女の故郷で功績を上げた。</p>\n<p>nimslu: nímaṣáná taku 連邦</p>\n<p>phed: ápa aṭamáná manámanelená bhátadhí. 私は神の親を話す</p>\n<p>pura: kiṣlo bhárabáta ek. 彼等は風邪に掛かったらしい</p>\n<p>qmuile': amilahomá nutta 魚醤、ナンプラー</p>\n<p>sljoomq: juecleone juecleonehomá ṣomatákuhomá aṭazahomá xejuhomá nímaṣáná taku　ユエスレオネ・ユエスレオネ社会主義シェユ連邦</p>\n<p>srakkq: ámaom cákíkamúná síbha? あなたは何処の出身ですか？</p>\n<p>srakkq: sákahomá ḍázá 路商；露天商</p>\n<p>zau: nánadhel zamú! 何をする！!</p>"
+				"sidenote": "<p>'munq: ám bhátadína hem. 喋ってないです</p>\n<p>dradq: ákíjamán dhoḷopáná ṣibhaiomá dhárad 東諸島共和国連合</p>\n<p>i'q: ká ṣomazená, káom síbhaḍi hína. 彼女は彼女の故郷で功績を上げた。</p>\n<p>nimslu: nímaṣáná taku 連邦</p>\n<p>phed: ápa aṭamáná manámanelená bhátadhí. 私は神の親を話す</p>\n<p>pura: kiṣlo bhárabáta ek. 彼等は風邪に掛かったらしい</p>\n<p>qmuile': amilahomá nutta 魚醤、ナンプラー</p>\n<p>sljoomq: juecleone juecleonehomá ṣomatákuhomá aṭazahomá xejuhomá nímaṣáná taku　ユエスレオネ・ユエスレオネ社会主義シェユ連邦</p>\n<p>srakkq: ámaom cákíkamúná síbha? あなたは何処の出身ですか？</p>\n<p>srakkq: sákahomá ḍázá 路商；露天商</p>\n<p>zau: nánadhel zamú! 何をする！!</p>"
 			},
 			{
 				"section_title": "",
@@ -358,13 +355,18 @@
 			{
 				"sidenote_title": "経緯",
 				"type": "html-sidenote",
-				"html": "<p>2018年4月11日に「サボっちゃだめかしら？」の翻訳をして欲しいとfafs氏からDMで依頼され、生成された文。</p>\n<p>ám bohúḷ, ko danúḷ heyákáṣlo? サボっちゃだめかしら？</p>"
+				"sidenote": "<p>2018年4月11日に「サボっちゃだめかしら？」の翻訳をして欲しいとfafs氏からDMで依頼され、生成された文。</p>\n<p>ám bohúḷ, ko danúḷ heyákáṣlo? サボっちゃだめかしら？</p>"
 			},
 			{
-				"type": "leipzigjs-glossed-text",
-				"analyzed_text": "ám boh-úḷ-∅, ko dan-úḷ-∅ heyákáṣlo?",
-				"gloss": "〜しない 出席する-INF-NOM, これ-NOM 状況的に可能である-INF-NOM 思う-3N.FUT.PTCP（＝だろうか）",
-				"translation": "出席しないこと、それは(状況的に)構わないだろうか？"
+				"section_title": "", 
+				"content":[
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "ám boh-úḷ-∅, ko dan-úḷ-∅ heyákáṣlo?",
+						"gloss": "〜しない 出席する-INF-NOM, これ-NOM 状況的に可能である-INF-NOM 思う-3N.FUT.PTCP（＝だろうか）",
+						"translation": "出席しないこと、それは(状況的に)構わないだろうか？"
+					}
+				]
 			}
 		]
 	},
@@ -501,6 +503,7 @@
 		"text": "nautuhomá \"phúpen\" bhátán rásitele ám bhomakátá, dí wephiseḍi oṣa cákíkúḷ áṣá."
 	},
 	{"document_title": "「これはバート語です。」",
+		"type": "leipzigjs-glossed-doc",
 		"content": [
 			{
 				"sidenote_title": "",
@@ -542,6 +545,10 @@
 				]
 			}
 		]
+	},
+	{"document_title": "「これはバート語です。」",
+		"type": "raw-text-doc",
+		"text": "ko bhátán.\nko bhátán hem.\nko bhátán accabát.\n* ko bhátán zepha hem."
 	},
 	{"document_title": "「今日は国際母語の日！」",
 		"type": "leipzigjs-glossed-doc",
@@ -612,109 +619,105 @@
 		"type": "raw-text-doc",
 		"text": "ṣoyabhau rúṣán bhoṇau"
 	},
-	{"folder_title": "ṣahabát 詩集",
-		"docs": [
-			{"document_title": "「数字が集まり数が成る」",
-				"type": "leipzigjs-glossed-doc",
-				"content": [
-					{
-						"section_title": "", 
-						"content": [
-							{
-								"type": "leipzigjs-glossed-text",
-								"analyzed_text": "bhájabáni-∅ dhárad-áká bágha-∅ jan-aká",
-								"gloss": "数字-NOM 集まる-ADV 数-NOM 生まれる-3N.REAL",
-								"translation": "数字が集まり数が成る"
-							},
-							{
-								"type": "leipzigjs-glossed-text",
-								"analyzed_text": "líṇabáni-∅ dhárad-áká nautu-∅ jan-aká",
-								"gloss": "燐字-NOM 集まる-ADV 単語-NOM 生まれる-3N.REAL",
-								"translation": "燐字が集まり言葉成る"
-							},
-							{
-								"type": "leipzigjs-glossed-text",
-								"analyzed_text": "kádakáná-∅ dhárad-áká gháni-∅ jan-aká",
-								"gloss": "火花-NOM 集まる-ADV 火-NOM 生まれる-3N.REAL",
-								"translation": "火花集まり炎成る"
-							},
-							{
-								"type": "leipzigjs-glossed-text",
-								"analyzed_text": "ásúka-∅ dhárad-áká síbha-∅ jan-aká",
-								"gloss": "人-NOM 集まる-ADV 祖国-NOM 生まれる-3N.REAL",
-								"translation": "人が集まり祖国成る"
-							}
-						]
-					}, 
-					{
-						"section_title": "", 
-						"content": [
-							{
-								"type": "leipzigjs-glossed-text",
-								"analyzed_text": "ásúka-zá ja síbha wáḷa janá-ká",
-								"gloss": "人-NOM.PL と 国-NOM 互いに 生む-3N.REAL",
-								"translation": "互いを生み出す人と国"
-							},
-							{
-								"type": "leipzigjs-glossed-text",
-								"analyzed_text": "ám síbha-∅ hem-áká sáka-∅ ám hem-úḷ-∅",
-								"gloss": "ない 国-NOM 在る-ADV 道-NOM ない 在る-INF-POST",
-								"translation": "祖国無くては道無しと、"
-							},
-							{
-								"type": "leipzigjs-glossed-text",
-								"analyzed_text": "ám sáka-∅ hem-áká ghíyo-∅ ám hem-úḷ-∅",
-								"gloss": "ない 道-NOM 在る-ADV 塩-NOM ない 在る-INF-POST",
-								"translation": "道が無くては塩無しと、"
-							},
-							{
-								"type": "leipzigjs-glossed-text",
-								"analyzed_text": "ám ghíyo hemáká cánaj-∅ bom rakk-úḷ-∅",
-								"gloss": "ない 塩-NOM 在る-ADV 知る-IMP できない 生きる-INF-POST",
-								"translation": "塩無き命は無しと知れ。"
-							}
-						]
-					}
-				]
-			},
-			{"document_title": "「数字が集まり数が成る」",
-				"type": "raw-text-doc",
-				"text": "bhájabáni dháradáká bágha janaká\nlíṇabáni dháradáká nautu janaká\nkádakáná dháradáká gháni janaká\násúka dháradáká síbha janaká\n\násúkazá ja síbha wáḷa janáká\nám síbha hemáká sáka ám hemúḷ\nám sáka hemáká ghíyo ám hemúḷ\nám ghíyo hemáká cánaj bom rakkúḷ"
-			},
-			{"document_title": "「私が見ている海の色を」",
-				"type": "leipzigjs-glossed-doc",
+	{"document_title": "ṣahabát 詩 ― 「数字が集まり数が成る」",
+		"type": "leipzigjs-glossed-doc",
+		"content": [
+			{
+				"section_title": "", 
 				"content": [
 					{
 						"type": "leipzigjs-glossed-text",
-						"analyzed_text": "okák-adína bhodi-homá bhog-ele",
-						"gloss": "見ている-1.PST.PTCP 海-GEN 色-ACC",
-						"translation": "私が見ている海の色を、"
+						"analyzed_text": "bhájabáni-∅ dhárad-áká bágha-∅ jan-aká",
+						"gloss": "数字-NOM 集まる-ADV 数-NOM 生まれる-3N.REAL",
+						"translation": "数字が集まり数が成る"
 					},
 					{
 						"type": "leipzigjs-glossed-text",
-						"analyzed_text": "ṣot ríz-ai rúṣ-i hína ám heyá-dhí.",
-						"gloss": "多くの 希望-INS 下-POST ～で ～しない 思う-1.REAL",
-						"translation": "多くの明るい見通しの後で私は思わない。"
+						"analyzed_text": "líṇabáni-∅ dhárad-áká nautu-∅ jan-aká",
+						"gloss": "燐字-NOM 集まる-ADV 単語-NOM 生まれる-3N.REAL",
+						"translation": "燐字が集まり言葉成る"
 					},
 					{
 						"type": "leipzigjs-glossed-text",
-						"analyzed_text": "bhaj-ъdína sá-dhel seṇa ghacc-áká",
-						"gloss": "心ひかれている-1.PST.PTCP 女性-ACC 突然 新たに知る-ADV",
-						"translation": "私が心引かれる女性を突然に新たに知って（≒見て）、"
+						"analyzed_text": "kádakáná-∅ dhárad-áká gháni-∅ jan-aká",
+						"gloss": "火花-NOM 集まる-ADV 火-NOM 生まれる-3N.REAL",
+						"translation": "火花集まり炎成る"
 					},
 					{
 						"type": "leipzigjs-glossed-text",
-						"analyzed_text": "ká-om nau-∅ kád-i hína rakk-úḷ-∅ huṭe-úḷ.",
-						"gloss": "彼女-GEN 全て-NOM 視線-POST ～で 生きている-INF-NOM 始まる-INF",
-						"translation": "（ちょうどその瞬間に）彼女のすべてが視線において生き始めた"
+						"analyzed_text": "ásúka-∅ dhárad-áká síbha-∅ jan-aká",
+						"gloss": "人-NOM 集まる-ADV 祖国-NOM 生まれる-3N.REAL",
+						"translation": "人が集まり祖国成る"
 					}
 				]
-			},
-			{"document_title": "「私が見ている海の色を」",
-				"type": "raw-text-doc",
-				"text": "okákadína bhodihomá bhogele\nṣot rízai rúṣi hína ám heyádhí.\nbhajъdína sádhel seṇa ghaccáká\nkáom nau kádi hína rakkúḷ huṭeúḷ." 
+			}, 
+			{
+				"section_title": "", 
+				"content": [
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "ásúka-zá ja síbha wáḷa janá-ká",
+						"gloss": "人-NOM.PL と 国-NOM 互いに 生む-3N.REAL",
+						"translation": "互いを生み出す人と国"
+					},
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "ám síbha-∅ hem-áká sáka-∅ ám hem-úḷ-∅",
+						"gloss": "ない 国-NOM 在る-ADV 道-NOM ない 在る-INF-POST",
+						"translation": "祖国無くては道無しと、"
+					},
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "ám sáka-∅ hem-áká ghíyo-∅ ám hem-úḷ-∅",
+						"gloss": "ない 道-NOM 在る-ADV 塩-NOM ない 在る-INF-POST",
+						"translation": "道が無くては塩無しと、"
+					},
+					{
+						"type": "leipzigjs-glossed-text",
+						"analyzed_text": "ám ghíyo hemáká cánaj-∅ bom rakk-úḷ-∅",
+						"gloss": "ない 塩-NOM 在る-ADV 知る-IMP できない 生きる-INF-POST",
+						"translation": "塩無き命は無しと知れ。"
+					}
+				]
 			}
 		]
+	},
+	{"document_title": "ṣahabát 詩 ― 「数字が集まり数が成る」",
+		"type": "raw-text-doc",
+		"text": "bhájabáni dháradáká bágha janaká\nlíṇabáni dháradáká nautu janaká\nkádakáná dháradáká gháni janaká\násúka dháradáká síbha janaká\n\násúkazá ja síbha wáḷa janáká\nám síbha hemáká sáka ám hemúḷ\nám sáka hemáká ghíyo ám hemúḷ\nám ghíyo hemáká cánaj bom rakkúḷ"
+	},
+	{"document_title": "ṣahabát 詩 ― 「私が見ている海の色を」",
+		"type": "leipzigjs-glossed-doc",
+		"content": [
+			{
+				"type": "leipzigjs-glossed-text",
+				"analyzed_text": "okák-adína bhodi-homá bhog-ele",
+				"gloss": "見ている-1.PST.PTCP 海-GEN 色-ACC",
+				"translation": "私が見ている海の色を、"
+			},
+			{
+				"type": "leipzigjs-glossed-text",
+				"analyzed_text": "ṣot ríz-ai rúṣ-i hína ám heyá-dhí.",
+				"gloss": "多くの 希望-INS 下-POST ～で ～しない 思う-1.REAL",
+				"translation": "多くの明るい見通しの後で私は思わない。"
+			},
+			{
+				"type": "leipzigjs-glossed-text",
+				"analyzed_text": "bhaj-ъdína sá-dhel seṇa ghacc-áká",
+				"gloss": "心ひかれている-1.PST.PTCP 女性-ACC 突然 新たに知る-ADV",
+				"translation": "私が心引かれる女性を突然に新たに知って（≒見て）、"
+			},
+			{
+				"type": "leipzigjs-glossed-text",
+				"analyzed_text": "ká-om nau-∅ kád-i hína rakk-úḷ-∅ huṭe-úḷ.",
+				"gloss": "彼女-GEN 全て-NOM 視線-POST ～で 生きている-INF-NOM 始まる-INF",
+				"translation": "（ちょうどその瞬間に）彼女のすべてが視線において生き始めた"
+			}
+		]
+	},
+	{"document_title": "ṣahabát 詩 ― 「私が見ている海の色を」",
+		"type": "raw-text-doc",
+		"text": "okákadína bhodihomá bhogele\nṣot rízai rúṣi hína ám heyádhí.\nbhajъdína sádhel seṇa ghaccáká\nkáom nau kádi hína rakkúḷ huṭeúḷ." 
 	},
 	{"document_title": "いせにほスキュリオーティエ・バート語の現代語訳",
 		"type": "leipzigjs-glossed-doc",
@@ -732,8 +735,9 @@
 		"text": "júpheja amáma núsudhel eyáúḷ ám bhátamú?"
 	},
 	{"document_title": "investigate.html から抽出した文例",
+		"type": "leipzigjs-glossed-doc",
 		"metadata": {
-			"relevant_links": ["http://jurliyuuri.com/bhaataan/investigate.html"]
+			"src_link": "http://jurliyuuri.com/bhaataan/investigate.html"
 		},
 		"content": [
 			{
@@ -755,40 +759,70 @@
 				"section_title": "節166-2.",
 				"content": [
 					{
-						"type": "leipzigjs-glossed-text",
-						"analyzed_text": "ám bhár-akátá joya gháni-dhel janá-dhí.",
-						"gloss": "〜しない 風が吹いている-3N.PST.PTCP ならば 火-ACC 作る-1.REAL",
-						"translation": "もし風が吹いていないなら、私は火を起こす。"
+						"section_title": "",
+						"content": [
+							{
+								"type": "leipzigjs-glossed-text",
+								"analyzed_text": "ám bhár-akátá joya gháni-dhel janá-dhí.",
+								"gloss": "〜しない 風が吹いている-3N.PST.PTCP ならば 火-ACC 作る-1.REAL",
+								"translation": "もし風が吹いていないなら、私は火を起こす。"
+							}
+						]
 					},
 					{
-						"type": "leipzigjs-glossed-text",
-						"analyzed_text": "ám bhár-akátá-sá gháni-dhel janá-dhí.",
-						"gloss": "〜しない 風が吹いている-3N.PST.PTCP-COND 火-ACC 作る-1.REAL",
-						"translation": "もし風が吹いていないなら、私は火を起こす。"
+						"section_title": "",
+						"content": [
+							{
+								"type": "leipzigjs-glossed-text",
+								"analyzed_text": "ám bhár-akátá-sá gháni-dhel janá-dhí.",
+								"gloss": "〜しない 風が吹いている-3N.PST.PTCP-COND 火-ACC 作る-1.REAL",
+								"translation": "もし風が吹いていないなら、私は火を起こす。"
+							}
+						]
 					},
 					{
-						"type": "leipzigjs-glossed-text",
-						"analyzed_text": "ám bhár-akátá-sá joya gháni-dhel janá-dhí.",
-						"gloss": "〜しない 風が吹いている-3N.PST.PTCP-COND ならば 火-ACC 作る-1.REAL",
-						"translation": "もし風が吹いていないなら、私は火を起こす。"
+						"section_title": "",
+						"content": [
+							{
+								"type": "leipzigjs-glossed-text",
+								"analyzed_text": "ám bhár-akátá-sá joya gháni-dhel janá-dhí.",
+								"gloss": "〜しない 風が吹いている-3N.PST.PTCP-COND ならば 火-ACC 作る-1.REAL",
+								"translation": "もし風が吹いていないなら、私は火を起こす。"
+							}
+						]
 					},
 					{
-						"type": "leipzigjs-glossed-text",
-						"analyzed_text": "gháni-dhel janá-dhí ám bhár-akátá-sá.",
-						"gloss": "火-ACC 作る-1.REAL 〜しない 風が吹いている-3N.PST.PTCP-COND",
-						"translation": "もし風が吹いていないなら、私は火を起こす。"
+						"section_title": "",
+						"content": [
+							{
+								"type": "leipzigjs-glossed-text",
+								"analyzed_text": "gháni-dhel janá-dhí ám bhár-akátá-sá.",
+								"gloss": "火-ACC 作る-1.REAL 〜しない 風が吹いている-3N.PST.PTCP-COND",
+								"translation": "もし風が吹いていないなら、私は火を起こす。"
+							}
+						]
 					},
 					{
-						"type": "leipzigjs-glossed-text",
-						"analyzed_text": "ám bhár-akátá-sá gháni-dhel janá-ni-dhí.",
-						"gloss": "〜しない 風が吹いている-3N.PST.PTCP-COND 火-ACC 作る-CF-1.REAL",
-						"translation": "もし風が吹いていなかったなら、私はいま火を起こしただろうに。"
+						"section_title": "",
+						"content": [
+							{
+								"type": "leipzigjs-glossed-text",
+								"analyzed_text": "ám bhár-akátá-sá gháni-dhel janá-ni-dhí.",
+								"gloss": "〜しない 風が吹いている-3N.PST.PTCP-COND 火-ACC 作る-CF-1.REAL",
+								"translation": "もし風が吹いていなかったなら、私はいま火を起こしただろうに。"
+							}
+						]
 					},
 					{
-						"type": "leipzigjs-glossed-text",
-						"analyzed_text": "gháni-dhel janá-ni-dhí ám bhár-akátá-sá.",
-						"gloss": "火-ACC 作る-CF-1.REAL 〜しない 風が吹いている-3N.PST.PTCP-COND",
-						"translation": "もし風が吹いていなかったなら、私はいま火を起こしただろうに。"
+						"section_title": "",
+						"content": [
+							{
+								"type": "leipzigjs-glossed-text",
+								"analyzed_text": "gháni-dhel janá-ni-dhí ám bhár-akátá-sá.",
+								"gloss": "火-ACC 作る-CF-1.REAL 〜しない 風が吹いている-3N.PST.PTCP-COND",
+								"translation": "もし風が吹いていなかったなら、私はいま火を起こしただろうに。"
+							}
+						]
 					}
 				]
 			}

@@ -1,86 +1,87 @@
 // BCP 47 (HTML の lang 属性に用いることができる。) を期待する。
 // なお、x- で始まるタグは私用領域として自由に使えることになっているので、例えば "x-qilxaleh" などをここに指定することもできる。
-type BCP47LanguageNameString = string;
+export type BCP47LanguageNameString = string;
 
 // URL として有効な文字列が入ることを期待する
 // Expect a string that is valid as a URL.
-type URLString = string;
+export type URLString = string;
 
 // Date.prototype.toISOString() などで得ることのできる、ISO 8601 形式の文字列が入ることを期待する
 // Expects a string in ISO 8601, which can be obtained by Date.prototype.toISOString(), etc.
-type ISO8601DateString = string;
+export type ISO8601DateString = string;
 
 // コーパスが記述する対象の言語で書かれているテキストを期待する。
 // text や analyzed_text といったプロパティにはこれが入る
-type TargetLanguageTextString = string;
+export type TargetLanguageTextString = string;
 
-type Translation = string | { 
+export type Translation = string | { 
     "lang": BCP47LanguageNameString, 
     "translation": string 
 };
 
-type LeipzigJsGlossedText = {
+export type LeipzigJsGlossedText = {
     "type": "leipzigjs-glossed-text",
     "text"?: TargetLanguageTextString,
     "analyzed_text": TargetLanguageTextString,
     "gloss": string,
-    "translation": Translation | Translation[],
+    "translation": string // Translation | Translation[],
 };
 
-type HTMLSidenote = {
+export type HTMLSidenote = {
     "sidenote_title": string,
     "type": "html-sidenote",
     "sidenote": string
 };
 
-type PlainTextSidenote = {
+export type PlainTextSidenote = {
     "sidenote_title": string,
     "type": "plaintext-sidenote",
     "sidenote": string,
 };
 
-type Sidenote = HTMLSidenote | PlainTextSidenote
+export type Sidenote = HTMLSidenote | PlainTextSidenote
 
-type Section<Txt> = {
+export type Section<Txt> = {
     "section_title": string,
     "metadata"?: Metadata,
     "content": Content<Txt>,
 };
 
-type SectionForInadequate<Txt> = {
+export type SectionForInadequate<Txt> = {
     "section_for_inadequate_title": string,
     "metadata"?: Metadata,
     "content": Content<Txt>,
 }
 
-type Content<Txt> = Txt[] | (Sidenote | Section<Txt>)[];
+export type Content<Txt> = Txt[] | (Sidenote | Section<Txt> | SectionForInadequate<Txt>)[];
 
-type Metadata = {
-    "relevant_links"?: URLString[],
-    "last_modified"?: ISO8601DateString[],
+export type Metadata = {
+    // "relevant_links"?: URLString[],
+    "src_link"?: URLString,
+    // "last_modified"?: ISO8601DateString[],
 }
 
-type LeipzigJsGlossedDoc = {
+export type LeipzigJsGlossedDoc = {
     "document_title": string,
     "metadata"?: Metadata,
     "type": "leipzigjs-glossed-doc",
     "content": Content<LeipzigJsGlossedText>,
 };
 
-type RawTextDoc = {
+export type RawTextDoc = {
     "document_title": string,
     "metadata"?: Metadata,
     "type": "raw-text-doc",
     "text": TargetLanguageTextString,
 }
 
-type Doc = RawTextDoc | LeipzigJsGlossedDoc;
+export type Doc = RawTextDoc | LeipzigJsGlossedDoc;
 
-type Folder = {
+/*export type Folder = {
     "folder_title": string,
     "metadata"?: Metadata,
     "docs": Doc[]
-}
+}*/
 
 // 「出典リンク」とかも貼れるといいのかも
 // 画像を埋め込む機能も最初から定義しとこう。実装するかは optional かなぁ
