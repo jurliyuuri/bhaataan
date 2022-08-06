@@ -246,7 +246,7 @@ function serializeDoc(document, doc, ind, o) {
             a.textContent = `${doc.document_title}`;
             title.textContent = `${ind}. `;
             title.appendChild(a);
-            const elems = serializeContent(doc.content, { poisoned: false });
+            const elems = serializeNestedContent(doc.content);
             if (!o.show_title) {
                 title = document.createElement("p");
                 title.textContent = "単純テキスト：";
@@ -254,7 +254,7 @@ function serializeDoc(document, doc, ind, o) {
             return [title, "\n", ...elems, "\n"];
         }
         else {
-            const elems = serializeContent(doc.content, { poisoned: false });
+            const elems = serializeNestedContent(doc.content);
             if (!o.show_title) {
                 title = document.createElement("p");
                 title.textContent = "単純テキスト：";
