@@ -28,14 +28,14 @@ export type LeipzigJsGlossedText = {
 };
 
 export type HTMLSidenote = {
-    "sidenote_title": string,
     "type": "html-sidenote",
+    "title": string,
     "sidenote": string
 };
 
 export type PlainTextSidenote = {
-    "sidenote_title": string,
     "type": "plaintext-sidenote",
+    "title": string,
     "sidenote": string,
 };
 
@@ -43,14 +43,14 @@ export type Sidenote = HTMLSidenote | PlainTextSidenote
 
 export type Section<Txt> = {
     "type": "section",
-    "section_title": string,
+    "title": string,
     "metadata"?: Metadata,
     "content": Elem<Txt>[],
 };
 
 export type Box<Txt> = {
     "type": "box",
-    "box_title": string,
+    "title": string,
     "metadata"?: Metadata,
     "lines": Txt[],
 };
@@ -71,16 +71,16 @@ export type Metadata = {
 }
 
 export type LeipzigJsGlossedDoc = {
-    "document_title": string,
-    "metadata"?: Metadata,
     "type": "leipzigjs-glossed-doc",
+    "title": string,
+    "metadata"?: Metadata,
     "content": Elem<LeipzigJsGlossedText>[],
 };
 
 export type RawTextDoc = {
-    "document_title": string,
-    "metadata"?: Metadata,
     "type": "raw-text-doc",
+    "title": string,
+    "metadata"?: Metadata,
     "text": TargetLanguageTextString,
 }
 

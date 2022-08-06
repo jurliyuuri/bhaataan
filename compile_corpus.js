@@ -100,7 +100,7 @@ const document = dom.window.document;
 let counter = 1;
 for (let ind = 0; ind < corpus.length; ++ind) {
     const doc = corpus[ind];
-    if (doc.document_title !== corpus[ind - 1]?.document_title) {
+    if (doc.title !== corpus[ind - 1]?.title) {
         document.getElementById("main_content")?.append(...serializeDoc(document, doc, counter, { show_title: true }));
         counter++;
     }
@@ -148,11 +148,11 @@ function serializeNestedContent(content) {
     for (const c of content) {
         if (c.type === "section") {
             const title = document.createElement("p");
-            title.textContent = c.section_title.trim() === "" ? "" : `${c.section_title}：`;
+            title.textContent = c.title.trim() === "" ? "" : `${c.title}：`;
             if (c.metadata?.src_link) {
                 const a = document.createElement("a");
                 a.href = c.metadata?.src_link;
-                a.textContent = `${c.section_title}`;
+                a.textContent = `${c.title}`;
                 title.textContent = ``;
                 title.appendChild(a);
             }
@@ -160,11 +160,11 @@ function serializeNestedContent(content) {
         }
         else if (c.type === "box") {
             const title = document.createElement("p");
-            title.textContent = c.box_title.trim() === "" ? "" : `${c.box_title}：`;
+            title.textContent = c.title.trim() === "" ? "" : `${c.title}：`;
             if (c.metadata?.src_link) {
                 const a = document.createElement("a");
                 a.href = c.metadata?.src_link;
-                a.textContent = `${c.box_title}`;
+                a.textContent = `${c.title}`;
                 title.textContent = ``;
                 title.appendChild(a);
             }
@@ -184,12 +184,12 @@ function serializeNestedContent(content) {
         }
         else if (c.type === "plaintext-sidenote") {
             const title_and_sidenote = document.createElement("p");
-            title_and_sidenote.textContent = c.sidenote_title === "" ? c.sidenote : `${c.sidenote_title}：${c.sidenote}`;
+            title_and_sidenote.textContent = c.title === "" ? c.sidenote : `${c.title}：${c.sidenote}`;
             ans = [...ans, "\n", title_and_sidenote];
         }
         else if (c.type === "html-sidenote") {
             const title = document.createElement("p");
-            title.textContent = c.sidenote_title;
+            title.textContent = c.title;
             const sidenote = document.createElement("div");
             sidenote.innerHTML = c.sidenote;
             ans = [...ans, "\n", title, "\n", sidenote];
@@ -204,7 +204,7 @@ function serializeNestedContent(content) {
 }
 function serializeDoc(document, doc, ind, o) {
     let title = document.createElement("h3");
-    title.textContent = `${ind}. ${doc.document_title}`;
+    title.textContent = `${ind}. ${doc.title}`;
     if (doc.type === "raw-text-doc") {
         const textarea = document.createElement("textarea");
         const { cols, rows } = chooseAdequateColsRows(doc.text);
@@ -221,7 +221,7 @@ function serializeDoc(document, doc, ind, o) {
         if (doc.metadata?.src_link) {
             const a = document.createElement("a");
             a.href = doc.metadata?.src_link;
-            a.textContent = `${doc.document_title}`;
+            a.textContent = `${doc.title}`;
             title.textContent = `${ind}. `;
             title.appendChild(a);
             const elems = serializeNestedContent(doc.content);
