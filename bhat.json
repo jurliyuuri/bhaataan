@@ -15157,6 +15157,54 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 676,
+      "form" : "azúg"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "謀略" ]
+    } ],
+    "tags" : [ "真のg幹" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理aziurgからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 677,
+      "form" : "júg"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "ユーゲ人" ]
+    } ],
+    "tags" : [ "真のg幹" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理jurgからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 678,
+      "form" : "auphphág"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "マスク" ]
+    } ],
+    "tags" : [ "真のg幹" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理aukhfargからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

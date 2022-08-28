@@ -15193,6 +15193,54 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 676,
+      "form" : "azúg"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "conspiracy" ]
+    } ],
+    "tags" : [ "true g-stem" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理aziurg"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 677,
+      "form" : "júg"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "a person whose ethnicity is pertinent to Yuugokku" ]
+    } ],
+    "tags" : [ "true g-stem" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理jurg"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 678,
+      "form" : "auphphág"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "facial mask" ]
+    } ],
+    "tags" : [ "true g-stem" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理aukhfarg"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
