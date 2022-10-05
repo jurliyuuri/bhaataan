@@ -1531,7 +1531,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "一人称単数" ]
+      "forms" : [ "mi" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -2103,7 +2103,7 @@
       "form" : "ek"
     },
     "translations" : [ {
-      "title" : "終助詞",
+      "title" : "naliuftona",
       "forms" : [ "〜らしい", "〜みたいだ" ]
     } ],
     "tags" : [ ],
@@ -2275,13 +2275,13 @@
       "form" : "hem"
     },
     "translations" : [ {
-      "title" : "無変化動詞",
-      "forms" : [ "完了の無変化動詞", "ある", "～は～である" ]
+      "title" : "herm",
+      "forms" : [ "完了の無変化動詞", "[lsans] es [lsans]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "用法",
-      "text" : "lsans lsans hemと使うとコピュラ（〜である）としてふるまい、 2te tiliesterlo・ 1te tiliesterloに後置することで完了表現を作る。コピュラ自身の命令形・ 1te tiliesterloなどを作るためには、同義語の通常動詞bhápúḷを用いる。"
+      "text" : "<[lsans] [lsans] hem> kantet <[lsans] es [lsans]>. 2te tiliesterlo・ 1te tiliesterloに後置することで完了表現を作る。コピュラ自身の命令形・ 1te tiliesterloなどを作るためには、同義語の通常動詞bhápúḷを用いる。"
     }, {
       "title" : "daliu farteven",
       "text" : "牌aim2,藍aima"
@@ -2473,7 +2473,7 @@
       "form" : "jo"
     },
     "translations" : [ {
-      "title" : "名詞接続詞",
+      "title" : "kaften kraftan",
       "forms" : [ "o", "ol" ]
     } ],
     "tags" : [ ],
@@ -2556,10 +2556,10 @@
     },
     "translations" : [ {
       "title" : "ftlexest pervoj",
-      "forms" : [ "光" ]
+      "forms" : [ "kafi'a" ]
     }, {
       "title" : "ftlexest pervoj",
-      "forms" : [ "視線", "注目" ]
+      "forms" : [ "fyrstla", "注目" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2946,8 +2946,8 @@
       "form" : "nána"
     },
     "translations" : [ {
-      "title" : "関係代名詞",
-      "forms" : [ "関係代名詞" ]
+      "title" : "zumelerl",
+      "forms" : [ "zu" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3284,7 +3284,7 @@
       "form" : "ṣiṇṇa"
     },
     "translations" : [ {
-      "title" : "文接続詞",
+      "title" : "leijumen kraftan",
       "forms" : [ "しかし" ]
     } ],
     "tags" : [ ],
@@ -3733,7 +3733,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "類義語の使い分け",
-      "text" : "無変化動詞hemの補充形として、「AはBになっているだろう」「BであったA」というような表現を表す際に使われる。hemで表せる状況でわざわざbhápúḷを使うと、少し堅苦しくなる。"
+      "text" : "<hem> の補充形として、「AはBになっているだろう」「BであったA」というような表現を表す際に使われる。hemで表せる状況でわざわざbhápúḷを使うと、少し堅苦しくなる。"
     }, {
       "title" : "daliu farteven",
       "text" : "牌bap,藍baibae"
@@ -4318,7 +4318,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest pervoj",
-      "forms" : [ "兎", "うさぎ", "ウサギ" ]
+      "forms" : [ "lurod" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4432,10 +4432,10 @@
       "form" : "ja"
     },
     "translations" : [ {
-      "title" : "文接続詞",
+      "title" : "leijumen kraftan",
       "forms" : [ "そして" ]
     }, {
-      "title" : "名詞接続詞",
+      "title" : "kaften kraftan",
       "forms" : [ "〜と〜" ]
     } ],
     "tags" : [ ],
@@ -5159,7 +5159,7 @@
       "form" : "jarúṣi"
     },
     "translations" : [ {
-      "title" : "文接続詞",
+      "title" : "leijumen kraftan",
       "forms" : [ "そしてその後" ]
     } ],
     "tags" : [ ],
@@ -6997,7 +6997,7 @@
       "form" : "t"
     },
     "translations" : [ {
-      "title" : "終助詞",
+      "title" : "naliuftona",
       "forms" : [ "感嘆を表す" ]
     } ],
     "tags" : [ ],
@@ -7006,7 +7006,7 @@
       "text" : "牌t,皇t"
     }, {
       "title" : "用法",
-      "text" : "バート語の文法上は終助詞として扱うが、実際にtの音で発音されるわけではなく、あくまで感嘆を表すための記号である。故に、ラテン字転写では感嘆符で転写するが、バート文字で書く場合には、単語tを書きその後ろにピリオドを打つ必要がある。"
+      "text" : "バート語の文法上はnaliuftonaとして扱うが、実際にtの音で発音されるわけではなく、あくまで感嘆を表すための記号である。故に、ラテン字転写では感嘆符で転写するが、バート文字で書く場合には、単語tを書きその後ろにピリオドを打つ必要がある。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -7719,7 +7719,7 @@
       "form" : "yám"
     },
     "translations" : [ {
-      "title" : "終助詞",
+      "title" : "naliuftona",
       "forms" : [ "(肯否疑問文の明示)", "〜か？" ]
     } ],
     "tags" : [ "口語的" ],
@@ -7735,7 +7735,7 @@
       "form" : "jám"
     },
     "translations" : [ {
-      "title" : "終助詞",
+      "title" : "naliuftona",
       "forms" : [ "(肯否疑問文の明示)", "〜か？" ]
     } ],
     "tags" : [ "口語的" ],
@@ -7752,7 +7752,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "バート語" ]
+      "forms" : [ "phertarsvirle" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -8474,7 +8474,7 @@
       "form" : "khem"
     },
     "translations" : [ {
-      "title" : "無変化動詞",
+      "title" : "herm",
       "forms" : [ "～(lsans)は～(diursans・kraftan)のものである" ]
     } ],
     "tags" : [ "口語的" ],
@@ -11313,7 +11313,7 @@
       "form" : "joya"
     },
     "translations" : [ {
-      "title" : "文接続詞",
+      "title" : "leijumen kraftan",
       "forms" : [ "もし〜(前文)なら〜(後文)" ]
     } ],
     "tags" : [ ],
@@ -11338,7 +11338,7 @@
       "form" : "hemijoya"
     },
     "translations" : [ {
-      "title" : "無変化動詞",
+      "title" : "herm",
       "forms" : [ "hemとjoyaの連語" ]
     } ],
     "tags" : [ ],
@@ -11385,7 +11385,7 @@
       "form" : "hemasá"
     },
     "translations" : [ {
-      "title" : "無変化動詞",
+      "title" : "herm",
       "forms" : [ "hemと-sáの連語。" ]
     } ],
     "tags" : [ ],
@@ -13541,7 +13541,7 @@
       "form" : "páwa"
     },
     "translations" : [ {
-      "title" : "文接続詞",
+      "title" : "leijumen kraftan",
       "forms" : [ "しかし" ]
     } ],
     "tags" : [ "口語的" ],
@@ -13572,7 +13572,7 @@
       "form" : "pháwa"
     },
     "translations" : [ {
-      "title" : "文接続詞",
+      "title" : "leijumen kraftan",
       "forms" : [ "しかし" ]
     } ],
     "tags" : [ "口語的" ],
@@ -13880,7 +13880,7 @@
       "form" : "ján"
     },
     "translations" : [ {
-      "title" : "擬diursanskafnisfamsk",
+      "title" : "擬diursans_kafnisfamsk",
       "forms" : [ "～への" ]
     } ],
     "tags" : [ ],
@@ -13902,7 +13902,7 @@
       "form" : "ghidín"
     },
     "translations" : [ {
-      "title" : "擬diursanskafnisfamsk",
+      "title" : "擬diursans_kafnisfamsk",
       "forms" : [ "～への" ]
     } ],
     "tags" : [ ],
@@ -13924,7 +13924,7 @@
       "form" : "oṣán"
     },
     "translations" : [ {
-      "title" : "擬diursanskafnisfamsk",
+      "title" : "擬diursans_kafnisfamsk",
       "forms" : [ "～からの" ]
     } ],
     "tags" : [ ],
@@ -13955,7 +13955,7 @@
       "form" : "osakán"
     },
     "translations" : [ {
-      "title" : "擬diursanskafnisfamsk",
+      "title" : "擬diursans_kafnisfamsk",
       "forms" : [ "～からの" ]
     } ],
     "tags" : [ ],
@@ -14077,7 +14077,7 @@
       "form" : "hínázáwán"
     },
     "translations" : [ {
-      "title" : "擬diursanskafnisfamsk",
+      "title" : "擬diursans_kafnisfamsk",
       "forms" : [ "～で起きた" ]
     } ],
     "tags" : [ ],
@@ -14099,7 +14099,7 @@
       "form" : "áṣán"
     },
     "translations" : [ {
-      "title" : "擬diursanskafnisfamsk",
+      "title" : "擬diursans_kafnisfamsk",
       "forms" : [ "～を原因としての" ]
     } ],
     "tags" : [ ],
@@ -14912,7 +14912,7 @@
       "form" : "háṣin"
     },
     "translations" : [ {
-      "title" : "名詞接続詞",
+      "title" : "kaften kraftan",
       "forms" : [ "～なき～", "～のない～" ]
     } ],
     "tags" : [ ],
