@@ -613,7 +613,7 @@
     },
     "translations" : [ {
       "title" : "pestrenoleu fua ftlexest pervoj",
-      "forms" : [ "複数主格・無格 fua ftlexest pervoj" ]
+      "forms" : [ "複数lsans・無格 fua ftlexest pervoj" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -694,7 +694,7 @@
     },
     "translations" : [ {
       "title" : "pestrenoleu fua ftlexest pervoj",
-      "forms" : [ "単数属格 fua ftlexest pervoj" ]
+      "forms" : [ "単数diursans fua ftlexest pervoj" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -761,7 +761,7 @@
     },
     "translations" : [ {
       "title" : "pestrenoleu fua ftlexest pervoj",
-      "forms" : [ "複数属格 fua ftlexest pervoj" ]
+      "forms" : [ "複数diursans fua ftlexest pervoj" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -934,7 +934,7 @@
     },
     "translations" : [ {
       "title" : "pestrenoleu fua ftlexest fendej",
-      "forms" : [ "複数主格・無格 fua ftlexest fendej" ]
+      "forms" : [ "複数lsans・無格 fua ftlexest fendej" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1003,7 +1003,7 @@
     },
     "translations" : [ {
       "title" : "pestrenoleu fua ftlexest fendej",
-      "forms" : [ "単数属格 fua ftlexest fendej" ]
+      "forms" : [ "単数diursans fua ftlexest fendej" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1076,7 +1076,7 @@
     },
     "translations" : [ {
       "title" : "pestrenoleu fua ftlexest fendej",
-      "forms" : [ "複数属格 fua ftlexest fendej" ]
+      "forms" : [ "複数diursans fua ftlexest fendej" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1113,7 +1113,7 @@
     },
     "translations" : [ {
       "title" : "pestrenoleu fua ftlexest fendej",
-      "forms" : [ "単数属格 fua ftlexest fendej" ]
+      "forms" : [ "単数diursans fua ftlexest fendej" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1150,7 +1150,7 @@
     },
     "translations" : [ {
       "title" : "pestrenoleu fua ftlexest fendej",
-      "forms" : [ "複数属格 fua ftlexest fendej" ]
+      "forms" : [ "複数diursans fua ftlexest fendej" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -1293,7 +1293,7 @@
     },
     "translations" : [ {
       "title" : "jonusten ftona",
-      "forms" : [ "〜(tsans)を書く" ]
+      "forms" : [ "krante [tsans]'i" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1355,7 +1355,7 @@
     },
     "translations" : [ {
       "title" : "jonusten ftona",
-      "forms" : [ "xel [tsans]'i", "〜(tsans)を観測する" ]
+      "forms" : [ "xel [tsans]'i", "ixmales [tsans]'i" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1402,7 +1402,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest pervoj",
-      "forms" : [ "東", "太陽", "日" ]
+      "forms" : [ "pi'en", "dovied", "snenik" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1421,7 +1421,7 @@
     },
     "translations" : [ {
       "title" : "jonusten ftona",
-      "forms" : [ "〜(tsans)を読む" ]
+      "forms" : [ "akranti [tsans]'i" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1500,7 +1500,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "魚" ]
+      "forms" : [ "enor" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1610,7 +1610,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "文字" ]
+      "forms" : [ "lyjot" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1641,7 +1641,7 @@
     },
     "translations" : [ {
       "title" : "ftonaol",
-      "forms" : [ "だんだん", "ゆくゆく" ]
+      "forms" : [ "ve", "ゆくゆく" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -1688,7 +1688,7 @@
       "title" : "kafnisfamsk",
       "forms" : [ "～を通って", "～と共に" ]
     }, {
-      "title" : "擬属格kafnisfamsk",
+      "title" : "擬diursans kafnisfamsk",
       "forms" : [ "～を通っての", "～を伴った", "～を使った", "～での" ]
     } ],
     "tags" : [ ],
@@ -1703,7 +1703,7 @@
       "text" : "「～と共に」という意味においては特にbhánとcájauで使い分けは無いが、cájauが用いられることのほうが多い。「〜を通って」はbhánでのみ表すことができる。"
     }, {
       "title" : "用法",
-      "text" : "bhán, cájau および具格は、擬属格kafnisfamskとしてすべてこの語を用いる。"
+      "text" : "bhán, cájau および具格は、擬diursans kafnisfamskとしてすべてこの語を用いる。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -1997,7 +1997,7 @@
       "forms" : [ "〜(oṣa)から来る", "〜(hína)を訪れる", "〜(hína)を来訪する" ]
     }, {
       "title" : "sytenen ftona",
-      "forms" : [ "〜(oṣa)が～(主格)の出身地である" ]
+      "forms" : [ "〜(oṣa)が～(lsans)の出身地である" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2131,10 +2131,10 @@
       "title" : "kafnisfamsk",
       "forms" : [ "（ftlexisa'd ftlexestriselまたはkoḍiを受けて）〜を", "〜について", "(文末で用いて)～なんて" ]
     }, {
-      "title" : "擬属格kafnisfamsk",
+      "title" : "擬diursans kafnisfamsk",
       "forms" : [ "（稀）～のような" ]
     }, {
-      "title" : "擬属格kafnisfamsk",
+      "title" : "擬diursans kafnisfamsk",
       "forms" : [ "（ftlexisa'd ftlexestriselまたはkoḍiを受けて）〜についての" ]
     } ],
     "tags" : [ ],
@@ -2281,7 +2281,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "用法",
-      "text" : "主格 主格 hemと使うとコピュラ（〜である）としてふるまい、 2te tiliesterlo・ 1te tiliesterloに後置することで完了表現を作る。コピュラ自身の命令形・ 1te tiliesterloなどを作るためには、同義語の通常動詞bhápúḷを用いる。"
+      "text" : "lsans lsans hemと使うとコピュラ（〜である）としてふるまい、 2te tiliesterlo・ 1te tiliesterloに後置することで完了表現を作る。コピュラ自身の命令形・ 1te tiliesterloなどを作るためには、同義語の通常動詞bhápúḷを用いる。"
     }, {
       "title" : "daliu farteven",
       "text" : "牌aim2,藍aima"
@@ -2316,7 +2316,7 @@
     },
     "translations" : [ {
       "title" : "sytenen ftona",
-      "forms" : [ "mol", "存在する", "〜(hína)には〜(主語)がある", "〜(hína)は〜(主語)を持っている" ]
+      "forms" : [ "mol", "[hína]'s letix [lsans]'i" ]
     }, {
       "title" : "sytenen ftona",
       "forms" : [ "〜(ftlexisa'd ftlexestrisel)している最中だ" ]
@@ -2440,7 +2440,7 @@
     },
     "translations" : [ {
       "title" : "jonusten ftona",
-      "forms" : [ "〜(tsans)を書く", "〜(tsans)を記録する" ]
+      "forms" : [ "krante [tsans]'i", "〜(tsans)を記録する" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2602,7 +2602,7 @@
       "forms" : [ "時間", "時" ]
     }, {
       "title" : "ftlexest fendej",
-      "forms" : [ "（数詞属格で修飾しhínaを付け）〜回" ]
+      "forms" : [ "（数詞diursans io修飾しhínaを付け）〜回" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2672,7 +2672,7 @@
       "text" : "*ka^nga+*'munq"
     }, {
       "title" : "類義語の使い分け",
-      "text" : "名詞bhákáṇaは属格でしか使えないが、káṇámは全ての格で使える。また、káṇámはどちらかというと未来に無限に続くことを意図するのに対し、bhákáṇaは単に「常である」様を表す。"
+      "text" : "名詞bhákáṇaはdiursans ioしか使えないが、káṇámは全ての格で使える。また、káṇámはどちらかというと未来に無限に続くことを意図するのに対し、bhákáṇaは単に「常である」様を表す。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -2702,7 +2702,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest pervoj",
-      "forms" : [ "父" ]
+      "forms" : [ "vixij" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -2903,7 +2903,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest pervoj",
-      "forms" : [ "親", "両親" ]
+      "forms" : [ "josnusn" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3138,7 +3138,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "オパール", "蛋白石" ]
+      "forms" : [ "xople" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3395,7 +3395,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "金銭" ]
+      "forms" : [ "la arte" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3501,7 +3501,7 @@
       "forms" : [ "墨", "墨汁" ]
     }, {
       "title" : "ftlexest fendej",
-      "forms" : [ "(属格で)黒い" ]
+      "forms" : [ "(diursans io) delnen" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3523,7 +3523,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest pervoj",
-      "forms" : [ "兄弟", "姉妹", "同胞" ]
+      "forms" : [ "vioj" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3601,7 +3601,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "言語" ]
+      "forms" : [ "lkurftless" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -3808,7 +3808,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "用法",
-      "text" : "koに属格語尾-omがついたものが1語化したもの。直後に名詞を要求する。"
+      "text" : "koにdiursans語尾-omがついたものが1語化したもの。直後に名詞を要求する。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -4302,7 +4302,7 @@
     },
     "translations" : [ {
       "title" : "ftonaol",
-      "forms" : [ "再び" ]
+      "forms" : [ "mak" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4334,7 +4334,7 @@
     },
     "translations" : [ {
       "title" : "jonusten ftona",
-      "forms" : [ "走る" ]
+      "forms" : [ "disnost" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4350,7 +4350,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "火" ]
+      "forms" : [ "dexafel" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4390,7 +4390,7 @@
       "text" : "藍numiu"
     }, {
       "title" : "用法",
-      "text" : "専ら属格で使う。"
+      "text" : "専らdiursans io使う。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -5087,7 +5087,7 @@
       "forms" : [ "下" ]
     }, {
       "title" : "ftlexest pervoj",
-      "forms" : [ "（属格で）新しい" ]
+      "forms" : [ "(diursans io) 新しい" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5259,7 +5259,7 @@
     "tags" : [ "形式名詞", "抽象的形式名詞" ],
     "contents" : [ {
       "title" : "用法",
-      "text" : "属格・kraftanの直後にのみ現れる。主格のときにはゼロまたは複数形で現れるのが主流である。人は指さない。\nko ámaom hem? これはあなたのですか？\námaom kele sujamúha? あなたのを使いますか？"
+      "text" : "diursans・kraftanの直後にのみ現れる。lsansのときにはゼロまたは複数形で現れるのが主流である。人は指さない。\nko ámaom hem? これはあなたのですか？\námaom kele sujamúha? あなたのを使いますか？"
     }, {
       "title" : "daliu farteven",
       "text" : "牌ku,アイルku"
@@ -5364,7 +5364,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "壁" ]
+      "forms" : [ "snoip" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5421,7 +5421,7 @@
     },
     "translations" : [ {
       "title" : "sytenen ftona",
-      "forms" : [ "愚かである" ]
+      "forms" : [ "es etxaata", "es loquen" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5603,7 +5603,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "塩" ]
+      "forms" : [ "nystuj" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5650,7 +5650,7 @@
     },
     "translations" : [ {
       "title" : "sytenen ftona",
-      "forms" : [ "〜(tsans)を見ている", "〜(tsans)が〜(主格)には見えている" ]
+      "forms" : [ "〜(tsans)を見ている", "〜(tsans)が〜(lsans)には見えている" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5802,7 +5802,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "空" ]
+      "forms" : [ "dyrilerl" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5824,7 +5824,7 @@
     },
     "translations" : [ {
       "title" : "sytenen ftona",
-      "forms" : [ "〜(ftlexisa'd ftlexestrisel)しすぎている", "〜(主格)は過度である" ]
+      "forms" : [ "〜(ftlexisa'd ftlexestrisel)しすぎている", "〜(lsans)は過度である" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5881,7 +5881,7 @@
     },
     "translations" : [ {
       "title" : "sytenen ftona",
-      "forms" : [ "〜(主格)には〜(tsans/ftlexisa'd ftlexestrisel+ema)ができる", "〜(主格)は〜(ftlexisa'd ftlexestrisel+ema)することができる", "〜(主格)には〜(ftlexisa'd ftlexestrisel+ema)する能力がある", "〜(主格)は〜(tsans/ftlexisa'd ftlexestrisel+ema)を実行できる" ]
+      "forms" : [ "〜(lsans)には〜(tsans/ftlexisa'd ftlexestrisel+ema)ができる", "〜(lsans)は〜(ftlexisa'd ftlexestrisel+ema)することができる", "〜(lsans)には〜(ftlexisa'd ftlexestrisel+ema)する能力がある", "〜(lsans)は〜(tsans/ftlexisa'd ftlexestrisel+ema)を実行できる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6022,7 +6022,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "胸", "胸部" ]
+      "forms" : [ "larkra" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6181,7 +6181,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "魚醤", "ナンプラー" ]
+      "forms" : [ "amilaformar" ]
     } ],
     "tags" : [ "複数の標準発音" ],
     "contents" : [ {
@@ -6550,7 +6550,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "人", "人間" ]
+      "forms" : [ "larta" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6725,7 +6725,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "(属格で)国際的な" ]
+      "forms" : [ "(diursans io) 国際的な" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6915,15 +6915,12 @@
     },
     "translations" : [ {
       "title" : "ftlexest pervoj",
-      "forms" : [ "字積", "マニソマ" ]
+      "forms" : [ "manicoma" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "daliu farteven",
       "text" : "皇manicoma,理manicoma"
-    }, {
-      "title" : "meu",
-      "text" : "ラネーメ圏発祥のカードゲーム、基本的には山札から何枚かカードを引いて、それらに書いてある燐字を組み合わせて字を作って遊ぶ。ciurlを使って引くカードを制限したり、派生的なルールが多々ある。リパライン語圏では下にリパライン語で燐字の意味が書いてある場合がある。（以上リパライン語辞書からのコピペ）"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -6934,7 +6931,7 @@
     },
     "translations" : [ {
       "title" : "sytenen ftona",
-      "forms" : [ "〜(tsans)を恐れている", "〜(tsans)を怖がっている", "〜(主格)は〜(tsans)が怖い" ]
+      "forms" : [ "〜(tsans)を恐れている", "〜(tsans)を怖がっている", "〜(lsans)は〜(tsans)が怖い" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -6969,7 +6966,7 @@
     },
     "translations" : [ {
       "title" : "sytenen ftona",
-      "forms" : [ "〜(主格)は（質などが）劣悪である", "〜(主格)は劣っている" ]
+      "forms" : [ "〜(lsans)は（質などが）劣悪である", "〜(lsans)は劣っている" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -7501,12 +7498,12 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "(属格で)常なる" ]
+      "forms" : [ "(diursans io) 常なる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "類義語の使い分け",
-      "text" : "名詞句「全ての時」はbhá káṇaと2単語で綴る。\n名詞bhákáṇaは属格でしか使えないが、káṇámは全ての格で使える。また、káṇámはどちらかというと未来に無限に続くことを意図するのに対し、bhákáṇaは単に「常である」様を表す。"
+      "text" : "名詞句「全ての時」はbhá káṇaと2単語で綴る。\n名詞bhákáṇaはdiursans ioしか使えないが、káṇámは全ての格で使える。また、káṇámはどちらかというと未来に無限に続くことを意図するのに対し、bhákáṇaは単に「常である」様を表す。"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -7569,7 +7566,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "シローレーカー", "バート語の単語を繋ぐ上の線" ]
+      "forms" : [ "nautuhormarer" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -7585,7 +7582,7 @@
     },
     "translations" : [ {
       "title" : "添詞",
-      "forms" : [ "（直前に数詞・直後に属格語尾を取って）-te" ]
+      "forms" : [ "（直前に数詞・直後にdiursans語尾を取って）-te" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -7601,7 +7598,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "燐字", "燐帝字母" ]
+      "forms" : [ "linzklar" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -7626,10 +7623,10 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "王冠" ]
+      "forms" : [ "alecarnu" ]
     }, {
       "title" : "ftlexest fendej",
-      "forms" : [ "アイル共和国" ]
+      "forms" : [ "chafi'ofese'd ai'r" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -7676,7 +7673,7 @@
     },
     "translations" : [ {
       "title" : "sytenen ftona",
-      "forms" : [ "〜(hína)は〜(主格)で溢れている", "〜(hína)は〜(主格)で満ちている", "〜(主格)は〜(hína)という場所にあるものを満たしている" ]
+      "forms" : [ "〜(hína)は〜(lsans)で溢れている", "〜(hína)は〜(lsans)で満ちている", "〜(lsans)は〜(hína)という場所にあるものを満たしている" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -7885,7 +7882,7 @@
     },
     "translations" : [ {
       "title" : "変化形",
-      "forms" : [ "kの複数属格" ]
+      "forms" : [ "kの複数diursans" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -8054,7 +8051,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest pervoj",
-      "forms" : [ "紙" ]
+      "forms" : [ "tydiv" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -8154,7 +8151,7 @@
       "forms" : [ "〜(tsans)を〜(具格)で置き換える" ]
     }, {
       "title" : "sytenen ftona",
-      "forms" : [ "〜(主格)は〜(tsans)に取って代わるものである" ]
+      "forms" : [ "〜(lsans)は〜(tsans)に取って代わるものである" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -8274,7 +8271,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "(属格で)パイグの" ]
+      "forms" : [ "(diursans io) パイグの" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -8329,7 +8326,7 @@
     "tags" : [ "口語的" ],
     "contents" : [ {
       "title" : "歴史言語学的情報",
-      "text" : "牌 hia1 + 牌 aik2 + 牌 a。パイグ語 aik2 と異なり、バート語kádには「光」の他にもkádúḷ「目立つ」の名詞化として「視線・注目」という意味がある。また、バート語では、「属格 + k」の主格が単体の属格で現れるため、属格接辞が結果として単立できるが、パイグ語ではこれは不可能であり、この位置のaは感嘆詞として解釈される。よってパイグ語 hia1 aik2 a. は「光りたいです。」という意味にしかならない、言うなれば「伐製牌語」である。hi- が x- で借用されているのは、ワート弁の影響である。"
+      "text" : "牌 hia1 + 牌 aik2 + 牌 a。パイグ語 aik2 と異なり、バート語kádには「光」の他にもkádúḷ「目立つ」の名詞化として「視線・注目」という意味がある。また、バート語では、「diursans + k」のlsansが単体のdiursans io現れるため、diursans接辞が結果として単立できるが、パイグ語ではこれは不可能であり、この位置のaは感嘆詞として解釈される。よってパイグ語 hia1 aik2 a. は「光りたいです。」という意味にしかならない、言うなれば「伐製牌語」である。hi- が x- で借用されているのは、ワート弁の影響である。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -8340,7 +8337,7 @@
     },
     "translations" : [ {
       "title" : "jonusten ftona",
-      "forms" : [ "鋳造する" ]
+      "forms" : [ "ixfegsalle" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -8478,7 +8475,7 @@
     },
     "translations" : [ {
       "title" : "無変化動詞",
-      "forms" : [ "～(主格)は～(属格・kraftan)のものである" ]
+      "forms" : [ "～(lsans)は～(diursans・kraftan)のものである" ]
     } ],
     "tags" : [ "口語的" ],
     "contents" : [ {
@@ -8649,7 +8646,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "火花", "火の粉" ]
+      "forms" : [ "dexafelesta" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -8668,7 +8665,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "(属格で修飾し)～のすべて" ]
+      "forms" : [ "(diursans io修飾し)～のすべて" ]
     } ],
     "tags" : [ "形式名詞", "選択性形式名詞" ],
     "contents" : [ {
@@ -8676,7 +8673,7 @@
       "text" : "アイツォnau1, 藍anau"
     }, {
       "title" : "類義語の使い分け",
-      "text" : "bhá + 名詞：「全てのN」（例：bhá ákíjami hína「毎日」）\n\t\t→ どんな ákíjam を取ってきても、文の主張が成り立つ\n\n名詞属格 + nau：「Nの全て」（例：ákíjamán nauḍi hína「一日中」）\n\t\t→ ákíjam のどの部分を取ってきても、文の主張が成り立つ\n\nbhá + 名詞属格 + nau：「全てのNの全て」（例：bhá ákíjamán nauḍi hína「24時間年中無休で」）\n\t\t→ どんな ákíjam のどの部分を取ってきても、文の主張が成り立つ"
+      "text" : "bhá + 名詞：「全てのN」（例：bhá ákíjami hína「毎日」）\n\t\t→ どんな ákíjam を取ってきても、文の主張が成り立つ\n\n名詞diursans + nau：「Nの全て」（例：ákíjamán nauḍi hína「一日中」）\n\t\t→ ákíjam のどの部分を取ってきても、文の主張が成り立つ\n\nbhá + 名詞diursans + nau：「全てのNの全て」（例：bhá ákíjamán nauḍi hína「24時間年中無休で」）\n\t\t→ どんな ákíjam のどの部分を取ってきても、文の主張が成り立つ"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -8687,7 +8684,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "(属格で修飾し)～の両方" ]
+      "forms" : [ "(diursans io修飾し)～の両方" ]
     } ],
     "tags" : [ "形式名詞", "選択性形式名詞" ],
     "contents" : [ {
@@ -8703,7 +8700,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "(属格で修飾し)～の両方" ]
+      "forms" : [ "(diursans io修飾し)～の両方" ]
     } ],
     "tags" : [ "形式名詞", "選択性形式名詞", "口語的" ],
     "contents" : [ ],
@@ -8732,7 +8729,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "(属格で) flan" ]
+      "forms" : [ "(diursans io) flan" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -8773,7 +8770,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "(属格で)黄色い" ]
+      "forms" : [ "(diursans io) pevusten" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -8789,7 +8786,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "(属格で)黄色い" ]
+      "forms" : [ "(diursans io) pevusten" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -8805,7 +8802,7 @@
     },
     "translations" : [ {
       "title" : "sytenen ftona",
-      "forms" : [ "黄色い" ]
+      "forms" : [ "es pevusten" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -8925,7 +8922,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest pervoj",
-      "forms" : [ "東諸島共和国連合", "PMCF" ]
+      "forms" : [ "PMCF" ]
     } ],
     "tags" : [ "必ず単数曲用" ],
     "contents" : [ ],
@@ -8950,7 +8947,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "東諸島共和国連合", "PMCF" ]
+      "forms" : [ "PMCF" ]
     } ],
     "tags" : [ "必ず単数曲用" ],
     "contents" : [ ],
@@ -9215,7 +9212,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "石" ]
+      "forms" : [ "toxa" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -10332,7 +10329,7 @@
     },
     "translations" : [ {
       "title" : "pestrenoleu fua ftona",
-      "forms" : [ "一人称丁寧 2te tiliesterlo" ]
+      "forms" : [ "丁寧 2te tiliesterlo fua <mi>" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -10357,7 +10354,7 @@
     },
     "translations" : [ {
       "title" : "pestrenoleu fua ftona",
-      "forms" : [ "一人称丁寧 2te tiliesterlo" ]
+      "forms" : [ "丁寧 2te tiliesterlo fua <mi>" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -11012,7 +11009,7 @@
     },
     "translations" : [ {
       "title" : "kraftan",
-      "forms" : [ "多くの" ]
+      "forms" : [ "loler" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -11124,10 +11121,10 @@
     },
     "translations" : [ {
       "title" : "narlen ftona",
-      "forms" : [ "〜(主格)は〜(tsans)が〜(ghi)に入るのを許可する" ]
+      "forms" : [ "〜(lsans)は〜(tsans)が〜(ghi)に入るのを許可する" ]
     }, {
       "title" : "sytenen ftona",
-      "forms" : [ "〜(主格)は〜(tsans)が〜(ghi)に入るのを許可している" ]
+      "forms" : [ "〜(lsans)は〜(tsans)が〜(ghi)に入るのを許可している" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -11235,7 +11232,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "軍" ]
+      "forms" : [ "elminal" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -11625,7 +11622,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "日本", "日本国" ]
+      "forms" : [ "japaeo" ]
     } ],
     "tags" : [ "非真理設定" ],
     "contents" : [ {
@@ -11852,7 +11849,7 @@
       "text" : "藍suna-umi, 牌nom2"
     }, {
       "title" : "用法",
-      "text" : "属格ṣánománでは例外的にoが短音化する。"
+      "text" : "diursans <ṣánomán>'d <o> es 例外的に短い。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -12738,7 +12735,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "主格" ]
+      "forms" : [ "lsans" ]
     } ],
     "tags" : [ "文法用語" ],
     "contents" : [ ],
@@ -12751,7 +12748,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest pervoj",
-      "forms" : [ "属格" ]
+      "forms" : [ "diursans" ]
     } ],
     "tags" : [ "文法用語" ],
     "contents" : [ ],
@@ -13362,7 +13359,7 @@
       "text" : "理la phertarrarsiten-curibajmorbern"
     }, {
       "title" : "meu",
-      "text" : "獣肉と野菜を油、ファーマッド、ケテュスン、ディーティユスン、種々のスパイス（ズルィ、アラザキーフィナツ、フィノーショナスなど）、酒で炒めた後に水を加え、ショーラときのこを加えて煮る。その後塩と魚醤で味を整える。ちなみに米をぶち込むと美味い。辛そうな見た目をしているが、お吸い物を少し油っぽく、ややスパイシーにした感じで意外とあっさりしている。\nバート風とは言うが、本場のものとはかけ離れたものであり、バート語話者からは一般にバート料理ではないとみなされている。したがって、リパライン語la phertarrarsiten-curibajmorbernをそのまま略した phecú と呼ばれる。"
+      "text" : "バート語話者は一般にこれをバート料理とみなさないので、la phertarrarsiten-curibajmorbernをそのまま略した phecú と呼ばれる。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -13389,10 +13386,10 @@
     },
     "translations" : [ {
       "title" : "sytenen ftona",
-      "forms" : [ "～(主格)は～(tsans)という値段である" ]
+      "forms" : [ "～(lsans)は～(tsans)という値段である" ]
     }, {
       "title" : "sytenen ftona",
-      "forms" : [ "～(主格)という状況は～(tsans・ftlexisa'd ftlexestrisel)を要求する", "～(主格)という状況のためには～(具格)(人)は～(tsans・ftlexisa'd ftlexestrisel)をしなければならない" ]
+      "forms" : [ "～(lsans)という状況は～(tsans・ftlexisa'd ftlexestrisel)を要求する", "～(lsans)という状況のためには～(具格)(人)は～(tsans・ftlexisa'd ftlexestrisel)をしなければならない" ]
     } ],
     "tags" : [ "口語的" ],
     "contents" : [ {
@@ -13465,7 +13462,7 @@
     },
     "translations" : [ {
       "title" : "jonusten ftona",
-      "forms" : [ "〜(主格)(人)が〜(oṣa)から〜(ghi)へ物理的に外出する" ]
+      "forms" : [ "〜(lsans)(人)が〜(oṣa)から〜(ghi)へ物理的に外出する" ]
     } ],
     "tags" : [ "bohúḷ型活用" ],
     "contents" : [ {
@@ -13751,7 +13748,7 @@
     },
     "translations" : [ {
       "title" : "sytenen ftona",
-      "forms" : [ "平らである" ]
+      "forms" : [ "es stlerven" ]
     }, {
       "title" : "sytenen ftona",
       "forms" : [ "（海などが）穏やかである" ]
@@ -13883,7 +13880,7 @@
       "form" : "ján"
     },
     "translations" : [ {
-      "title" : "擬属格kafnisfamsk",
+      "title" : "擬diursanskafnisfamsk",
       "forms" : [ "～への" ]
     } ],
     "tags" : [ ],
@@ -13905,7 +13902,7 @@
       "form" : "ghidín"
     },
     "translations" : [ {
-      "title" : "擬属格kafnisfamsk",
+      "title" : "擬diursanskafnisfamsk",
       "forms" : [ "～への" ]
     } ],
     "tags" : [ ],
@@ -13927,7 +13924,7 @@
       "form" : "oṣán"
     },
     "translations" : [ {
-      "title" : "擬属格kafnisfamsk",
+      "title" : "擬diursanskafnisfamsk",
       "forms" : [ "～からの" ]
     } ],
     "tags" : [ ],
@@ -13958,7 +13955,7 @@
       "form" : "osakán"
     },
     "translations" : [ {
-      "title" : "擬属格kafnisfamsk",
+      "title" : "擬diursanskafnisfamsk",
       "forms" : [ "～からの" ]
     } ],
     "tags" : [ ],
@@ -13981,7 +13978,7 @@
     },
     "translations" : [ {
       "title" : "pestrenoleu fua ftlexest fendej",
-      "forms" : [ "単数tsansの擬属格形 fua ftlexest fendej" ]
+      "forms" : [ "単数tsansの擬diursans形 fua ftlexest fendej" ]
     } ],
     "tags" : [ "翻訳調" ],
     "contents" : [ ],
@@ -14006,7 +14003,7 @@
     },
     "translations" : [ {
       "title" : "pestrenoleu fua ftlexest fendej",
-      "forms" : [ "複数tsansの擬属格形 fua ftlexest fendej" ]
+      "forms" : [ "複数tsansの擬diursans形 fua ftlexest fendej" ]
     } ],
     "tags" : [ "翻訳調" ],
     "contents" : [ ],
@@ -14031,7 +14028,7 @@
     },
     "translations" : [ {
       "title" : "pestrenoleu fua ftlexest pervoj",
-      "forms" : [ "単数tsansの擬属格形 fua ftlexest pervoj" ]
+      "forms" : [ "単数tsansの擬diursans形 fua ftlexest pervoj" ]
     } ],
     "tags" : [ "翻訳調" ],
     "contents" : [ ],
@@ -14056,7 +14053,7 @@
     },
     "translations" : [ {
       "title" : "pestrenoleu fua ftlexest pervoj",
-      "forms" : [ "複数tsansの擬属格形 fua ftlexest pervoj" ]
+      "forms" : [ "複数tsansの擬diursans形 fua ftlexest pervoj" ]
     } ],
     "tags" : [ "翻訳調" ],
     "contents" : [ ],
@@ -14080,7 +14077,7 @@
       "form" : "hínázáwán"
     },
     "translations" : [ {
-      "title" : "擬属格kafnisfamsk",
+      "title" : "擬diursanskafnisfamsk",
       "forms" : [ "～で起きた" ]
     } ],
     "tags" : [ ],
@@ -14102,7 +14099,7 @@
       "form" : "áṣán"
     },
     "translations" : [ {
-      "title" : "擬属格kafnisfamsk",
+      "title" : "擬diursanskafnisfamsk",
       "forms" : [ "～を原因としての" ]
     } ],
     "tags" : [ ],
@@ -14169,7 +14166,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest pervoj",
-      "forms" : [ "擬属格" ]
+      "forms" : [ "擬diursans" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -14309,7 +14306,7 @@
     },
     "translations" : [ {
       "title" : "kraftan",
-      "forms" : [ "一人称単数属格縮約形" ]
+      "forms" : [ "一人称単数diursans縮約形" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -14466,10 +14463,10 @@
     },
     "translations" : [ {
       "title" : "narlen ftona",
-      "forms" : [ "～(主格) doisnes" ]
+      "forms" : [ "～(lsans) doisnes" ]
     }, {
       "title" : "sytenen ftona",
-      "forms" : [ "～(主格)は味を感じている" ]
+      "forms" : [ "～(lsans)は味を感じている" ]
     } ],
     "tags" : [ "krackram lap" ],
     "contents" : [ ],
@@ -14826,10 +14823,10 @@
       "forms" : [ "ansarx" ]
     }, {
       "title" : "jonusten ftona",
-      "forms" : [ "～(ghi)という人が～(主格)という知識や経験を身につける", "～(主格)という知識や経験が身につく" ]
+      "forms" : [ "～(ghi)という人が～(lsans)という知識や経験を身につける", "～(lsans)という知識や経験が身につく" ]
     }, {
       "title" : "jonusten ftona",
-      "forms" : [ "～(主格)という食物が～(ghi)に消化される" ]
+      "forms" : [ "～(lsans)という食物が～(ghi)に消化される" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
