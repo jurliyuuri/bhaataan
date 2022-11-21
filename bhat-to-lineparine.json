@@ -11535,12 +11535,9 @@
     }, {
       "title" : "jonusten ftona",
       "forms" : [ "〜(tsans)の葬儀をする", "〜(tsans)を過去のものとする" ]
-    },
-    {
-      "title": "jonusten ftona",
-      "forms": [
-        "外来語の音韻構造をバート語本来語に寄せる"
-      ]
+    }, {
+      "title" : "jonusten ftona",
+      "forms" : [ "外来語の音韻構造をバート語本来語に寄せる" ]
     } ],
     "tags" : [ "-ḷor語幹" ],
     "contents" : [ {
@@ -15185,6 +15182,19 @@
       "title" : "daliu farteven",
       "text" : "理aukhfargからの借用"
     } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 679,
+      "form" : "bheghahhá"
+    },
+    "translations" : [ {
+      "title" : "krackrafi'a",
+      "forms" : [ "疲れ切ったときに空元気を出すときの擬声語" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
