@@ -13,7 +13,7 @@ npx tsc compile_corpus.ts; node compile_corpus.js
 
 ### 概要
 * [バート語文法](grammar.html) - 文法などのまとめ
-* [バート語語形変化チートシート](./cheatsheet/bhat_cheatsheet_ver_1_3.pdf) - 一枚で全てがまとまっている
+* [バート語語形変化チートシート](./cheatsheet/bhat_cheatsheet_ver_1_4.pdf) - 一枚で全てがまとまっている
 * [二百題で学ぶバート語基礎](https://docs.google.com/document/d/1jKy_4ZLQD-3OIVOl4dtY2gcvH0fYOr40jwfgaPQ53Xo/edit#) - 書きかけの入門書
 
 ### 創作の様子
