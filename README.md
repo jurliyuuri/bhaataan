@@ -6,8 +6,16 @@
 ## コーパスのコンパイル
 
 ```
-npx tsc compile_corpus.ts; node compile_corpus.js
+npx tsc render_corpus.ts; node render_corpus.js
 ```
+
+または
+
+```
+tsc; node render_corpus.js
+```
+
+のどっちかは上手くいくことが期待される。
 
 ## メインコンテンツ
 
