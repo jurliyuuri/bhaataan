@@ -15221,6 +15221,38 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 680,
+      "form" : "ecodhi"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "母音", "主母音" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌la1 cuop2"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 681,
+      "form" : "codhi"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "声" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌cuop2,藍cwouphi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

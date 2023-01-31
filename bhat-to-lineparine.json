@@ -15197,6 +15197,38 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 680,
+      "form" : "ecodhi"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "vowel", "nucleus of a syllable" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "牌la1 cuop2"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 681,
+      "form" : "codhi"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "voice" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "牌cuop2,藍cwouphi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
