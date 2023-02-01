@@ -15289,6 +15289,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 682,
+      "form" : "záhoná aibhausa"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "instrumental case denoting the causee" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

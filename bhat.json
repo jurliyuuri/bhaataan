@@ -15253,6 +15253,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 682,
+      "form" : "záhoná aibhausa"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "使役具格" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "文法用語。他動詞を使役文にした際に、元の動作主が具格に置かれるが、そのときの具格を表す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

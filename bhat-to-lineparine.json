@@ -15229,6 +15229,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 682,
+      "form" : "záhoná aibhausa"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "leusursans fon kraskiurm" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
