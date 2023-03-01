@@ -5572,6 +5572,9 @@
     "translations" : [ {
       "title" : "sytenen ftona",
       "forms" : [ "〜(tsans)を聞いている", "〜(tsans)が聞こえている" ]
+    }, {
+      "title" : "narlen ftona",
+      "forms" : [ "〜(tsans)を聞く", "〜(tsans)が聞こえる" ]
     } ],
     "tags" : [ ],
     "contents" : [ {

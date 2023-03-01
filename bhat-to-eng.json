@@ -5578,6 +5578,9 @@
     "translations" : [ {
       "title" : "stative verb",
       "forms" : [ "to be listening to [accusative]", "to be able to hear [accusative]" ]
+    }, {
+      "title" : "instantaneous verb",
+      "forms" : [ "to hear [accusative]" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
