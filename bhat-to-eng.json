@@ -15302,6 +15302,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 683,
+      "form" : "hámúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to be beautiful" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌hem1,藍hema"
+    }, {
+      "title" : "etymological information",
+      "text" : "Since the vowel correspondence is irregular, it is possible that this word is an early loanword from a language which used [ə] for this word."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

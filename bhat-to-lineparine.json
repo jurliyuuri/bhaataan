@@ -15242,6 +15242,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 683,
+      "form" : "hámúḷ"
+    },
+    "translations" : [ {
+      "title" : "sytenen ftona",
+      "forms" : [ "es tijiest" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "牌hem1,藍hema"
+    }, {
+      "title" : "歴史言語学的情報",
+      "text" : "母音が他の言語と対応しないため、[ə] などで発音する別言語からの早期借用かもしれない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
