@@ -15334,6 +15334,48 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 685,
+      "form" : "ṣíya"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "judgment", "evaluation" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍xiyu,牌xy1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 686,
+      "form" : "bhoḷoríya"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "legal decision", "legal judgment" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 687,
+      "form" : "bághaḍi bhán ṣíya"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "quantitative evaluation", "quantitative assessment" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
