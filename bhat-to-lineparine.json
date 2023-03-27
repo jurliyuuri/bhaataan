@@ -15274,6 +15274,48 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 685,
+      "form" : "ṣíya"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "判断", "inelneso", "裁き" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍xiyu,牌xy1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 686,
+      "form" : "bhoḷoríya"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "法的判断" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 687,
+      "form" : "bághaḍi bhán ṣíya"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "lersafikenasch inelneso" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

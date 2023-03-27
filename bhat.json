@@ -15304,6 +15304,48 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 685,
+      "form" : "ṣíya"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "判断", "評価", "裁き" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍xiyu,牌xy1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 686,
+      "form" : "bhoḷoríya"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "法的判断" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 687,
+      "form" : "bághaḍi bhán ṣíya"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "定量的評価" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
