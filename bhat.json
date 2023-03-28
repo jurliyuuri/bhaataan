@@ -15378,6 +15378,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 690,
+      "form" : "dháḷom"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "広場" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

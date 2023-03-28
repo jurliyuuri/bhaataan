@@ -15408,6 +15408,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 690,
+      "form" : "dháḷom"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "open space" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
