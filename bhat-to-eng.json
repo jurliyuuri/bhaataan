@@ -15421,6 +15421,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 691,
+      "form" : "ádhín"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "beach", "seashore" ]
+    } ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

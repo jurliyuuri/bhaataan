@@ -15391,6 +15391,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 691,
+      "form" : "ádhín"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "浜辺", "海岸", "海辺" ]
+    } ],
+    "tags" : [ "主属同形対格-ele" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍atini"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
