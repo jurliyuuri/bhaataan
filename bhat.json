@@ -15346,6 +15346,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 688,
+      "form" : "bannúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "高い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "manu.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

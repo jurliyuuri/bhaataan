@@ -15376,6 +15376,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 688,
+      "form" : "bannúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to be high", "to be tall" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "manu.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -2346,7 +2346,7 @@
       "title" : "jonusten ftona",
       "forms" : [ "〜(ema)を思う・〜(ema)について考える" ]
     }, {
-      "title" : "動詞",
+      "title" : "ftona",
       "forms" : [ "(動詞ftlexisa'd ftlexestrisel+heyákáṣloで)～だろうか" ]
     } ],
     "tags" : [ ],
@@ -6037,7 +6037,7 @@
       "form" : "dat"
     },
     "translations" : [ {
-      "title" : "添詞",
+      "title" : "ceciorasnaster",
       "forms" : [ "〜だけ" ]
     } ],
     "tags" : [ ],
@@ -7581,7 +7581,7 @@
       "form" : "bhai"
     },
     "translations" : [ {
-      "title" : "添詞",
+      "title" : "ceciorasnaster",
       "forms" : [ "（直前に数詞・直後にdiursans語尾を取って）-te" ]
     } ],
     "tags" : [ ],
@@ -15314,6 +15314,22 @@
     } ],
     "tags" : [ ],
     "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 688,
+      "form" : "bannúḷ"
+    },
+    "translations" : [ {
+      "title" : "sytenen ftona",
+      "forms" : [ "高い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "manu.ar"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
