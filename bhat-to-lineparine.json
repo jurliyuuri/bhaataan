@@ -1306,7 +1306,7 @@
       "title" : "類義語の使い分け",
       "text" : "accúḷは、「文字を書く」などのように、あくまで筆記具を動かして文字などを生み出す動作を表す。一方、horúḷは「書いて記録する」「まとまりのある文章を書き表す」といったような、意味を記録する方に重点が置かれる動詞である。"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "accúḷの目的語は、書いた結果生まれるもの（「文字」など）である。"
     } ],
     "variations" : [ ],
@@ -1482,7 +1482,7 @@
       "title" : "lanerme fevan'jexao io",
       "text" : "*qmamq"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "直後に名詞を要求する。"
     } ],
     "variations" : [ ],
@@ -1702,7 +1702,7 @@
       "title" : "類義語の使い分け",
       "text" : "「～と共に」という意味においては特にbhánとcájauで使い分けは無いが、cájauが用いられることのほうが多い。「〜を通って」はbhánでのみ表すことができる。"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "bhán, cájau および具格は、擬diursans kafnisfamskとしてすべてこの語を用いる。"
     } ],
     "variations" : [ ],
@@ -2108,7 +2108,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "動詞に後続して、文の内容が伝聞である事を表す。「まるで〜のようだ」の意味では用いることができない。\n\n"
     }, {
       "title" : "daliu farteven",
@@ -2145,7 +2145,7 @@
       "title" : "lanerme fevan'jexao io",
       "text" : "*aaim"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "ftlexisa'd ftlexestriselまたはkoḍiが直前に来て、「〜を思う」など主に思考にまつわる動詞や機能語的性質が強い動詞の意味上のtsansを表すのが普通である。"
     } ],
     "variations" : [ ],
@@ -2280,7 +2280,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "<[lsans] [lsans] hem> kantet <[lsans] es [lsans]>. 2te tiliesterlo・ 1te tiliesterloに後置することで完了表現を作る。コピュラ自身の命令形・ 1te tiliesterloなどを作るためには、同義語の通常動詞bhápúḷを用いる。"
     }, {
       "title" : "daliu farteven",
@@ -2731,7 +2731,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "「彼ら」はkiṣloという語があるが、「あれら」「男たち」は規則複数でkízáである。"
     }, {
       "title" : "daliu farteven",
@@ -3001,7 +3001,7 @@
       "title" : "lanerme fevan'jexao io",
       "text" : "*ninq+*acii"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "筆記媒体そのものではなく、文書が書き込まれたものを指す。"
     } ],
     "variations" : [ ],
@@ -3364,7 +3364,7 @@
       "title" : "lanerme fevan'jexao io",
       "text" : "*sljoomq"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "方言によってはtsansを取る。"
     } ],
     "variations" : [ ],
@@ -3511,7 +3511,7 @@
       "title" : "lanerme fevan'jexao io",
       "text" : "*furoo"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "燐字から見て取れるように、液状の墨汁が第一義である。"
     } ],
     "variations" : [ ],
@@ -3807,7 +3807,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "koにdiursans語尾-omがついたものが1語化したもの。直後に名詞を要求する。"
     } ],
     "variations" : [ ],
@@ -4278,7 +4278,7 @@
       "title" : "daliu farteven",
       "text" : "牌be1"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "直後に単数名詞を要求する。意味上複数であっても単数形を用いる。"
     } ],
     "variations" : [ ],
@@ -4389,7 +4389,7 @@
       "title" : "daliu farteven",
       "text" : "藍numiu"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "専らdiursans io使う。"
     } ],
     "variations" : [ ],
@@ -4408,7 +4408,7 @@
       "title" : "daliu farteven",
       "text" : "牌xuo1,藍tixuo"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "fanklavolo/eustira同形なので、複数であっても必ず単数曲用である。"
     } ],
     "variations" : [ ],
@@ -4493,7 +4493,7 @@
       "title" : "lanerme fevan'jexao io",
       "text" : "*taiq"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "悲しみにのみ使われるアイル語t'aitaiuと異なり、嬉しいこと・単に驚いたことに使用できる。"
     } ],
     "variations" : [ ],
@@ -4550,7 +4550,7 @@
       "title" : "daliu farteven",
       "text" : "藍dibee"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "あくまで輪などが繋がったものを指す語であり、「繋ぎ止める」「束縛する」というニュアンスは無い。"
     } ],
     "variations" : [ ],
@@ -4798,7 +4798,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "「規則的に動くもの」が原義なので、zíghíṣは置き時計・腕時計・日時計・砂時計など全ての種類の時計を指せる。"
     }, {
       "title" : "daliu farteven",
@@ -5094,7 +5094,7 @@
       "title" : "daliu farteven",
       "text" : "牌ut2,藍utu"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "「Aの下」などを表すときには、Aを具格にする。（いわゆる基準具格）\nṣoyabhau rúṣán bhoṇau 「壁の下の巣穴」"
     } ],
     "variations" : [ ],
@@ -5258,7 +5258,7 @@
     } ],
     "tags" : [ "形式名詞", "抽象的形式名詞" ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "diursans・kraftanの直後にのみ現れる。lsansのときにはゼロまたは複数形で現れるのが主流である。人は指さない。\nko ámaom hem? これはあなたのですか？\námaom kele sujamúha? あなたのを使いますか？"
     }, {
       "title" : "daliu farteven",
@@ -5524,7 +5524,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "狭い道のようなものを対象としては（道に沿った方向の移動でも道を横切る方向の移動でも）使うことができない。"
     }, {
       "title" : "daliu farteven",
@@ -5735,7 +5735,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "元来rijúḷに1te jujolelのついたrijz「願い事」と同一の語だが、意味の差により綴り分けられる。"
     } ],
     "variations" : [ ],
@@ -5831,7 +5831,7 @@
       "title" : "daliu farteven",
       "text" : "藍suvoo"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "ftlexisa'd ftlexestriselまたは動詞+4te jujolelを主語として取るのが基本である。"
     } ],
     "variations" : [ ],
@@ -5850,7 +5850,7 @@
       "title" : "daliu farteven",
       "text" : "牌nam2, 藍name"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "「会議を開く」などの意味で用いることはできない。他動詞なので、「花が開く」などに使うのも不適である。\n「塞がっていたものに孔ができて通れるようになる」が中心語義なので、扉や窓、傷口などに用いるのが第一義であり、覆いが取れて中にアクセスできるようになるということから「包み紙を開く」「本を開く」などにも用いることができる。"
     } ],
     "variations" : [ ],
@@ -6061,7 +6061,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "自動詞の語幹に付き、使役性の他動詞を作る。\n例：cákíkúḷ「来る、訪れる」→cákíkaúḷ「訪れさせる、もたらす」"
     } ],
     "variations" : [ ],
@@ -6101,7 +6101,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "自動詞の語幹に付き、使役性の他動詞を作る。\n例：janúḷ「生じる」→janáúḷ「作る」"
     } ],
     "variations" : [ ],
@@ -6135,7 +6135,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "大過去や前未来を作る。"
     }, {
       "title" : "daliu farteven",
@@ -6160,7 +6160,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "大過去や前未来を作る。"
     }, {
       "title" : "daliu farteven",
@@ -6445,7 +6445,7 @@
     } ],
     "tags" : [ "ジョーク", "非真理設定" ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "要するに「時の魚」。poisson d'avrilのcalqueであることは言うまでもなく、非真理設定であることも言うまでもない。"
     } ],
     "variations" : [ ],
@@ -6482,7 +6482,7 @@
       "title" : "daliu farteven",
       "text" : "理lipakorlからの借用。"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "人名。一般にアレス・ラネーメ・リパコールを指す。"
     } ],
     "variations" : [ ],
@@ -6507,7 +6507,7 @@
       "title" : "daliu farteven",
       "text" : "理lipakorlesからの翻訳借用。"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "理lipakorlesを参照せよ。"
     } ],
     "variations" : [ ],
@@ -6557,7 +6557,7 @@
       "title" : "daliu farteven",
       "text" : "藍asuka,牌cuk2"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "「人に聞く」といった、不定な「他人」という意味での「人」には使わない。不定な一人を指す場合にはlásiを用いる。"
     } ],
     "variations" : [ ],
@@ -6604,7 +6604,7 @@
       "title" : "類義語の使い分け",
       "text" : "nautuは「単語」の意味であり、zephaはnautuや文法が集まってできる「言語」の意味である。bhátán zephaは「バート語」、bhátán nautuは「バート語の単語」である。"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "nautuhomá \"A\": Aという単語"
     } ],
     "variations" : [ ],
@@ -6788,7 +6788,7 @@
       "title" : "daliu farteven",
       "text" : "牌xi zi aからの借用"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "パイグと異なり呼びかけには用いず、専ら挨拶としてのみ使う。"
     } ],
     "variations" : [ ],
@@ -7005,7 +7005,7 @@
       "title" : "daliu farteven",
       "text" : "牌t,皇t"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "バート語の文法上はnaliuftonaとして扱うが、実際にtの音で発音されるわけではなく、あくまで感嘆を表すための記号である。故に、ラテン字転写では感嘆符で転写するが、バート文字で書く場合には、単語tを書きその後ろにピリオドを打つ必要がある。"
     } ],
     "variations" : [ ],
@@ -7071,7 +7071,7 @@
     } ],
     "tags" : [ "形式名詞", "抽象的形式名詞" ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "ftlexest pervojkの複数形。あまりに紛らわしいので見出し語として一応立てておく。"
     } ],
     "variations" : [ ],
@@ -8005,7 +8005,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "「〜しようとしている」「〜するつもりである」という意味を表すsytenen ftonaを作る。"
     }, {
       "title" : "daliu farteven",
@@ -8030,7 +8030,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "「〜しようとしている」「〜するつもりである」などの意味を表すsytenen ftonaを作る。"
     }, {
       "title" : "daliu farteven",
@@ -8080,7 +8080,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "nínaccúなどの語に痕跡的に残るだけであり、現在では生産的ではない。"
     } ],
     "variations" : [ ],
@@ -8117,7 +8117,7 @@
       "title" : "daliu farteven",
       "text" : "理lexerlからの借用。"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "人名。"
     } ],
     "variations" : [ ],
@@ -8218,7 +8218,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "動詞の語幹に付き、使役性の他動詞を作る。動詞が自動詞である場合、元の動詞の行為者は目的語となる。動詞が他動詞である場合、元の動詞の目的語は目的語のままであり、元の動詞の行為者は具格となる。"
     }, {
       "title" : "daliu farteven",
@@ -8256,7 +8256,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "動詞の語幹に付き、使役性の他動詞を作る。動詞が自動詞である場合、元の動詞の行為者は目的語となる。動詞が他動詞である場合、元の動詞の目的語は目的語のままであり、元の動詞の行為者は具格となる。"
     }, {
       "title" : "daliu farteven",
@@ -8479,7 +8479,7 @@
     } ],
     "tags" : [ "口語的" ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "形式名詞 k とコピュラ hem（〜である）が縮約して成立した単語。"
     }, {
       "title" : "daliu farteven",
@@ -8631,7 +8631,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "リパライン語elmen'iarsよりも語義は広く、経営者とかも含むので、「労働者階級」みたいなのを指すのには適さない。"
     }, {
       "title" : "daliu farteven",
@@ -9073,7 +9073,7 @@
       "title" : "daliu farteven",
       "text" : "藍matutu"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "「Aの外」などを表すときには、Aを具格にする。（いわゆる基準具格）"
     } ],
     "variations" : [ ],
@@ -9248,7 +9248,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "「ちなみに～である」という挿入句を表すために挿入句の先頭に置くftonaolであり、常にftonaolbhaṣと併用して用いる。"
     } ],
     "variations" : [ ],
@@ -9264,7 +9264,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "「ちなみに～である」という挿入句を表すために挿入句末尾の動詞直前に置くftonaolであり、常にftonaolbháṣと併用して用いる。"
     } ],
     "variations" : [ ],
@@ -10549,7 +10549,7 @@
       "title" : "類義語の使い分け",
       "text" : "「共に移動するために一旦何らかの場所で集まる」という意味の際はcákíkúḷを用いる。"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "多数性を明示する表現であるので、主語が複数であっても複数形接辞を用いない。"
     } ],
     "variations" : [ ],
@@ -10997,7 +10997,7 @@
       "title" : "daliu farteven",
       "text" : "藍tacoa"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "基準となるものが人や動物である場合は基準にとっての背中側にあることを、そうでない場合は対象を話し手または聞き手が見ようとするとき基準となるものが対象への視線を大まかに遮っていることを表す。"
     } ],
     "variations" : [ ],
@@ -11016,7 +11016,7 @@
       "title" : "daliu farteven",
       "text" : "牌xo2, 藍xoudo"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "直後に単数名詞を要求する。意味上複数であっても単数形を用いる。"
     } ],
     "variations" : [ ],
@@ -11032,7 +11032,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "rijúḷ、-ladhíなどを参照せよ。"
     } ],
     "variations" : [ ],
@@ -11144,7 +11144,7 @@
       "title" : "daliu farteven",
       "text" : "伐nutta"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "歯磨きの類も含む。"
     } ],
     "variations" : [ ],
@@ -11220,7 +11220,7 @@
       "title" : "daliu farteven",
       "text" : "理jurfheijaからの借用。"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "人名。"
     } ],
     "variations" : [ ],
@@ -11252,7 +11252,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "直訳は「〜するとあなたなら言わんかね？」。話し手が知っていることについて、聞き手にとって既知であることを期待する形。"
     } ],
     "variations" : [ ],
@@ -11368,7 +11368,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "人称語尾より後ろにつく。"
     } ],
     "variations" : [ ],
@@ -11415,7 +11415,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "主節にのみ置く。"
     } ],
     "variations" : [ ],
@@ -11488,7 +11488,7 @@
       "title" : "daliu farteven",
       "text" : "藍blohai"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "法学では bhoḷog は『法体系』を指すことが多く、それを構成する各々の規則とは区別される。一方で、法学以外では明確に区別されず、bhoḷogは両方を意味する。"
     } ],
     "variations" : [ ],
@@ -11544,7 +11544,7 @@
       "title" : "daliu farteven",
       "text" : "藍sulou"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "厄介事などについて比喩的に使うときには、厄介事が実際には解決していないが解決していると見せかけている場合にも、実際に対処して厄介事を葬り去った場合にも使える。"
     } ],
     "variations" : [ ],
@@ -11560,7 +11560,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "スチェスナスト、アラザキーフィナツ、ラバスフィナ、フィナツ、フィノストリヴァスンなど多様な植物を指す。"
     }, {
       "title" : "daliu farteven",
@@ -11851,7 +11851,7 @@
       "title" : "daliu farteven",
       "text" : "藍suna-umi, 牌nom2"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "diursans <ṣánomán>'d <o> es 例外的に短い。"
     } ],
     "variations" : [ ],
@@ -12266,7 +12266,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "迷惑・不快さを表す。\n一人称受身「私は○○された；あいつは私を○○しやがった」\n二人称受身「君は○○された；あいつは君を○○しやがった」\n三人称能動「あいつは○○しやがった」\n三人称受身「彼は○○された；あいつは彼を○○しやがった」\nで主に使われる。"
     } ],
     "variations" : [ ],
@@ -12324,7 +12324,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "迷惑・不快さを表す。\n一人称受身「私は○○された；あいつは私を○○しやがった」\n二人称受身「君は○○された；あいつは君を○○しやがった」\n三人称能動「あいつは○○しやがった」\n三人称受身「彼は○○された；あいつは彼を○○しやがった」\nで主に使われる。"
     } ],
     "variations" : [ ],
@@ -12938,7 +12938,7 @@
       "title" : "daliu farteven",
       "text" : "理alesからの翻訳借用。"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "人名。"
     } ],
     "variations" : [ ],
@@ -12986,7 +12986,7 @@
       "title" : "発音",
       "text" : "bʱaːtniːmaʂ/, /bʱaːnniːmaʂ/, /bʱanniːmaʂ/, /bʱaːtəniːmaʂ"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "人名。バート人名はもともと「父名 ghátu 名前」が基礎的な形で、姓というシステムが本来的に用いられなかったため、後世外来姓と対比する形でbhátnímaṣが付けられた。位置的にはヴェフィスやリナエストの名前形式に準ずる位置であり、バート人が王朝時代からリナエスト藩国と接していたことを考えると後世に他民族語のそれに合わせるために付与されたものであると考えられる。"
     } ],
     "variations" : [ ],
@@ -13155,7 +13155,7 @@
       "title" : "daliu farteven",
       "text" : "藍nuta"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "直後に名詞を要求する。"
     } ],
     "variations" : [ ],
@@ -13174,7 +13174,7 @@
       "title" : "daliu farteven",
       "text" : "cu + -om"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "直後に名詞を要求する。"
     } ],
     "variations" : [ ],
@@ -13190,7 +13190,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "直後に名詞を要求する。"
     } ],
     "variations" : [ ],
@@ -13326,7 +13326,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "体言ではなく用言に掛けて使う。"
     } ],
     "variations" : [ ],
@@ -13399,7 +13399,7 @@
       "title" : "daliu farteven",
       "text" : "牌hia1 kait"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "口語的な語であるので、ftlexisa'd ftlexestriselが意味上のtsansとして来る際にemaが伴わないのが普通である。"
     } ],
     "variations" : [ ],
@@ -13415,7 +13415,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "主節にのみ置く。"
     } ],
     "variations" : [ ],
@@ -13498,7 +13498,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "「相手に声が聞こえている保証がないので確認する」という状況で用いる。"
     }, {
       "title" : "発音",
@@ -14091,7 +14091,7 @@
       "title" : "発音",
       "text" : "xiːnətʃaːʋaːn"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "直後に掛かる名詞に動作性があるときは、hína hemakátá 「～にある～」ではなくてこちらの形を用いる。4連続長母音短音則が常に適用されることに注意。"
     } ],
     "variations" : [ ],
@@ -14252,7 +14252,7 @@
       "title" : "daliu farteven",
       "text" : "藍toca"
     }, {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "直後に名詞を要求する。"
     } ],
     "variations" : [ ],
@@ -14297,7 +14297,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "相手の直前の発言に対して、明確に否定したり、侮蔑したり、低く見たり、けなしたりする気持ちを表す。下降調で読むのが普通だが、上昇調で読むと少し失礼さが減る。"
     } ],
     "variations" : [ ],
@@ -14313,7 +14313,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "ápaomの縮約。"
     } ],
     "variations" : [ ],
@@ -14329,7 +14329,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "ámaomの縮約。"
     } ],
     "variations" : [ ],
@@ -14345,7 +14345,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "bhámaomの縮約。"
     } ],
     "variations" : [ ],
@@ -14361,7 +14361,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "bháomの縮約。"
     } ],
     "variations" : [ ],
@@ -14595,7 +14595,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "「Aの上」などを表すときには、Aを具格にする。（いわゆる基準具格）\nkaṭádhabhau ṣaghi hína kí hemabáta hem.「船の上に男がいた。」"
     } ],
     "variations" : [ ],
@@ -14682,7 +14682,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "話し手の現在位置から離れて、どこかへと帰るときに使う。"
     }, {
       "title" : "daliu farteven",
@@ -14852,7 +14852,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "主に káṇabhodiḍi ghi josedúḷ （直訳：時の海に沈む）という形で使い、「記録が失われ、おそらく永遠に知ることができなくなる」という意味を表す。"
     } ],
     "variations" : [ ],
@@ -15061,7 +15061,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "人を表す語について、差別的・軽蔑的意味を表す。"
     } ],
     "variations" : [ ],
@@ -15083,7 +15083,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "人を表す語について、差別的・軽蔑的意味を表す。"
     } ],
     "variations" : [ ],
@@ -15285,7 +15285,7 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "daliu farteven",
       "text" : "藍xiyu,牌xy1"
     } ],
     "variations" : [ ],
@@ -15329,6 +15329,22 @@
     "contents" : [ {
       "title" : "daliu farteven",
       "text" : "manu.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 689,
+      "form" : "sí"
+    },
+    "translations" : [ {
+      "title" : "naliuftona",
+      "forms" : [ "～だなぁ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "liusel",
+      "text" : "回想・気づき・強調を表す終助詞。"
     } ],
     "variations" : [ ],
     "relations" : [ ]

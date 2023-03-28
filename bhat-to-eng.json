@@ -15392,6 +15392,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 689,
+      "form" : "sí"
+    },
+    "translations" : [ {
+      "title" : "sentence-final particle",
+      "forms" : [ "indeed" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "indicates recollection, realization, and emphasis"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

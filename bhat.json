@@ -2109,7 +2109,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "用法",
-      "text" : "動詞に後続して、文の内容が伝聞である事を表す。「まるで〜のようだ」の意味では用いることができない。\n\n"
+      "text" : "動詞に後続して、文の内容が伝聞である事を表す。「まるで〜のようだ」の意味では用いることができない。"
     }, {
       "title" : "同根語",
       "text" : "牌aik2,藍aika"
@@ -15359,6 +15359,22 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "manu.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 689,
+      "form" : "sí"
+    },
+    "translations" : [ {
+      "title" : "終助詞",
+      "forms" : [ "～だなぁ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "回想・気づき・強調を表す終助詞。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
