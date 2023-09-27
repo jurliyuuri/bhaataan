@@ -15374,6 +15374,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 692,
+      "form" : "bitánami"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "fourteen", "14" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍mita-nami"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

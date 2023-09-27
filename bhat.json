@@ -15407,6 +15407,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 692,
+      "form" : "bitánami"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "十四", "14" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍mita-nami"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

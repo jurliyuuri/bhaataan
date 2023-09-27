@@ -15434,6 +15434,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 692,
+      "form" : "bitánami"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "fourteen", "14" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍mita-nami"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
