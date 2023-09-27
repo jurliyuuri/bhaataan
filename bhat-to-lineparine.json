@@ -8741,7 +8741,7 @@
       "title" : "staliulo",
       "entry" : {
         "id" : 655,
-        "form" : "bházau kázalek"
+        "form" : "bházau_kázalek"
       }
     } ]
   }, {
@@ -14219,7 +14219,7 @@
       "title" : "staliulo",
       "entry" : {
         "id" : 655,
-        "form" : "bházau kázalek"
+        "form" : "bházau_kázalek"
       }
     } ]
   }, {
@@ -14794,7 +14794,7 @@
   }, {
     "entry" : {
       "id" : 655,
-      "form" : "bházau kázalek"
+      "form" : "bházau_kázalek"
     },
     "translations" : [ {
       "title" : "ftlexest pervoj",

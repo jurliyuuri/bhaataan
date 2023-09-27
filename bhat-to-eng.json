@@ -8765,7 +8765,7 @@
       "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 655,
-        "form" : "bházau kázalek"
+        "form" : "bházau_kázalek"
       }
     } ]
   }, {
@@ -14273,7 +14273,7 @@
       "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 655,
-        "form" : "bházau kázalek"
+        "form" : "bházau_kázalek"
       }
     } ]
   }, {
@@ -14854,7 +14854,7 @@
   }, {
     "entry" : {
       "id" : 655,
-      "form" : "bházau kázalek"
+      "form" : "bházau_kázalek"
     },
     "translations" : [ {
       "title" : "consonant-stem noun",
