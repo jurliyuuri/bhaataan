@@ -15390,6 +15390,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 693,
+      "form" : "dhama"
+    },
+    "translations" : [ {
+      "title" : "ftonaol",
+      "forms" : [ "見たところ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "liusel",
+      "text" : "感情を表す動詞を用いる際、語り手と感情の主体が不一致のときにはこの副詞を用いるのが自然である。特に、「動詞側の人称変化に感情を感じる主体の情報が入らない」という場合には、dhama の有無はかなり「最も自然な解釈」の決定に貢献する。ただし、この副詞は「他人の心情とは結局分からないものであり、推察するしかない」という事情によって置かれるものなので、語り手が third person omniscient ならば dhama は置かれるべきではない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

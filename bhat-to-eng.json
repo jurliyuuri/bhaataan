@@ -15450,6 +15450,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 693,
+      "form" : "dhama"
+    },
+    "translations" : [ {
+      "title" : "adverb",
+      "forms" : [ "apparently" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "When using verbs that express emotion, it is natural to use this adverb when the speaker is different the subject of the emotion. In particular, the presence or absence of dhama contributes considerably to the determination of the most natural interpretation, especially when no information about the subject of feeling emotion can be inferred from verb conjugation. However, since this adverb is placed based on the fact that the feelings of others are ultimately unknowable and can only be inferred, dhama should *not* be placed if the storytelling uses the third person omniscient point of view."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
