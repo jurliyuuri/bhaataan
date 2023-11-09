@@ -4067,6 +4067,12 @@
         "id" : 550,
         "form" : "bhoman"
       }
+    }, {
+      "title" : "staliulo",
+      "entry" : {
+        "id" : 694,
+        "form" : "eghin"
+      }
     } ]
   }, {
     "entry" : {
@@ -9220,7 +9226,13 @@
       "text" : "藍hewe"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "staliulo",
+      "entry" : {
+        "id" : 694,
+        "form" : "eghin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 386,
@@ -15406,6 +15418,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 694,
+      "form" : "eghin"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "(phertarsen ferlk)" ]
+    } ],
+    "tags" : [ "人名", "主属同形tsans io <-ele>" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "staliulo",
+      "entry" : {
+        "id" : 385,
+        "form" : "eghi"
+      }
+    }, {
+      "title" : "staliulo",
+      "entry" : {
+        "id" : 161,
+        "form" : "-n"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

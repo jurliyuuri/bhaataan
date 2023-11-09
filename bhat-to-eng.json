@@ -4073,6 +4073,12 @@
         "id" : 550,
         "form" : "bhoman"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 694,
+        "form" : "eghin"
+      }
     } ]
   }, {
     "entry" : {
@@ -9244,7 +9250,13 @@
       "text" : "藍hewe"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 694,
+        "form" : "eghin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 386,
@@ -15466,6 +15478,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 694,
+      "form" : "eghin"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "(name of a person)" ]
+    } ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 385,
+        "form" : "eghi"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 161,
+        "form" : "-n"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
