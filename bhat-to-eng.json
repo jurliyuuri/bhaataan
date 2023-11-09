@@ -15503,6 +15503,22 @@
         "form" : "-n"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 695,
+      "form" : "ṣádhosammá"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "(name of a person)" ]
+    } ],
+    "tags" : [ "name" ],
+    "contents" : [ {
+      "title" : "pronunciation",
+      "text" : "ʂaːdʱɔzammaː"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

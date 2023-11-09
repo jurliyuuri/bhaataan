@@ -15443,6 +15443,22 @@
         "form" : "-n"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 695,
+      "form" : "ṣádhosammá"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "(phertarsen ferlk)" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "bʱɔman"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -15476,6 +15476,22 @@
         "form" : "-n"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 695,
+      "form" : "ṣádhosammá"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "ʂaːdʱɔzammaː"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
