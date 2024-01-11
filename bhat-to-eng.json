@@ -15535,6 +15535,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 697,
+      "form" : "ceṣakí"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "dogman" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "伐ceṣlo+伐kí"
+    }, {
+      "title" : "culture",
+      "text" : "The word has two meanings: \"a mythical being whose face is a dog and the rest is a man\" and \"a clown who wears a dog mask and fools around at festivals\"."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

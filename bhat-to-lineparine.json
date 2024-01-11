@@ -15470,8 +15470,27 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "cognate(s)",
+      "title" : "daliu farteven",
       "text" : "牌dui,藍odui"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 697,
+      "form" : "ceṣakí"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "tirovarannia" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "伐ceṣlo+伐kí"
+    }, {
+      "title" : "meu",
+      "text" : "「顔が犬で顔から下が男であるような伝承上の存在」と「犬の仮面を被って祭りでふざける道化」の 2 義を持つ。"
     } ],
     "variations" : [ ],
     "relations" : [ ]

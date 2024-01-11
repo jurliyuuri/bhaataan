@@ -15508,6 +15508,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 697,
+      "form" : "ceṣakí"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "犬男" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐ceṣlo+伐kí"
+    }, {
+      "title" : "文化",
+      "text" : "「顔が犬で顔から下が男であるような伝承上の存在」と「犬の仮面を被って祭りでふざける道化」の 2 義を持つ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
