@@ -15492,6 +15492,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 696,
+      "form" : "hodhi"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "油（比喩的にのみ用いる）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌dui,藍odui"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

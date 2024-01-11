@@ -15459,6 +15459,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 696,
+      "form" : "hodhi"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "oil (used only metaphorically)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌dui,藍odui"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
