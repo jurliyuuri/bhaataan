@@ -15554,6 +15554,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 698,
+      "form" : "ṣíyasúka"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "judge (a person who judges in court)", "umpire", "referee (in sport)", "appraiser",  "referee (of a manuscript)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "伐ṣíya+伐ásúka"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

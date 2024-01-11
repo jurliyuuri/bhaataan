@@ -15527,6 +15527,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 698,
+      "form" : "ṣíyasúka"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "裁判官", "審判", "評価者", "査読者" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐ṣíya+伐ásúka"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

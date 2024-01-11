@@ -15494,6 +15494,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 698,
+      "form" : "ṣíyasúka"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "裁判官", "審判", "評価者", "査読者" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "伐ṣíya+伐ásúka"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
