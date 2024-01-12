@@ -15529,6 +15529,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 700,
+      "form" : "nauzem"
+    },
+    "translations" : [ {
+      "title" : "krackrafi'a",
+      "forms" : [ "やめてくれ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "牌nau+伐-zem"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

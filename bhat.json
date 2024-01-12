@@ -15562,6 +15562,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 700,
+      "form" : "nauzem"
+    },
+    "translations" : [ {
+      "title" : "間投詞",
+      "forms" : [ "やめてくれ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌nau+伐-zem"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

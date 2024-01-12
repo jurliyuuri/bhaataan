@@ -15589,6 +15589,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 700,
+      "form" : "nauzem"
+    },
+    "translations" : [ {
+      "title" : "interjection",
+      "forms" : [ "Don't!", "Stop it!" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌nau+伐-zem"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
