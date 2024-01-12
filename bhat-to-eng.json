@@ -15605,6 +15605,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 701,
+      "form" : "bhámákaz"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "endurance for all things", "patience with all things" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "伐bhá+伐bákaz"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
