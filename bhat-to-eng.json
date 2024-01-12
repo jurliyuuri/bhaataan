@@ -15570,6 +15570,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 699,
+      "form" : "dhokitúḷ"
+    },
+    "translations" : [ {
+      "title" : "instantaneous verb",
+      "forms" : [ "for a fruit to ripen on a tree", "for a dead body to be hanged from a tree" ]
+    }, {
+      "title" : "stative verb",
+      "forms" : [ "for a ripe fruit to be hanging from a tree", "for a dead body to be hanging from a tree" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "伐dhokit"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

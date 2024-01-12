@@ -15510,6 +15510,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 699,
+      "form" : "dhokitúḷ"
+    },
+    "translations" : [ {
+      "title" : "narlen ftona",
+      "forms" : [ "果実が実る", "人の死体が木に吊るされる" ]
+    }, {
+      "title" : "sytenen ftona",
+      "forms" : [ "果実が実っている", "人の死体が木に吊るされている" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "伐dhokit"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
