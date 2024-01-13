@@ -15442,8 +15442,11 @@
       "title" : "consonant-stem noun",
       "forms" : [ "beach", "seashore" ]
     } ],
-    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
-    "contents" : [ ],
+    "tags" : [ "NomGen: Zero, Acc: -ele" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍atini"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -15634,6 +15637,22 @@
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "牌cuop2,藍cwouphi,伐codhi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 703,
+      "form" : "ádhín"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "(name of a person)" ]
+    } ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍atini"
     } ],
     "variations" : [ ],
     "relations" : [ ]
