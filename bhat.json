@@ -15626,6 +15626,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 704,
+      "form" : "kíghi"
+    },
+    "translations" : [ {
+      "title" : "変化形",
+      "forms" : [ "kíḍi ghi の縮約" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

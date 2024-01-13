@@ -15656,6 +15656,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 704,
+      "form" : "kíghi"
+    },
+    "translations" : [ {
+      "title" : "inflected form",
+      "forms" : [ "contraction of kíḍi ghi" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
