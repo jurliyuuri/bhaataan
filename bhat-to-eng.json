@@ -15564,7 +15564,7 @@
     },
     "translations" : [ {
       "title" : "vowel-stem noun",
-      "forms" : [ "judge (a person who judges in court)", "umpire", "referee (in sport)", "appraiser",  "referee (of a manuscript)" ]
+      "forms" : [ "judge (a person who judges in court)", "umpire", "referee (in sport)", "appraiser", "referee (of a manuscript)" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -15667,6 +15667,38 @@
     } ],
     "tags" : [ ],
     "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 705,
+      "form" : "cun"
+    },
+    "translations" : [ {
+      "title" : "adverb",
+      "forms" : [ "even though" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "An adverb placed at the beginning of an inserted phrase to indicate a contrasting idea. Always used in pair with the adverb \"ja\". Very archaic."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 706,
+      "form" : "ja"
+    },
+    "translations" : [ {
+      "title" : "adverb",
+      "forms" : [ "even though" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "An adverb placed right before the verb that terminates the inserted phrase.  Always used in pair with the adverb \"ja\". Very archaic."
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
