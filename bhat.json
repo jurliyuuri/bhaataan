@@ -15651,7 +15651,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "用法",
-      "text" : "逆接の挿入句を表すために挿入句の先頭に置く副詞であり、常に副詞jaと併用して用いる。非常に古めかしい。"
+      "text" : "逆接の挿入句を表すために挿入句の先頭に置く副詞であり、常に副詞jaと併用して用いる。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -15667,7 +15667,23 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "用法",
-      "text" : "逆接の挿入句を表すために挿入句末尾の動詞直前に置く副詞であり、常に副詞cunと併用して用いる。非常に古めかしい。"
+      "text" : "逆接の挿入句を表すために挿入句末尾の動詞直前に置く副詞であり、常に副詞cunと併用して用いる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 707,
+      "form" : "áteletea"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "資本主義" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理語arterleteraからの借用"
     } ],
     "variations" : [ ],
     "relations" : [ ]

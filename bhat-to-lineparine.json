@@ -15586,7 +15586,7 @@
       "title" : "ftlexest pervoj",
       "forms" : [ "(phertarsen ferlk)" ]
     } ],
-    "tags" : [  "人名", "主属同形tsans io <-ele>" ],
+    "tags" : [ "人名", "主属同形tsans io <-ele>" ],
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
@@ -15632,6 +15632,22 @@
     "contents" : [ {
       "title" : "liusel",
       "text" : "逆接の挿入句を表すために挿入句末尾の動詞直前に置く副詞であり、常に副詞cunと併用して用いる。非常に古めかしい。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 707,
+      "form" : "áteletea"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "arterletera" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "理語arterleteraからの借用"
     } ],
     "variations" : [ ],
     "relations" : [ ]

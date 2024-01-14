@@ -15701,6 +15701,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 707,
+      "form" : "áteletea"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "capitalism" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理arterletera."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
