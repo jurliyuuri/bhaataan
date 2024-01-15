@@ -15751,13 +15751,26 @@
       "text" : "See 理korjzoria."
     } ],
     "variations" : [ ],
-    "relations" : [ {
-      "title" : "derived term(s) / derived from",
-      "entry" : {
-        "id" : 519,
-        "form" : "náḷawaim"
-      }
-    } ]
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 710,
+      "form" : "ṭánadhokit"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "palm fruit" ]
+    } ],
+    "tags" : [ "name of a plant / animal" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 藍twouno"
+    }, {
+      "title" : "culture",
+      "text" : "See 理korjzoria."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
