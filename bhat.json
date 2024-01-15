@@ -15687,6 +15687,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 708,
+      "form" : "láwa"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "年齢" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理larvaからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

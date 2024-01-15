@@ -15717,6 +15717,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 708,
+      "form" : "láwa"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "age (of a person etc.)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "borrowed from 理larva"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
