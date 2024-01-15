@@ -15667,6 +15667,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 709,
+      "form" : "ṭánasácú"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "korjzoria (cyfoi)" ]
+    } ],
+    "tags" : [ "動植物名" ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍twounoからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

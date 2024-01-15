@@ -15733,6 +15733,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 709,
+      "form" : "ṭánasácú"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "palm tree" ]
+    } ],
+    "tags" : [ "name of a plant / animal" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 藍twouno"
+    }, {
+      "title" : "culture",
+      "text" : "See 理korjzoria."
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 519,
+        "form" : "náḷawaim"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

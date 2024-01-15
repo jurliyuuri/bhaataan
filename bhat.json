@@ -15703,6 +15703,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 709,
+      "form" : "ṭánasácú"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "椰子の木" ]
+    } ],
+    "tags" : [ "動植物名" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍twounoからの借用"
+    }, {
+      "title" : "文化",
+      "text" : "理korjzoriaを参照せよ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
