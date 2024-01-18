@@ -15832,6 +15832,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 715,
+      "form" : "acwikantie"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "research paper", "research article" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理acwikanti'e"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

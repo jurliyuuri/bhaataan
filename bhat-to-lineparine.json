@@ -15757,6 +15757,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 715,
+      "form" : "acwikantie"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "acwikanti'e" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "理acwikanti'eからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

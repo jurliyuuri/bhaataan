@@ -15799,6 +15799,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 715,
+      "form" : "acwikantie"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "論文" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理acwikanti'eからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
