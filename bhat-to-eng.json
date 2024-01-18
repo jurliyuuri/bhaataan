@@ -15771,6 +15771,54 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 711,
+      "form" : "rutoṣí"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "bitterbread", "bitter unleavened bread" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍rutwu+伐ṣím"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 712,
+      "form" : "kháṣí"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "spicy unleavened bread" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍khabu+伐ṣím"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 713,
+      "form" : "rekán bhattá"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "taste of land-based food with short shelf life" ]
+    } ],
+    "tags" : [ "always plural declension" ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "Especially vegetables and meat product"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

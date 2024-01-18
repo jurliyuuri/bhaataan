@@ -15741,6 +15741,51 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 711,
+      "form" : "rutoṣí"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "渋パン", "渋味のある無発酵パン" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍rutwu+伐ṣím"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 712,
+      "form" : "kháṣí"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "辣パン", "辛味のある無発酵パン" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍khabu+伐ṣím"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 713,
+      "form" : "rekán bhattá"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "野菜や肉など特に保存がきかない陸のものの味" ]
+    } ],
+    "tags" : [ "必ず複数曲用" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
