@@ -15819,6 +15819,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 714,
+      "form" : "ohighi"
+    },
+    "translations" : [ {
+      "title" : "inflected form",
+      "forms" : [ "contraction of ohiḍi ghi" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
