@@ -15848,6 +15848,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 716,
+      "form" : "rábhaṭ"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "fragment", "shard", "granule" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

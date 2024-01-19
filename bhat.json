@@ -15815,6 +15815,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 716,
+      "form" : "rábhaṭ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "破片", "粒" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
