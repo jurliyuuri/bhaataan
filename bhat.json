@@ -15876,6 +15876,45 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 720,
+      "form" : "nádítí"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "眠気", "眠さ", "眠たさ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 721,
+      "form" : "bháṇí"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "愚かさ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 722,
+      "form" : "hámí"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "美しさ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

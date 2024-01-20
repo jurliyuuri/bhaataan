@@ -15834,6 +15834,45 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 720,
+      "form" : "nádítí"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "眠気", "眠さ", "眠たさ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 721,
+      "form" : "bháṇí"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "愚かさ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 722,
+      "form" : "hámí"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "美しさ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

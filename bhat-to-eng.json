@@ -15909,6 +15909,45 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 720,
+      "form" : "nádítí"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "sleepiness" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 721,
+      "form" : "bháṇí"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "stupidity", "unintelligence" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 722,
+      "form" : "hámí"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "beautifulness", "beauty (quality of being beautiful)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
