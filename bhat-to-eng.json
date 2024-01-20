@@ -15861,6 +15861,38 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 717,
+      "form" : "já"
+    },
+    "translations" : [ {
+      "title" : "adverb",
+      "forms" : [ "predictably", "certainly" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "Expresses confidence in the future state."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 718,
+      "form" : "jagha"
+    },
+    "translations" : [ {
+      "title" : "adverb",
+      "forms" : [ "predictably", "certainly" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "Expresses confidence in the future state."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -15828,6 +15828,38 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 717,
+      "form" : "já"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "確実に～だろう" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "未来の状態に対する確信を表す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 718,
+      "form" : "jagha"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "確実に～だろう" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "未来の状態に対する確信を表す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
