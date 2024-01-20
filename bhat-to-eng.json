@@ -15893,6 +15893,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 719,
+      "form" : "lipáxe"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "リパーシェ（リパライン語を表記するのに用いられる文字）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理liparxeより借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

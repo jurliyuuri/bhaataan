@@ -15818,6 +15818,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 719,
+      "form" : "lipáxe"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "liparxe" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "理liparxeより借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

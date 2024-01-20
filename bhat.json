@@ -15860,6 +15860,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 719,
+      "form" : "lipáxe"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "リパーシェ（リパライン語を表記するのに用いられる文字）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理liparxeより借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
