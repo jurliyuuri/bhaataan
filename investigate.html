@@ -6133,6 +6133,109 @@ hsjoihs — 今日 05:58
 
 <p>それを直したら OK。</p>
 
+<h2>212. 相互参照の管理</h2>
+<p>最近は <a href="coin3.html">coin3.html</a> で一日 3 単語のペースで辞書に単語を載せていっているが、その際に相互参照を管理するのが面倒で管理していないという問題が慢性化している。</p>
+
+<p>これぐらいは自動化してもいいのではという気になってきた。</p>
+
+<p>というか、ここ最近ずっと相互参照を足してない気がするけど、どんなもんだろ。最後に足したのっていつ頃？</p>
+
+<p>2023-11-09 の eghin (#694) = eghi (#385) + -n (#161) か。</p>
+
+<p>とはいえ、bághaḍi bhán ṣíya (#687) とかも分解可能ではあるが掲載がない。やはりちゃんと全部さらうべき。</p>
+
+<h3>212-1. 抽出</h3>
+
+<p>えーと、現状存在するリンクの形態は「異形態」「派生関係」「単複」「熟語・定型表現」「類義語」の 5 種か。</p>
+
+<p>「熟語・定型表現」は現状 cákíkátaḍi cájau (#498) にしか使っていない。もっと使うべき。</p>
+
+<p>やるべきことは、</p>
+
+<ul>
+	<li>現状の 3 言語辞書内に存在する、単語同士の相互参照を引っ張り出す</li>
+	<li>それらが、ちゃんと正しく相互参照になっていることを確認する</li>
+	<li>3 言語でそれらの内容が一致していることを確認する</li>
+	<li>追加で相互参照を楽に足せるような仕組みを作る</li>
+	<li>必要に応じて足していく</li>
+</ul>
+
+<p>だな。</p>
+
+<p>こういうの <a href="https://jqlang.github.io/jq/">jq</a> でサクッとできないかな～</p>
+
+<p>とりあえず、<code>.words | map({"from": [.entry.id, .entry.form], "to": .relations}) | map(.from as $from | .to | map({"title": .title, "from": $from, "to": [.entry.id, .entry.form]})) | flatten</code> とすれば、</p>
+
+<pre>
+[
+  {"title": "異形態", "from": [1, "-dhí"], "to": [4, "-adhí"]},
+  {"title": "異形態", "from": [2, "-dína"], "to": [6, "-adína"]},
+  {"title": "異形態", "from": [3, "-díha"], "to": [5, "-adíha"]},
+  ...
+  {"title": "異形態", "from": [10, "-amú"], "to": [7, "-mú"]},
+  {"title": "派生関係", "from": [10, "-amú"],"to": [477, "-úḷ ám bhátamú"]},
+  ...
+]
+</pre>
+
+<p>とできそうだな。</p>
+
+<p>二段階の map をまとめて、</p>
+
+<code>.words | map([.entry.id, .entry.form] as $from | .relations | map({"title": .title, "from": $from, "to": [.entry.id, .entry.form]})) | flatten</code>
+
+<p>ともできる。</p>
+
+<p>とりあえず、これで変換したファイルを cross_reference フォルダに突っ込んで、差を確認する。</p>
+
+<p>えーと、まずファイルの行数からして日本語版とリパライン語版は 8187 行なのに英語版が 8253 行ですね。幸先が悪い。</p>
+
+<p>現状の訳語の対応は</p>
+
+<table border="1" cellspacing="0" cellpadding="3">
+	<tr><td>日本語</td><td>英語</td><td>リパライン語</td></tr>
+	<tr><td>異形態</td><td>alternative form(s)</td><td>etol io</td></tr>
+	<tr><td>派生関係</td><td>derived term(s) / derived from</td><td>staliulo</td></tr>
+	<tr><td>単複</td><td>singular / plural</td><td>fanklavolo/eustira</td></tr>
+	<tr><td>熟語・定型表現</td><td>set phrase, idiomatic phrase</td><td>熟語・定型表現</td></tr>
+	<tr><td>類義語</td><td>synonym(s)</td><td>類義語</td></tr>
+</table>
+
+<p>なので、追加で</p>
+
+<pre>
+map({"title": {"alternative form(s)": "異形態", "derived term(s) / derived from": "派生関係", "singular / plural": "単複", "set phrase, idiomatic phrase": "熟語・定型表現", "synonym(s)": "類義語" }[.title], "from": .from, "to": .to})
+</pre>
+
+<p>などをかませて diff を取ればよかろう。PowerShell だと文字化けするので、VS Code に diff ツールを入れるか。</p>
+
+<h3>213-2. 差分確認</h3>
+
+<p>ひとつずつ確認していこう。</p>
+
+<h4>213-2-1. 日⇔英</h4>
+
+<ul>
+	<li>hem (#93) から出る「派生関係」で、 hemijoya (#481) を先にするか hemasá (#483) を先にするか</li>
+	<li>ṣiṇṇa (#133) から出る「類義語」で、páwa (#590) を先にするか pháwa (#591) を先にするか</li>
+	<li>-m (#159) から出る「派生関係」で、日本語版は síbham (#551) を書き漏らしている</li>
+	<li>rijúḷ (#238) から出る「派生関係」で、日本語版は ríla- (#467) を書き漏らしている</li>
+	<li>kádan (#301) から出る「派生関係」で、日本語版は -an (#163) を書き漏らしている</li>
+	<li>rízan (#302) から出る「派生関係」で、日本語版は ríz (#240) を書き漏らしている</li>
+	<li>-lo (#389) から出る「派生関係」で、-mallo (#532) を先にするか -amallo (#533) を先にするか</li>
+	<li>-ní (#391) から出る「派生関係」で、-manní (#534) を先にするか -amanní (#535) を先にするか。また、日本語版は片方を「異形態」にしてしまっている</li>
+	<li>-loná (#395) から出る「派生関係」で、-malloná (#536) を先にするか -amallo (#537) を先にするか</li>
+	<li>-níha (#401) から出る「派生関係」で、-amaníha (#540) を先にするか -maníha (#541) を先にするか</li>
+	<li>日本語版は -aḷadhí (#419) から ríla- (#467) への誤った「派生関係」が生えている。これは削除ですね。</li>
+	<li>英語版は -lamúná (#428) から ríla- (#467) への誤った「派生関係」が生えている。これは削除ですね。</li>
+	<li>英語版は -ladíha (#433) から ríla- (#467) への誤った「派生関係」が生えている。これは削除ですね。</li>
+	<li>英語版は -lamúha (#433) から ríla- (#467) への誤った「派生関係」が生えている。これは削除ですね。</li>
+	<li>-man- (#528) から出る「派生関係」で、-manína (#539), -maníha (#541), -manní (#534), -mallo (#532) をどの順番で載せるか</li>
+	<li>-aman- (#529) から出る「派生関係」で、-amallo (#533), -amalloná (#537) のどちらを先にするか</li>
+</ul>
+
+<p>だった。なんか ríla- 関連のミスがやたら多いな。</p>
+
 <hr>
 <h3 class="do_not_create_header">to do:</h3>
 「これ」「それ」の使い分け、<br>

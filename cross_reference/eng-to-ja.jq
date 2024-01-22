@@ -1,0 +1,1 @@
+map({"title": {"alternative form(s)": "異形態", "derived term(s) / derived from": "派生関係", "singular / plural": "単複", "set phrase, idiomatic phrase": "熟語・定型表現", "synonym(s)": "類義語" }[.title], "from": .from, "to": .to})
