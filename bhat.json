@@ -2299,14 +2299,14 @@
     }, {
       "title" : "派生関係",
       "entry" : {
-        "id" : 481,
-        "form" : "hemijoya"
+        "id" : 483,
+        "form" : "hemasá"
       }
     }, {
       "title" : "派生関係",
       "entry" : {
-        "id" : 483,
-        "form" : "hemasá"
+        "id" : 481,
+        "form" : "hemijoya"
       }
     } ]
   }, {
@@ -3299,14 +3299,14 @@
     "relations" : [ {
       "title" : "類義語",
       "entry" : {
-        "id" : 591,
-        "form" : "pháwa"
+        "id" : 590,
+        "form" : "páwa"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 590,
-        "form" : "páwa"
+        "id" : 591,
+        "form" : "pháwa"
       }
     } ]
   }, {
@@ -9620,14 +9620,14 @@
     }, {
       "title" : "派生関係",
       "entry" : {
-        "id" : 540,
-        "form" : "-amaníha"
+        "id" : 541,
+        "form" : "-maníha"
       }
     }, {
       "title" : "派生関係",
       "entry" : {
-        "id" : 541,
-        "form" : "-maníha"
+        "id" : 540,
+        "form" : "-amaníha"
       }
     } ]
   }, {
@@ -12330,14 +12330,20 @@
     }, {
       "title" : "派生関係",
       "entry" : {
+        "id" : 534,
+        "form" : "-manní"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
         "id" : 539,
         "form" : "-manína"
       }
     }, {
       "title" : "派生関係",
       "entry" : {
-        "id" : 534,
-        "form" : "-manní"
+        "id" : 541,
+        "form" : "-maníha"
       }
     }, {
       "title" : "派生関係",
@@ -12350,12 +12356,6 @@
       "entry" : {
         "id" : 536,
         "form" : "-malloná"
-      }
-    }, {
-      "title" : "派生関係",
-      "entry" : {
-        "id" : 541,
-        "form" : "-maníha"
       }
     } ]
   }, {
@@ -12388,14 +12388,14 @@
     }, {
       "title" : "派生関係",
       "entry" : {
-        "id" : 537,
-        "form" : "-amalloná"
+        "id" : 533,
+        "form" : "-amallo"
       }
     }, {
       "title" : "派生関係",
       "entry" : {
-        "id" : 533,
-        "form" : "-amallo"
+        "id" : 537,
+        "form" : "-amalloná"
       }
     }, {
       "title" : "派生関係",
