@@ -2299,14 +2299,14 @@
     }, {
       "title" : "jujolarmelseso",
       "entry" : {
-        "id" : 481,
-        "form" : "hemijoya"
+        "id" : 483,
+        "form" : "hemasá"
       }
     }, {
       "title" : "jujolarmelseso",
       "entry" : {
-        "id" : 483,
-        "form" : "hemasá"
+        "id" : 481,
+        "form" : "hemijoya"
       }
     } ]
   }, {
@@ -3299,14 +3299,14 @@
     "relations" : [ {
       "title" : "類義語",
       "entry" : {
-        "id" : 591,
-        "form" : "pháwa"
+        "id" : 590,
+        "form" : "páwa"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 590,
-        "form" : "páwa"
+        "id" : 591,
+        "form" : "pháwa"
       }
     } ]
   }, {
@@ -4023,6 +4023,12 @@
       "entry" : {
         "id" : 454,
         "form" : "ághim"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 551,
+        "form" : "síbham"
       }
     } ]
   }, {
@@ -5703,6 +5709,12 @@
       "entry" : {
         "id" : 241,
         "form" : "rijz"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 467,
+        "form" : "ríla-"
       }
     } ]
   }, {
@@ -9362,7 +9374,7 @@
         "form" : "-aní"
       }
     }, {
-      "title" : "etol io",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 534,
         "form" : "-manní"
@@ -9602,14 +9614,14 @@
     }, {
       "title" : "jujolarmelseso",
       "entry" : {
-        "id" : 540,
-        "form" : "-amaníha"
+        "id" : 541,
+        "form" : "-maníha"
       }
     }, {
       "title" : "jujolarmelseso",
       "entry" : {
-        "id" : 541,
-        "form" : "-maníha"
+        "id" : 540,
+        "form" : "-amaníha"
       }
     } ]
   }, {
@@ -12297,14 +12309,20 @@
     }, {
       "title" : "jujolarmelseso",
       "entry" : {
+        "id" : 534,
+        "form" : "-manní"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
         "id" : 539,
         "form" : "-manína"
       }
     }, {
       "title" : "jujolarmelseso",
       "entry" : {
-        "id" : 534,
-        "form" : "-manní"
+        "id" : 541,
+        "form" : "-maníha"
       }
     }, {
       "title" : "jujolarmelseso",
@@ -12317,12 +12335,6 @@
       "entry" : {
         "id" : 536,
         "form" : "-malloná"
-      }
-    }, {
-      "title" : "jujolarmelseso",
-      "entry" : {
-        "id" : 541,
-        "form" : "-maníha"
       }
     } ]
   }, {
@@ -12355,14 +12367,14 @@
     }, {
       "title" : "jujolarmelseso",
       "entry" : {
-        "id" : 537,
-        "form" : "-amalloná"
+        "id" : 533,
+        "form" : "-amallo"
       }
     }, {
       "title" : "jujolarmelseso",
       "entry" : {
-        "id" : 533,
-        "form" : "-amallo"
+        "id" : 537,
+        "form" : "-amalloná"
       }
     }, {
       "title" : "jujolarmelseso",
