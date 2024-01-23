@@ -18,6 +18,9 @@ jq -c ".[]" cross_reference\from-lineparine.json > cross_reference\from-linepari
 REM delete the redundant files
 del cross_reference\from-eng_.json 
 del cross_reference\from-lineparine_.json 
+del cross_reference\from-ja.json
+del cross_reference\from-eng.json
+del cross_reference\from-lineparine.json
 
 goto EOF 
 :ERROR
