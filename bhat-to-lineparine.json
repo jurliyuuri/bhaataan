@@ -15977,6 +15977,25 @@
         "form" : "phaicnixate"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 725,
+      "form" : "háju"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "闇", "暗愚", "蒙昧", "浅慮" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍haivuu"
+    }, {
+      "title" : "liusel",
+      "text" : "人に対して用いると侮蔑的。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

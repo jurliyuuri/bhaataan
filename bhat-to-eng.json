@@ -16016,6 +16016,25 @@
         "form" : "phaicnixate"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 725,
+      "form" : "háju"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "darkness", "imbecility", "ignorance", "imprudence" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍haivuu"
+    }, {
+      "title" : "usage",
+      "text" : "derogatory when used to describe a human being"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

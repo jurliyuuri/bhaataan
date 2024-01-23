@@ -16019,6 +16019,25 @@
         "form" : "phaicnixate"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 725,
+      "form" : "háju"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "闇", "暗愚", "蒙昧", "浅慮" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍haivuu"
+    }, {
+      "title" : "用法",
+      "text" : "人に対して用いると侮蔑的。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
