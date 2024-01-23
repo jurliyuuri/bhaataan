@@ -1,0 +1,1 @@
+map({"title": {"etol io": "異形態", "staliulo": "関連語", "jujolarmelseso": "派生関係", "fanklavolo/eustira": "単複", "熟語・定型表現": "熟語・定型表現", "類義語": "類義語" }[.title], "from": .from, "to": .to})

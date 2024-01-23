@@ -189,7 +189,7 @@
         "form" : "-mú"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 477,
         "form" : "-úḷ ám bhátamú"
@@ -556,7 +556,7 @@
         "form" : "-kátá"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 378,
         "form" : "aumakátá rod"
@@ -594,13 +594,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 268,
         "form" : "lipakoúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 477,
         "form" : "-úḷ ám bhátamú"
@@ -631,7 +631,7 @@
         "form" : "-i"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 293,
         "form" : "káná ká"
@@ -724,31 +724,31 @@
         "form" : "-áná"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 262,
         "form" : "rúṣán káṇa"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 296,
         "form" : "bhátán rásit"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 320,
         "form" : "bhátán zepha"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 322,
         "form" : "wátán zepha"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 607,
         "form" : "oṣán"
@@ -791,31 +791,31 @@
         "form" : "-án"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 261,
         "form" : "koṭáná epa"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 263,
         "form" : "koṭáná ṣoya"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 264,
         "form" : "nímaṣáná taku"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 293,
         "form" : "káná ká"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 324,
         "form" : "káná"
@@ -921,7 +921,7 @@
         "form" : "-i"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 275,
         "form" : "-ína"
@@ -1033,37 +1033,37 @@
         "form" : "-omá"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 258,
         "form" : "amilahomá nutta"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 259,
         "form" : "sákahomá ḍáz"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 260,
         "form" : "ṣúsahomá nutta"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 266,
         "form" : "káṇahomá amila"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 317,
         "form" : "ehaihomá kád"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 342,
         "form" : "phaigahomá zepha"
@@ -1137,7 +1137,7 @@
         "form" : "-án"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 294,
         "form" : "káom ká"
@@ -1254,6 +1254,12 @@
         "id" : 498,
         "form" : "cákíkátaḍi cájau"
       }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 687,
+        "form" : "bághaḍi bhán ṣíya"
+      }
     } ]
   }, {
     "entry" : {
@@ -1280,7 +1286,7 @@
         "form" : "-ḍi"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 276,
         "form" : "-dhína"
@@ -1317,13 +1323,13 @@
         "form" : "horúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 306,
         "form" : "accabát"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 121,
         "form" : "nínaccú"
@@ -1389,7 +1395,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 299,
         "form" : "aghauṭawaim"
@@ -1487,7 +1493,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 345,
         "form" : "amáma bohú"
@@ -1512,13 +1518,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 258,
         "form" : "amilahomá nutta"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 266,
         "form" : "káṇahomá amila"
@@ -1556,7 +1562,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 315,
         "form" : "aṭam_kád"
@@ -1622,13 +1628,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 300,
         "form" : "bánim"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 313,
         "form" : "líṇabáni"
@@ -1712,6 +1718,12 @@
         "id" : 79,
         "form" : "cájau"
       }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 687,
+        "form" : "bághaḍi bhán ṣíya"
+      }
     } ]
   }, {
     "entry" : {
@@ -1792,19 +1804,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 296,
         "form" : "bhátán rásit"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 320,
         "form" : "bhátán zepha"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 321,
         "form" : "wát"
@@ -1835,7 +1847,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 477,
         "form" : "-úḷ ám bhátamú"
@@ -1860,7 +1872,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 550,
         "form" : "bhoman"
@@ -1910,7 +1922,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 345,
         "form" : "amáma bohú"
@@ -1969,19 +1981,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 254,
         "form" : "-a-"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 81,
         "form" : "cákíkúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 215,
         "form" : "cákíkáta"
@@ -2009,7 +2021,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 80,
         "form" : "cákíkaúḷ"
@@ -2053,7 +2065,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 259,
         "form" : "sákahomá ḍáz"
@@ -2169,19 +2181,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 261,
         "form" : "koṭáná epa"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 277,
         "form" : "bháhepa"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 347,
         "form" : "epam"
@@ -2297,16 +2309,16 @@
         "form" : "bhápúḷ"
       }
     }, {
-      "title" : "staliulo",
-      "entry" : {
-        "id" : 481,
-        "form" : "hemijoya"
-      }
-    }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 483,
         "form" : "hemasá"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 481,
+        "form" : "hemijoya"
       }
     } ]
   }, {
@@ -2331,7 +2343,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 594,
         "form" : "hemasáṇauṭu"
@@ -2359,7 +2371,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 239,
         "form" : "heyáz"
@@ -2384,13 +2396,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 275,
         "form" : "-ína"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 276,
         "form" : "-dhína"
@@ -2415,13 +2427,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 304,
         "form" : "-abát"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 98,
         "form" : "horúḷ"
@@ -2461,7 +2473,7 @@
         "form" : "accúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 97,
         "form" : "horabát"
@@ -2515,7 +2527,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 294,
         "form" : "káom ká"
@@ -2543,7 +2555,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 280,
         "form" : "kádaúḷ"
@@ -2574,19 +2586,19 @@
       "form" : "káḷd"
     } ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 301,
         "form" : "kádan"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 315,
         "form" : "aṭam_kád"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 317,
         "form" : "ehaihomá kád"
@@ -2614,19 +2626,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 262,
         "form" : "rúṣán káṇa"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 266,
         "form" : "káṇahomá amila"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 309,
         "form" : "bhákáṇa"
@@ -2978,7 +2990,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 264,
         "form" : "nímaṣáná taku"
@@ -3006,19 +3018,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 331,
         "form" : "nín"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 52,
         "form" : "accúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 332,
         "form" : "-ú"
@@ -3046,13 +3058,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 258,
         "form" : "amilahomá nutta"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 260,
         "form" : "ṣúsahomá nutta"
@@ -3150,7 +3162,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 298,
         "form" : "ṣabhahum"
@@ -3175,7 +3187,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 259,
         "form" : "sákahomá ḍáz"
@@ -3225,7 +3237,7 @@
         "form" : "ṣibhai"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 551,
         "form" : "síbham"
@@ -3299,14 +3311,14 @@
     "relations" : [ {
       "title" : "類義語",
       "entry" : {
-        "id" : 591,
-        "form" : "pháwa"
+        "id" : 590,
+        "form" : "páwa"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 590,
-        "form" : "páwa"
+        "id" : 591,
+        "form" : "pháwa"
       }
     } ]
   }, {
@@ -3407,7 +3419,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 140,
         "form" : "suúḷ"
@@ -3432,7 +3444,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 327,
         "form" : "sú-"
@@ -3457,13 +3469,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 138,
         "form" : "su"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 334,
         "form" : "su_zau-"
@@ -3485,7 +3497,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 264,
         "form" : "nímaṣáná taku"
@@ -3535,13 +3547,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 348,
         "form" : "woghitam"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 349,
         "form" : "woghitaim"
@@ -3582,13 +3594,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 147,
         "form" : "zeúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 200,
         "form" : "-káta"
@@ -3622,19 +3634,19 @@
         "form" : "nautu"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 320,
         "form" : "bhátán zepha"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 322,
         "form" : "wátán zepha"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 342,
         "form" : "phaigahomá zepha"
@@ -3659,7 +3671,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 145,
         "form" : "zekáta"
@@ -3684,13 +3696,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 326,
         "form" : "zau-"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 337,
         "form" : "záúḷ"
@@ -3768,7 +3780,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 607,
         "form" : "oṣán"
@@ -3903,25 +3915,25 @@
         "form" : "-aim"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 299,
         "form" : "aghauṭawaim"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 449,
         "form" : "záwaim"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 507,
         "form" : "bániwaim"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 519,
         "form" : "náḷawaim"
@@ -3952,7 +3964,7 @@
         "form" : "-waim"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 349,
         "form" : "woghitaim"
@@ -3995,34 +4007,40 @@
         "form" : "-an"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 298,
         "form" : "ṣabhahum"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 300,
         "form" : "bánim"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 347,
         "form" : "epam"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 453,
         "form" : "rúkasam"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 454,
         "form" : "ághim"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 551,
+        "form" : "síbham"
       }
     } ]
   }, {
@@ -4062,13 +4080,13 @@
         "form" : "-an"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 550,
         "form" : "bhoman"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 694,
         "form" : "eghin"
@@ -4105,13 +4123,13 @@
         "form" : "-an"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 348,
         "form" : "woghitam"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 502,
         "form" : "korúṣam"
@@ -4154,13 +4172,13 @@
         "form" : "-n"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 301,
         "form" : "kádan"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 302,
         "form" : "rízan"
@@ -4289,13 +4307,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 277,
         "form" : "bháhepa"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 309,
         "form" : "bhákáṇa"
@@ -4454,7 +4472,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 283,
         "form" : "ghau ja ghá"
@@ -4476,7 +4494,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 450,
         "form" : "íditaim"
@@ -4669,19 +4687,19 @@
         "form" : "-az"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 239,
         "form" : "heyáz"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 240,
         "form" : "ríz"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 241,
         "form" : "rijz"
@@ -4709,13 +4727,13 @@
         "form" : "-z"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 271,
         "form" : "bákaz"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 355,
         "form" : "náhaz"
@@ -4737,13 +4755,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 192,
         "form" : "janúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 255,
         "form" : "-á-"
@@ -4765,7 +4783,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 191,
         "form" : "janáúḷ"
@@ -4787,7 +4805,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 194,
         "form" : "zíghíṣ"
@@ -4812,7 +4830,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 193,
         "form" : "zíghúḷ"
@@ -4926,13 +4944,13 @@
         "form" : "-akáta"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 215,
         "form" : "cákíkáta"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 145,
         "form" : "zekáta"
@@ -4973,7 +4991,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 203,
         "form" : "sese"
@@ -4995,7 +5013,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 202,
         "form" : "seseúḷ"
@@ -5017,13 +5035,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 261,
         "form" : "koṭáná epa"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 263,
         "form" : "koṭáná ṣoya"
@@ -5105,7 +5123,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 262,
         "form" : "rúṣán káṇa"
@@ -5207,7 +5225,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 290,
         "form" : "ghánaúḷ"
@@ -5235,13 +5253,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 80,
         "form" : "cákíkaúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 200,
         "form" : "-káta"
@@ -5278,13 +5296,13 @@
         "form" : "ká"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 293,
         "form" : "káná ká"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 324,
         "form" : "káná"
@@ -5357,7 +5375,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 325,
         "form" : "káná"
@@ -5379,7 +5397,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 263,
         "form" : "koṭáná ṣoya"
@@ -5621,7 +5639,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 548,
         "form" : "bhodíyo"
@@ -5643,7 +5661,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 295,
         "form" : "rásit"
@@ -5693,16 +5711,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 240,
         "form" : "ríz"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 241,
         "form" : "rijz"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 467,
+        "form" : "ríla-"
       }
     } ]
   }, {
@@ -5718,13 +5742,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 95,
         "form" : "heyáúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 189,
         "form" : "-z"
@@ -5746,13 +5770,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 238,
         "form" : "rijúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 189,
         "form" : "-z"
@@ -5764,7 +5788,7 @@
         "form" : "rijz"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 302,
         "form" : "rízan"
@@ -5783,7 +5807,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 238,
         "form" : "rijúḷ"
@@ -5795,7 +5819,7 @@
         "form" : "ríz"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 189,
         "form" : "-z"
@@ -5817,7 +5841,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 260,
         "form" : "ṣúsahomá nutta"
@@ -5921,7 +5945,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 271,
         "form" : "bákaz"
@@ -5990,10 +6014,16 @@
         "form" : "bhájabáni"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 460,
         "form" : "núdhabágha"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 687,
+        "form" : "bághaḍi bhán ṣíya"
       }
     } ]
   }, {
@@ -6078,19 +6108,19 @@
         "form" : "-á-"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 80,
         "form" : "cákíkaúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 280,
         "form" : "kádaúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 290,
         "form" : "ghánaúḷ"
@@ -6118,13 +6148,13 @@
         "form" : "-a-"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 191,
         "form" : "janáúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 337,
         "form" : "záúḷ"
@@ -6199,19 +6229,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 61,
         "form" : "amila"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 44,
         "form" : "-homá"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 122,
         "form" : "nutta"
@@ -6230,19 +6260,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 128,
         "form" : "sáka"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 44,
         "form" : "-homá"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 83,
         "form" : "ḍáz"
@@ -6267,19 +6297,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 242,
         "form" : "ṣúsa"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 44,
         "form" : "-homá"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 122,
         "form" : "nutta"
@@ -6298,19 +6328,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 204,
         "form" : "koṭ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 36,
         "form" : "-áná"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 88,
         "form" : "epa"
@@ -6332,19 +6362,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 208,
         "form" : "rúṣ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 35,
         "form" : "-án"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 104,
         "form" : "káṇa"
@@ -6363,19 +6393,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 204,
         "form" : "koṭ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 36,
         "form" : "-áná"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 221,
         "form" : "ṣoya"
@@ -6394,19 +6424,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 141,
         "form" : "taku"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 120,
         "form" : "nímaṣ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 36,
         "form" : "-áná"
@@ -6428,13 +6458,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 379,
         "form" : "rod"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 596,
         "form" : "rodahemasáṇauṭu"
@@ -6456,19 +6486,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 61,
         "form" : "amila"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 104,
         "form" : "káṇa"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 44,
         "form" : "-homá"
@@ -6493,7 +6523,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 268,
         "form" : "lipakoúḷ"
@@ -6518,13 +6548,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 267,
         "form" : "lipakoḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 31,
         "form" : "-úḷ"
@@ -6581,13 +6611,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 247,
         "form" : "bákúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 190,
         "form" : "-az"
@@ -6687,13 +6717,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 96,
         "form" : "hína"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 40,
         "form" : "-iná"
@@ -6712,13 +6742,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 96,
         "form" : "hína"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 51,
         "form" : "-dhíná"
@@ -6740,19 +6770,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 169,
         "form" : "bhá"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 88,
         "form" : "epa"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 278,
         "form" : "bháhepa"
@@ -6774,7 +6804,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 277,
         "form" : "bháhepa"
@@ -6799,7 +6829,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 503,
         "form" : "zí"
@@ -6818,13 +6848,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 254,
         "form" : "-a-"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 102,
         "form" : "kádúḷ"
@@ -6852,7 +6882,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 283,
         "form" : "ghau ja ghá"
@@ -6874,7 +6904,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 283,
         "form" : "ghau ja ghá"
@@ -6896,19 +6926,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 281,
         "form" : "ghau"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 282,
         "form" : "ghá"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 178,
         "form" : "ja"
@@ -7029,19 +7059,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 214,
         "form" : "ghánúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 254,
         "form" : "-a-"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 290,
         "form" : "ghánaúḷ"
@@ -7104,19 +7134,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 216,
         "form" : "k"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 32,
         "form" : "-á"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 36,
         "form" : "-áná"
@@ -7128,7 +7158,7 @@
         "form" : "káom ká"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 324,
         "form" : "káná"
@@ -7156,13 +7186,13 @@
         "form" : "káná ká"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 101,
         "form" : "ká"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 46,
         "form" : "-om"
@@ -7184,13 +7214,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 236,
         "form" : "rásitúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 296,
         "form" : "bhátán rásit"
@@ -7209,19 +7239,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 74,
         "form" : "bhát"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 35,
         "form" : "-án"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 295,
         "form" : "rásit"
@@ -7256,13 +7286,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 127,
         "form" : "ṣabhahu"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 159,
         "form" : "-m"
@@ -7281,13 +7311,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 55,
         "form" : "aghauṭa"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 157,
         "form" : "-waim"
@@ -7306,13 +7336,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 66,
         "form" : "báni"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 159,
         "form" : "-m"
@@ -7334,13 +7364,13 @@
       "form" : "káḷdan"
     } ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 103,
         "form" : "kád"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 163,
         "form" : "-an"
@@ -7359,13 +7389,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 240,
         "form" : "ríz"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 163,
         "form" : "-an"
@@ -7406,19 +7436,19 @@
         "form" : "-bát"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 97,
         "form" : "horabát"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 306,
         "form" : "accabát"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 652,
         "form" : "ṣahabát"
@@ -7456,13 +7486,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 52,
         "form" : "accúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 304,
         "form" : "-abát"
@@ -7513,13 +7543,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 169,
         "form" : "bhá"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 104,
         "form" : "káṇa"
@@ -7531,7 +7561,7 @@
         "form" : "káṇám"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 310,
         "form" : "bhákáṇa"
@@ -7553,7 +7583,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 309,
         "form" : "bhákáṇa"
@@ -7610,13 +7640,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 384,
         "form" : "líṇa-"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 66,
         "form" : "báni"
@@ -7641,7 +7671,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 317,
         "form" : "ehaihomá kád"
@@ -7660,13 +7690,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 63,
         "form" : "aṭam"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 103,
         "form" : "kád"
@@ -7701,19 +7731,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 314,
         "form" : "ehai"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 44,
         "form" : "-homá"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 103,
         "form" : "kád"
@@ -7764,25 +7794,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 74,
         "form" : "bhát"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 35,
         "form" : "-án"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 146,
         "form" : "zepha"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 322,
         "form" : "wátán zepha"
@@ -7804,13 +7834,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 74,
         "form" : "bhát"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 322,
         "form" : "wátán zepha"
@@ -7832,25 +7862,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 321,
         "form" : "wát"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 35,
         "form" : "-án"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 146,
         "form" : "zepha"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 320,
         "form" : "bhátán zepha"
@@ -7875,7 +7905,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 328,
         "form" : "cau-"
@@ -7894,19 +7924,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 293,
         "form" : "káná ká"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 216,
         "form" : "k"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 36,
         "form" : "-áná"
@@ -7925,7 +7955,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 220,
         "form" : "kánaghúḷ"
@@ -7944,13 +7974,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 148,
         "form" : "zúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 593,
         "form" : "zausáṇauṭu"
@@ -7969,7 +7999,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 139,
         "form" : "sujúḷ"
@@ -7988,13 +8018,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 323,
         "form" : "cahúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 557,
         "form" : "cáwaṭaim"
@@ -8069,7 +8099,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 121,
         "form" : "nínaccú"
@@ -8091,19 +8121,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 121,
         "form" : "nínaccú"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 345,
         "form" : "amáma bohú"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 371,
         "form" : "bákatú"
@@ -8141,7 +8171,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 140,
         "form" : "suúḷ"
@@ -8182,7 +8212,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 489,
         "form" : "bhoheáḷ"
@@ -8201,13 +8231,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 148,
         "form" : "zúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 255,
         "form" : "-á-"
@@ -8283,7 +8313,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 342,
         "form" : "phaigahomá zepha"
@@ -8302,19 +8332,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 341,
         "form" : "phaiga"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 44,
         "form" : "-homá"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 146,
         "form" : "zepha"
@@ -8368,19 +8398,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 60,
         "form" : "amáma"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 78,
         "form" : "bohúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 332,
         "form" : "-ú"
@@ -8412,13 +8442,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 88,
         "form" : "epa"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 159,
         "form" : "-m"
@@ -8437,13 +8467,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 143,
         "form" : "woghit"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 162,
         "form" : "-am"
@@ -8462,13 +8492,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 143,
         "form" : "woghit"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 158,
         "form" : "-aim"
@@ -8554,7 +8584,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 355,
         "form" : "náhaz"
@@ -8573,13 +8603,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 354,
         "form" : "náhúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 190,
         "form" : "-az"
@@ -8601,7 +8631,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 357,
         "form" : "náhozúḷ"
@@ -8620,7 +8650,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 356,
         "form" : "nához"
@@ -8744,7 +8774,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 655,
         "form" : "bházau_kázalek"
@@ -8862,13 +8892,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 332,
         "form" : "-ú"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 372,
         "form" : "bákatúḷ"
@@ -8890,7 +8920,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 371,
         "form" : "bákatú"
@@ -9000,7 +9030,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 378,
         "form" : "aumakátá rod"
@@ -9022,19 +9052,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 377,
         "form" : "aumúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 29,
         "form" : "-akátá"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 379,
         "form" : "rod"
@@ -9053,13 +9083,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 265,
         "form" : "rodúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 378,
         "form" : "aumakátá rod"
@@ -9084,7 +9114,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 382,
         "form" : "bátatṇauṭu"
@@ -9109,25 +9139,25 @@
         "form" : "nautu"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 382,
         "form" : "bátatṇauṭu"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 383,
         "form" : "líṇaṇauṭu"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 593,
         "form" : "zausáṇauṭu"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 653,
         "form" : "linepáneṇauṭu"
@@ -9149,13 +9179,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 380,
         "form" : "bátat"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 381,
         "form" : "-ṇauṭu"
@@ -9174,13 +9204,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 381,
         "form" : "-ṇauṭu"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 384,
         "form" : "líṇa-"
@@ -9199,13 +9229,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 313,
         "form" : "líṇabáni"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 383,
         "form" : "líṇaṇauṭu"
@@ -9227,7 +9257,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 694,
         "form" : "eghin"
@@ -9306,13 +9336,13 @@
         "form" : "-aḷo"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 532,
         "form" : "-mallo"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 533,
         "form" : "-amallo"
@@ -9362,13 +9392,13 @@
         "form" : "-aní"
       }
     }, {
-      "title" : "etol io",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 534,
         "form" : "-manní"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 535,
         "form" : "-amanní"
@@ -9456,13 +9486,13 @@
         "form" : "-aḷoná"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 536,
         "form" : "-malloná"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 537,
         "form" : "-amalloná"
@@ -9512,13 +9542,13 @@
         "form" : "-anína"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 539,
         "form" : "-manína"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 538,
         "form" : "-amanína"
@@ -9600,16 +9630,16 @@
         "form" : "-aníha"
       }
     }, {
-      "title" : "staliulo",
-      "entry" : {
-        "id" : 540,
-        "form" : "-amaníha"
-      }
-    }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 541,
         "form" : "-maníha"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 540,
+        "form" : "-amaníha"
       }
     } ]
   }, {
@@ -10522,7 +10552,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 489,
         "form" : "bhoheáḷ"
@@ -10604,7 +10634,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 652,
         "form" : "ṣahabát"
@@ -10658,7 +10688,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 453,
         "form" : "rúkasam"
@@ -10680,7 +10710,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 157,
         "form" : "-waim"
@@ -10699,13 +10729,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 179,
         "form" : "ídúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 451,
         "form" : "-itaim"
@@ -10724,13 +10754,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 450,
         "form" : "íditaim"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 557,
         "form" : "cáwaṭaim"
@@ -10752,7 +10782,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 454,
         "form" : "ághim"
@@ -10771,13 +10801,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 448,
         "form" : "rúkasa"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 159,
         "form" : "-m"
@@ -10796,13 +10826,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 452,
         "form" : "ághi"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 159,
         "form" : "-m"
@@ -10856,13 +10886,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 460,
         "form" : "núdhabágha"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 597,
         "form" : "núdhabhoḷog"
@@ -10913,13 +10943,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 456,
         "form" : "núdha"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 250,
         "form" : "bágha"
@@ -10989,7 +11019,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 653,
         "form" : "linepáneṇauṭu"
@@ -11049,7 +11079,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 238,
         "form" : "rijúḷ"
@@ -11161,7 +11191,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 472,
         "form" : "nú-"
@@ -11180,7 +11210,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 471,
         "form" : "núḷ"
@@ -11269,19 +11299,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 31,
         "form" : "-úḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 75,
         "form" : "bhátúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 10,
         "form" : "-amú"
@@ -11338,7 +11368,7 @@
       "form" : "júju"
     } ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 481,
         "form" : "hemijoya"
@@ -11357,13 +11387,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 93,
         "form" : "hem"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 480,
         "form" : "joya"
@@ -11385,7 +11415,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 483,
         "form" : "hemasá"
@@ -11404,13 +11434,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 93,
         "form" : "hem"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 482,
         "form" : "-sá"
@@ -11505,7 +11535,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 597,
         "form" : "núdhabhoḷog"
@@ -11524,13 +11554,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 336,
         "form" : "bhoheúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 441,
         "form" : "-áḷ"
@@ -11754,7 +11784,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 501,
         "form" : "-itam"
@@ -11773,7 +11803,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 500,
         "form" : "dílitam"
@@ -11792,7 +11822,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 162,
         "form" : "-am"
@@ -11811,7 +11841,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 279,
         "form" : "xízía"
@@ -11881,13 +11911,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 66,
         "form" : "báni"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 157,
         "form" : "-waim"
@@ -12099,7 +12129,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 519,
         "form" : "náḷawaim"
@@ -12118,13 +12148,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 518,
         "form" : "náḷa"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 157,
         "form" : "-waim"
@@ -12248,7 +12278,7 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 548,
         "form" : "bhodíyo"
@@ -12295,34 +12325,34 @@
         "form" : "-mán"
       }
     }, {
-      "title" : "staliulo",
-      "entry" : {
-        "id" : 539,
-        "form" : "-manína"
-      }
-    }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 534,
         "form" : "-manní"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 539,
+        "form" : "-manína"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 541,
+        "form" : "-maníha"
+      }
+    }, {
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 532,
         "form" : "-mallo"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 536,
         "form" : "-malloná"
-      }
-    }, {
-      "title" : "staliulo",
-      "entry" : {
-        "id" : 541,
-        "form" : "-maníha"
       }
     } ]
   }, {
@@ -12353,31 +12383,31 @@
         "form" : "-amán"
       }
     }, {
-      "title" : "staliulo",
-      "entry" : {
-        "id" : 537,
-        "form" : "-amalloná"
-      }
-    }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 533,
         "form" : "-amallo"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 537,
+        "form" : "-amalloná"
+      }
+    }, {
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 535,
         "form" : "-amanní"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 538,
         "form" : "-amanína"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 540,
         "form" : "-amaníha"
@@ -12446,13 +12476,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 528,
         "form" : "-man-"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 389,
         "form" : "-lo"
@@ -12477,13 +12507,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 529,
         "form" : "-aman-"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 389,
         "form" : "-lo"
@@ -12508,13 +12538,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 528,
         "form" : "-man-"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 391,
         "form" : "-ní"
@@ -12539,13 +12569,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 529,
         "form" : "-aman-"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 391,
         "form" : "-ní"
@@ -12570,13 +12600,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 528,
         "form" : "-man-"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 395,
         "form" : "-loná"
@@ -12601,13 +12631,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 529,
         "form" : "-aman-"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 395,
         "form" : "-loná"
@@ -12632,13 +12662,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 529,
         "form" : "-aman-"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 397,
         "form" : "-nína"
@@ -12663,13 +12693,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 528,
         "form" : "-man-"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 397,
         "form" : "-nína"
@@ -12694,13 +12724,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 529,
         "form" : "-aman-"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 401,
         "form" : "-níha"
@@ -12725,13 +12755,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 528,
         "form" : "-man-"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 401,
         "form" : "-níha"
@@ -12769,7 +12799,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 617,
         "form" : "xallánom"
@@ -12855,13 +12885,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 526,
         "form" : "bhodi"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 235,
         "form" : "ghíyo"
@@ -12899,13 +12929,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 76,
         "form" : "bhoma"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 161,
         "form" : "-n"
@@ -12924,13 +12954,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 130,
         "form" : "síbha"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 159,
         "form" : "-m"
@@ -13041,13 +13071,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 328,
         "form" : "cau-"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 451,
         "form" : "-itaim"
@@ -13650,13 +13680,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 326,
         "form" : "zau-"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 381,
         "form" : "-ṇauṭu"
@@ -13675,13 +13705,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 94,
         "form" : "hemúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 596,
         "form" : "rodahemasáṇauṭu"
@@ -13719,13 +13749,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 265,
         "form" : "rodúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 594,
         "form" : "hemasáṇauṭu"
@@ -13744,13 +13774,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 456,
         "form" : "núdha"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 488,
         "form" : "bhoḷog"
@@ -13946,13 +13976,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 151,
         "form" : "oṣa"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 35,
         "form" : "-án"
@@ -14168,7 +14198,7 @@
         "form" : "xalli-"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 617,
         "form" : "xallánom"
@@ -14187,13 +14217,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 616,
         "form" : "xall-"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 543,
         "form" : "ánom"
@@ -14228,7 +14258,7 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 655,
         "form" : "bházau_kázalek"
@@ -14753,13 +14783,13 @@
     } ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 445,
         "form" : "ṣahúḷ"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 304,
         "form" : "-abát"
@@ -14778,13 +14808,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 464,
         "form" : "linepáne"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 381,
         "form" : "-ṇauṭu"
@@ -14816,13 +14846,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 364,
         "form" : "bházau"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 619,
         "form" : "kázalek"
@@ -15301,7 +15331,13 @@
       "text" : "藍xiyu,牌xy1"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 687,
+        "form" : "bághaḍi bhán ṣíya"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 686,
@@ -15327,7 +15363,31 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 250,
+        "form" : "bágha"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 50,
+        "form" : "-ḍi"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 70,
+        "form" : "bhán"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 685,
+        "form" : "ṣíya"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 688,
@@ -15431,13 +15491,13 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 385,
         "form" : "eghi"
       }
     }, {
-      "title" : "staliulo",
+      "title" : "jujolarmelseso",
       "entry" : {
         "id" : 161,
         "form" : "-n"

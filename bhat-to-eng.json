@@ -1254,6 +1254,12 @@
         "id" : 498,
         "form" : "cákíkátaḍi cájau"
       }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 687,
+        "form" : "bághaḍi bhán ṣíya"
+      }
     } ]
   }, {
     "entry" : {
@@ -1711,6 +1717,12 @@
       "entry" : {
         "id" : 79,
         "form" : "cájau"
+      }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 687,
+        "form" : "bághaḍi bhán ṣíya"
       }
     } ]
   }, {
@@ -6007,6 +6019,12 @@
         "id" : 460,
         "form" : "núdhabágha"
       }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 687,
+        "form" : "bághaḍi bhán ṣíya"
+      }
     } ]
   }, {
     "entry" : {
@@ -7357,12 +7375,6 @@
         "id" : 163,
         "form" : "-an"
       }
-    }, {
-      "title" : "derived term(s) / derived from",
-      "entry" : {
-        "id" : 163,
-        "form" : "-an"
-      }
     } ]
   }, {
     "entry" : {
@@ -7387,12 +7399,6 @@
       "entry" : {
         "id" : 163,
         "form" : "-an"
-      }
-    }, {
-      "title" : "derived term(s) / derived from",
-      "entry" : {
-        "id" : 240,
-        "form" : "ríz"
       }
     } ]
   }, {
@@ -9332,14 +9338,14 @@
     }, {
       "title" : "derived term(s) / derived from",
       "entry" : {
-        "id" : 533,
-        "form" : "-amallo"
+        "id" : 532,
+        "form" : "-mallo"
       }
     }, {
       "title" : "derived term(s) / derived from",
       "entry" : {
-        "id" : 532,
-        "form" : "-mallo"
+        "id" : 533,
+        "form" : "-amallo"
       }
     } ]
   }, {
@@ -9388,14 +9394,14 @@
     }, {
       "title" : "derived term(s) / derived from",
       "entry" : {
-        "id" : 535,
-        "form" : "-amanní"
+        "id" : 534,
+        "form" : "-manní"
       }
     }, {
       "title" : "derived term(s) / derived from",
       "entry" : {
-        "id" : 534,
-        "form" : "-manní"
+        "id" : 535,
+        "form" : "-amanní"
       }
     } ]
   }, {
@@ -9482,14 +9488,14 @@
     }, {
       "title" : "derived term(s) / derived from",
       "entry" : {
-        "id" : 537,
-        "form" : "-amalloná"
+        "id" : 536,
+        "form" : "-malloná"
       }
     }, {
       "title" : "derived term(s) / derived from",
       "entry" : {
-        "id" : 536,
-        "form" : "-malloná"
+        "id" : 537,
+        "form" : "-amalloná"
       }
     } ]
   }, {
@@ -10007,6 +10013,12 @@
         "id" : 418,
         "form" : "-ḷadhí"
       }
+    }, {
+      "title" : "see also",
+      "entry" : {
+        "id" : 467,
+        "form" : "ríla-"
+      }
     } ]
   }, {
     "entry" : {
@@ -10083,7 +10095,7 @@
         "form" : "-ḷamú"
       }
     }, {
-      "title" : "derived term(s) / derived from",
+      "title" : "see also",
       "entry" : {
         "id" : 467,
         "form" : "ríla-"
@@ -10202,7 +10214,7 @@
         "form" : "-ḷadína"
       }
     }, {
-      "title" : "derived term(s) / derived from",
+      "title" : "see also",
       "entry" : {
         "id" : 467,
         "form" : "ríla-"
@@ -10231,12 +10243,6 @@
       "entry" : {
         "id" : 430,
         "form" : "-aḷamúná"
-      }
-    }, {
-      "title" : "derived term(s) / derived from",
-      "entry" : {
-        "id" : 467,
-        "form" : "ríla-"
       }
     } ]
   }, {
@@ -10289,7 +10295,7 @@
         "form" : "-ḷamúná"
       }
     }, {
-      "title" : "derived term(s) / derived from",
+      "title" : "see also",
       "entry" : {
         "id" : 467,
         "form" : "ríla-"
@@ -10357,12 +10363,6 @@
         "id" : 435,
         "form" : "-aḷadíha"
       }
-    }, {
-      "title" : "derived term(s) / derived from",
-      "entry" : {
-        "id" : 467,
-        "form" : "ríla-"
-      }
     } ]
   }, {
     "entry" : {
@@ -10414,7 +10414,7 @@
         "form" : "-ḷadíha"
       }
     }, {
-      "title" : "derived term(s) / derived from",
+      "title" : "see also",
       "entry" : {
         "id" : 467,
         "form" : "ríla-"
@@ -10443,12 +10443,6 @@
       "entry" : {
         "id" : 438,
         "form" : "-aḷamúha"
-      }
-    }, {
-      "title" : "derived term(s) / derived from",
-      "entry" : {
-        "id" : 467,
-        "form" : "ríla-"
       }
     } ]
   }, {
@@ -10501,7 +10495,7 @@
         "form" : "-ḷamúha"
       }
     }, {
-      "title" : "derived term(s) / derived from",
+      "title" : "see also",
       "entry" : {
         "id" : 467,
         "form" : "ríla-"
@@ -11097,37 +11091,37 @@
         "form" : "rijúḷ"
       }
     }, {
-      "title" : "derived term(s) / derived from",
+      "title" : "see also",
       "entry" : {
         "id" : 419,
         "form" : "-aḷadhí"
       }
     }, {
-      "title" : "derived term(s) / derived from",
+      "title" : "see also",
       "entry" : {
         "id" : 435,
         "form" : "-aḷadíha"
       }
     }, {
-      "title" : "derived term(s) / derived from",
+      "title" : "see also",
       "entry" : {
         "id" : 427,
         "form" : "-aḷadína"
       }
     }, {
-      "title" : "derived term(s) / derived from",
+      "title" : "see also",
       "entry" : {
         "id" : 422,
         "form" : "-aḷamú"
       }
     }, {
-      "title" : "derived term(s) / derived from",
+      "title" : "see also",
       "entry" : {
         "id" : 438,
         "form" : "-aḷamúha"
       }
     }, {
-      "title" : "derived term(s) / derived from",
+      "title" : "see also",
       "entry" : {
         "id" : 430,
         "form" : "-aḷamúná"
@@ -12357,26 +12351,26 @@
     }, {
       "title" : "derived term(s) / derived from",
       "entry" : {
-        "id" : 541,
-        "form" : "-maníha"
-      }
-    }, {
-      "title" : "derived term(s) / derived from",
-      "entry" : {
         "id" : 539,
         "form" : "-manína"
       }
     }, {
       "title" : "derived term(s) / derived from",
       "entry" : {
-        "id" : 536,
-        "form" : "-malloná"
+        "id" : 541,
+        "form" : "-maníha"
       }
     }, {
       "title" : "derived term(s) / derived from",
       "entry" : {
         "id" : 532,
         "form" : "-mallo"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 536,
+        "form" : "-malloná"
       }
     } ]
   }, {
@@ -15361,7 +15355,13 @@
       "text" : "藍xiyu,牌xy1"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 687,
+        "form" : "bághaḍi bhán ṣíya"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 686,
@@ -15387,7 +15387,31 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 250,
+        "form" : "bágha"
+      }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 50,
+        "form" : "-ḍi"
+      }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 70,
+        "form" : "bhán"
+      }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 685,
+        "form" : "ṣíya"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 688,

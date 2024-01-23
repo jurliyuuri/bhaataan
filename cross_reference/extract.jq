@@ -1,0 +1,1 @@
+.words | map([.entry.id, .entry.form] as $from | .relations | map({"title": .title, "from": $from, "to": [.entry.id, .entry.form]})) | flatten

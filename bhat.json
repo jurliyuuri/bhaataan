@@ -1254,6 +1254,12 @@
         "id" : 498,
         "form" : "cákíkátaḍi cájau"
       }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 687,
+        "form" : "bághaḍi bhán ṣíya"
+      }
     } ]
   }, {
     "entry" : {
@@ -1711,6 +1717,12 @@
       "entry" : {
         "id" : 79,
         "form" : "cájau"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 687,
+        "form" : "bághaḍi bhán ṣíya"
       }
     } ]
   }, {
@@ -2299,14 +2311,14 @@
     }, {
       "title" : "派生関係",
       "entry" : {
-        "id" : 481,
-        "form" : "hemijoya"
+        "id" : 483,
+        "form" : "hemasá"
       }
     }, {
       "title" : "派生関係",
       "entry" : {
-        "id" : 483,
-        "form" : "hemasá"
+        "id" : 481,
+        "form" : "hemijoya"
       }
     } ]
   }, {
@@ -3299,14 +3311,14 @@
     "relations" : [ {
       "title" : "類義語",
       "entry" : {
-        "id" : 591,
-        "form" : "pháwa"
+        "id" : 590,
+        "form" : "páwa"
       }
     }, {
       "title" : "類義語",
       "entry" : {
-        "id" : 590,
-        "form" : "páwa"
+        "id" : 591,
+        "form" : "pháwa"
       }
     } ]
   }, {
@@ -4023,6 +4035,12 @@
       "entry" : {
         "id" : 454,
         "form" : "ághim"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 551,
+        "form" : "síbham"
       }
     } ]
   }, {
@@ -5707,6 +5725,12 @@
         "id" : 241,
         "form" : "rijz"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 467,
+        "form" : "ríla-"
+      }
     } ]
   }, {
     "entry" : {
@@ -5997,6 +6021,12 @@
       "entry" : {
         "id" : 460,
         "form" : "núdhabágha"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 687,
+        "form" : "bághaḍi bhán ṣíya"
       }
     } ]
   }, {
@@ -9368,7 +9398,7 @@
         "form" : "-aní"
       }
     }, {
-      "title" : "異形態",
+      "title" : "派生関係",
       "entry" : {
         "id" : 534,
         "form" : "-manní"
@@ -9608,14 +9638,14 @@
     }, {
       "title" : "派生関係",
       "entry" : {
-        "id" : 540,
-        "form" : "-amaníha"
+        "id" : 541,
+        "form" : "-maníha"
       }
     }, {
       "title" : "派生関係",
       "entry" : {
-        "id" : 541,
-        "form" : "-maníha"
+        "id" : 540,
+        "form" : "-amaníha"
       }
     } ]
   }, {
@@ -9990,7 +10020,7 @@
         "form" : "-ḷadhí"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "関連語",
       "entry" : {
         "id" : 467,
         "form" : "ríla-"
@@ -10071,7 +10101,7 @@
         "form" : "-ḷamú"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "関連語",
       "entry" : {
         "id" : 467,
         "form" : "ríla-"
@@ -10190,7 +10220,7 @@
         "form" : "-ḷadína"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "関連語",
       "entry" : {
         "id" : 467,
         "form" : "ríla-"
@@ -10271,7 +10301,7 @@
         "form" : "-ḷamúná"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "関連語",
       "entry" : {
         "id" : 467,
         "form" : "ríla-"
@@ -10390,7 +10420,7 @@
         "form" : "-ḷadíha"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "関連語",
       "entry" : {
         "id" : 467,
         "form" : "ríla-"
@@ -10471,7 +10501,7 @@
         "form" : "-ḷamúha"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "関連語",
       "entry" : {
         "id" : 467,
         "form" : "ríla-"
@@ -11064,37 +11094,37 @@
         "form" : "rijúḷ"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "関連語",
       "entry" : {
         "id" : 419,
         "form" : "-aḷadhí"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "関連語",
       "entry" : {
         "id" : 435,
         "form" : "-aḷadíha"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "関連語",
       "entry" : {
         "id" : 427,
         "form" : "-aḷadína"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "関連語",
       "entry" : {
         "id" : 422,
         "form" : "-aḷamú"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "関連語",
       "entry" : {
         "id" : 438,
         "form" : "-aḷamúha"
       }
     }, {
-      "title" : "派生関係",
+      "title" : "関連語",
       "entry" : {
         "id" : 430,
         "form" : "-aḷamúná"
@@ -12318,14 +12348,20 @@
     }, {
       "title" : "派生関係",
       "entry" : {
+        "id" : 534,
+        "form" : "-manní"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
         "id" : 539,
         "form" : "-manína"
       }
     }, {
       "title" : "派生関係",
       "entry" : {
-        "id" : 534,
-        "form" : "-manní"
+        "id" : 541,
+        "form" : "-maníha"
       }
     }, {
       "title" : "派生関係",
@@ -12338,12 +12374,6 @@
       "entry" : {
         "id" : 536,
         "form" : "-malloná"
-      }
-    }, {
-      "title" : "派生関係",
-      "entry" : {
-        "id" : 541,
-        "form" : "-maníha"
       }
     } ]
   }, {
@@ -12376,14 +12406,14 @@
     }, {
       "title" : "派生関係",
       "entry" : {
-        "id" : 537,
-        "form" : "-amalloná"
+        "id" : 533,
+        "form" : "-amallo"
       }
     }, {
       "title" : "派生関係",
       "entry" : {
-        "id" : 533,
-        "form" : "-amallo"
+        "id" : 537,
+        "form" : "-amalloná"
       }
     }, {
       "title" : "派生関係",
@@ -15331,7 +15361,13 @@
       "text" : "藍xiyu,牌xy1"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 687,
+        "form" : "bághaḍi bhán ṣíya"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 686,
@@ -15357,7 +15393,31 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 250,
+        "form" : "bágha"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 50,
+        "form" : "-ḍi"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 70,
+        "form" : "bhán"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 685,
+        "form" : "ṣíya"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 688,
