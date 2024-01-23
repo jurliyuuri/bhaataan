@@ -14564,7 +14564,13 @@
       "text" : "理faisnyxte"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 724,
+        "form" : "paicanutte"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 639,
@@ -15933,6 +15939,44 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 723,
+      "form" : "okajúḷ"
+    },
+    "translations" : [ {
+      "title" : "jonusten ftona",
+      "forms" : [ "～(対格)を撒く", "～(対格)をまき散らす" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍oqaiu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 724,
+      "form" : "paicanutte"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "faisnyxte" ]
+    } ],
+    "tags" : [ "口語的" ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "理faisnyxte"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 638,
+        "form" : "phaicnixate"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

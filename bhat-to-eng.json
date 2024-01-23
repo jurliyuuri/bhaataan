@@ -14588,7 +14588,13 @@
       "text" : "理faisnyxte"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 724,
+        "form" : "paicanutte"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 639,
@@ -15972,6 +15978,44 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 723,
+      "form" : "okajúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to sprinkle [accusative]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍oqaiu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 724,
+      "form" : "paicanutte"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "noodle" ]
+    } ],
+    "tags" : [ "colloquial" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理faisnyxte"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "synonym(s)",
+      "entry" : {
+        "id" : 638,
+        "form" : "phaicnixate"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
