@@ -6203,17 +6203,17 @@ hsjoihs — 今日 05:58
 
 <p>なので、追加で</p>
 
-<pre>
+<code>
 map({"title": {"alternative form(s)": "異形態", "derived term(s) / derived from": "派生関係", "singular / plural": "単複", "set phrase, idiomatic phrase": "熟語・定型表現", "synonym(s)": "類義語" }[.title], "from": .from, "to": .to})
-</pre>
+</code>
 
 <p>などをかませて diff を取ればよかろう。PowerShell だと文字化けするので、VS Code に diff ツールを入れるか。</p>
 
-<h3>213-2. 差分確認</h3>
+<h3>212-2. 差分確認</h3>
 
 <p>ひとつずつ確認していこう。</p>
 
-<h4>213-2-1. 日⇔英</h4>
+<h4>212-2-1. 日⇔英</h4>
 
 <ul>
 	<li>hem (#93) から出る「派生関係」で、 hemijoya (#481) を先にするか hemasá (#483) を先にするか</li>
@@ -6263,7 +6263,7 @@ map({"title": {"alternative form(s)": "異形態", "derived term(s) / derived fr
 
 <p>よし、日本語版のと英語版の cross_reference はこれで解決。</p>
 
-<h4>213-2-2. ríla- と -aḷaXX </h4>
+<h4>212-2-2. ríla- と -aḷaXX </h4>
 <p>ríla- と -aḷaXX の関係が「派生関係」なのは、なんか違うと思う。「参考」とか「See also」枠だと思う。</p>
 <p>ということで、直すことにした。「参考」=「See also」枠を新造。</p>
 
@@ -6272,10 +6272,20 @@ map({"title": {"alternative form(s)": "異形態", "derived term(s) / derived fr
 
 <p>んー、「参考」より「関連語」とかにしておきたくなってきたかもな。直すか。直した。</p>
 
-<h4>213-2-3. 日⇔理</h4>
+<h4>212-2-3. 日⇔理</h4>
 
 <p>さっさと終わらせましょう、これ。</p>
 <p>VS Code で diff を見ながら ZpDIC で作業したらすぐ終わった。よし。</p>
+
+<h3>212-3. 追加</h3>
+
+<p>整合を取っただけでは足りなくて、追加もしていかねばならない。</p>
+
+<p>とりあえず、一覧性を上げるために、出力を JSONL にもするようにする。</p>
+
+<p>目下の問題が片付けばいいので、「追加で相互参照を楽に足せるような仕組みを作る」のはとりあえず後回しでええか。</p>
+
+<p>とりあえず bághaḍi bhán ṣíya (#687) の相互リンクを収録。</p>
 
 <hr>
 <h3 class="do_not_create_header">to do:</h3>

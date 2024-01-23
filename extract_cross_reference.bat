@@ -10,6 +10,11 @@ REM translate the labels
 jq -f cross_reference\eng-to-ja.jq cross_reference\from-eng_.json > cross_reference\from-eng.json
 jq -f cross_reference\lineparine-to-ja.jq cross_reference\from-lineparine_.json > cross_reference\from-lineparine.json
 
+REM convert to JSONL
+jq -c ".[]" cross_reference\from-ja.json > cross_reference\from-ja.jsonl
+jq -c ".[]" cross_reference\from-eng.json > cross_reference\from-eng.jsonl
+jq -c ".[]" cross_reference\from-lineparine.json > cross_reference\from-lineparine.jsonl
+
 REM delete the redundant files
 del cross_reference\from-eng_.json 
 del cross_reference\from-lineparine_.json 

@@ -1254,6 +1254,12 @@
         "id" : 498,
         "form" : "cákíkátaḍi cájau"
       }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 687,
+        "form" : "bághaḍi bhán ṣíya"
+      }
     } ]
   }, {
     "entry" : {
@@ -1711,6 +1717,12 @@
       "entry" : {
         "id" : 79,
         "form" : "cájau"
+      }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 687,
+        "form" : "bághaḍi bhán ṣíya"
       }
     } ]
   }, {
@@ -6006,6 +6018,12 @@
       "entry" : {
         "id" : 460,
         "form" : "núdhabágha"
+      }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 687,
+        "form" : "bághaḍi bhán ṣíya"
       }
     } ]
   }, {
@@ -15337,7 +15355,13 @@
       "text" : "藍xiyu,牌xy1"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 687,
+        "form" : "bághaḍi bhán ṣíya"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 686,
@@ -15363,7 +15387,31 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 250,
+        "form" : "bágha"
+      }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 50,
+        "form" : "-ḍi"
+      }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 70,
+        "form" : "bhán"
+      }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 685,
+        "form" : "ṣíya"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 688,
