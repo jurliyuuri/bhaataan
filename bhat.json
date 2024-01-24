@@ -605,6 +605,12 @@
         "id" : 477,
         "form" : "-úḷ ám bhátamú"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 726,
+        "form" : "-úḷ ám bhátaḷamú"
+      }
     } ]
   }, {
     "entry" : {
@@ -1851,6 +1857,12 @@
       "entry" : {
         "id" : 477,
         "form" : "-úḷ ám bhátamú"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 726,
+        "form" : "-úḷ ám bhátaḷamú"
       }
     } ]
   }, {
@@ -10106,6 +10118,12 @@
         "id" : 467,
         "form" : "ríla-"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 726,
+        "form" : "-úḷ ám bhátaḷamú"
+      }
     } ]
   }, {
     "entry" : {
@@ -16038,6 +16056,40 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 726,
+      "form" : "-úḷ ám bhátaḷamú"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "〜するのでしょう？" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "直訳は「〜するとあなたなら言いませんか？」。話し手が知っていることについて、聞き手にとって既知であることを期待する形。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 31,
+        "form" : "-úḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 75,
+        "form" : "bhátúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 422,
+        "form" : "-aḷamú"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

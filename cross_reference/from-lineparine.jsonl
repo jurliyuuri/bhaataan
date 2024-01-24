@@ -32,6 +32,7 @@
 {"title":"異形態","from":[30,"-akáṣlo"],"to":[27,"-káṣlo"]}
 {"title":"派生関係","from":[31,"-úḷ"],"to":[268,"lipakoúḷ"]}
 {"title":"派生関係","from":[31,"-úḷ"],"to":[477,"-úḷ ám bhátamú"]}
+{"title":"派生関係","from":[31,"-úḷ"],"to":[726,"-úḷ ám bhátaḷamú"]}
 {"title":"異形態","from":[32,"-á"],"to":[41,"-zá"]}
 {"title":"単複","from":[32,"-á"],"to":[273,"-i"]}
 {"title":"派生関係","from":[32,"-á"],"to":[293,"káná ká"]}
@@ -119,6 +120,7 @@
 {"title":"派生関係","from":[74,"bhát"],"to":[320,"bhátán zepha"]}
 {"title":"派生関係","from":[74,"bhát"],"to":[321,"wát"]}
 {"title":"派生関係","from":[75,"bhátúḷ"],"to":[477,"-úḷ ám bhátamú"]}
+{"title":"派生関係","from":[75,"bhátúḷ"],"to":[726,"-úḷ ám bhátaḷamú"]}
 {"title":"派生関係","from":[76,"bhoma"],"to":[550,"bhoman"]}
 {"title":"派生関係","from":[78,"bohúḷ"],"to":[345,"amáma bohú"]}
 {"title":"類義語","from":[79,"cájau"],"to":[70,"bhán"]}
@@ -541,6 +543,7 @@
 {"title":"異形態","from":[422,"-aḷamú"],"to":[420,"-lamú"]}
 {"title":"異形態","from":[422,"-aḷamú"],"to":[421,"-ḷamú"]}
 {"title":"関連語","from":[422,"-aḷamú"],"to":[467,"ríla-"]}
+{"title":"派生関係","from":[422,"-aḷamú"],"to":[726,"-úḷ ám bhátaḷamú"]}
 {"title":"異形態","from":[423,"-cai"],"to":[424,"-acai"]}
 {"title":"異形態","from":[424,"-acai"],"to":[423,"-cai"]}
 {"title":"異形態","from":[425,"-ladína"],"to":[426,"-ḷadína"]}
@@ -754,3 +757,6 @@
 {"title":"派生関係","from":[694,"eghin"],"to":[385,"eghi"]}
 {"title":"派生関係","from":[694,"eghin"],"to":[161,"-n"]}
 {"title":"類義語","from":[724,"paicanutte"],"to":[638,"phaicnixate"]}
+{"title":"派生関係","from":[726,"-úḷ ám bhátaḷamú"],"to":[31,"-úḷ"]}
+{"title":"派生関係","from":[726,"-úḷ ám bhátaḷamú"],"to":[75,"bhátúḷ"]}
+{"title":"派生関係","from":[726,"-úḷ ám bhátaḷamú"],"to":[422,"-aḷamú"]}
