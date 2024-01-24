@@ -1469,7 +1469,19 @@
       "text" : "*'munq"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 477,
+        "form" : "-úḷ ám bhátamú"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 726,
+        "form" : "-úḷ ám bhátaḷamú"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 59,
@@ -11349,6 +11361,12 @@
     }, {
       "title" : "derived term(s) / derived from",
       "entry" : {
+        "id" : 58,
+        "form" : "ám"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
         "id" : 75,
         "form" : "bhátúḷ"
       }
@@ -16091,6 +16109,12 @@
       "entry" : {
         "id" : 31,
         "form" : "-úḷ"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 58,
+        "form" : "ám"
       }
     }, {
       "title" : "derived term(s) / derived from",

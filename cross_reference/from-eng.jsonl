@@ -108,6 +108,8 @@
 {"title":"派生関係","from":[52,"accúḷ"],"to":[121,"nínaccú"]}
 {"title":"類義語","from":[54,"aḍuhazoúḷ"],"to":[237,"okákúḷ"]}
 {"title":"派生関係","from":[55,"aghauṭa"],"to":[299,"aghauṭawaim"]}
+{"title":"派生関係","from":[58,"ám"],"to":[477,"-úḷ ám bhátamú"]}
+{"title":"派生関係","from":[58,"ám"],"to":[726,"-úḷ ám bhátaḷamú"]}
 {"title":"派生関係","from":[60,"amáma"],"to":[345,"amáma bohú"]}
 {"title":"派生関係","from":[61,"amila"],"to":[258,"amilahomá nutta"]}
 {"title":"派生関係","from":[61,"amila"],"to":[266,"káṇahomá amila"]}
@@ -610,6 +612,7 @@
 {"title":"派生関係","from":[471,"núḷ"],"to":[472,"nú-"]}
 {"title":"派生関係","from":[472,"nú-"],"to":[471,"núḷ"]}
 {"title":"派生関係","from":[477,"-úḷ ám bhátamú"],"to":[31,"-úḷ"]}
+{"title":"派生関係","from":[477,"-úḷ ám bhátamú"],"to":[58,"ám"]}
 {"title":"派生関係","from":[477,"-úḷ ám bhátamú"],"to":[75,"bhátúḷ"]}
 {"title":"派生関係","from":[477,"-úḷ ám bhátamú"],"to":[10,"-amú"]}
 {"title":"派生関係","from":[480,"joya"],"to":[481,"hemijoya"]}
@@ -761,6 +764,7 @@
 {"title":"派生関係","from":[694,"eghin"],"to":[161,"-n"]}
 {"title":"類義語","from":[724,"paicanutte"],"to":[638,"phaicnixate"]}
 {"title":"派生関係","from":[726,"-úḷ ám bhátaḷamú"],"to":[31,"-úḷ"]}
+{"title":"派生関係","from":[726,"-úḷ ám bhátaḷamú"],"to":[58,"ám"]}
 {"title":"派生関係","from":[726,"-úḷ ám bhátaḷamú"],"to":[75,"bhátúḷ"]}
 {"title":"派生関係","from":[726,"-úḷ ám bhátaḷamú"],"to":[422,"-aḷamú"]}
 {"title":"熟語・定型表現","from":[727,"bhájabánidhelá náhúḷ"],"to":[251,"bhájabáni"]}

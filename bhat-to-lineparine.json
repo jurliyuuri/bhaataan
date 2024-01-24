@@ -1469,7 +1469,19 @@
       "text" : "*'munq"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 477,
+        "form" : "-úḷ ám bhátamú"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 726,
+        "form" : "-úḷ ám bhátaḷamú"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 59,
@@ -11343,6 +11355,12 @@
     }, {
       "title" : "jujolarmelseso",
       "entry" : {
+        "id" : 58,
+        "form" : "ám"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
         "id" : 75,
         "form" : "bhátúḷ"
       }
@@ -16052,6 +16070,12 @@
       "entry" : {
         "id" : 31,
         "form" : "-úḷ"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 58,
+        "form" : "ám"
       }
     }, {
       "title" : "jujolarmelseso",

@@ -1469,7 +1469,19 @@
       "text" : "*'munq"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 477,
+        "form" : "-úḷ ám bhátamú"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 726,
+        "form" : "-úḷ ám bhátaḷamú"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 59,
@@ -11352,6 +11364,12 @@
     }, {
       "title" : "派生関係",
       "entry" : {
+        "id" : 58,
+        "form" : "ám"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
         "id" : 75,
         "form" : "bhátúḷ"
       }
@@ -16094,6 +16112,12 @@
       "entry" : {
         "id" : 31,
         "form" : "-úḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 58,
+        "form" : "ám"
       }
     }, {
       "title" : "派生関係",
