@@ -1001,6 +1001,12 @@
         "id" : 34,
         "form" : "-elená"
       }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 727,
+        "form" : "bhájabánidhelá náhúḷ"
+      }
     } ]
   }, {
     "entry" : {
@@ -6062,6 +6068,12 @@
         "id" : 250,
         "form" : "bágha"
       }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 727,
+        "form" : "bhájabánidhelá náhúḷ"
+      }
     } ]
   }, {
     "entry" : {
@@ -8600,6 +8612,12 @@
       "entry" : {
         "id" : 355,
         "form" : "náhaz"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 727,
+        "form" : "bhájabánidhelá náhúḷ"
       }
     } ]
   }, {
@@ -16046,6 +16064,37 @@
       "entry" : {
         "id" : 422,
         "form" : "-aḷamú"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 727,
+      "form" : "bhájabánidhelá náhúḷ"
+    },
+    "translations" : [ {
+      "title" : "narlen ftona",
+      "forms" : [ "～(ghi)の近似精度を向上する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 251,
+        "form" : "bhájabáni"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 43,
+        "form" : "-dhelá"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 354,
+        "form" : "náhúḷ"
       }
     } ]
   } ],

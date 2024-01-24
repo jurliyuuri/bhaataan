@@ -1001,6 +1001,12 @@
         "id" : 34,
         "form" : "-elená"
       }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 727,
+        "form" : "bhájabánidhelá náhúḷ"
+      }
     } ]
   }, {
     "entry" : {
@@ -6062,6 +6068,12 @@
         "id" : 250,
         "form" : "bágha"
       }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 727,
+        "form" : "bhájabánidhelá náhúḷ"
+      }
     } ]
   }, {
     "entry" : {
@@ -8600,6 +8612,12 @@
       "entry" : {
         "id" : 355,
         "form" : "náhaz"
+      }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 727,
+        "form" : "bhájabánidhelá náhúḷ"
       }
     } ]
   }, {
@@ -16085,6 +16103,37 @@
       "entry" : {
         "id" : 422,
         "form" : "-aḷamú"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 727,
+      "form" : "bhájabánidhelá náhúḷ"
+    },
+    "translations" : [ {
+      "title" : "instantaneous verb",
+      "forms" : [ "to improve the precision of approximation of [ghi]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 251,
+        "form" : "bhájabáni"
+      }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 43,
+        "form" : "-dhelá"
+      }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 354,
+        "form" : "náhúḷ"
       }
     } ]
   } ],
