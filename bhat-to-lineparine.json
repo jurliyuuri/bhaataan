@@ -16121,6 +16121,22 @@
         "form" : "náhúḷ"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 728,
+      "form" : "dhokit"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "いじめっ子" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "理fenna + 藍itua"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

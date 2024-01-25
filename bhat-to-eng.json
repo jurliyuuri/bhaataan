@@ -16160,6 +16160,22 @@
         "form" : "náhúḷ"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 728,
+      "form" : "bhánadit"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "a bully" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理fenna + 藍itua"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

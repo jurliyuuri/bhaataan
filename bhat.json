@@ -16163,6 +16163,22 @@
         "form" : "náhúḷ"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 728,
+      "form" : "bhánadit"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "いじめっ子" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理fenna + 藍itua"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
