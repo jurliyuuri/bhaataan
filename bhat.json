@@ -5467,7 +5467,13 @@
       "text" : "*atheisl"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 729,
+        "form" : "adheṣṣíya"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 224,
@@ -15427,6 +15433,12 @@
         "id" : 687,
         "form" : "bághaḍi bhán ṣíya"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 729,
+        "form" : "adheṣṣíya"
+      }
     } ]
   }, {
     "entry" : {
@@ -16179,6 +16191,37 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 729,
+      "form" : "adheṣṣíya"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "王を弾劾する裁判" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "クーデターなどの政変の後、君主がかつての部下によって裁かれる状況を表す。"
+    }, {
+      "title" : "発音",
+      "text" : "adʱɛʂʂɨːɥa"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 223,
+        "form" : "adheṣ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 685,
+        "form" : "ṣíya"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

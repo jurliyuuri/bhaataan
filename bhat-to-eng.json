@@ -5467,7 +5467,13 @@
       "text" : "*atheisl"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 729,
+        "form" : "adheṣṣíya"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 224,
@@ -15421,6 +15427,12 @@
         "id" : 687,
         "form" : "bághaḍi bhán ṣíya"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 729,
+        "form" : "adheṣṣíya"
+      }
     } ]
   }, {
     "entry" : {
@@ -16176,6 +16188,37 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 729,
+      "form" : "adheṣṣíya"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "trial to impeach the king" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "Represents the situation of a monarch being tried by their former subordinates following a political upheaval such as a coup d'état."
+    }, {
+      "title" : "pronunciation",
+      "text" : "adʱɛʂʂɨːɥa"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 223,
+        "form" : "adheṣ"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 685,
+        "form" : "ṣíya"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

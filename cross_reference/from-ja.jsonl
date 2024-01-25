@@ -275,6 +275,7 @@
 {"title":"派生関係","from":[216,"k"],"to":[324,"káná"]}
 {"title":"派生関係","from":[220,"kánaghúḷ"],"to":[325,"káná"]}
 {"title":"派生関係","from":[221,"ṣoya"],"to":[263,"koṭáná ṣoya"]}
+{"title":"派生関係","from":[223,"adheṣ"],"to":[729,"adheṣṣíya"]}
 {"title":"派生関係","from":[235,"ghíyo"],"to":[548,"bhodíyo"]}
 {"title":"派生関係","from":[236,"rásitúḷ"],"to":[295,"rásit"]}
 {"title":"類義語","from":[237,"okákúḷ"],"to":[54,"aḍuhazoúḷ"]}
@@ -756,6 +757,7 @@
 {"title":"異形態","from":[671,"-ṣág"],"to":[672,"-aṣág"]}
 {"title":"異形態","from":[672,"-aṣág"],"to":[671,"-ṣág"]}
 {"title":"熟語・定型表現","from":[685,"ṣíya"],"to":[687,"bághaḍi bhán ṣíya"]}
+{"title":"派生関係","from":[685,"ṣíya"],"to":[729,"adheṣṣíya"]}
 {"title":"熟語・定型表現","from":[687,"bághaḍi bhán ṣíya"],"to":[250,"bágha"]}
 {"title":"熟語・定型表現","from":[687,"bághaḍi bhán ṣíya"],"to":[50,"-ḍi"]}
 {"title":"熟語・定型表現","from":[687,"bághaḍi bhán ṣíya"],"to":[70,"bhán"]}
@@ -770,3 +772,5 @@
 {"title":"熟語・定型表現","from":[727,"bhájabánidhelá náhúḷ"],"to":[251,"bhájabáni"]}
 {"title":"熟語・定型表現","from":[727,"bhájabánidhelá náhúḷ"],"to":[43,"-dhelá"]}
 {"title":"熟語・定型表現","from":[727,"bhájabánidhelá náhúḷ"],"to":[354,"náhúḷ"]}
+{"title":"派生関係","from":[729,"adheṣṣíya"],"to":[223,"adheṣ"]}
+{"title":"派生関係","from":[729,"adheṣṣíya"],"to":[685,"ṣíya"]}

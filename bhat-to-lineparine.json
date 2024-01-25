@@ -5467,7 +5467,13 @@
       "text" : "*atheisl"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 729,
+        "form" : "adheṣṣíya"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 224,
@@ -15397,6 +15403,12 @@
         "id" : 687,
         "form" : "bághaḍi bhán ṣíya"
       }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 729,
+        "form" : "adheṣṣíya"
+      }
     } ]
   }, {
     "entry" : {
@@ -16137,6 +16149,37 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 729,
+      "form" : "adheṣṣíya"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "王を弾劾する裁判" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "liusel",
+      "text" : "クーデターなどの政変の後、君主がかつての部下によって裁かれる状況を表す。"
+    }, {
+      "title" : "発音",
+      "text" : "adʱɛʂʂɨːɥa"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 223,
+        "form" : "adheṣ"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 685,
+        "form" : "ṣíya"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
