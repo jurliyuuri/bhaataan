@@ -147,7 +147,7 @@
     "tags" : [ "伐化理名", "現世の民" ],
     "contents" : [ {
       "title" : "業績・概略",
-      "text" : "悠里創作者。"
+      "text" : "バート語創作最終責任者。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -166,7 +166,7 @@
     "tags" : [ "伐化理名", "現世の民" ],
     "contents" : [ {
       "title" : "業績・概略",
-      "text" : "悠里創作者。"
+      "text" : "パイグ語創作・タカン語創作・燐字創作最終責任者。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -199,6 +199,41 @@
     "contents" : [ {
       "title" : "業績・概略",
       "text" : "アイル共和国文化省広報処の事務長。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 12,
+      "form" : "korúṣam ghátu rohatam"
+    },
+    "translations" : [ {
+      "title" : "仮名転写",
+      "forms" : [ "コールーシャム・ガートゥ・ローハタム" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "業績・概略",
+      "text" : "ラネーメ古論に見られる失われた賭博、【六裁】に対し、発掘されたゲームボードをもとにルールを推測し、確率論的観点から六本の投げ棒を用いて遊ばれていたという学説を立てた。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 13,
+      "form" : "máwija kúḷawenija"
+    },
+    "translations" : [ {
+      "title" : "仮名転写",
+      "forms" : [ "マーウィア・クーラウェーニヤ" ]
+    }, {
+      "title" : "理名",
+      "forms" : [ "skurlavenija.mavija" ]
+    } ],
+    "tags" : [ "伐化理名", "現世の民" ],
+    "contents" : [ {
+      "title" : "業績・概略",
+      "text" : "バート語創作者。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
