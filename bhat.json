@@ -16222,6 +16222,19 @@
         "form" : "ṣíya"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 730,
+      "form" : "úrajakátá bágha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "実数" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

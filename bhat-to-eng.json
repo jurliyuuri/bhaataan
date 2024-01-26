@@ -16219,6 +16219,19 @@
         "form" : "ṣíya"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 730,
+      "form" : "úrajakátá bágha"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "real number" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

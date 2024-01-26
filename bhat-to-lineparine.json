@@ -16180,6 +16180,19 @@
         "form" : "ṣíya"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 730,
+      "form" : "úrajakátá bágha"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "xyfarzten soor" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
