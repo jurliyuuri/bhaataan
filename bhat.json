@@ -16235,6 +16235,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 731,
+      "form" : "khaikhkhaik"
+    },
+    "translations" : [ {
+      "title" : "間投詞",
+      "forms" : [ "「良い戦いを」" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌kait kaik"
+    }, {
+      "title" : "文化",
+      "text" : "セッカイク (cekhai) の試合を始める前にする挨拶。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -16193,6 +16193,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 731,
+      "form" : "khaikhkhaik"
+    },
+    "translations" : [ {
+      "title" : "krackrafi'a",
+      "forms" : [ "「良い戦いを」" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "牌kait kaik"
+    }, {
+      "title" : "meu",
+      "text" : "セッカイク (cekhai) の試合を始める前にする挨拶。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
