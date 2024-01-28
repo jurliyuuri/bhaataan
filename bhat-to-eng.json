@@ -16288,6 +16288,25 @@
         "form" : "-itam"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 733,
+      "form" : "joṇu"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "government", "executive branch", "administrative department", "steering committee" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌y1, 藍yunyu"
+    }, {
+      "title" : "usage",
+      "text" : "The term is used to refer to a group, not a specific individual, so it is not appropriate for describing a \"manager\", an \"administrator\" etc."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

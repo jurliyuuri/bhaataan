@@ -16291,6 +16291,25 @@
         "form" : "-itam"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 733,
+      "form" : "joṇu"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "政府", "行政府", "管理部門", "事務部", "運営" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌y1, 藍yunyu"
+    }, {
+      "title" : "用法",
+      "text" : "特定の個人は指さず、グループとして称するときに用いる語であるので、「管理者」などを表すのには不適。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
