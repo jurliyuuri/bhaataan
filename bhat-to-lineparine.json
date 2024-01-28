@@ -759,6 +759,12 @@
         "id" : 607,
         "form" : "oṣán"
       }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 734,
+        "form" : "ághatán bacú"
+      }
     } ]
   }, {
     "entry" : {
@@ -11193,7 +11199,13 @@
       "text" : "「生と非生の境目の、生側にあるもの」とされる。ゆえに性・生殖のメタファーでもある。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 734,
+        "form" : "ághatán bacú"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 469,
@@ -14844,7 +14856,13 @@
       "text" : "藍akuti"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 734,
+        "form" : "ághatán bacú"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 652,
@@ -16268,6 +16286,37 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 734,
+      "form" : "ághatán bacú"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "辛味のついた液体油", "スパイス油", "香味油", "ラー油", "辣油" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 651,
+        "form" : "ághat"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 35,
+        "form" : "-án"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 468,
+        "form" : "bacú"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -759,6 +759,12 @@
         "id" : 607,
         "form" : "oṣán"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 734,
+        "form" : "ághatán bacú"
+      }
     } ]
   }, {
     "entry" : {
@@ -11199,7 +11205,13 @@
       "text" : "Traditionally treated as what lies at the \"life\" side of the boundary between \"life\" and \"non-life\". Hence it is also a metaphor of procreation and sexual reproduction."
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 734,
+        "form" : "ághatán bacú"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 469,
@@ -14868,7 +14880,13 @@
       "text" : "藍akuti"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 734,
+        "form" : "ághatán bacú"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 652,
@@ -16307,6 +16325,37 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 734,
+      "form" : "ághatán bacú"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "pungent liquid oil", "spicy liquid oil", "spicy oil", "chili oil", "pepper oil", "pepper-infused oil" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 651,
+        "form" : "ághat"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 35,
+        "form" : "-án"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 468,
+        "form" : "bacú"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
