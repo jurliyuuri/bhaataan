@@ -11874,6 +11874,12 @@
         "id" : 500,
         "form" : "dílitam"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 732,
+        "form" : "rohatam"
+      }
     } ]
   }, {
     "entry" : {
@@ -13882,7 +13888,13 @@
       "text" : "藍lihuo"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 732,
+        "form" : "rohatam"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 599,
@@ -16251,6 +16263,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 732,
+      "form" : "rohatam"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "(name of a person)" ]
+    } ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 598,
+        "form" : "rohúḷ"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 501,
+        "form" : "-itam"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -11877,6 +11877,12 @@
         "id" : 500,
         "form" : "dílitam"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 732,
+        "form" : "rohatam"
+      }
     } ]
   }, {
     "entry" : {
@@ -13885,7 +13891,13 @@
       "text" : "藍lihuo"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 732,
+        "form" : "rohatam"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 599,
@@ -16254,6 +16266,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 732,
+      "form" : "rohatam"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 598,
+        "form" : "rohúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 501,
+        "form" : "-itam"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -633,6 +633,7 @@
 {"title":"熟語・定型表現","from":[498,"cákíkátaḍi cájau"],"to":[79,"cájau"]}
 {"title":"派生関係","from":[500,"dílitam"],"to":[501,"-itam"]}
 {"title":"派生関係","from":[501,"-itam"],"to":[500,"dílitam"]}
+{"title":"派生関係","from":[501,"-itam"],"to":[732,"rohatam"]}
 {"title":"派生関係","from":[502,"korúṣam"],"to":[162,"-am"]}
 {"title":"派生関係","from":[503,"zí"],"to":[279,"xízía"]}
 {"title":"派生関係","from":[507,"bániwaim"],"to":[66,"báni"]}
@@ -723,6 +724,7 @@
 {"title":"派生関係","from":[596,"rodahemasáṇauṭu"],"to":[594,"hemasáṇauṭu"]}
 {"title":"派生関係","from":[597,"núdhabhoḷog"],"to":[456,"núdha"]}
 {"title":"派生関係","from":[597,"núdhabhoḷog"],"to":[488,"bhoḷog"]}
+{"title":"派生関係","from":[598,"rohúḷ"],"to":[732,"rohatam"]}
 {"title":"類義語","from":[599,"ṣárahúḷ"],"to":[214,"ghánúḷ"]}
 {"title":"類義語","from":[602,"catíg"],"to":[603,"cátaghi"]}
 {"title":"類義語","from":[603,"cátaghi"],"to":[602,"catíg"]}
@@ -774,3 +776,5 @@
 {"title":"熟語・定型表現","from":[727,"bhájabánidhelá náhúḷ"],"to":[354,"náhúḷ"]}
 {"title":"派生関係","from":[729,"adheṣṣíya"],"to":[223,"adheṣ"]}
 {"title":"派生関係","from":[729,"adheṣṣíya"],"to":[685,"ṣíya"]}
+{"title":"派生関係","from":[732,"rohatam"],"to":[598,"rohúḷ"]}
+{"title":"派生関係","from":[732,"rohatam"],"to":[501,"-itam"]}

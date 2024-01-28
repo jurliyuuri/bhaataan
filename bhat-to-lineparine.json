@@ -11868,6 +11868,12 @@
         "id" : 500,
         "form" : "dílitam"
       }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 732,
+        "form" : "rohatam"
+      }
     } ]
   }, {
     "entry" : {
@@ -13864,7 +13870,13 @@
       "text" : "藍lihuo"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 732,
+        "form" : "rohatam"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 599,
@@ -16212,6 +16224,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 732,
+      "form" : "rohatam"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "(phertarsen ferlk)" ]
+    } ],
+    "tags" : [ "人名", "主属同形tsans io <-ele>" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 598,
+        "form" : "rohúḷ"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 501,
+        "form" : "-itam"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
