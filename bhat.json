@@ -16359,6 +16359,22 @@
         "form" : "bacú"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 735,
+      "form" : "ághai"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "もし", "仮に" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍akui, 藍age"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

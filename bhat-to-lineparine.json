@@ -16317,6 +16317,22 @@
         "form" : "bacú"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 735,
+      "form" : "ághai"
+    },
+    "translations" : [ {
+      "title" : "ftonaol",
+      "forms" : [ "fion p'es" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍akui, 藍age"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
