@@ -16412,6 +16412,19 @@
         "form" : "ásúka"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 737,
+      "form" : "ṣúsahomá ṣibhai"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "ユエスレオネ連邦" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
