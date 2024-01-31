@@ -16425,6 +16425,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 738,
+      "form" : "ṣí"
+    },
+    "translations" : [ {
+      "title" : "postfix particle",
+      "forms" : [ "(emphasizes the previous word)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "culture",
+      "text" : "an old-fashioned word"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

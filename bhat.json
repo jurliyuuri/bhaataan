@@ -16428,6 +16428,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 738,
+      "form" : "ṣí"
+    },
+    "translations" : [ {
+      "title" : "後置小辞",
+      "forms" : [ "（直前の語を取り立て強調する）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "古めかしい語である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
