@@ -339,6 +339,7 @@
 {"title":"派生関係","from":[267,"lipakoḷ"],"to":[268,"lipakoúḷ"]}
 {"title":"派生関係","from":[268,"lipakoúḷ"],"to":[267,"lipakoḷ"]}
 {"title":"派生関係","from":[268,"lipakoúḷ"],"to":[31,"-úḷ"]}
+{"title":"派生関係","from":[270,"ásúka"],"to":[736,"xallásúka"]}
 {"title":"派生関係","from":[271,"bákaz"],"to":[247,"bákúḷ"]}
 {"title":"派生関係","from":[271,"bákaz"],"to":[190,"-az"]}
 {"title":"類義語","from":[272,"nautu"],"to":[146,"zepha"]}
@@ -748,6 +749,7 @@
 {"title":"類義語","from":[615,"epa_híja"],"to":[97,"horabát"]}
 {"title":"異形態","from":[616,"xall-"],"to":[604,"xalli-"]}
 {"title":"派生関係","from":[616,"xall-"],"to":[617,"xallánom"]}
+{"title":"派生関係","from":[616,"xall-"],"to":[736,"xallásúka"]}
 {"title":"派生関係","from":[617,"xallánom"],"to":[616,"xall-"]}
 {"title":"派生関係","from":[617,"xallánom"],"to":[543,"ánom"]}
 {"title":"派生関係","from":[619,"kázalek"],"to":[655,"bházau_kázalek"]}
@@ -784,3 +786,5 @@
 {"title":"派生関係","from":[734,"ághatán bacú"],"to":[651,"ághat"]}
 {"title":"派生関係","from":[734,"ághatán bacú"],"to":[35,"-án"]}
 {"title":"派生関係","from":[734,"ághatán bacú"],"to":[468,"bacú"]}
+{"title":"派生関係","from":[736,"xallásúka"],"to":[616,"xall-"]}
+{"title":"派生関係","from":[736,"xallásúka"],"to":[270,"ásúka"]}

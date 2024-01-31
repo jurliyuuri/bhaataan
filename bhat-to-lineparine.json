@@ -6645,7 +6645,13 @@
       "text" : "「人に聞く」といった、不定な「他人」という意味での「人」には使わない。不定な一人を指す場合にはlásiを用いる。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 736,
+        "form" : "xallásúka"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 271,
@@ -14287,6 +14293,12 @@
         "id" : 617,
         "form" : "xallánom"
       }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 736,
+        "form" : "xallásúka"
+      }
     } ]
   }, {
     "entry" : {
@@ -16348,7 +16360,19 @@
       "text" : "人に対して用いると非常に侮蔑的であり、本当に人ではない存在に対しては用いることがない。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 616,
+        "form" : "xall-"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 270,
+        "form" : "ásúka"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

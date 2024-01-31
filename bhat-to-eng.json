@@ -6642,7 +6642,13 @@
       "text" : "藍asuka,牌cuk2"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 736,
+        "form" : "xallásúka"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 271,
@@ -14305,6 +14311,12 @@
         "id" : 617,
         "form" : "xallánom"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 736,
+        "form" : "xallásúka"
+      }
     } ]
   }, {
     "entry" : {
@@ -16387,7 +16399,19 @@
       "text" : "This word is very derogatory when used against a person; it is never used against a being that is factually not a person."
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 616,
+        "form" : "xall-"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 270,
+        "form" : "ásúka"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
