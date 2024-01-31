@@ -16372,6 +16372,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 736,
+      "form" : "xallásúka"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "a being not worthy of being considered a person" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "This word is very derogatory when used against a person; it is never used against a being that is factually not a person."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
