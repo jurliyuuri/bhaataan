@@ -16435,12 +16435,28 @@
     },
     "translations" : [ {
       "title" : "後置小辞",
-      "forms" : [ "（直前の語を取り立て強調する）" ]
+      "forms" : [ "（直前の語を取り立てて強調する）" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "文化",
       "text" : "古めかしい語である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 739,
+      "form" : "bádha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "家" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌mut2,藍muta"
     } ],
     "variations" : [ ],
     "relations" : [ ]
