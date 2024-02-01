@@ -16460,6 +16460,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 740,
+      "form" : "báṇam"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "どこかしら辺鄙な場所で" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍mungeai"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
