@@ -907,6 +907,12 @@
         "id" : 50,
         "form" : "-ḍi"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 741,
+        "form" : "-ína"
+      }
     } ]
   }, {
     "entry" : {
@@ -1277,6 +1283,12 @@
       "entry" : {
         "id" : 687,
         "form" : "bághaḍi bhán ṣíya"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 742,
+        "form" : "-ḍína"
       }
     } ]
   }, {
@@ -2445,6 +2457,18 @@
       "entry" : {
         "id" : 276,
         "form" : "-dhína"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 741,
+        "form" : "-ína"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 742,
+        "form" : "-ḍína"
       }
     } ]
   }, {
@@ -16473,6 +16497,56 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 741,
+      "form" : "-ína"
+    },
+    "translations" : [ {
+      "title" : "suffix for a consonant-stem noun",
+      "forms" : [ "colloquial contraction of consonant stem singular postpositional and hína" ]
+    } ],
+    "tags" : [ "colloquial" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 39,
+        "form" : "-i"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 96,
+        "form" : "hína"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 742,
+      "form" : "-ḍína"
+    },
+    "translations" : [ {
+      "title" : "suffix for a vowel-stem noun",
+      "forms" : [ "colloquial contraction of vowel stem singular postpositional and hína" ]
+    } ],
+    "tags" : [ "colloquial" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 50,
+        "form" : "-ḍi"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 96,
+        "form" : "hína"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

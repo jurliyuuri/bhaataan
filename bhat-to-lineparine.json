@@ -907,6 +907,12 @@
         "id" : 50,
         "form" : "-ḍi"
       }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 741,
+        "form" : "-ína"
+      }
     } ]
   }, {
     "entry" : {
@@ -1277,6 +1283,12 @@
       "entry" : {
         "id" : 687,
         "form" : "bághaḍi bhán ṣíya"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 742,
+        "form" : "-ḍína"
       }
     } ]
   }, {
@@ -2442,6 +2454,18 @@
       "entry" : {
         "id" : 276,
         "form" : "-dhína"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 741,
+        "form" : "-ína"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 742,
+        "form" : "-ḍína"
       }
     } ]
   }, {
@@ -16434,6 +16458,56 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 741,
+      "form" : "-ína"
+    },
+    "translations" : [ {
+      "title" : "pestrenoleu fua ftlexest pervoj",
+      "forms" : [ "口語単数形後置格hína縮約形 fua ftlexest pervoj" ]
+    } ],
+    "tags" : [ "口語的" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 39,
+        "form" : "-i"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 96,
+        "form" : "hína"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 742,
+      "form" : "-ḍína"
+    },
+    "translations" : [ {
+      "title" : "pestrenoleu fua ftlexest fendej",
+      "forms" : [ "口語単数形後置格hína縮約形 fua ftlexest fendej" ]
+    } ],
+    "tags" : [ "口語的" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 50,
+        "form" : "-ḍi"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 96,
+        "form" : "hína"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

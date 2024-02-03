@@ -907,6 +907,12 @@
         "id" : 50,
         "form" : "-ḍi"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 741,
+        "form" : "-ína"
+      }
     } ]
   }, {
     "entry" : {
@@ -1277,6 +1283,12 @@
       "entry" : {
         "id" : 687,
         "form" : "bághaḍi bhán ṣíya"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 742,
+        "form" : "-ḍína"
       }
     } ]
   }, {
@@ -2442,6 +2454,18 @@
       "entry" : {
         "id" : 276,
         "form" : "-dhína"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 741,
+        "form" : "-ína"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 742,
+        "form" : "-ḍína"
       }
     } ]
   }, {
@@ -16476,6 +16500,56 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 741,
+      "form" : "-ína"
+    },
+    "translations" : [ {
+      "title" : "子音幹接尾辞",
+      "forms" : [ "口語子音幹単数形後置格hína縮約形" ]
+    } ],
+    "tags" : [ "口語的" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 39,
+        "form" : "-i"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 96,
+        "form" : "hína"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 742,
+      "form" : "-ḍína"
+    },
+    "translations" : [ {
+      "title" : "母音幹接尾辞",
+      "forms" : [ "口語母音幹単数後置格hína縮約形" ]
+    } ],
+    "tags" : [ "口語的" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 50,
+        "form" : "-ḍi"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 96,
+        "form" : "hína"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

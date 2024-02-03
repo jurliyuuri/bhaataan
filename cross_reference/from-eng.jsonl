@@ -63,6 +63,7 @@
 {"title":"異形態","from":[38,"-ainá"],"to":[49,"-bhauná"]}
 {"title":"単複","from":[39,"-i"],"to":[40,"-iná"]}
 {"title":"異形態","from":[39,"-i"],"to":[50,"-ḍi"]}
+{"title":"派生関係","from":[39,"-i"],"to":[741,"-ína"]}
 {"title":"異形態","from":[40,"-iná"],"to":[51,"-dhíná"]}
 {"title":"単複","from":[40,"-iná"],"to":[39,"-i"]}
 {"title":"派生関係","from":[40,"-iná"],"to":[275,"-ína"]}
@@ -101,6 +102,7 @@
 {"title":"異形態","from":[50,"-ḍi"],"to":[39,"-i"]}
 {"title":"熟語・定型表現","from":[50,"-ḍi"],"to":[498,"cákíkátaḍi cájau"]}
 {"title":"熟語・定型表現","from":[50,"-ḍi"],"to":[687,"bághaḍi bhán ṣíya"]}
+{"title":"派生関係","from":[50,"-ḍi"],"to":[742,"-ḍína"]}
 {"title":"異形態","from":[51,"-dhíná"],"to":[40,"-iná"]}
 {"title":"単複","from":[51,"-dhíná"],"to":[50,"-ḍi"]}
 {"title":"派生関係","from":[51,"-dhíná"],"to":[276,"-dhína"]}
@@ -146,6 +148,8 @@
 {"title":"派生関係","from":[95,"heyáúḷ"],"to":[239,"heyáz"]}
 {"title":"派生関係","from":[96,"hína"],"to":[275,"-ína"]}
 {"title":"派生関係","from":[96,"hína"],"to":[276,"-dhína"]}
+{"title":"派生関係","from":[96,"hína"],"to":[741,"-ína"]}
+{"title":"派生関係","from":[96,"hína"],"to":[742,"-ḍína"]}
 {"title":"派生関係","from":[97,"horabát"],"to":[304,"-abát"]}
 {"title":"派生関係","from":[97,"horabát"],"to":[98,"horúḷ"]}
 {"title":"類義語","from":[97,"horabát"],"to":[615,"epa_híja"]}
@@ -788,3 +792,7 @@
 {"title":"派生関係","from":[734,"ághatán bacú"],"to":[468,"bacú"]}
 {"title":"派生関係","from":[736,"xallásúka"],"to":[616,"xall-"]}
 {"title":"派生関係","from":[736,"xallásúka"],"to":[270,"ásúka"]}
+{"title":"派生関係","from":[741,"-ína"],"to":[39,"-i"]}
+{"title":"派生関係","from":[741,"-ína"],"to":[96,"hína"]}
+{"title":"派生関係","from":[742,"-ḍína"],"to":[50,"-ḍi"]}
+{"title":"派生関係","from":[742,"-ḍína"],"to":[96,"hína"]}
