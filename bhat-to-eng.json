@@ -16547,6 +16547,22 @@
         "form" : "hína"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 743,
+      "form" : "ṣím_eghi"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "mealing stone", "metate" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "culture",
+      "text" : "A flat stone used to grind ingredients to make dough, which is then heated as a whole to make unfermented flatbread."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

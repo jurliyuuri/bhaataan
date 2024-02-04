@@ -16550,6 +16550,22 @@
         "form" : "hína"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 743,
+      "form" : "ṣím_eghi"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "石皿", "メタテ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "無発酵パンを作るべく原料をすりつぶして生地を作るために使い、そのまま焼いて無発酵パンとするための、平らな石。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
