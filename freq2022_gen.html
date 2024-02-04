@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+    * {
+        font-family: 'Arial';
+    }
+</style>
+
+<script>
+    function gen_initial() {
+        const a = Math.random() * 359;
+        if (a < 57.5) return "∅";
+        if (a < 95) return "bh";
+        if (a < 122.5) return "k";
+        if (a < 141) return "h";
+        if (a < 156.5) return "s";
+        if (a < 172) return "z";
+        if (a < 194.5) return "ṣ";
+        if (a < 220) return "n";
+        if (a < 242.5) return "c";
+        if (a < 262) return "b";
+        if (a < 275.5) return "dh";
+        if (a < 292) return "d";
+        if (a < 306.5) return "j";
+        if (a < 321) return "r";
+        if (a < 334.5) return "gh";
+        if (a < 342) return "l";
+        if (a < 345.5) return "m";
+        if (a < 350) return "kh";
+        if (a < 354.5) return "w";
+        if (a < 356) return "ḍ";
+        if (a < 357.5) return "g";
+        if (a < 359) return "y";
+    }
+
+    function gen_vowel() {
+        const a = Math.random() * 655;
+        if (a < 159.5) return "a";
+        if (a < 316) return "á";
+        if (a < 411.5) return "o";
+        if (a < 464) return "e";
+        if (a < 517.5) return "í";
+        if (a < 554) return "i";
+        if (a < 578.5) return "u";
+        if (a < 601) return "ú";
+        if (a < 619.5) return "au";
+        if (a < 634) return "ai";
+        if (a < 647.5) return "aQ";
+        if (a < 651) return "iQ";
+        if (a < 653.5) return "uQ";
+        if (a < 655) return "auQ";
+    }
+
+    function gen_middle() {
+        const a = Math.random() * 485.5;
+        if (a < 62.5) return "m";
+        if (a < 99) return "k";
+        if (a < 144.5) return "n";
+        if (a < 152) return "bh";
+        if (a < 182.5) return "h";
+        if (a < 205) return "z";
+        if (a < 245.5) return "t";
+        if (a < 251) return "b";
+        if (a < 264.5) return "c";
+        if (a < 279) return "d";
+        if (a < 287.5) return "l";
+        if (a < 309) return "gh";
+        if (a < 328.5) return "r";
+        if (a < 347) return "ṣ";
+        if (a < 352.5) return "dh";
+        if (a < 373) return "s";
+        if (a < 378.5) return "ṣl";
+        if (a < 404) return "j";
+        if (a < 416.5) return "p";
+        if (a < 434) return "ṇ";
+        if (a < 443.5) return "ṭ";
+        if (a < 450) return "ḍ";
+        if (a < 454.5) return "w";
+        if (a < 463) return "ḷ";
+        if (a < 476.5) return "y";
+        if (a < 478) return "kh";
+        if (a < 482.5) return "ph";
+        if (a < 484) return "g";
+        if (a < 485.5) return "∅";
+    }
+</script>
+
+<script>
+    for (let i = 0; i < 400; i++) {
+        if (Math.random() < 0.58667) {
+            document.write(gen_initial() + "- ");
+            for (let j = 0; j < 3; j++) {
+                document.write(" -" + gen_vowel() + "- ");
+                document.write(" -" + gen_middle() + "- ");
+            }
+        } else { 
+            document.write("アイル語根")
+        }
+        document.write(" || ")
+    }
+</script>
