@@ -16582,6 +16582,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 745,
+      "form" : "díaúḷ"
+    },
+    "translations" : [ {
+      "title" : "instantaneous verb",
+      "forms" : [ "to quote [accusative]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理dira"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -16585,6 +16585,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 745,
+      "form" : "díaúḷ"
+    },
+    "translations" : [ {
+      "title" : "瞬間動詞",
+      "forms" : [ "～(対格)を引用する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理diraからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
