@@ -16598,6 +16598,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 746,
+      "form" : "bhauk"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "name" ]
+    } ],
+    "tags" : [ "dependent noun" ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "Used exclusively in the following construct: [name in genitive] + bhaukán + [person/thing]."
+    }, {
+      "title" : "cognate(s)",
+      "text" : "Early borrowing from 理ferlk"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
