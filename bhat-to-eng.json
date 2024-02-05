@@ -7680,7 +7680,7 @@
     },
     "translations" : [ {
       "title" : "vowel-stem noun",
-      "forms" : [ "シローレーカー", "バート語の単語を繋ぐ上の線" ]
+      "forms" : [ "śirorekhā", "the top line joining a word in the bhátán language" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -16560,6 +16560,25 @@
     "contents" : [ {
       "title" : "culture",
       "text" : "A flat stone used to grind ingredients to make dough, which is then heated as a whole to make unfermented flatbread."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 744,
+      "form" : "díl"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "skewer" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "This word is sometimes used colloquially to refer to the śirorekhā (nautuhomá e)."
+    }, {
+      "title" : "cognate(s)",
+      "text" : "藍dili"
     } ],
     "variations" : [ ],
     "relations" : [ ]

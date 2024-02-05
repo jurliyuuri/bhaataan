@@ -16566,6 +16566,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 744,
+      "form" : "díl"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "串" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "俗に、ナウトゥホーマー・エーを指して用いることがある。"
+    }, {
+      "title" : "同根語",
+      "text" : "藍dili"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

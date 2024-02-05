@@ -16524,6 +16524,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 744,
+      "form" : "díl"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "串" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "liusel",
+      "text" : "俗に、ナウトゥホーマー・エーを指して用いることがある。"
+    }, {
+      "title" : "daliu farteven",
+      "text" : "藍dili"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
