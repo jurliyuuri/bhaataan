@@ -16620,6 +16620,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 747,
+      "form" : "díabáni"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "引用符" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

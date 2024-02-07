@@ -16617,6 +16617,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 747,
+      "form" : "díabáni"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "quotation mark" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -16578,6 +16578,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 747,
+      "form" : "díabáni"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "dirakrapt" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
