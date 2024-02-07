@@ -16630,6 +16630,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 748,
+      "form" : "náju"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "alcohol" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍naiwou,牌no1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

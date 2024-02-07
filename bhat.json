@@ -16633,6 +16633,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 748,
+      "form" : "náju"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "酒" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍naiwou,牌no1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
