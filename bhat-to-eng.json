@@ -16659,7 +16659,20 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
-  } ],
+  }, {
+    "entry" : {
+      "id" : 750,
+      "form" : "íṇoúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to let loose energetically without holding back", "to happily act uninhibitedly" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }  ],
   "zpdic" : {
     "alphabetOrder" : "",
     "wordOrderType" : "UNICODE",
