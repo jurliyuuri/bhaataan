@@ -16672,7 +16672,20 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
-  }  ],
+  }, {
+    "entry" : {
+      "id" : 751,
+      "form" : "zánaṇúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to leave [accusative] in a place called [hína]", "to leave [accusative] in the situation of [instrumental]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ],
   "zpdic" : {
     "alphabetOrder" : "",
     "wordOrderType" : "UNICODE",
