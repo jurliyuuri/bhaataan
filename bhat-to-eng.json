@@ -16717,6 +16717,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 754,
+      "form" : "-úpán"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "～してすぐの", "～したばかりの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

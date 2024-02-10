@@ -16678,6 +16678,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 754,
+      "form" : "-úpán"
+    },
+    "translations" : [ {
+      "title" : "pestrenoleu fua ftona",
+      "forms" : [ "～してすぐの", "～したばかりの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
