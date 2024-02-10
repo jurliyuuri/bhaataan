@@ -16701,6 +16701,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 753,
+      "form" : "-úp"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "the moment (S V)", "as soon as (S V)", "scarcely (V S) when" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍hubwa,牌hem"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

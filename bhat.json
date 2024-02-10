@@ -16704,6 +16704,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 753,
+      "form" : "-úp"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "～するやいなや", "～して間もなく", "～したその時" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍hubwa,牌hem"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

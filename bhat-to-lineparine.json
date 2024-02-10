@@ -16662,6 +16662,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 753,
+      "form" : "-úp"
+    },
+    "translations" : [ {
+      "title" : "pestrenoleu fua ftona",
+      "forms" : [ "～するやいなや", "～して間もなく", "～したその時" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍hubwa,牌hem"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
