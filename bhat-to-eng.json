@@ -16685,6 +16685,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 752,
+      "form" : "notaṭu"
+    },
+    "translations" : [ {
+      "title" : "adverb",
+      "forms" : [ "numerously", "in great numbers" ]
+    }, {
+      "title" : "adverb",
+      "forms" : [ "many times", "again and again", "over and over" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

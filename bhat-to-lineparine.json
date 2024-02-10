@@ -16646,6 +16646,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 752,
+      "form" : "notaṭu"
+    },
+    "translations" : [ {
+      "title" : "ftonaol",
+      "forms" : [ "いくつも" ]
+    }, {
+      "title" : "ftonaol",
+      "forms" : [ "何度も" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
