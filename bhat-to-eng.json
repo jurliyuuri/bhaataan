@@ -16743,7 +16743,23 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
-  } ],
+  }, {
+    "entry" : {
+      "id" : 756,
+      "form" : "boḷorúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to be sweet" ]
+    } ],
+    "tags" : [ "-ḷor stem" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍moloa,理molojaine"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }  ],
   "zpdic" : {
     "alphabetOrder" : "",
     "wordOrderType" : "UNICODE",

@@ -16736,14 +16736,30 @@
   }, {
     "entry" : {
       "id" : 755,
-      "form" : "híjaidúḷ"
+      "form" : "aḍuhaidúḷ"
     },
     "translations" : [ {
       "title" : "動作動詞",
-      "forms" : [ "～(ghi)(趣味や芸術など)に入れ込む", "～(ghi)(趣味や芸術など)に心酔するようになる", "～(ghi)(趣味や芸術など)に夢中になる" ]
+      "forms" : [ "～(ghi)を覗く", "～(ghi)に目を通す", "～(ghi)を調査する" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 756,
+      "form" : "boḷorúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "甘い" ]
+    } ],
+    "tags" : [ "-ḷor語幹" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍moloa,理molojaine"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
