@@ -16720,7 +16720,23 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
-  }  ],
+  }, {
+    "entry" : {
+      "id" : 757,
+      "form" : "roṇúḷ"
+    },
+    "translations" : [ {
+      "title" : "sytenen ftona",
+      "forms" : [ "es slovili'a" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍lugea"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ],
   "zpdic" : {
     "alphabetOrder" : "",
     "wordOrderType" : "UNICODE",
