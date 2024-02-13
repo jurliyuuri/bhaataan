@@ -16791,6 +16791,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 759,
+      "form" : "kághinámúḷ"
+    },
+    "translations" : [ {
+      "title" : "instantaneous verb",
+      "forms" : [ "to start talking" ]
+    }, {
+      "title" : "instantaneous verb",
+      "forms" : [ "for [nominative] (what was previously secret) to get revealed" ]
+    }, {
+      "title" : "dynamic verb",
+      "forms" : [ "to talk" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

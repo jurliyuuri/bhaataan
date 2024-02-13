@@ -16794,6 +16794,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 759,
+      "form" : "kághinámúḷ"
+    },
+    "translations" : [ {
+      "title" : "瞬間動詞",
+      "forms" : [ "話し始める", "喋り始める" ]
+    }, {
+      "title" : "瞬間動詞",
+      "forms" : [ "～(主格)という非公開情報・秘密が暴露される" ]
+    }, {
+      "title" : "動作動詞",
+      "forms" : [ "話す", "喋る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
