@@ -16775,6 +16775,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 758,
+      "form" : "kághi"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "mouth" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍kawi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
