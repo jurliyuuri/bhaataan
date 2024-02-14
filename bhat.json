@@ -16801,16 +16801,29 @@
     },
     "translations" : [ {
       "title" : "瞬間動詞",
-      "forms" : [ "話し始める", "喋り始める" ]
-    }, {
-      "title" : "瞬間動詞",
-      "forms" : [ "～(主格)という非公開情報・秘密が暴露される" ]
+      "forms" : [ "話し始める", "喋り始める", "～(主格)という非公開情報・秘密が暴露される" ]
     }, {
       "title" : "動作動詞",
       "forms" : [ "話す", "喋る" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 760,
+      "form" : "kísamúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "～(主格)は～(対格)を伸ばす" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍kisamu"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
