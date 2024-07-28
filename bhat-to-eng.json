@@ -16855,7 +16855,20 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
-  } ],
+  }, {
+    "entry" : {
+      "id" : 763,
+      "form" : "níg"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "(rare) A grooved sluice box for panning" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }  ],
   "zpdic" : {
     "alphabetOrder" : "",
     "wordOrderType" : "UNICODE",
