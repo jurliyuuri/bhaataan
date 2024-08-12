@@ -237,6 +237,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 14,
+      "form" : "ádhín ghátu bániwaim"
+    },
+    "translations" : [ {
+      "title" : "仮名転写",
+      "forms" : [ "アーディン・ガートゥ・バーニワイム" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "業績・概略",
+      "text" : "ボードゲーム「ラウツァイト・セプ」において、組合せ公開時とラウツァイト・セプ宣言時でワイルドを別の駒として扱ってよいか尋ねた人物。"
+    }, {
+      "title" : "参考文献",
+      "text" : "https://github.com/yasusho/lanerme_traditional_games/blob/master/lauzait_cep/%E8%AA%AC%E6%98%8E%E6%9B%B8.pdf"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
