@@ -256,6 +256,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 15,
+      "form" : "ághim ghátu bánim"
+    },
+    "translations" : [ {
+      "title" : "仮名転写",
+      "forms" : [ "アーギム・ガートゥ・バーニム" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "業績・概略",
+      "text" : "「仮に有印私文書偽造による辞表の捏造があったとして政府は保護してくれるのか」などと相談する投書を執筆した人物。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
