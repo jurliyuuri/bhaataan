@@ -12369,7 +12369,13 @@
     "tags" : [ "必ず単数曲用" ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 764,
+        "form" : "zíṣom"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 526,
@@ -16826,6 +16832,31 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 764,
+      "form" : "zíṣom"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "(phertarsen ferlk)" ]
+    } ],
+    "tags" : [ "人名", "主属同形tsans io <-ele>" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 525,
+        "form" : "zíṣlo"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 159,
+        "form" : "-m"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
