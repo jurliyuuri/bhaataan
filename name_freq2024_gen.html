@@ -93,10 +93,21 @@
         return defined_name ? defined_name.name : `(頻度 ${rank} 位の名前を造語せよ)`;
     }
 
+    function get_surname() {
+        const uniform_rand = Math.random();
+        if (uniform_rand < 10 / 18) {
+            return "";
+        } else if (uniform_rand < 15 / 18) {
+            return "bhátnímaṣ";
+        } else {
+            return "(姓もほしい)"
+        }
+    }
+
     function get_full_name() {
         const patronymic = get_name();
         const name = get_name();
-        return `${patronymic} ghátu ${name}`;
+        return `${patronymic} ghátu ${name} ${get_surname()}`;
     }
 </script>
 
