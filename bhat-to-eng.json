@@ -15609,6 +15609,9 @@
     "translations" : [ {
       "title" : "consonant-stem noun",
       "forms" : [ "beach", "seashore" ]
+    }, {
+      "title" : "consonant-stem noun",
+      "forms" : [ "edge (geometry)" ]
     } ],
     "tags" : [ "NomGen: Zero, Acc: -ele" ],
     "contents" : [ {

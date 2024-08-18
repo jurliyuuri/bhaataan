@@ -15585,6 +15585,9 @@
     "translations" : [ {
       "title" : "ftlexest pervoj",
       "forms" : [ "lavi'aistis" ]
+    }, {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "fartze" ]
     } ],
     "tags" : [ "主属同形tsans io <-ele>" ],
     "contents" : [ ],
