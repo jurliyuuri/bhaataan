@@ -6,6 +6,17 @@
 <link rel="stylesheet" href="common.css">
 <link rel="stylesheet" href="menu.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/leipzig/latest/leipzig.min.css">
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script>
+	MathJax = {
+	  tex: {
+		inlineMath: [['\\(', '\\)']]
+	  }
+	};
+</script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/default.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+<script>hljs.highlightAll();</script>
 <style>
 .modifier {background-color: #eeeeff}
 .alpha{background-color: #ffeeee}
@@ -5774,19 +5785,19 @@ dákínabohadína. 私は与えたい (7)
 
 <p>これを <a href="sort.html">sort.html</a> のコンソールで <code>var k = "...";</code> して、<code>var l = k.split(", ").map(a =&gt; syllabifyBaani(lexNautu(a)))</code> してやる。 <code>var toCount = arr =&gt; {var obj={}; arr.forEach(a =&gt; obj[a]=arr.filter(b =&gt; b == a).length); return obj};</code> を定義してやって、<code>toCount(l.map(a =&gt; a[0][0]))</code> をしてやれば、語頭回数が出る。</p>
 
-<div class="box">
+<div class="box" style="overflow-wrap: anywhere;">
 	{"∅":57,"b":19,"bh":37,"c":22,"d":16,"dh":13,"g":1,"gh":13,"h":18,"j":14,"k":27,"kh":4,"l":7,"m":3,"n":25,"r":14,"s":15,"w":4,"y":1,"z":15,"ḍ":1,"ṣ":22}
 </div>
 
 <p><code>toCount(l.flatMap(a =&gt; a.map(b =&gt; b[1])))</code> してやれば、母音。</p>
 
-<div class="box">
+<div class="box" style="overflow-wrap: anywhere;">
 	{"aQ":13,"ъ":179,"a":159,"á":156,"e":52,"au":18,"ai":14,"i":36,"í":53,"u":24,"o":95,"ú":22,"auQ":1,"uQ":1,"iQ":1}
 </div>
 
 <p><code>toCount(l.flatMap(a =&gt; {const [_, ...c] = a.map(b =&gt; b[0]); return c}))</code> してやれば、語中子音。</p>
 
-<div class="box">
+<div class="box" style="overflow-wrap: anywhere;">
 	{"c":13,"b":5,"t":40,"dh":5,"ṣ":23,"gh":18,"ṭ":9,"bh":7,"s":20,"m":62,"l":13,"n":45,"j":25,"ḍ":6,"h":30,"d":14,"z":22,"k":36,"y":13,"g":4,"ḷ":8,"r":19,"ṇ":17,"p":12,"w":4,"kh":1,"ph":4,"∅":1}
 </div>
 
@@ -6059,9 +6070,9 @@ hsjoihs — 2023/03/16 03:00<br>
 <br>
 hsjoihs — 2023/03/16 05:12<br>
 詳細な説明を書いた<br>
-<a href="https://docs.google.com/presentation/d/13tyZX_z2B4TELNWLtNg7yotHr4RLkiJIrzEc9xMFPvc">https://docs.google.com/presentation/d/13tyZX_z2B4TELNWLtNg7yotHr4RLkiJIrzEc9xMFPvc</a><br>
-<img src="幹1.png">
-<img src="幹2.png">
+<a style="overflow-wrap: anywhere;" href="https://docs.google.com/presentation/d/13tyZX_z2B4TELNWLtNg7yotHr4RLkiJIrzEc9xMFPvc">https://docs.google.com/presentation/d/13tyZX_z2B4TELNWLtNg7yotHr4RLkiJIrzEc9xMFPvc</a><br>
+<img src="幹1.png" style="width: 100%">
+<img src="幹2.png" style="width: 100%">
 <br>
 SY — 2023/03/16 09:29<br>
 root vs stemか<br>
@@ -6438,6 +6449,279 @@ SY「まあ、そういう創作でしょ」
 <img src="投書_20240720.jpg" width="800">
 
 <p>「仮に有印私文書偽造による辞表の捏造があったとして政府は保護してくれるのか」などと相談する投書を執筆した人物。</p>
+
+<h3>216-3. zíṣom ghátu korúṣam</h3>
+
+<p>2023 年 2 月 2 日に、jekto.vatimeliju が</p>
+
+<pre>
+荒洲、汚いバート文字に対する唾吐きはしそうだがバート文字に宗教的な愛着なさそうだし、実用のためにリパーシェ表記も教えたりする可能性が脳裏をよぎった 
+
+Q. リパーシェ表記って？
+A. 真面目に書くとき：
+alic sarhormar worghiti carjaw xormadry hirna xirkahachernar herm. xinrnra, bawkkar korlidherl carkirkakartar herm. larsihormar karnra jor rirkahormar karnradry hirna kar aghawtradherl narna sarhormar worghit arkacher adruhachorchernar herm. xinrnra, lergha jor cerpaterpa aghawtradry hirna arm hermakartar herm. "har, kordherl narnadry hirna sujur'l heryarkarxrlor?" alic kordry erma heryarchernar herm. "lergha jor cerpaterpa arm hermur'l erma."
+
+xerju worghit. perdi'a kkhak. cherpha xorya ja bhorg. atram lerghadry carjaw karnrajsa borhur'l erma xornarrornardhir. 
+
+真面目に書かないときは反舌音の r がすべて落ちます：
+alic sarhormar worghiti carjaw xormady hirna xirkahachernar herm. xinna, bawkkar korlidherl carkirkakartar herm. larsihormar karna jor rirkahormar karnady hirna kar aghawtadherl narna sarhormar worghit arkacher aduhachorchernar herm. xinna, lergha jor cerpaterpa aghawtady hirna arm hermakartar herm. "har, kordherl narnady hirna sujur'l heryarkarxrlor?" alic kordy erma heryarchernar herm. "lergha jor cerpaterpa arm hermur'l erma."
+
+xerju worghit. perdi'a khak. cherpha xorya ja bhorg. atam lerghady carjaw karnajsa borhur'l erma xornarrornardhir. 
+
+「反舌音を書くのに文字の上に xer を載せるという zíṣom ghátu korúṣam の akruliparxergel の表記は、誤解を招きにくいという一点以外全てにおいて不便である」
+</pre>
+
+<p>ということで、「反舌音を書くのに文字の上に xer の文字を載せる」というリパーシェ転記表記を提案した zíṣom ghátu korúṣam という人がいるということを記録する必要がある。</p>
+
+<h3>216-4. bániwaim ghátu kádan lexeḷ</h3>
+
+<p>2022 年 3 月 3 日に、「<a href="https://docs.google.com/document/d/1hMvR2RFqIVun2C_5BV5XMx36uxVG0X7Hx4HBbLCQn8k/edit?usp=sharing">めざせ燐検合格！基本編 [日本語版]</a>」の原著 (fergen'artz linzklarven pormerz!) を書いた原著者名として bániwaim ghátu kádan lexeḷ が用いられている。</p>
+
+<h2>217. 雑な確率分布推計（名前篇）</h2>
+
+<h3>217-1. ガチャ回し</h3>
+
+<p>ここで「これ以外に私がまだ回収できていない伐名に心当たりあります？」と Μίττον に問うたところ、「7時間くらい気にしてましたが思いつきません」と返ってきた。</p>
+
+<p>ということで、hsjoihs は次の作業に取り掛かることとした。</p>
+
+<p>names.json に対して jq で <code>.words | map(.entry.form)</code> をし、</p>
+
+<pre>
+[
+  "bánim ghátu kádan bhátnímaṣ",
+  "kádan ghátu woghitaim bhátnímaṣ",
+  "záwaim ghátu rúkasam",
+  "ághim ghátu íditaim",
+  "dílitam ghátu náḷawaim",
+  "káḷdan ghátu aghauṭawaim",
+  "woghitam ghátu epam bhátnímaṣ",
+  "wátimilíju ghitto",
+  "líyatápic bhalí",
+  "korúṣam ghátu cáwaṭaim jok",
+  "eghin ghátu ṣádhosammá",
+  "korúṣam ghátu rohatam",
+  "máwija kúḷawenija",
+  "ádhín ghátu bániwaim",
+  "ághim ghátu bánim",
+  "zíṣom ghátu korúṣam",
+  "bániwaim ghátu kádan lexeḷ"
+]
+</pre>
+
+<p>この中から wátimilíju ghitto, líyatápic bhalí, máwija kúḷawenija を除去すると、こうなる。</p>
+
+<div class="box">
+<pre>
+2024/08/13 現在、バート人名は 14 個生成されている。
+父名と子名を合わせて 28 個、「名前の確率分布」から乱択されたのである。
+
+さて、その内訳は
+- 4 回: kádan 
+- 3 回: korúṣam
+- 2 回: bániwaim, bánim, ághim (3 種)
+- 1 回: zíṣom, eghin, ṣádhosammá, aghauṭawaim, woghitam, epam, ádhín, woghitaim, záwaim, rúkasam, dílitam, náḷawaim, cáwaṭaim, íditaim, rohatam (15 種)
+</pre>
+</div>
+
+<p>ということで、</p>
+
+<ul>
+	<li>何らかの underlying な「名前の確率分布」から 28 個乱択したとき、20 種類の名前が出てきて出現回数が [4, 3, 2, 2, 2,
+		1, 1, 1, 1, 1,
+		1, 1, 1, 1, 1,
+		1, 1, 1, 1, 1] となった</li>
+	<li>さて、underlying な分布は、大まかにはどんな感じ？</li>
+</ul>
+
+<p>というのをこなしたい。</p>
+
+<p>さて、「順位と出現率」を log-log plot にしたときに、だいたい直線に載るという話はよく知られている（Zipf とか discrete Pareto とか呼ばれがち）。</p>
+
+<p>ただし、これはどちらかというと long tail の挙動を示すものであり、上位十数個～数十個に関してはその直線からかなり外れることも多い。<br>そして、「上位で確率の高いやつが大きくずれている」というのは困る。</p>
+
+<p>さて、名前についての「順位と出現率」をザっと漁ってみる（surname zipf とかで画像検索すると手っ取り早い）と、まあ雑に「最初の方は傾きが小さめの負の直線、途中から傾きが大き目の負の直線」といった感じにしておけばよかろうという気持ちになってくる。</p>
+
+<p>ということで、これを折れ線で近似する。折れ目の x 座標を U とでもしておく。<br>グラフの上下方向の位置には自由度が無い（確率の総和は 1 にする必要があるので、後で正規化すればいい）ので、とりあえずグラフが (U,0) を通るようにして、x が U 未満のときと U 以上の時で分岐するようなプロットを書けばいいことが分かる。</p>
+
+<div>\(y = \begin{cases} V(U-x) & \text{if $x \le U$} \\
+    W(U-x)       & \text{if $x > U$} \end{cases} \)</div>
+
+
+<p>という関係式にしておけばいい。</p>
+</pre>
+
+<p>あとは、ガチャ回しのためのコードを書くだけだ。(<a href="./name_parameter_estimation/main.ts">name_parameter_estimation/main.ts</a>)</p>
+
+<pre><code class="language-typescript">function get_env(props: { cutoff_rank: number, popular_slope: number, unpopular_slope: number }) {
+
+    const V = props.popular_slope; // slope where popular
+    const W = props.unpopular_slope; // slope where unpopular
+
+    function rank_to_unnormalized_prob(rank: number) {
+        const x = Math.log(rank);
+        const U = Math.log(props.cutoff_rank);
+        const y = x < U ? V * (U - x) : W * (U - x);
+        return Math.exp(y);
+    }
+
+    const total_unnormalized_prob = (() => {
+        let sum = 0;
+        for (let i = 1; i <= 2e5; i++) {
+            sum += rank_to_unnormalized_prob(i);
+        }
+        return sum;
+    })();
+
+    function rank_to_prob(rank: number) {
+        return rank_to_unnormalized_prob(rank) / total_unnormalized_prob;
+    }
+
+    function uniform_to_rank(uniform_rand: number) {
+        let sum = 0;
+        for (let i = 1; i <= 2e5; i++) {
+            sum += rank_to_prob(i);
+            if (uniform_rand < sum) {
+                return i;
+            }
+        }
+        return 2e5;
+    }
+    return { uniform_to_rank, rank_to_prob };
+}
+
+function search_main() {
+    const params = {
+        cutoff_rank: Math.random() * 200,
+        popular_slope: Math.random() * 2,
+        unpopular_slope: Math.random() * 2
+    };
+    const ranks = Array.from(
+        { length: 28 },
+        (_) => get_env(params).uniform_to_rank(Math.random())
+    );
+
+    // group by occurrence
+    const rank_to_occurrence = new Map&lt;number, number>();
+    for (const rank of ranks) {
+        rank_to_occurrence.set(rank, (rank_to_occurrence.get(rank) || 0) + 1);
+    }
+    // console.log(rank_to_occurrence);
+
+    const occurrences = Array.from(rank_to_occurrence.values());
+    occurrences.sort((a, b) => b - a);
+    //console.log(occurrences);
+
+    if (JSON.stringify(occurrences) === JSON.stringify([
+        4, 3, 2, 2, 2,
+        1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1,
+        1, 1, 1, 1, 1])) {
+        console.log(`DING!`);
+        console.log(`params`, params);
+        console.log(`ranks`, ranks);
+
+    }
+}
+function search() {
+    for (let i = 0; i < 1e6; i++) {
+        if (i % 1e3 === 0) {
+            console.log(i);
+        }
+        search_main();
+    }
+}</code></pre>
+
+<p>これを実行してみたところ、ほどなくいくつかの結果が得られた。</p>
+
+<p>その中で最も気に入ったのが、</p>
+
+<div class="box">
+<pre>
+DING!
+params {
+  cutoff_rank: 43.36831499130107,
+  popular_slope: 0.9488784563321069,
+  unpopular_slope: 1.9872547841234591
+}
+ranks [
+  38, 13,   1, 8, 55, 11, 10, 67,
+  30, 19,   2, 2,  1, 16,  2,  9,
+  18,  8,  50, 1, 19, 56,  1,  6,
+  22,  3, 105, 3
+]
+</pre>
+</div>
+
+<p>というもの。<br>要するに、</p>
+<ul>
+	<li>1 位が 4 回</li>
+	<li>2 位が 3 回</li>
+	<li>3 位・8 位・19 位がそれぞれ 2 回</li>
+	<li>6 位・9 位・10 位・11 位・13 位・16 位・18 位・22 位・30 位・38 位・50 位・55 位・56 位・67 位・105 位がそれぞれ 1 回</li>
+</ul>
+
+<p>という選ばれ方をした結果として、「名前の確率分布」から 28 個乱択したとき、20 種類の名前が出てきて出現回数が [4, 3, 2, 2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1] となったのである、というモデル。</p>
+
+<h3>217-2. 名前と順位を紐づける</h3>
+
+<p>さて、モデルがだいたい決まったので、あとは名前と順位を紐づけるだけの作業。</p>
+
+<p>独断と偏見で、「まあこの名前は 18 位くらいかな～」「こいつは 38 位でいいや」などを決めていく。</p>
+
+<p>みっとんからの意見も受け、以下のような列でよかろうという判断になった。</p>
+
+<pre>
+回数	順位	名前
+4	1位:	kádan
+3	2位:	korúṣam
+2	3位:	bánim
+1	6位:	eghin
+2	8位:	bániwaim
+1	9位:	epam
+1	10位:	woghitam
+1	11位:	záwaim
+1	13位:	aghauṭawaim
+1	16位:	woghitaim
+1	18位:	rúkasam
+2	19位:	ághim
+1	22位:	íditaim
+1	30位:	ádhín
+1	38位:	zíṣom
+1	50位:	dílitam
+1	55位:	ṣádhosammá
+1	56位:	náḷawaim
+1	67位:	cáwaṭaim
+1	105位:	rohatam
+</pre>
+
+<p>一旦この「折れ線」を雑な近似として、</p>
+
+<ul>
+	<li>名前が欲しいときには、「折れ線」分布からサンプリングして順位をゲット</li>
+	<li>その順位に対応する名前があるならそれを使い、無いならそれっぽいのを造語</li>
+</ul>
+
+<p>で運用を年単位で回し、ある程度データが溜まってきたところで再度モデルを修正する、ぐらいでいいのかも。造語自体もそうやってきたし。</p>
+
+<p>
+Q. 「父称」の分布と「名前」の分布は一致するの？<br>
+A. どうせ名前から性別が全く導出できない言語圏あるでしょと思って調べたら現世にもいくらでも例が出てきた。さらにみっとんから「ファイクレオネはわりと導出できないがち」との意見があり、たしかにそれはそうかという気がしてきた。<br>
+まあ、「-kí」など明確に gendered なものが付いている（そして、鼻音終わりではない）イレギュラーな名前とかについては、名前での頻度より父称での頻度のほうが高いかもしれない。	
+</p>
+
+<p>さらに、太古の昔（2018年6月21日）に</p>
+
+<img src="name_gender.png" alt="" width="700"><br>
+<img src="name_gender2.png" alt="" width="700">
+
+<p>と、「名前から性別が予測できない」としていたのだなぁ、ということが分かった。</p>
+
+<h3>217-3. 「伐名提案器」を実装する</h3>
+
+<p>これをもとに、「<a href="">伐名提案器</a>」を実装した。</p>
+
+<p>「※重要：「名前を造語せよ」と出たら、めんどくさがらずにちゃんと名前を造語すること」と書いておいた。</p>
 
 <hr>
 <h3 class="do_not_create_header">to do:</h3>

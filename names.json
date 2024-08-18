@@ -272,6 +272,38 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 16,
+      "form" : "zíṣom ghátu korúṣam"
+    },
+    "translations" : [ {
+      "title" : "仮名転写",
+      "forms" : [ "チーショム・ガートゥ・コールーシャム" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "業績・概略",
+      "text" : "「反舌音を書くのに文字の上に xer の文字を載せる」というリパーシェ転記表記を提案した人物。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 17,
+      "form" : "bániwaim ghátu kádan lexeḷ"
+    },
+    "translations" : [ {
+      "title" : "仮名転写",
+      "forms" : [ "バーニワイム・ガートゥ・カーダン・レシェール" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "業績・概略",
+      "text" : "燐検対策の演習書 \"fergen'artz linzklarven pormerz!\" の原著者。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
