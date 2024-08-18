@@ -12390,7 +12390,13 @@
     "tags" : [ "必ず単数曲用" ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 764,
+        "form" : "zíṣom"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 526,
@@ -16865,6 +16871,31 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 764,
+      "form" : "zíṣom"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 525,
+        "form" : "zíṣlo"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 159,
+        "form" : "-m"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

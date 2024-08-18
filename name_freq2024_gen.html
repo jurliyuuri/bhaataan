@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+<title>伐名提案器</title>
+<style>
+    * {
+        font-family: 'Arial';
+    }
+
+    .nametag {
+        padding: 0.5em 1em;
+        color: hsl(33, 90%, 19%);
+        background: hsl(33, 100%, 95%);
+        border-top: solid 6px hsl(33, 76%, 57%);
+        box-shadow: 0 3px 4px rgba(0, 0, 0, 0.3);
+    }
+
+    .nametag p {
+        margin: 0;
+        padding: 0;
+    }
+</style>
+
+<script>
+    const params = {
+        cutoff_rank: 43.36831499130107,
+        popular_slope: 0.9488784563321069,
+        unpopular_slope: 1.9872547841234591
+    };
+    const V = params.popular_slope; // slope where popular
+    const W = params.unpopular_slope; // slope where unpopular
+
+    function rank_to_unnormalized_prob(rank) {
+        const x = Math.log(rank);
+        const U = Math.log(params.cutoff_rank);
+        const y = x < U ? V * (U - x) : W * (U - x);
+        return Math.exp(y);
+    }
+
+    const total_unnormalized_prob = (() => {
+        let sum = 0;
+        for (let i = 1; i <= 2e5; i++) {
+            sum += rank_to_unnormalized_prob(i);
+        }
+        return sum;
+    })();
+
+    function rank_to_prob(rank) {
+        return rank_to_unnormalized_prob(rank) / total_unnormalized_prob;
+    }
+
+    function uniform_to_rank(uniform_rand) {
+        let sum = 0;
+        for (let i = 1; i <= 2e5; i++) {
+            sum += rank_to_prob(i);
+            if (uniform_rand < sum) {
+                return i;
+            }
+        }
+        return 2e5;
+    }
+
+    const defined_names = [
+        { actual_occurrence: 4, rank: 1, name: "kádan" },
+        { actual_occurrence: 3, rank: 2, name: "korúṣam" },
+        { actual_occurrence: 2, rank: 3, name: "bánim" },
+        { actual_occurrence: 1, rank: 6, name: "eghin" },
+        { actual_occurrence: 2, rank: 8, name: "bániwaim" },
+        { actual_occurrence: 1, rank: 9, name: "epam" },
+        { actual_occurrence: 1, rank: 10, name: "woghitam" },
+        { actual_occurrence: 1, rank: 11, name: "záwaim" },
+        { actual_occurrence: 1, rank: 13, name: "aghauṭawaim" },
+        { actual_occurrence: 1, rank: 14, name: "bhoman" },
+        { actual_occurrence: 1, rank: 16, name: "woghitaim" },
+        { actual_occurrence: 1, rank: 18, name: "rúkasam" },
+        { actual_occurrence: 2, rank: 19, name: "ághim" },
+        { actual_occurrence: 1, rank: 22, name: "íditaim" },
+        { actual_occurrence: 1, rank: 28, name: "síbham" },
+        { actual_occurrence: 1, rank: 29, name: "ṣabhahum" },
+        { actual_occurrence: 1, rank: 30, name: "ádhín" },
+        { actual_occurrence: 1, rank: 38, name: "zíṣom" },
+        { actual_occurrence: 1, rank: 50, name: "dílitam" },
+        { actual_occurrence: 1, rank: 55, name: "ṣádhosammá" },
+        { actual_occurrence: 1, rank: 56, name: "náḷawaim" },
+        { actual_occurrence: 1, rank: 67, name: "cáwaṭaim" },
+        { actual_occurrence: 1, rank: 105, name: "rohatam" },
+    ];
+
+    function get_name() {
+        const uniform_rand = Math.random();
+        const rank = uniform_to_rank(uniform_rand);
+        const defined_name = defined_names.find(dn => dn.rank === rank);
+        return defined_name ? defined_name.name : `(頻度 ${rank} 位の名前を造語せよ)`;
+    }
+
+    function get_surname() {
+        const uniform_rand = Math.random();
+        if (uniform_rand < 10 / 18) {
+            return "";
+        } else if (uniform_rand < 15 / 18) {
+            return "bhátnímaṣ";
+        } else {
+            return "(姓もほしい)"
+        }
+    }
+
+    function get_full_name() {
+        const patronymic = get_name();
+        const name = get_name();
+        return `${patronymic} ghátu ${name} ${get_surname()}`;
+    }
+</script>
+
+</head>
+<body>
+<h1>伐名提案器</h1>
+
+<h2>提案された名前</h2>
+
+<p style="color: red; font-weight: bold; font-size: 120%;">※重要：「名前を造語せよ」と出たら、めんどくさがらずにちゃんと名前を造語すること</p>
+
+<div class="nametag" style="font-size: 200%;">
+    <script>document.write(get_full_name());</script>
+    </li>
+</div>
+
+<h2>頻度表</h2>
+
+<table cellspacing="0" border="1" cellpadding="3">
+    <thead>
+        <tr>
+            <th>実データ内<br>出現回数</th>
+            <th>想定する順位</th>
+            <th>名前</th>
+            <th>確率目安</th>
+        </tr>
+    </thead>
+    <tbody>
+        <script>
+            defined_names.forEach(dn => {
+                document.write(`<tr><td style="text-align: right">${dn.actual_occurrence}</td><td style="text-align: right; font-weight: bold">${dn.rank}位</td><td>${dn.name}</td><td>${  (rank_to_prob(dn.rank) * 100).toPrecision(2)}%</td></tr>`);
+            });
+        </script>
+    </tbody>
+</table>
+
+<h2>説明</h2>
+
+<p>順位と出現率の log-log plot が、</p>
+<ul>
+    <li>
+        <script>document.write(params.cutoff_rank);</script> 位以下のポピュラーな名前については、傾き
+        <script>document.write(-params.popular_slope)</script> の直線
+    </li>
+    <li>
+        <script>document.write(params.cutoff_rank);</script> 位以上のポピュラーな名前については、傾き
+        <script>document.write(-params.unpopular_slope)</script> の直線
+    </li>
+</ul>
+<p>になっているといった<b>雑</b>なモデルに基づいて、順位を乱択する。</p>
+<p>その順位に該当する名前が造語されている場合はそれを出し、そうでない場合は造語することを求める。</p>
+</body>

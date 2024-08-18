@@ -12387,7 +12387,13 @@
     "tags" : [ "always singular declension" ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 764,
+        "form" : "zíṣom"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 526,
@@ -16868,7 +16874,32 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
-  }  ],
+  }, {
+    "entry" : {
+      "id" : 764,
+      "form" : "zíṣom"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "(name of a person)" ]
+    } ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 525,
+        "form" : "zíṣlo"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 159,
+        "form" : "-m"
+      }
+    } ]
+  } ],
   "zpdic" : {
     "alphabetOrder" : "",
     "wordOrderType" : "UNICODE",

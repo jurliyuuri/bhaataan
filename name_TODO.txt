@@ -1,0 +1,6 @@
+- [x] 姓の頻度
+- [x] 説明文書の移植
+- [x] zíṣom ghátu korúṣam と bániwaim ghátu kádan lexeḷ の収容
+- [x] zíṣom を辞書に追加
+- [x] bhoman ghátu síbham bhátnímaṣ の収容
+- [ ] 提案器の「実データ内出現回数」をちゃんと実データと同期させる仕組みを作る
