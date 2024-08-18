@@ -6766,6 +6766,55 @@ A. どうせ名前から性別が全く導出できない言語圏あるでし�
 
 <p>と言われたため、ṣabhahum は第 29 位に配属された。</p>
 
+<h2>219. 名前周りの仕組みづくり</h2>
+
+<p>名前周りのタスクをだいぶ片づけた。</p>
+
+<ul>
+	<li>⏳姓の頻度</li>
+	<li>✅説明文書の移植</li>
+	<li>✅zíṣom ghátu korúṣam と bániwaim ghátu kádan lexeḷ の収容</li>
+	<li>✅zíṣom を辞書に追加</li>
+	<li>✅bhoman ghátu síbham bhátnímaṣ の収容</li>
+	<li>⏳提案器の「実データ内出現回数」をちゃんと実データと同期させる仕組みを作る</li>
+</ul>
+
+<p>残りをやっていこう。</p>
+
+<h3>219-1. jq を書く</h3>
+
+<style type="text/css">ol{margin:0;padding:0}table td,table th{padding:0}.c4{background-color:#ffffff;padding-top:0pt;padding-bottom:0pt;line-height:1.3571428571428572;orphans:2;widows:2;text-align:left;height:11pt}.c8{padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:left;height:11pt}.c5{background-color:#ffffff;padding-top:0pt;padding-bottom:0pt;line-height:1.3571428571428572;orphans:2;widows:2;text-align:left}.c12{color:#000000;font-weight:400;font-size:11pt;font-family:"Arial"}.c2{font-size:10.5pt;font-family:"Courier New";color:#001080;font-weight:400}.c9{font-size:10.5pt;font-family:"Courier New";color:#795e26;font-weight:400}.c3{font-size:10.5pt;font-family:"Courier New";color:#a31515;font-weight:400}.c1{font-size:10.5pt;font-family:"Courier New";color:#098658;font-weight:400}.c10{font-size:10.5pt;font-family:"Courier New";color:#0000ff;font-weight:400}.c0{font-size:10.5pt;font-family:"Courier New";color:#3b3b3b;font-weight:400}.c6{font-size:10.5pt;font-family:"Courier New";color:#af00db;font-weight:400}.c7{text-decoration:none;vertical-align:baseline;font-style:normal}.c11{background-color:#ffffff;max-width:468pt;padding:72pt 72pt 72pt 72pt}.title{padding-top:0pt;color:#000000;font-size:26pt;padding-bottom:3pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}.subtitle{padding-top:0pt;color:#666666;font-size:15pt;padding-bottom:16pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}li{color:#000000;font-size:11pt;font-family:"Arial"}p{margin:0;color:#000000;font-size:11pt;font-family:"Arial"}h1{padding-top:20pt;color:#000000;font-size:20pt;padding-bottom:6pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h2{padding-top:18pt;color:#000000;font-size:16pt;padding-bottom:6pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h3{padding-top:16pt;color:#434343;font-size:14pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h4{padding-top:14pt;color:#666666;font-size:12pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h5{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h6{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;font-style:italic;orphans:2;widows:2;text-align:left}</style></head><body class="c11 doc-content"><p class="c5"><span class="c10">def</span><span class="c0">&nbsp;</span><span class="c9">split_name</span><span class="c0">: (. | split(</span><span class="c3">&quot; &quot;</span><span class="c0">)) </span><span class="c10">as</span><span class="c0">&nbsp;</span><span class="c2 c7">$a</span></p><p class="c5"><span class="c0">&nbsp; | </span><span class="c6">if</span><span class="c0">&nbsp;</span><span class="c2">$a</span><span class="c0">[</span><span class="c1">1</span><span class="c0">] == </span><span class="c3 c7">&quot;gh&aacute;tu&quot;</span></p><p class="c5"><span class="c0">&nbsp; &nbsp; </span><span class="c6">then</span><span class="c0">&nbsp;{</span><span class="c3">&quot;patronymic&quot;</span><span class="c0">: </span><span class="c2">$a</span><span class="c0">[</span><span class="c1">0</span><span class="c0">], </span><span class="c3">&quot;name&quot;</span><span class="c0">: </span><span class="c2">$a</span><span class="c0">[</span><span class="c1">2</span><span class="c0">], </span><span class="c3">&quot;surname&quot;</span><span class="c0">: </span><span class="c2">$a</span><span class="c0">[</span><span class="c1">3</span><span class="c0 c7">]? }</span></p><p class="c5"><span class="c0">&nbsp; &nbsp; </span><span class="c6">else</span><span class="c0">&nbsp;{</span><span class="c3">&quot;name&quot;</span><span class="c0">: </span><span class="c2">$a</span><span class="c0">[</span><span class="c1">0</span><span class="c0">], </span><span class="c3">&quot;surname&quot;</span><span class="c0">: </span><span class="c2">$a</span><span class="c0">[</span><span class="c1">1</span><span class="c0">]?} </span><span class="c6">end</span><span class="c0 c7">;</span></p><p class="c4"><span class="c0 c7"></span></p><p class="c5"><span class="c0">.words | map({</span><span class="c3">&quot;content&quot;</span><span class="c0">: .entry.form | gsub(</span><span class="c3">&quot;k&aacute;&#7735;dan&quot;</span><span class="c0">; </span><span class="c3">&quot;k&aacute;dan&quot;</span><span class="c0">) | split_name, </span><span class="c3">&quot;tags&quot;</span><span class="c0 c7">: .tags}) | .[]</span></p><p class="c8"><span class="c7 c12"></span></p>
+
+<p>を names.json に適用すれば</p>
+
+<pre><code class="language-json">
+{"content":{"patronymic":"bánim","name":"kádan","surname":"bhátnímaṣ"},"tags":[]}
+{"content":{"patronymic":"kádan","name":"woghitaim","surname":"bhátnímaṣ"},"tags":[]}
+{"content":{"patronymic":"záwaim","name":"rúkasam","surname":null},"tags":[]}
+{"content":{"patronymic":"ághim","name":"íditaim","surname":null},"tags":[]}
+{"content":{"patronymic":"dílitam","name":"náḷawaim","surname":null},"tags":[]}
+{"content":{"patronymic":"kádan","name":"aghauṭawaim","surname":null},"tags":[]}
+{"content":{"patronymic":"woghitam","name":"epam","surname":"bhátnímaṣ"},"tags":[]}
+{"content":{"name":"wátimilíju","surname":"ghitto"},"tags":["伐化理名","現世の民"]}
+{"content":{"name":"líyatápic","surname":"bhalí"},"tags":["伐化理名","現世の民"]}
+{"content":{"patronymic":"korúṣam","name":"cáwaṭaim","surname":"jok"},"tags":[]}
+{"content":{"patronymic":"eghin","name":"ṣádhosammá","surname":null},"tags":[]}
+{"content":{"patronymic":"korúṣam","name":"rohatam","surname":null},"tags":[]}
+{"content":{"name":"máwija","surname":"kúḷawenija"},"tags":["伐化理名","現世の民"]}
+{"content":{"patronymic":"ádhín","name":"bániwaim","surname":null},"tags":[]}
+{"content":{"patronymic":"ághim","name":"bánim","surname":null},"tags":[]}
+{"content":{"patronymic":"zíṣom","name":"korúṣam","surname":null},"tags":[]}
+{"content":{"patronymic":"bániwaim","name":"kádan","surname":"lexeḷ"},"tags":[]}
+{"content":{"patronymic":"bhoman","name":"síbham","surname":"bhátnímaṣ"},"tags":[]}
+</code></pre>
+
+<p>となる。</p>
+
+<h3>219-2. 姓</h3>
+
+<p>空文字列が 9 個、bhátnímaṣ が 4 個、jok が 1 個、lexeḷ が 1 個。</p>
+
+<p>ん～、現段階では何らかの仮説を立てることができる状況にはないと判断。モデルとかなんも考えず、いい感じにそれっぽいのを組んでいきましょう。</p>
 
 <hr>
 <h3 class="do_not_create_header">to do:</h3>

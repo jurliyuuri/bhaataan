@@ -1,4 +1,4 @@
-- [ ] 姓の頻度
+- [x] 姓の頻度
 - [x] 説明文書の移植
 - [x] zíṣom ghátu korúṣam と bániwaim ghátu kádan lexeḷ の収容
 - [x] zíṣom を辞書に追加
