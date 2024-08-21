@@ -16876,6 +16876,38 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 766,
+      "form" : "ghán"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "ralde" ]
+    } ],
+    "tags" : [ "主属同形tsans io <-ele>" ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "牌kan1, 牌kok1, 伐gháni, 藍kani"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 767,
+      "form" : "ghámoghúḷ"
+    },
+    "translations" : [ {
+      "title" : "sytenen ftona",
+      "forms" : [ "es ralde" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "牌kok1, 皇kanamoga"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -16918,6 +16918,38 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 766,
+      "form" : "ghán"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "red" ]
+    } ],
+    "tags" : [ "NomGen: Zero, Acc: -ele" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌kan1, 牌kok1, 伐gháni, 藍kani"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 767,
+      "form" : "ghámoghúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to be red" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌kok1, 皇kanamoga"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
