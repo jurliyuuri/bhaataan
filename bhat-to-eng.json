@@ -16950,6 +16950,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 768,
+      "form" : "ghíma"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "flute whose shape is a tube" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍keme"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

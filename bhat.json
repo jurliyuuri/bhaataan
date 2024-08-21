@@ -16947,6 +16947,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 768,
+      "form" : "ghíma"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "筒状の笛" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍keme"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

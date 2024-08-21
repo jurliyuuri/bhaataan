@@ -16908,6 +16908,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 768,
+      "form" : "ghíma"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "fikexeriu l'es fiurkantyl" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍keme"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
