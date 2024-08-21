@@ -6046,7 +6046,7 @@
     },
     "translations" : [ {
       "title" : "ftlexest fendej",
-      "forms" : [ "友", "友達", "友人" ]
+      "forms" : [ "mena" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -16860,6 +16860,22 @@
         "form" : "-m"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 765,
+      "form" : "ohighat"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "mena'd selun" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "伐ohi + 伐ghátu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

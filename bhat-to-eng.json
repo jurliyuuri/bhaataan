@@ -16902,6 +16902,22 @@
         "form" : "-m"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 765,
+      "form" : "ohighat"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "friend's child" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "伐ohi + 伐ghátu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

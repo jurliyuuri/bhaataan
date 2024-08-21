@@ -16899,6 +16899,22 @@
         "form" : "-m"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 765,
+      "form" : "ohighat"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "友人の子供" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐ohi + 伐ghátu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
