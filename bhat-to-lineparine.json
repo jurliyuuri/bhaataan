@@ -16924,6 +16924,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 769,
+      "form" : "ṣom"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "(属格で修飾し)～の手柄・功績" ]
+    } ],
+    "tags" : [ "形式名詞" ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "牌xom1, 藍shomu, 皇com-u"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

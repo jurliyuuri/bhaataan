@@ -16963,6 +16963,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 769,
+      "form" : "ṣom"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "(属格で修飾し)～の手柄・功績" ]
+    } ],
+    "tags" : [ "形式名詞" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌xom1, 藍shomu, 皇com-u"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

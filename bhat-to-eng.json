@@ -16966,6 +16966,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 769,
+      "form" : "ṣom"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "feat of ... (following a genitive)" ]
+    } ],
+    "tags" : [ "dependent noun" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌xom1, 藍shomu, 皇com-u"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
