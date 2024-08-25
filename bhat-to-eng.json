@@ -16982,6 +16982,28 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 770,
+      "form" : "coṇu"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "chamotte", "grog" ]
+    }, {
+      "title" : "vowel-stem noun",
+      "forms" : [ "past experience", "past mistake" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍cunyu"
+    }, {
+      "title" : "culture",
+      "text" : "It is a metaphor for \"learning from one's past experiences/mistakes\", since crushing the pottery shard and mixing it into clay helps prevent cracks."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

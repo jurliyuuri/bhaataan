@@ -16940,6 +16940,28 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 770,
+      "form" : "coṇu"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "シャモット（焼いた粘土の粉）" ]
+    }, {
+      "title" : "ftlexest fendej",
+      "forms" : [ "過去の経験", "過去の過ち" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍cunyu"
+    }, {
+      "title" : "meu",
+      "text" : "陶片を砕いて粘土に混ぜると焼成時の亀裂などを防ぎやすくなることから、「過去の経験（特に、失敗）から学ぶ」ことのメタファー。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

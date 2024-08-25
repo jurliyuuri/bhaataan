@@ -16979,6 +16979,28 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 770,
+      "form" : "coṇu"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "シャモット（焼いた粘土の粉）" ]
+    }, {
+      "title" : "母音幹名詞",
+      "forms" : [ "過去の経験", "過去の過ち" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍cunyu"
+    }, {
+      "title" : "文化",
+      "text" : "陶片を砕いて粘土に混ぜると焼成時の亀裂などを防ぎやすくなることから、「過去の経験（特に、失敗）から学ぶ」ことのメタファー。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
