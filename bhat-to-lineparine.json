@@ -16978,6 +16978,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 772,
+      "form" : "dhák"
+    },
+    "translations" : [ {
+      "title" : "ftonaol",
+      "forms" : [ "素早く", "いち早く" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍t'ak'ei"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

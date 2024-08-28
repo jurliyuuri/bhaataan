@@ -17020,6 +17020,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 772,
+      "form" : "dhák"
+    },
+    "translations" : [ {
+      "title" : "adverb",
+      "forms" : [ "quickly", "swiftly", "promptly" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍t'ak'ei"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -17017,6 +17017,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 772,
+      "form" : "dhák"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "素早く", "いち早く" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍t'ak'ei"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
