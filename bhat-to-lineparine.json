@@ -16962,6 +16962,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 771,
+      "form" : "horanáhúḷ"
+    },
+    "translations" : [ {
+      "title" : "jonusten ftona",
+      "forms" : [ "〜(対格)を〜(ghi)に書き加える", "〜(対格)を〜(ghi)に書き足す" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "liusel",
+      "text" : "náhúḷ は瞬間動詞だが、horanáhúḷ は、執筆という行為がある程度の時間的スパンを持った一連の動作であることから、動作動詞として振舞う。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

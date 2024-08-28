@@ -17004,6 +17004,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 771,
+      "form" : "horanáhúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to write and add [accusative] to [ghi]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "Even though náhúḷ is an instantaneous verb, horanáhúḷ behaves as a dynamic verb because the act of writing is a series of actions requiring some time span."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
