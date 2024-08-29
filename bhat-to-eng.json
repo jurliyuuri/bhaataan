@@ -17036,6 +17036,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 773,
+      "form" : "úpadácúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to immediately follow [accusative] (in sequence or series)", "to be located immediately after [accusative]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍hubwa + 藍tacoa"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

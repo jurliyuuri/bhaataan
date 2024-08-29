@@ -17033,6 +17033,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 773,
+      "form" : "úpadácúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "〜(対格)の直後に後続している", "〜(対格)のすぐ後ろにいる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍hubwa + 藍tacoa"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
