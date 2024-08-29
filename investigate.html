@@ -6822,6 +6822,86 @@ A. どうせ名前から性別が全く導出できない言語圏あるでし�
 
 <p>ん～、めんどいし、どうせある程度までは手動で足さなきゃいけないのは目に見えているから、今のところは自動化しないでおくか。</p>
 
+<h2>220. 名詞と動詞の交替、そして名詞 scansion の自動化</h2>
+
+<p>ここらで、名詞と動詞の交替について今一度まとめ直しておくか。</p>
+
+<h3>220-0. 不変タイプ</h3>
+
+<table class="qq" border="1" style="font-family: Arial">
+	<thead style="font-weight: bold;">
+		<tr><td>動詞</td><td>名詞</td></tr>
+	</thead>
+	<tbody>
+		<tr><td>rásit-</td><td>rásit</td></tr>
+		<tr><td>dhokit-</td><td>dhokit</td></tr>
+		<tr><td>kád-</td><td>kád</td></tr>
+		<tr><td>non-</td><td>non</td></tr>
+		<tr><td>rod-</td><td>rod</td></tr>
+		<tr><td>su-</td><td>su</td></tr>
+		<tr><td>úro-</td><td>úro</td></tr>
+		<tr><td>ṣom-</td><td>ṣom</td></tr>
+	</tbody></table>
+
+<h3>220-1. 末尾微変タイプ</h3>
+
+<table class="qq" border="1" style="font-family: Arial">
+	<thead style="font-weight: bold;">
+		<tr><td>動詞</td><td>名詞</td></tr>
+	</thead>
+	<tbody>
+		<tr><td>bhár-</td><td>bhára, bháro</td></tr>
+		<tr><td>bhát-</td><td>bhát</td></tr>
+		<tr><td>bházah-</td><td>bházau</td></tr>
+		<tr><td>codhá-</td><td>codhi</td></tr>
+		<tr><td>ghán-</td><td>gháni</td></tr>
+		<tr><td>kúcuj-</td><td>kúcú</td></tr>
+		<tr><td>legh-</td><td>legha</td></tr>
+		<tr><td>lásij-</td><td>lási</td></tr>
+		<tr><td>ṣíyá-</td><td>ṣíya</td></tr>
+	</tbody>
+	
+</table>
+
+<h3>220-2. 量的交替</h3>
+
+<table class="qq" border="1" style="font-family: Arial">
+	<thead style="font-weight: bold;">
+		<tr><td>動詞</td><td>名詞</td></tr>
+	</thead>
+	<tbody>
+		<tr><td>suḷ-</td><td>súḷa</td></tr>
+		<tr><td>rabháṭ-</td><td>rábhaṭ</td></tr>
+		<tr><td>ghibháṭ-（立案中）</td><td>líbhat（立案中）</td></tr>
+		<tr><td>nudhor-</td><td>núdha</td></tr>
+		<tr><td>bácuj-</td><td>bacú</td></tr>
+	</tbody>
+</table>
+
+<p><a href="coin3.html#shard">coin3 の 141-3. rábhaṭ「破片、粒」</a>にて、「CaCVVC という語形の名詞がかなり嫌われていそうである」ということが記述されている。</p>
+
+<p>短音節で始まる名詞を調べてみると、(C)V|CVVC は adheṣ, catíg, azúg の 3 種のみが知られている一方で、(C)VV|CVC は dhárad, nímaṣ, woghit, bákaz, áṭam, rásit, bánim, kádan, rízan, epam, náhaz, bátat, ághim, cajxit, síbham, dhokit, toyat, dhímat, ághat, eghin, rábhaṭ と 21 個も知られている。なるほどなぁ。</p>
+
+<p>ところで、こういうのを自動で調べるためのスクリプトを書いて、<a href="scansion/noun_scansion.html">scansion/noun_scansion.html</a>を吐くようにした。これで分析がラクになる。</p>
+
+<h3>220-3. 質的交替</h3>
+
+<table class="qq" border="1" style="font-family: Arial">
+	<thead style="font-weight: bold;">
+		<tr><td>動詞</td><td>名詞</td></tr>
+	</thead>
+	<tbody>
+		<tr><td>hor-</td><td>úro</td></tr>
+		<tr><td>heyá-, rij-</td><td>híja</td></tr>
+		<tr><td>núʔa-</td><td>nuʔʔa</td></tr>
+	</tbody>
+	
+</table>
+
+<h3>220-4. 結論</h3>
+
+<p>よくわかりませんでした！　いかがでしたか？</p>
+
 <hr>
 <h3 class="do_not_create_header">to do:</h3>
 「これ」「それ」の使い分け、<br>
