@@ -17129,6 +17129,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 779,
+      "form" : "kuwá"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "(セットカイクの)筆駒" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌kua2"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

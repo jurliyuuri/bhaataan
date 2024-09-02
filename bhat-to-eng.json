@@ -17132,6 +17132,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 779,
+      "form" : "kuwá"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "officer (a piece in the game of Cetkaik)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌kua2"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
