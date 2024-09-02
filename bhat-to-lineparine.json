@@ -17058,7 +17058,20 @@
     "contents" : [  ],
     "variations" : [ ],
     "relations" : [ ]
-  } ],
+  }, {
+    "entry" : {
+      "id" : 777,
+      "form" : "núdhaháta"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "(特に布製の)ゲームボード" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }  ],
   "zpdic" : {
     "alphabetOrder" : "",
     "wordOrderType" : "UNICODE",

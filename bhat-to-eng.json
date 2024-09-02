@@ -17100,6 +17100,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 777,
+      "form" : "núdhaháta"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "game board (especially those made of cloth)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

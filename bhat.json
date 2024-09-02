@@ -17094,7 +17094,20 @@
       "forms" : [ "政府", "中央政府" ]
     } ],
     "tags" : [ ],
-    "contents" : [  ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 777,
+      "form" : "núdhaháta"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "(特に布製の)ゲームボード" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
