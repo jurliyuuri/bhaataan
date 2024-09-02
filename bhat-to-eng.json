@@ -17052,6 +17052,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 774,
+      "form" : "tcuwo"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "board game pieces" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌zuo1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -17010,6 +17010,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 774,
+      "form" : "tcuwo"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "(ボードゲームの)駒" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "牌zuo1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
