@@ -17084,6 +17084,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 776,
+      "form" : "ṣibhaijoṇu"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "政府", "中央政府" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [  ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

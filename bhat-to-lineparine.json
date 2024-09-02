@@ -17032,10 +17032,10 @@
       "form" : "ṭaxot"
     },
     "translations" : [ {
-      "title" : "子音幹名詞",
+      "title" : "ftlexest pervoj",
       "forms" : [ "(セットカイクの)シーズン終了" ]
     }, {
-      "title" : "子音幹名詞",
+      "title" : "ftlexest pervoj",
       "forms" : [ "(ニーンセットカイクの遊戯名)タショッ" ]
     } ],
     "tags" : [ ],
@@ -17043,6 +17043,19 @@
       "title" : "同根語",
       "text" : "牌ta xot1"
     } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 776,
+      "form" : "ṣibhaijoṇu"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "政府", "中央政府" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [  ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
