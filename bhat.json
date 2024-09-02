@@ -17145,6 +17145,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 780,
+      "form" : "elame"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "軍人", "兵士" ]
+    }, {
+      "title" : "母音幹名詞",
+      "forms" : [ "階級", "身分" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "「軍人・兵士」: 理elmer\n「階級・身分」: 理elme"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

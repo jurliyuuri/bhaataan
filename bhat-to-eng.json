@@ -17148,6 +17148,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 780,
+      "form" : "elame"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "soldier", "military personnel" ]
+    }, {
+      "title" : "vowel-stem noun",
+      "forms" : [ "social class", "social status", "social position" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "\"soldier\", \"military personnel\": 理elmer\n\"social status\": 理elme"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

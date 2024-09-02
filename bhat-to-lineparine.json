@@ -17103,6 +17103,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 780,
+      "form" : "elame"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "elmer" ]
+    }, {
+      "title" : "ftlexest fendej",
+      "forms" : [ "elme" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "\"elmer\": 理elmer\n\"elme\": 理elme"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
