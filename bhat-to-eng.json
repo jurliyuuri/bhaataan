@@ -17068,6 +17068,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 775,
+      "form" : "ṭaxot"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "end of Season (in Cetkaik)" ]
+    }, {
+      "title" : "consonant-stem noun",
+      "forms" : [ "Tashot (name of a game played with the Nincetkaik cards)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌ta xot1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
