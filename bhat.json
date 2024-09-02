@@ -17110,6 +17110,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 778,
+      "form" : "xíju"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "投げ棒" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌xy1,理ciurl"
+    }, {
+      "title" : "文化",
+      "text" : "5本の竹の棒であり、投げて色が暗い面の個数を数えることにより結果を得る。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

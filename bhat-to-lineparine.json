@@ -17055,7 +17055,7 @@
       "forms" : [ "政府", "中央政府" ]
     } ],
     "tags" : [ ],
-    "contents" : [  ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -17071,7 +17071,23 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
-  }  ],
+  }, {
+    "entry" : {
+      "id" : 778,
+      "form" : "xíju"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "ciurl" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "牌xy1,理ciurl"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ],
   "zpdic" : {
     "alphabetOrder" : "",
     "wordOrderType" : "UNICODE",

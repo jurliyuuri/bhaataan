@@ -17113,6 +17113,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 778,
+      "form" : "xíju"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "dice-sticks" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌xy1,理ciurl"
+    }, {
+      "title" : "culture",
+      "text" : "Dick-sticks are five bamboo sticks, where the result is determined by counting the number of dark-colored sides after throwing."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
