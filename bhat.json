@@ -8188,6 +8188,12 @@
         "id" : 121,
         "form" : "nínaccú"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 782,
+        "form" : "niṇṇop"
+      }
     } ]
   }, {
     "entry" : {
@@ -17179,7 +17185,38 @@
       "text" : "藍nyoupi"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 782,
+        "form" : "niṇṇop"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 782,
+      "form" : "niṇṇop"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "製紙職人" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 331,
+        "form" : "nín"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 781,
+        "form" : "-ṇop"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

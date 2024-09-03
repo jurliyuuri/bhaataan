@@ -8182,6 +8182,12 @@
         "id" : 121,
         "form" : "nínaccú"
       }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 782,
+        "form" : "niṇṇop"
+      }
     } ]
   }, {
     "entry" : {
@@ -17137,7 +17143,38 @@
       "text" : "藍nyoupi"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 782,
+        "form" : "niṇṇop"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 782,
+      "form" : "niṇṇop"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "vintluerter mels laoziavo tydiv" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 331,
+        "form" : "nín"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 781,
+        "form" : "-ṇop"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

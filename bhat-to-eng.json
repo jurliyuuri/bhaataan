@@ -8182,6 +8182,12 @@
         "id" : 121,
         "form" : "nínaccú"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 782,
+        "form" : "niṇṇop"
+      }
     } ]
   }, {
     "entry" : {
@@ -17182,7 +17188,38 @@
       "text" : "藍nyoupi"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 782,
+        "form" : "niṇṇop"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 782,
+      "form" : "niṇṇop"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "papermaking craftsman" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 331,
+        "form" : "nín"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 781,
+        "form" : "-ṇop"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
