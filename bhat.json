@@ -17164,6 +17164,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 781,
+      "form" : "-ṇop"
+    },
+    "translations" : [ {
+      "title" : "左接被覆形",
+      "forms" : [ "「〜に明るい人」などの意味を表す左接被覆形" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍nyoupi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

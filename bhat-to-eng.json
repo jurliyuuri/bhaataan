@@ -17167,6 +17167,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 781,
+      "form" : "-ṇop"
+    },
+    "translations" : [ {
+      "title" : "left-connecting form",
+      "forms" : [ "A bound morpheme used to denote \"someone who is well-versed or experienced\"" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍nyoupi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

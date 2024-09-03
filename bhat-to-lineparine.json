@@ -17122,6 +17122,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 781,
+      "form" : "-ṇop"
+    },
+    "translations" : [ {
+      "title" : "左接被覆形",
+      "forms" : [ "「〜に明るい人」などの意味を表す左接被覆形" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍nyoupi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
