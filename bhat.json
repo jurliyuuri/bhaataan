@@ -17254,6 +17254,22 @@
         "form" : "bágha"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 784,
+      "form" : "líbhaṭ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "後悔" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理lypit"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -17257,6 +17257,22 @@
         "form" : "bágha"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 784,
+      "form" : "líbhaṭ"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "regret" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理lypit"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -17212,6 +17212,22 @@
         "form" : "bágha"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 784,
+      "form" : "líbhaṭ"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "lypito" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "理lypit"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
