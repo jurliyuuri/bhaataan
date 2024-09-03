@@ -6091,6 +6091,12 @@
         "id" : 687,
         "form" : "bághaḍi bhán ṣíya"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 783,
+        "form" : "xíjubágha"
+      }
     } ]
   }, {
     "entry" : {
@@ -17137,7 +17143,13 @@
       "text" : "Dick-sticks are five bamboo sticks, where the result is determined by counting the number of dark-colored sides after throwing."
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 783,
+        "form" : "xíjubágha"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 779,
@@ -17218,6 +17230,31 @@
       "entry" : {
         "id" : 781,
         "form" : "-ṇop"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 783,
+      "form" : "xíjubágha"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "number obtained by throwing the dice-sticks" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 778,
+        "form" : "xíju"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 250,
+        "form" : "bágha"
       }
     } ]
   } ],

@@ -6094,6 +6094,12 @@
         "id" : 687,
         "form" : "bághaḍi bhán ṣíya"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 783,
+        "form" : "xíjubágha"
+      }
     } ]
   }, {
     "entry" : {
@@ -17134,7 +17140,13 @@
       "text" : "5本の竹の棒であり、投げて色が暗い面の個数を数えることにより結果を得る。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 783,
+        "form" : "xíjubágha"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 779,
@@ -17215,6 +17227,31 @@
       "entry" : {
         "id" : 781,
         "form" : "-ṇop"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 783,
+      "form" : "xíjubágha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "投げ棒を投げて出た数" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 778,
+        "form" : "xíju"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 250,
+        "form" : "bágha"
       }
     } ]
   } ],

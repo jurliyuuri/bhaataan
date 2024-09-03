@@ -6091,6 +6091,12 @@
         "id" : 687,
         "form" : "bághaḍi bhán ṣíya"
       }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 783,
+        "form" : "xíjubágha"
+      }
     } ]
   }, {
     "entry" : {
@@ -17092,7 +17098,13 @@
       "text" : "牌xy1,理ciurl"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 783,
+        "form" : "xíjubágha"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 779,
@@ -17173,6 +17185,31 @@
       "entry" : {
         "id" : 781,
         "form" : "-ṇop"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 783,
+      "form" : "xíjubágha"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "dieniep zu ciurles" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 778,
+        "form" : "xíju"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 250,
+        "form" : "bágha"
       }
     } ]
   } ],
