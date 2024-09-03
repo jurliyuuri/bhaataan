@@ -17270,6 +17270,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 785,
+      "form" : "ghibháṭúḷ"
+    },
+    "translations" : [ {
+      "title" : "瞬間動詞",
+      "forms" : [ "後悔する" ]
+    }, {
+      "title" : "状態動詞",
+      "forms" : [ "後悔している" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理lypit"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
