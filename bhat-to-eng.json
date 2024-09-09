@@ -17329,6 +17329,19 @@
         "form" : "-aim"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 787,
+      "form" : "ábha"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "quarrel", "discord" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

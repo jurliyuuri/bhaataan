@@ -17326,6 +17326,19 @@
         "form" : "-aim"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 787,
+      "form" : "ábha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "いさかい", "いがみ合い", "不和" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

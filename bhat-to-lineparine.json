@@ -17284,6 +17284,19 @@
         "form" : "-aim"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 787,
+      "form" : "ábha"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "いさかい", "いがみ合い", "不和" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
