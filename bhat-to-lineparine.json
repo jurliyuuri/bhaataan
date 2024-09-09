@@ -4029,6 +4029,12 @@
         "id" : 349,
         "form" : "woghitaim"
       }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 786,
+        "form" : "koṭaim"
+      }
     } ]
   }, {
     "entry" : {
@@ -5105,6 +5111,12 @@
       "entry" : {
         "id" : 263,
         "form" : "koṭáná ṣoya"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 786,
+        "form" : "koṭaim"
       }
     } ]
   }, {
@@ -17247,6 +17259,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 786,
+      "form" : "koṭaim"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "(phertarsen ferlk)" ]
+    } ],
+    "tags" : [ "人名", "主属同形tsans io <-ele>" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 204,
+        "form" : "koṭ"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 158,
+        "form" : "-aim"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

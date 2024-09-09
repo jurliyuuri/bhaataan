@@ -4029,6 +4029,12 @@
         "id" : 349,
         "form" : "woghitaim"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 786,
+        "form" : "koṭaim"
+      }
     } ]
   }, {
     "entry" : {
@@ -5105,6 +5111,12 @@
       "entry" : {
         "id" : 263,
         "form" : "koṭáná ṣoya"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 786,
+        "form" : "koṭaim"
       }
     } ]
   }, {
@@ -17292,6 +17304,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 786,
+      "form" : "koṭaim"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "(name of a person)" ]
+    } ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 204,
+        "form" : "koṭ"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 158,
+        "form" : "-aim"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

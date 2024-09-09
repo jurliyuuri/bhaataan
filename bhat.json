@@ -4029,6 +4029,12 @@
         "id" : 349,
         "form" : "woghitaim"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 786,
+        "form" : "koṭaim"
+      }
     } ]
   }, {
     "entry" : {
@@ -5105,6 +5111,12 @@
       "entry" : {
         "id" : 263,
         "form" : "koṭáná ṣoya"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 786,
+        "form" : "koṭaim"
       }
     } ]
   }, {
@@ -17289,6 +17301,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 786,
+      "form" : "koṭaim"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 204,
+        "form" : "koṭ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 158,
+        "form" : "-aim"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

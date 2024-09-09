@@ -323,6 +323,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 19,
+      "form" : "ághim ghátu koṭaim"
+    },
+    "translations" : [ {
+      "title" : "仮名転写",
+      "forms" : [ "アーギム・ガートゥ・コータイム" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "業績・概略",
+      "text" : "「二百題で学ぶバート語基礎」著者である荒洲宗保谷が好むバート伝統芸能の名人"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
