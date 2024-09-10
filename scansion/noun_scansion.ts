@@ -26,7 +26,7 @@ const nouns_stripped = nouns.map(noun => noun.entry.form);
 
 const single_nouns = nouns_stripped.filter(noun => !(noun.includes(" ") || noun.includes("_")));
 const scansions: [string, string][] = single_nouns.map(w => [
-    tokenize_into_phonemes(w).map(to_value).join(",").replaceAll(/C,V/g, "CV").replaceAll(/V,C(,|$)/g, "VC$1").replace(/^C/, "(C)").replace(/^V/, "(C)V").replaceAll(/,/g, "|")
+    tokenize_into_phonemes(w).map(to_value).join(",").replaceAll(/C,V/g, "CV").replaceAll(/V,C(,|$)/g, "VC$1").replace(/^CV/, "(C)V").replace(/^V/, "(C)V").replaceAll(/,/g, "|")
     , w]);
 
 const nouns_grouped_by_scansion =
