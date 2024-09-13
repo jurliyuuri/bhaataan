@@ -29,7 +29,7 @@ const scansions: [string, string][] = single_nouns.map(w => [
     tokenize_into_phonemes(w).map(to_value).join(",").replaceAll(/C,V/g, "CV").replaceAll(/V,C(,|$)/g, "VC$1").replace(/^CV/, "(C)V").replace(/^V/, "(C)V").replaceAll(/,/g, "|")
     , w]);
 
-const nouns_grouped_by_scansion =
+const nouns_grouped_by_scansion: [string, string[]][] =
     [...Map.groupBy(scansions, ([scansion, _]) => scansion)].map(([scansion, words]) => [scansion, words.map(([_, word]) => word)])
     ;
 
