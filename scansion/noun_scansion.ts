@@ -19,59 +19,19 @@ export type Translation = { title: string, forms: string[] };
 export type Content = { title: string, text: string };
 
 import dictionary from "../bhat.json" with { type: "json" };
-import { Phoneme, tokenize_into_phonetic_phonemes } from "./tokenize";
+import { to_scansion } from "./to_scansion.ts";
 const dict: Dict = dictionary as Dict;
 const nouns = dict.words.filter(word => word.translations.some(translation => translation.title === "母音幹名詞" || translation.title === "子音幹名詞"));
 
 const nouns_stripped = nouns.map(noun => noun.entry.form);
 
 const single_nouns = nouns_stripped.filter(noun => !(noun.includes(" ") || noun.includes("_")));
-const scansions: [string, string][] = single_nouns.map(w => {
-    const phonemes = tokenize_into_phonetic_phonemes(w);
-
-    function to_value(phoneme: Phoneme): string {
-        if (["ai", "au", "aj", "ij", "á", "í", "ú", "e", "o"].includes(phoneme)) {
-            return "VV";
-        }
-        if (["a", "i", "u", "ŏ"].includes(phoneme)) {
-            return "V";
-        }
-        return "C";
-    }
-
-    const values: string[] = [];
-
-    // When two equal consonants are adjacent, the first one is transcribed as a Q and the second one as a C.
-    for (let i = 0; i < phonemes.length; i++) {
-        const current_phoneme = phonemes[i];
-        if (to_value(current_phoneme) !== "C") {
-            values.push(to_value(current_phoneme));
-            continue;
-        }
-
-        if (i === phonemes.length - 1) {
-            values.push(to_value(current_phoneme));
-            continue;
-        }
-
-        const next_phoneme = phonemes[i + 1];
-        if (current_phoneme === next_phoneme) {
-            values.push("Q");
-            continue;
-        }
-
-        values.push(to_value(current_phoneme));
-    }
-
-    const scansion = values.join(",").replaceAll(/C,V/g, "CV").replaceAll(/V,C(,|$)/g, "VC$1").replaceAll(/V,Q(,|$)/g, "VQ$1").replace(/^CV/, "(C)V").replace(/^V/, "(C)V").replaceAll(/,/g, "|");
-
-    return [scansion, w];
-});
-
+const scansions: [string, string][] = single_nouns.map(w => [to_scansion(w), w]);
 const nouns_grouped_by_scansion: [string, string[]][] =
     [...Map.groupBy(scansions, ([scansion, _]) => scansion)].map(([scansion, words]) => [scansion, words.map(([_, word]) => word)])
     ;
 
+// order by frequency
 nouns_grouped_by_scansion.sort((a, b) => - a[1].length + b[1].length);
 
 Deno.writeTextFileSync("noun_scansion.html", `

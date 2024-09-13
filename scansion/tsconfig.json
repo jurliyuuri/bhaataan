@@ -1,9 +1,15 @@
 {
     "compilerOptions": {
         "resolveJsonModule": true,
-        "lib": ["esnext", "dom", "deno"],
+        "lib": [
+            "esnext",
+            "dom",
+            "deno"
+        ],
         "target": "ESNext",
         "moduleResolution": "NodeNext",
         "module": "NodeNext",
+        "noEmit": true,
+        "allowImportingTsExtensions": true
     }
 }
