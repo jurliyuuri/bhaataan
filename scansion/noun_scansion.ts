@@ -19,7 +19,7 @@ export type Translation = { title: string, forms: string[] };
 export type Content = { title: string, text: string };
 
 import dictionary from "../bhat.json" with { type: "json" };
-import { tokenize_into_phonemes } from "./tokenize";
+import { Phoneme, tokenize_into_phonetic_phonemes } from "./tokenize";
 const dict: Dict = dictionary as Dict;
 const nouns = dict.words.filter(word => word.translations.some(translation => translation.title === "母音幹名詞" || translation.title === "子音幹名詞"));
 
@@ -27,10 +27,9 @@ const nouns_stripped = nouns.map(noun => noun.entry.form);
 
 const single_nouns = nouns_stripped.filter(noun => !(noun.includes(" ") || noun.includes("_")));
 const scansions: [string, string][] = single_nouns.map(w => {
-    const phonemes = tokenize_into_phonemes(w);
+    const phonemes = tokenize_into_phonetic_phonemes(w);
 
-
-    function to_value(phoneme: string): string {
+    function to_value(phoneme: Phoneme): string {
         if (["ai", "au", "aj", "ij", "á", "í", "ú", "e", "o"].includes(phoneme)) {
             return "VV";
         }
