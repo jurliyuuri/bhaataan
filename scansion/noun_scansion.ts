@@ -19,6 +19,7 @@ export type Translation = { title: string, forms: string[] };
 export type Content = { title: string, text: string };
 
 import dictionary from "../bhat.json" with { type: "json" };
+import { tokenize_into_phonemes } from "./tokenize";
 const dict: Dict = dictionary as Dict;
 const nouns = dict.words.filter(word => word.translations.some(translation => translation.title === "母音幹名詞" || translation.title === "子音幹名詞"));
 
@@ -93,56 +94,3 @@ ${nouns_grouped_by_scansion.map(
 `);
 
 console.log(nouns_grouped_by_scansion)
-
-function tokenize_into_phonemes(input: string): string[] {
-    const tokens = raw_tokenize(input);
-
-    const result: string[] = [];
-
-    // replace ["a", "j"] with ["aj"] when not followed by a vowel
-    // replace ["i", "j"] with ["ij"] when not followed by a vowel
-    for (let i = 0; i < tokens.length; i++) {
-        if ((tokens[i] === "a" || tokens[i] === "i") && tokens[i + 1] === "j") {
-            if (i + 2 === tokens.length || !["ai", "au", "á", "í", "ú", "e", "o", "a", "i", "u"].includes(tokens[i + 2])) {
-                result.push(tokens[i] + tokens[i + 1]);
-                i++;
-                continue;
-            }
-        }
-        result.push(tokens[i]);
-    }
-    return result;
-}
-
-function raw_tokenize(input: string): string[] {
-    if (input === "") {
-        return [];
-    }
-
-    if (input === "bhoman") {
-        return ["bh", "ŏ", "m", "a", "n"];
-    }
-
-    // searched from the first, so the order matters
-    const phonemes = [
-        "ai", "au", "á", "í", "ú", "e", "o", /* heavy vowels */
-        "a", "i", "u", /* light vowels */
-        "ph", "bh", "dh", "kh", "gh", "ṣl",
-        "p", "b", "m", "w", "n", "t", "d", "c", "s", "l", "r", "ṇ", "ṭ", "ḍ", "ṣ", "ḷ", "k", "h", "g", "x", "z", "j", "y"
-    ];
-
-    let remaining = input;
-    const result: string[] = [];
-
-    while (remaining !== "") {
-        const phoneme = phonemes.find(phoneme => remaining.startsWith(phoneme));
-        if (phoneme === undefined) {
-            throw new Error(`Cannot read a valid phoneme at the start of "${remaining}"\nFound while trying to tokenize "${input}"`);
-        }
-        result.push(phoneme);
-        remaining = remaining.slice(phoneme.length);
-    }
-
-    return result;
-}
-
