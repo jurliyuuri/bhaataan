@@ -44,6 +44,7 @@ tsc; node render_corpus.js
 * [バート語単語をソートする](sort.html)
 * [頻度表2022](freq2022.html)
 * [伐名提案器](name_freq2024_gen.html)
+* [scansion](./scansion/index.html)
 
 ## 旧ファイル（一部設定が古い）
 * [バート語 - 【人工言語】リパライン語](https://sites.google.com/site/3tvalineparine/%E5%80%89%E5%BA%AB/%E3%83%90%E3%83%BC%E3%83%88%E8%AA%9E)
