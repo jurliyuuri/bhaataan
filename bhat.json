@@ -17339,6 +17339,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 788,
+      "form" : "ekághi"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "nautuhomá e の先頭部分" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [  ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

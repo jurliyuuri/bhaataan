@@ -17342,6 +17342,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 788,
+      "form" : "ekághi"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "the left end of a śirorekhā (nautuhomá e)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [  ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
