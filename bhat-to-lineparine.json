@@ -17307,7 +17307,29 @@
       "forms" : [ "nautuhomá e の先頭部分" ]
     } ],
     "tags" : [ ],
-    "contents" : [  ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 789,
+      "form" : "wíclatí"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "本物", "実物" ]
+    }, {
+      "title" : "ftlexest fendej",
+      "forms" : [ "本質", "根幹" ]
+    }, {
+      "title" : "ftlexest fendej",
+      "forms" : [ "仕事に値する人間" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "理svizlatj からの借用"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   } ],

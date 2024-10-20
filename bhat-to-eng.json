@@ -17352,7 +17352,29 @@
       "forms" : [ "the left end of a śirorekhā (nautuhomá e)" ]
     } ],
     "tags" : [ ],
-    "contents" : [  ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 789,
+      "form" : "wíclatí"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "genuine thing", "real thing", "actual thing" ]
+    }, {
+      "title" : "vowel-stem noun",
+      "forms" : [ "essence", "true nature", "core" ]
+    }, {
+      "title" : "vowel-stem noun",
+      "forms" : [ "a person genuinely fit for a job" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理svizlatj"
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
