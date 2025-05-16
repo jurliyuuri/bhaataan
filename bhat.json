@@ -17390,6 +17390,54 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 791,
+      "form" : "lammí"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "〜(具格)の 3 分の 1" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍lumi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 792,
+      "form" : "ríkalammí"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "〜(具格)の 3 分の 2" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ríka + 藍lumi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 793,
+      "form" : "jodhit"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "〜(具格)の 4 分の 1" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理iup + 理itep"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

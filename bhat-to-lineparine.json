@@ -17348,7 +17348,55 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
-  }  ],
+  }, {
+    "entry" : {
+      "id" : 791,
+      "form" : "lammí"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "〜(具格)の 3 分の 1" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍lumi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 792,
+      "form" : "ríkalammí"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "〜(具格)の 3 分の 2" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "ríka + 藍lumi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 793,
+      "form" : "jodhit"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "〜(具格)の 4 分の 1" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "理iup + 理itep"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ],
   "zpdic" : {
     "alphabetOrder" : "",
     "wordOrderType" : "UNICODE",
