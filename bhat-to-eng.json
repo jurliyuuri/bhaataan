@@ -17461,12 +17461,28 @@
     },
     "translations" : [ {
       "title" : "dynamic verb",
-      "forms" : [ "to take revenge, to avenge, to retaliate" ]
+      "forms" : [ "to take revenge", "to avenge", "to retaliate" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "藍kaci,理kaci"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 796,
+      "form" : "úrokajúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to render [hína] black by [instrumental] (pollution etc.)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "úro + okajúḷ"
     } ],
     "variations" : [ ],
     "relations" : [ ]

@@ -17425,6 +17425,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 796,
+      "form" : "úrokajúḷ"
+    },
+    "translations" : [ {
+      "title" : "jonusten ftona",
+      "forms" : [ "〜(具格)(公害など)で〜(hína)を黒くする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "úro + okajúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
