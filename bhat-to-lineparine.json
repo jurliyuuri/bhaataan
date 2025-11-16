@@ -17409,6 +17409,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 795,
+      "form" : "kacúḷ"
+    },
+    "translations" : [ {
+      "title" : "jonusten ftona",
+      "forms" : [ "biu" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍kaci,理kaci"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
