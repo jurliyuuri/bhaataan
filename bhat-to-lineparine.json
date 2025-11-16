@@ -17441,6 +17441,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 797,
+      "form" : "bhauya"
+    },
+    "translations" : [ {
+      "title" : "kafnisfamsk",
+      "forms" : [ "～の間に" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "理falvit,伐-bhau"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
