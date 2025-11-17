@@ -17550,6 +17550,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 801,
+      "form" : "dínaum"
+    },
+    "translations" : [ {
+      "title" : "prenominal",
+      "forms" : [ "contracted genitive of \"dína\"" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "contraction of \"dínaom\""
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

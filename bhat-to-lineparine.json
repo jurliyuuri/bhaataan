@@ -17505,6 +17505,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 801,
+      "form" : "dínaum"
+    },
+    "translations" : [ {
+      "title" : "kraftan",
+      "forms" : [ "dína 属格縮約形" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "liusel",
+      "text" : "dínaomの縮約。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
