@@ -17563,6 +17563,44 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 802,
+      "form" : "-mán"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "迷惑擬属格", "～しやがるような" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 803,
+        "form" : "-amán"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 803,
+      "form" : "-amán"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "迷惑擬属格", "～しやがるような" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 802,
+        "form" : "-mán"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

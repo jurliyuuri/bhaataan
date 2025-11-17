@@ -17521,6 +17521,44 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 802,
+      "form" : "-mán"
+    },
+    "translations" : [ {
+      "title" : "pestrenoleu fua ftona",
+      "forms" : [ "迷惑擬属格", "～しやがるような" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "etol io",
+      "entry" : {
+        "id" : 803,
+        "form" : "-amán"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 803,
+      "form" : "-amán"
+    },
+    "translations" : [ {
+      "title" : "pestrenoleu fua ftona",
+      "forms" : [ "迷惑擬属格", "～しやがるような" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "etol io",
+      "entry" : {
+        "id" : 802,
+        "form" : "-mán"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

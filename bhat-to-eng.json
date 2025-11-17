@@ -17566,6 +17566,44 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 802,
+      "form" : "-mán"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "pseudo-genitive form of adversative" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 803,
+        "form" : "-amán"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 803,
+      "form" : "-amán"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "pseudo-genitive form of adversative" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 802,
+        "form" : "-mán"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
