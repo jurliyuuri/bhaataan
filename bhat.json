@@ -17479,7 +17479,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "úro + okajúḷ"
+      "text" : "伐úro + 伐okajúḷ"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -17511,7 +17511,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "bhápúḷ + rohúḷ"
+      "text" : "伐bhápúḷ + 伐rohúḷ"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -17527,7 +17527,23 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
-      "text" : "理feg + -án"
+      "text" : "理feg + 伐-án"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 800,
+      "form" : "esúka"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "中心人物", "（カードゲームの）親" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐e+伐ásúka"
     } ],
     "variations" : [ ],
     "relations" : [ ]

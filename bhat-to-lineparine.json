@@ -17437,7 +17437,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "daliu farteven",
-      "text" : "úro + okajúḷ"
+      "text" : "伐úro + 伐okajúḷ"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -17469,7 +17469,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "daliu farteven",
-      "text" : "bhápúḷ + rohúḷ"
+      "text" : "伐bhápúḷ + 伐rohúḷ"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -17485,7 +17485,23 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "daliu farteven",
-      "text" : "理feg + -án"
+      "text" : "理feg + 伐-án"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 800,
+      "form" : "esúka"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "中心人物", "（カードゲームの）親" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "伐e+伐ásúka"
     } ],
     "variations" : [ ],
     "relations" : [ ]
