@@ -17473,6 +17473,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 799,
+      "form" : "phegán"
+    },
+    "translations" : [ {
+      "title" : "kraftan",
+      "forms" : [ "顔立ちのよい", "顔が魅力的な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "理feg + -án"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -17518,6 +17518,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 799,
+      "form" : "phegán"
+    },
+    "translations" : [ {
+      "title" : "prenominal",
+      "forms" : [ "handsome in terms of one's face", "good-looking in terms of one's face", "attractive in terms of one's face" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理feg + -án"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
