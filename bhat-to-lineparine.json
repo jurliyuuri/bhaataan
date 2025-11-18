@@ -17632,6 +17632,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 808,
+      "form" : "jaupha"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "留め針" ]
+    }, {
+      "title" : "ftlexest fendej",
+      "forms" : [ "付加することで連用節（連用修飾節）を作り上げる代物" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍jaupwei"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

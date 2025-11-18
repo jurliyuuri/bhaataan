@@ -17677,7 +17677,26 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
-  } ],
+  }, {
+    "entry" : {
+      "id" : 808,
+      "form" : "jaupha"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "pin", "pushpin" ]
+    }, {
+      "title" : "vowel-stem noun",
+      "forms" : [ "a word or an affix that creates an adverbial modifier clause when added" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍jaupwei"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } ],
   "zpdic" : {
     "alphabetOrder" : "",
     "wordOrderType" : "UNICODE",
