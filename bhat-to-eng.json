@@ -17636,6 +17636,28 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 806,
+      "form" : "phílex"
+    },
+    "translations" : [ {
+      "title" : "interjection",
+      "forms" : [ "Understood.", "I got it.", "OK." ]
+    }, {
+      "title" : "conjunction for sentences",
+      "forms" : [ "Come to think of it", "Speaking of which", "Now that you mention it" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理firlex"
+    }, {
+      "title" : "usage",
+      "text" : "As an interjection, this word is read with a sentence-final pitch pattern. As a conjunction, it is pronounced with a normal pitch pattern."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

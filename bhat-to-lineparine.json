@@ -17591,6 +17591,28 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 806,
+      "form" : "phílex"
+    },
+    "translations" : [ {
+      "title" : "krackrafi'a",
+      "forms" : [ "firlex" ]
+    }, {
+      "title" : "leijumen kraftan",
+      "forms" : [ "firlex" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "理firlex"
+    }, {
+      "title" : "liusel",
+      "text" : "間投詞としては文末のピッチパターンで読まれ、文接続詞としては文中のピッチパターンで読まれる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -17633,6 +17633,28 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 806,
+      "form" : "phílex"
+    },
+    "translations" : [ {
+      "title" : "間投詞",
+      "forms" : [ "了解した", "OK" ]
+    }, {
+      "title" : "文接続詞",
+      "forms" : [ "考えてもみれば", "言われてみれば" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理firlex"
+    }, {
+      "title" : "用法",
+      "text" : "間投詞としては文末のピッチパターンで読まれ、文接続詞としては文中のピッチパターンで読まれる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
