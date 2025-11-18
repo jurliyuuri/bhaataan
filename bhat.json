@@ -17617,6 +17617,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 805,
+      "form" : "hemman"
+    },
+    "translations" : [ {
+      "title" : "連体詞",
+      "forms" : [ "〜でありやがるような" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "xɛmman"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

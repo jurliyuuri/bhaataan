@@ -17575,6 +17575,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 805,
+      "form" : "hemman"
+    },
+    "translations" : [ {
+      "title" : "kraftan",
+      "forms" : [ "〜でありやがるような" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "xɛmman"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

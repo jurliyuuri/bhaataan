@@ -17620,6 +17620,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 805,
+      "form" : "hemman"
+    },
+    "translations" : [ {
+      "title" : "prenominal",
+      "forms" : [ "〜でありやがるような" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "pronunciation",
+      "text" : "xɛmman"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
