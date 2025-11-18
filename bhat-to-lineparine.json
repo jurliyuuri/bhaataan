@@ -17613,6 +17613,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 807,
+      "form" : "wápúḷ"
+    },
+    "translations" : [ {
+      "title" : "sytenen ftona",
+      "forms" : [ "～(主格)という油が酸化して悪臭を帯びている", "～(主格)という油が酸敗している" ]
+    }, {
+      "title" : "sytenen ftona",
+      "forms" : [ "～(主格)という単語や表現に「バートらしさ」が欠けている" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍fupoe"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

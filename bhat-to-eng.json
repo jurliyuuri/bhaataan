@@ -17658,6 +17658,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 807,
+      "form" : "wápúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "for [nominative] (oil) to be rancid" ]
+    }, {
+      "title" : "stative verb",
+      "forms" : [ "for [nominative] (word or expression) to lack \"bhát-ness\""]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍fupoe"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
