@@ -29,11 +29,12 @@ tsc; node render_corpus.js
 * [バート語の造語をする](http://jurliyuuri.com/bhaataan/coin.html) - バート語の単語の創作の様子を記したログ(完結)
 * [バート語の造語をするpart2](http://jurliyuuri.com/bhaataan/coin2.html) - バート語の単語の創作の様子を記したログpart2
 * [バート語の造語をするpart3](http://jurliyuuri.com/bhaataan/coin3.html) - バート語の単語の創作の様子を記したログpart3
+* [バート語の造語をするpart4](http://jurliyuuri.com/bhaataan/coin4-emergency.html) - バート語の単語の創作の様子を記したログpart4。最初は「特例緊急」と名乗っていたが、有名無実化した。
 
 ### その他
 * [バート語辞書](http://zpdic.ziphil.com/dictionary/24) - 辞書が引ける(外部サイト)
 * [bhátán dictionary](http://zpdic.ziphil.com/dictionary/52) - bhátán → English dictionary (external link)
-* [Githubリポジトリ](https://github.com/jurliyuuri/bhaataan) - このサイトの進捗や更新履歴などが確認できる
+* [GitHubリポジトリ](https://github.com/jurliyuuri/bhaataan) - このサイトの進捗や更新履歴などが確認できる
 * [バート文字フォント](https://haar-you.github.io/BhaataanFont/) - [@HaarLangLove様](https://twitter.com/HaarLangLove)によるバート文字のフォント(外部サイト)
 * [グォン・アルト藩国の地理](http://jurliyuuri.com/bhaataan/gwon-alt-geography.html) - バート人の心の故郷である地について
 
