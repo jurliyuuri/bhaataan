@@ -17559,6 +17559,22 @@
         "form" : "-mán"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 804,
+      "form" : "komán"
+    },
+    "translations" : [ {
+      "title" : "kraftan",
+      "forms" : [ "こんな", "こうでありやがるような"  ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "liusel",
+      "text" : "koが迷惑擬属格の形を取ったもの。直後に名詞を要求する。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

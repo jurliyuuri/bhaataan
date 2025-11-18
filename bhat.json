@@ -17601,6 +17601,22 @@
         "form" : "-mán"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 804,
+      "form" : "komán"
+    },
+    "translations" : [ {
+      "title" : "連体詞",
+      "forms" : [ "こんな", "こうでありやがるような" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "koが迷惑擬属格の形を取ったもの。直後に名詞を要求する。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

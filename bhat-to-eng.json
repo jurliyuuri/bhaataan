@@ -17604,6 +17604,22 @@
         "form" : "-mán"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 804,
+      "form" : "komán"
+    },
+    "translations" : [ {
+      "title" : "prenominal",
+      "forms" : [ "this (as in \"this book\"; adversative)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "From ko + (pseudo-genitive adversative suffix)-mán. Must be followed by a noun."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
