@@ -2545,7 +2545,7 @@
       "form" : "jo"
     },
     "translations" : [ {
-      "title" : "kaften kraftan",
+      "title" : "kaften kranti'a",
       "forms" : [ "o", "ol" ]
     } ],
     "tags" : [ ],
@@ -3356,7 +3356,7 @@
       "form" : "ṣiṇṇa"
     },
     "translations" : [ {
-      "title" : "leijumen kraftan",
+      "title" : "leijumen kranti'a",
       "forms" : [ "しかし" ]
     } ],
     "tags" : [ ],
@@ -4522,10 +4522,10 @@
       "form" : "ja"
     },
     "translations" : [ {
-      "title" : "leijumen kraftan",
+      "title" : "leijumen kranti'a",
       "forms" : [ "そして" ]
     }, {
-      "title" : "kaften kraftan",
+      "title" : "kaften kranti'a",
       "forms" : [ "〜と〜" ]
     } ],
     "tags" : [ ],
@@ -5255,7 +5255,7 @@
       "form" : "jarúṣi"
     },
     "translations" : [ {
-      "title" : "leijumen kraftan",
+      "title" : "leijumen kranti'a",
       "forms" : [ "そしてその後" ]
     } ],
     "tags" : [ ],
@@ -11481,7 +11481,7 @@
       "form" : "joya"
     },
     "translations" : [ {
-      "title" : "leijumen kraftan",
+      "title" : "leijumen kranti'a",
       "forms" : [ "もし〜(前文)なら〜(後文)" ]
     } ],
     "tags" : [ ],
@@ -13724,7 +13724,7 @@
       "form" : "páwa"
     },
     "translations" : [ {
-      "title" : "leijumen kraftan",
+      "title" : "leijumen kranti'a",
       "forms" : [ "しかし" ]
     } ],
     "tags" : [ "口語的" ],
@@ -13755,7 +13755,7 @@
       "form" : "pháwa"
     },
     "translations" : [ {
-      "title" : "leijumen kraftan",
+      "title" : "leijumen kranti'a",
       "forms" : [ "しかし" ]
     } ],
     "tags" : [ "口語的" ],
@@ -15119,7 +15119,7 @@
       "form" : "háṣin"
     },
     "translations" : [ {
-      "title" : "kaften kraftan",
+      "title" : "kaften kranti'a",
       "forms" : [ "～なき～", "～のない～" ]
     } ],
     "tags" : [ ],
@@ -17600,7 +17600,7 @@
       "title" : "krackrafi'a",
       "forms" : [ "firlex" ]
     }, {
-      "title" : "leijumen kraftan",
+      "title" : "leijumen kranti'a",
       "forms" : [ "firlex" ]
     } ],
     "tags" : [ ],

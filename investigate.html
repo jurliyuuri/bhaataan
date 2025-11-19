@@ -7114,8 +7114,31 @@ hsjoihs — 2025/06/22 18:15
 最初期の初期にあった「現代バート語の話者が三万人」という記述、「規範通りの言葉をスラスラと話せるのは三万人」の意味かもしれんと思い始めた
 </pre>
 
+<h2>226. 「名詞接続詞」「文接続詞」のリパライン語訳語を訂正</h2>
 
+<p>現状、grammar.html には「名詞接続詞」「文接続詞」のリパライン語訳語としてこのような記載がある。</p>
 
+<div class="box">
+連体詞(リパライン語: kraftan)<br>
+名詞接続詞(リパライン語: kaften kraft&#97;n - kk)<br>
+文接続詞(リパライン語: leijumen kraft&#97;n - lk)
+</div>
+
+<p>これはおかしい。「接続詞」はリパライン語で kraftan ではなく kranti'a であるはずだ。</p>
+
+<p>git blame すると、2020 年 3 月 8 日の<a href="https://github.com/jurliyuuri/bhaataan/commit/12cecbd99695870da81b1b5cb3edd3b55d745210">コミット 12cecbd</a> でこれが導入されてしまっているようだ。</p>
+
+<p>さらに遡ると、Fafs falira sashimi が 2019 年 1 月 26 日に行った<a href="https://docs.google.com/spreadsheets/d/1cCVMhX8EDpge4qGaOFbGdtXqgyj13Mf0Qftc-4f8orY/edit?gid=0#gid=0">誤記</a>に由来すると判明した。</p>
+
+<img src="term_translation_error.png" width="800" />
+
+<p>ということで、直していく。</p>
+
+<p>まずはリポジトリ内を一括置き換え。</p>
+
+<p>次に、「二百題」ドキュメントを訂正。</p>
+
+<p>最後に、当該スプシを修正。そういや添詞の英訳を garnish と定めたからそれも記載しよう。</p>
 
 <hr>
 <h3 class="do_not_create_header">to do:</h3>
