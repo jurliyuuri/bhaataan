@@ -17651,6 +17651,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 809,
+      "form" : "bhogán rek"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "dirmelin" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

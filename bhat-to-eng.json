@@ -17696,7 +17696,20 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 809,
+      "form" : "bhogán rek"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "pigment" ]
     } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ],
   "zpdic" : {
     "alphabetOrder" : "",
     "wordOrderType" : "UNICODE",

@@ -17693,6 +17693,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 809,
+      "form" : "bhogán rek"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "顔料" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
