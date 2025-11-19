@@ -17706,6 +17706,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 810,
+      "form" : "xetá"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "正義と判断を司る神族シェーター" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理xertar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

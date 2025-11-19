@@ -17709,6 +17709,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 810,
+      "form" : "xetá"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "Shētā (deity who governs justice and judgment)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理xertar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
