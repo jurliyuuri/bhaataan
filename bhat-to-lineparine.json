@@ -17680,6 +17680,28 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 811,
+      "form" : "phettuj"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "ferttyj" ]
+    }, {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "当然に惨殺されるべき人物" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "理ferttyj"
+    }, {
+      "title" : "meu",
+      "text" : "「当然に惨殺されるべき人物」の意味は、「phettuj の材料である dhokit『果実』(=木から吊るされた人の死体)となり、（弔いの儀式で用いられる）どんぐりの餡を塗られるべき存在」という隠喩に由来する。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

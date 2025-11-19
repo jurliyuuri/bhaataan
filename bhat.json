@@ -17722,6 +17722,28 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 811,
+      "form" : "phettuj"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "フェーッテュイ（小麦粉に砂糖や果物のジュースを加えて発酵させずに焼いたクラッカー状のものにどんぐりの餡を塗った物）" ]
+    }, {
+      "title" : "子音幹名詞",
+      "forms" : [ "当然に惨殺されるべき人物" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理ferttyj"
+    }, {
+      "title" : "文化",
+      "text" : "「当然に惨殺されるべき人物」の意味は、「phettuj の材料である dhokit『果実』(=木から吊るされた人の死体)となり、（弔いの儀式で用いられる）どんぐりの餡を塗られるべき存在」という隠喩に由来する。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
