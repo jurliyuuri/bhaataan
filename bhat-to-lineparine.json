@@ -17715,6 +17715,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 813,
+      "form" : "bákatúnáme"
+    },
+    "translations" : [ {
+      "title" : "kraftan",
+      "forms" : [ "勇敢な者どもが打ち開いた" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
