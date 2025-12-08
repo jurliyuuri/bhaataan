@@ -17818,6 +17818,54 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 817,
+      "form" : "adhaháṣin"
+    },
+    "translations" : [ {
+      "title" : "連体詞",
+      "forms" : [ "審美眼に乏しいような、極めて基本的なものの区別がつかないような" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "物理的に盲目であることは表さない語。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 818,
+      "form" : "aḍuhaháṣin"
+    },
+    "translations" : [ {
+      "title" : "連体詞",
+      "forms" : [ "審美眼に乏しいような、極めて基本的なものの区別がつかないような" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "物理的に盲目であることは表さない語。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 819,
+      "form" : "aḍuháṣin"
+    },
+    "translations" : [ {
+      "title" : "連体詞",
+      "forms" : [ "審美眼に乏しいような、極めて基本的なものの区別がつかないような" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "物理的に盲目であることは表さない語。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
