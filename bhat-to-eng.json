@@ -16100,7 +16100,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
-      "text" : "理liparxeより借用"
+      "text" : "Borrowed from 理liparxe."
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -17771,6 +17771,22 @@
     } ],
     "tags" : [ ],
     "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 814,
+      "form" : "nese"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "piece of furniture" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理sniesej."
+    } ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
