@@ -17766,13 +17766,61 @@
       "form" : "dhán"
     },
     "translations" : [ {
-      "title" : "副詞",
+      "title" : "ftonaol",
       "forms" : [  "～だというのにもかかわらず", "〜ながらも" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "用法",
+      "title" : "liusel",
       "text" : "非完了の状況の連用節を作る語尾 -(a)ma と併用して用いることを基本とする。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 817,
+      "form" : "adhaháṣin"
+    },
+    "translations" : [ {
+      "title" : "kraftan",
+      "forms" : [ "審美眼に乏しいような、極めて基本的なものの区別がつかないような" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "liusel",
+      "text" : "物理的に盲目であることは表さない語。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 818,
+      "form" : "aḍuhaháṣin"
+    },
+    "translations" : [ {
+      "title" : "kraftan",
+      "forms" : [ "審美眼に乏しいような、極めて基本的なものの区別がつかないような" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "liusel",
+      "text" : "物理的に盲目であることは表さない語。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 819,
+      "form" : "aḍuháṣin"
+    },
+    "translations" : [ {
+      "title" : "kraftan",
+      "forms" : [ "審美眼に乏しいような、極めて基本的なものの区別がつかないような" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "liusel",
+      "text" : "物理的に盲目であることは表さない語。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
