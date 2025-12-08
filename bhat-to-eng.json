@@ -17789,6 +17789,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 815,
+      "form" : "lopud"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "furniture", "upholstery" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理lopud."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
