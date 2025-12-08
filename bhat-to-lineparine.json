@@ -17760,6 +17760,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 816,
+      "form" : "dhán"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [  "～だというのにもかかわらず", "〜ながらも" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "非完了の状況の連用節を作る語尾 -(a)ma と併用して用いることを基本とする。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

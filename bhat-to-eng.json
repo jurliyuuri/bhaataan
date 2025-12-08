@@ -17805,6 +17805,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 816,
+      "form" : "dhán"
+    },
+    "translations" : [ {
+      "title" : "adverb",
+      "forms" : [  "even (while V-ing)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "Usually used together with the imperfective adverbial suffix -(a)ma."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
