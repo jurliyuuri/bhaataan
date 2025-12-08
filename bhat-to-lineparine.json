@@ -2916,7 +2916,13 @@
       "text" : "一人の人を指す場合、ásúkaよりもlásiの方が好まれる。とはいえ、英語のoneなどと異なり、*lásizáで複数人の人物を表すことはできない。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 822,
+        "form" : "lásin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 114,
@@ -4156,6 +4162,12 @@
       "entry" : {
         "id" : 694,
         "form" : "eghin"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 822,
+        "form" : "lásin"
       }
     } ]
   }, {
@@ -17860,6 +17872,31 @@
       "entry" : {
         "id" : 820,
         "form" : "attujúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 822,
+      "form" : "lásin"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "(phertarsen ferlk)" ]
+    } ],
+    "tags" : [ "人名", "主属同形tsans io <-ele>" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 113,
+        "form" : "lási"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 161,
+        "form" : "-n"
       }
     } ]
   } ],

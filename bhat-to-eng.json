@@ -2919,7 +2919,13 @@
       "text" : "lási is preferred over ásúka when denoting a single person.Note, however, that, unlike the English word \"one\", *lásizá cannot be used to mean two or more persons."
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 822,
+        "form" : "lásin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 114,
@@ -4157,7 +4163,13 @@
         "id" : 694,
         "form" : "eghin"
       }
-    } ]
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 822,
+        "form" : "lásin"
+      }
+    }  ]
   }, {
     "entry" : {
       "id" : 162,
@@ -17905,6 +17917,31 @@
       "entry" : {
         "id" : 820,
         "form" : "attujúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 822,
+      "form" : "lásin"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "(name of a person)" ]
+    } ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 113,
+        "form" : "lási"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 161,
+        "form" : "-n"
       }
     } ]
   } ],
