@@ -17944,6 +17944,22 @@
         "form" : "-n"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 823,
+      "form" : "ṭáxaisia"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "space between rocks" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理toxaisi'a"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
