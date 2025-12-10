@@ -17931,6 +17931,44 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 825,
+      "form" : "-íṣi ghi"
+    },
+    "translations" : [ {
+      "title" : "pestrenoleu fua ftona",
+      "forms" : [ "〜化すべく", "〜の実現に向けて" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "etol io",
+      "entry" : {
+        "id" : 826,
+        "form" : "-ḍíṣi ghi"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 826,
+      "form" : "-ḍíṣi ghi"
+    },
+    "translations" : [ {
+      "title" : "pestrenoleu fua ftona",
+      "forms" : [ "〜化すべく", "〜の実現に向けて" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "etol io",
+      "entry" : {
+        "id" : 825,
+        "form" : "-íṣi ghi"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

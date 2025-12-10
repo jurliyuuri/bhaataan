@@ -17976,6 +17976,44 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 825,
+      "form" : "-íṣi ghi"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "towards the realization of", "toward achieving", "with a view to" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 826,
+        "form" : "-ḍíṣi ghi"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 826,
+      "form" : "-ḍíṣi ghi"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "towards the realization of", "toward achieving", "with a view to" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 825,
+        "form" : "-íṣi ghi"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

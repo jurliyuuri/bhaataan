@@ -17973,6 +17973,44 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 825,
+      "form" : "-íṣi ghi"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "〜化すべく", "〜の実現に向けて" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 826,
+        "form" : "-ḍíṣi ghi"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 826,
+      "form" : "-ḍíṣi ghi"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "〜化すべく", "〜の実現に向けて" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 825,
+        "form" : "-íṣi ghi"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
