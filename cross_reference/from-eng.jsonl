@@ -170,6 +170,7 @@
 {"title":"単複","from":[110,"kiṣlo"],"to":[109,"kí"]}
 {"title":"類義語","from":[111,"ko"],"to":[156,"dí"]}
 {"title":"類義語","from":[111,"ko"],"to":[109,"kí"]}
+{"title":"派生関係","from":[113,"lási"],"to":[822,"lásin"]}
 {"title":"異形態","from":[117,"manáman"],"to":[65,"banáman"]}
 {"title":"派生関係","from":[120,"nímaṣ"],"to":[264,"nímaṣáná taku"]}
 {"title":"派生関係","from":[121,"nínaccú"],"to":[331,"nín"]}
@@ -212,6 +213,7 @@
 {"title":"派生関係","from":[157,"-waim"],"to":[519,"náḷawaim"]}
 {"title":"異形態","from":[158,"-aim"],"to":[157,"-waim"]}
 {"title":"派生関係","from":[158,"-aim"],"to":[349,"woghitaim"]}
+{"title":"派生関係","from":[158,"-aim"],"to":[786,"koṭaim"]}
 {"title":"異形態","from":[159,"-m"],"to":[161,"-n"]}
 {"title":"異形態","from":[159,"-m"],"to":[162,"-am"]}
 {"title":"異形態","from":[159,"-m"],"to":[163,"-an"]}
@@ -226,6 +228,7 @@
 {"title":"異形態","from":[161,"-n"],"to":[163,"-an"]}
 {"title":"派生関係","from":[161,"-n"],"to":[550,"bhoman"]}
 {"title":"派生関係","from":[161,"-n"],"to":[694,"eghin"]}
+{"title":"派生関係","from":[161,"-n"],"to":[822,"lásin"]}
 {"title":"異形態","from":[162,"-am"],"to":[161,"-n"]}
 {"title":"異形態","from":[162,"-am"],"to":[159,"-m"]}
 {"title":"異形態","from":[162,"-am"],"to":[163,"-an"]}
@@ -268,6 +271,7 @@
 {"title":"派生関係","from":[203,"sese"],"to":[202,"seseúḷ"]}
 {"title":"派生関係","from":[204,"koṭ"],"to":[261,"koṭáná epa"]}
 {"title":"派生関係","from":[204,"koṭ"],"to":[263,"koṭáná ṣoya"]}
+{"title":"派生関係","from":[204,"koṭ"],"to":[786,"koṭaim"]}
 {"title":"類義語","from":[207,"dházúḷ"],"to":[286,"seházúḷ"]}
 {"title":"派生関係","from":[208,"rúṣ"],"to":[262,"rúṣán káṇa"]}
 {"title":"派生関係","from":[214,"ghánúḷ"],"to":[290,"ghánaúḷ"]}
@@ -303,6 +307,7 @@
 {"title":"類義語","from":[250,"bágha"],"to":[251,"bhájabáni"]}
 {"title":"派生関係","from":[250,"bágha"],"to":[460,"núdhabágha"]}
 {"title":"熟語・定型表現","from":[250,"bágha"],"to":[687,"bághaḍi bhán ṣíya"]}
+{"title":"派生関係","from":[250,"bágha"],"to":[783,"xíjubágha"]}
 {"title":"類義語","from":[251,"bhájabáni"],"to":[250,"bágha"]}
 {"title":"熟語・定型表現","from":[251,"bhájabáni"],"to":[727,"bhájabánidhelá náhúḷ"]}
 {"title":"異形態","from":[254,"-a-"],"to":[255,"-á-"]}
@@ -440,6 +445,7 @@
 {"title":"異形態","from":[329,"-boh-"],"to":[330,"-aboh-"]}
 {"title":"異形態","from":[330,"-aboh-"],"to":[329,"-boh-"]}
 {"title":"派生関係","from":[331,"nín"],"to":[121,"nínaccú"]}
+{"title":"派生関係","from":[331,"nín"],"to":[782,"niṇṇop"]}
 {"title":"派生関係","from":[332,"-ú"],"to":[121,"nínaccú"]}
 {"title":"派生関係","from":[332,"-ú"],"to":[345,"amáma bohú"]}
 {"title":"派生関係","from":[332,"-ú"],"to":[371,"bákatú"]}
@@ -657,6 +663,7 @@
 {"title":"派生関係","from":[519,"náḷawaim"],"to":[157,"-waim"]}
 {"title":"類義語","from":[522,"masátu"],"to":[523,"jog"]}
 {"title":"類義語","from":[523,"jog"],"to":[522,"masátu"]}
+{"title":"派生関係","from":[525,"zíṣlo"],"to":[764,"zíṣom"]}
 {"title":"派生関係","from":[526,"bhodi"],"to":[548,"bhodíyo"]}
 {"title":"異形態","from":[528,"-man-"],"to":[529,"-aman-"]}
 {"title":"異形態","from":[528,"-man-"],"to":[530,"-mán"]}
@@ -796,3 +803,21 @@
 {"title":"派生関係","from":[741,"-ína"],"to":[96,"hína"]}
 {"title":"派生関係","from":[742,"-ḍína"],"to":[50,"-ḍi"]}
 {"title":"派生関係","from":[742,"-ḍína"],"to":[96,"hína"]}
+{"title":"派生関係","from":[764,"zíṣom"],"to":[525,"zíṣlo"]}
+{"title":"派生関係","from":[764,"zíṣom"],"to":[159,"-m"]}
+{"title":"派生関係","from":[778,"xíju"],"to":[783,"xíjubágha"]}
+{"title":"派生関係","from":[781,"-ṇop"],"to":[782,"niṇṇop"]}
+{"title":"派生関係","from":[782,"niṇṇop"],"to":[331,"nín"]}
+{"title":"派生関係","from":[782,"niṇṇop"],"to":[781,"-ṇop"]}
+{"title":"派生関係","from":[783,"xíjubágha"],"to":[778,"xíju"]}
+{"title":"派生関係","from":[783,"xíjubágha"],"to":[250,"bágha"]}
+{"title":"派生関係","from":[786,"koṭaim"],"to":[204,"koṭ"]}
+{"title":"派生関係","from":[786,"koṭaim"],"to":[158,"-aim"]}
+{"title":"異形態","from":[802,"-mán"],"to":[803,"-amán"]}
+{"title":"異形態","from":[803,"-amán"],"to":[802,"-mán"]}
+{"title":"派生関係","from":[820,"attujúḷ"],"to":[821,"attúghim"]}
+{"title":"派生関係","from":[821,"attúghim"],"to":[820,"attujúḷ"]}
+{"title":"派生関係","from":[822,"lásin"],"to":[113,"lási"]}
+{"title":"派生関係","from":[822,"lásin"],"to":[161,"-n"]}
+{"title":"異形態","from":[825,"-íṣi ghi"],"to":[826,"-ḍíṣi ghi"]}
+{"title":"異形態","from":[826,"-ḍíṣi ghi"],"to":[825,"-íṣi ghi"]}
