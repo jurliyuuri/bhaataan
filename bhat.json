@@ -18043,6 +18043,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 829,
+      "form" : "we"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "だんだん", "徐々に", "次第に" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理veからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

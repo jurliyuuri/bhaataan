@@ -18046,6 +18046,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 829,
+      "form" : "we"
+    },
+    "translations" : [ {
+      "title" : "adverb",
+      "forms" : [ "だんだん", "徐々に", "次第に" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理ve"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

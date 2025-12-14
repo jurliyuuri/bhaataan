@@ -18001,6 +18001,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 829,
+      "form" : "we"
+    },
+    "translations" : [ {
+      "title" : "ftonaol",
+      "forms" : [ "ve" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "理語veからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
