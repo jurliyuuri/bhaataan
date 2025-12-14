@@ -18088,6 +18088,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 832,
+      "form" : "naunáhaz"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "total sum" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

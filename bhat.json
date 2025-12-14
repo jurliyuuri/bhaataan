@@ -18085,6 +18085,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 832,
+      "form" : "naunáhaz"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "総和" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
