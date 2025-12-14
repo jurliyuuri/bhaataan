@@ -18101,6 +18101,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 833,
+      "form" : "koṇau"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "bridge" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理qornalc"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

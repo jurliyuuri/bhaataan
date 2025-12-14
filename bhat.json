@@ -18098,6 +18098,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 833,
+      "form" : "koṇau"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "橋" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理qornalc"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
