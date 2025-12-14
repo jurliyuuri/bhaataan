@@ -18030,6 +18030,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 828,
+      "form" : "bháha"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "someone that is left behind by the times", "dropout", "straggler" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "伐bháheúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

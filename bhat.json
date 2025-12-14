@@ -18027,6 +18027,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 828,
+      "form" : "bháha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "時代に取り残された者", "落伍者" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐bháheúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

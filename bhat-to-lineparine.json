@@ -17985,6 +17985,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 828,
+      "form" : "bháha"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "時代に取り残された者", "落伍者" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "伐bháheúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
