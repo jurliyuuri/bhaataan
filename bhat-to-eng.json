@@ -18062,6 +18062,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 830,
+      "form" : "híjarecúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to lay bare [nominative]'s innermost thoughts", "to reveal [nominative]'s inner thoughts", "speak [nominative]'s mind", "to confess what [nominative] is thinking" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
