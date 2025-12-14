@@ -18011,6 +18011,22 @@
         "form" : "-íṣi ghi"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 827,
+      "form" : "tatú"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "約束" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理語tatyからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

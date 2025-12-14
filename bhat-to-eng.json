@@ -18014,6 +18014,22 @@
         "form" : "-íṣi ghi"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 827,
+      "form" : "tatú"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "約束" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理taty."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
