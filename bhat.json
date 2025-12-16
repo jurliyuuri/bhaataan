@@ -18114,6 +18114,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 834,
+      "form" : "dhaiz"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "長さ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍deizu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -18117,6 +18117,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 834,
+      "form" : "dhaiz"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "length" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍deizu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
