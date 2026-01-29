@@ -18145,7 +18145,32 @@
       "text" : "藍moroo"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 836,
+        "form" : "boríṣ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 836,
+      "form" : "boríṣ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "来歴", "語源" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 835,
+        "form" : "borúḷ"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

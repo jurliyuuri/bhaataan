@@ -18103,7 +18103,32 @@
       "text" : "藍moroo"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 836,
+        "form" : "boríṣ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 836,
+      "form" : "boríṣ"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "来歴", "語源" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 835,
+        "form" : "borúḷ"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

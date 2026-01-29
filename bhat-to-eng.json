@@ -18148,7 +18148,32 @@
       "text" : "藍moroo"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 836,
+        "form" : "boríṣ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 836,
+      "form" : "boríṣ"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "provenance", "etymology" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 835,
+        "form" : "borúḷ"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
