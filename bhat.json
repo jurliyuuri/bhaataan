@@ -2916,7 +2916,13 @@
       "text" : "一人の人を指す場合、ásúkaよりもlásiの方が好まれる。とはいえ、英語のoneなどと異なり、*lásizáで複数人の人物を表すことはできない。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 822,
+        "form" : "lásin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 114,
@@ -4029,6 +4035,12 @@
         "id" : 349,
         "form" : "woghitaim"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 786,
+        "form" : "koṭaim"
+      }
     } ]
   }, {
     "entry" : {
@@ -4151,6 +4163,12 @@
         "id" : 694,
         "form" : "eghin"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 822,
+        "form" : "lásin"
+      }
     } ]
   }, {
     "entry" : {
@@ -4251,7 +4269,7 @@
     },
     "translations" : [ {
       "title" : "動詞接尾辞",
-      "forms" : [ "〜し終わって；完了の状況副詞化語尾" ]
+      "forms" : [ "〜し終わって；完了の状況の連用節を作る語尾" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4273,7 +4291,7 @@
     },
     "translations" : [ {
       "title" : "動詞接尾辞",
-      "forms" : [ "〜し終わって；完了の状況副詞化語尾" ]
+      "forms" : [ "〜し終わって；完了の状況の連用節を作る語尾" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4295,7 +4313,7 @@
     },
     "translations" : [ {
       "title" : "動詞接尾辞",
-      "forms" : [ "〜しながら；非完了の状況副詞化語尾" ]
+      "forms" : [ "〜しながら；非完了の状況の連用節を作る語尾" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -4317,7 +4335,7 @@
     },
     "translations" : [ {
       "title" : "動詞接尾辞",
-      "forms" : [ "〜しながら；非完了の状況副詞化語尾" ]
+      "forms" : [ "〜しながら；非完了の状況の連用節を作る語尾" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -5105,6 +5123,12 @@
       "entry" : {
         "id" : 263,
         "form" : "koṭáná ṣoya"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 786,
+        "form" : "koṭaim"
       }
     } ]
   }, {
@@ -6093,6 +6117,12 @@
       "entry" : {
         "id" : 687,
         "form" : "bághaḍi bhán ṣíya"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 783,
+        "form" : "xíjubágha"
       }
     } ]
   }, {
@@ -8187,6 +8217,12 @@
       "entry" : {
         "id" : 121,
         "form" : "nínaccú"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 782,
+        "form" : "niṇṇop"
       }
     } ]
   }, {
@@ -10661,7 +10697,7 @@
     },
     "translations" : [ {
       "title" : "動詞接尾辞",
-      "forms" : [ "〜して；無アスペクトの状況副詞化語尾" ]
+      "forms" : [ "〜して；無アスペクトの状況の連用節を作る語尾" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -12390,7 +12426,13 @@
     "tags" : [ "必ず単数曲用" ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 764,
+        "form" : "zíṣom"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 526,
@@ -15609,6 +15651,9 @@
     "translations" : [ {
       "title" : "子音幹名詞",
       "forms" : [ "浜辺", "海岸", "海辺" ]
+    }, {
+      "title" : "子音幹名詞",
+      "forms" : [ "(幾何学)辺" ]
     } ],
     "tags" : [ "主属同形対格-ele" ],
     "contents" : [ {
@@ -16736,11 +16781,11 @@
   }, {
     "entry" : {
       "id" : 755,
-      "form" : "aḍuhaidúḷ"
+      "form" : "híjaidúḷ"
     },
     "translations" : [ {
       "title" : "動作動詞",
-      "forms" : [ "～(ghi)を覗く", "～(ghi)に目を通す", "～(ghi)を調査する" ]
+      "forms" : [ "～(ghi)(趣味や芸術など)に入れ込む", "～(ghi)(趣味や芸術など)に心酔するようになる", "～(ghi)(趣味や芸術など)に夢中になる" ]
     } ],
     "tags" : [ ],
     "contents" : [ ],
@@ -16852,6 +16897,1280 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 763,
+      "form" : "níg"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（稀）鉱物粉を選り分けるために溝を掘った樋" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 764,
+      "form" : "zíṣom"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 525,
+        "form" : "zíṣlo"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 159,
+        "form" : "-m"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 765,
+      "form" : "ohighat"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "友人の子供" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐ohi + 伐ghátu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 766,
+      "form" : "ghán"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "赤" ]
+    } ],
+    "tags" : [ "主属同形対格-ele" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌kan1, 牌kok1, 伐gháni, 藍kani"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 767,
+      "form" : "ghámoghúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "赤い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌kok1, 皇kanamoga"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 768,
+      "form" : "ghíma"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "筒状の笛" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍keme"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 769,
+      "form" : "ṣom"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "(属格で修飾し)～の手柄・功績" ]
+    } ],
+    "tags" : [ "形式名詞" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌xom1, 藍shomu, 皇com-u"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 770,
+      "form" : "coṇu"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "シャモット（焼いた粘土の粉）" ]
+    }, {
+      "title" : "母音幹名詞",
+      "forms" : [ "過去の経験", "過去の過ち" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍cunyu"
+    }, {
+      "title" : "文化",
+      "text" : "陶片を砕いて粘土に混ぜると焼成時の亀裂などを防ぎやすくなることから、「過去の経験（特に、失敗）から学ぶ」ことのメタファー。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 771,
+      "form" : "horanáhúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)を〜(ghi)に書き加える", "〜(対格)を〜(ghi)に書き足す" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "náhúḷ は瞬間動詞だが、horanáhúḷ は、執筆という行為がある程度の時間的スパンを持った一連の動作であることから、動作動詞として振舞う。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 772,
+      "form" : "dhák"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "素早く", "いち早く" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍t'ak'ei"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 773,
+      "form" : "úpadácúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "〜(対格)の直後に後続している", "〜(対格)のすぐ後ろにいる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍hubwa + 藍tacoa"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 774,
+      "form" : "tcuwo"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "(ボードゲームの)駒" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌zuo1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 775,
+      "form" : "ṭaxot"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "(セットカイクの)シーズン終了" ]
+    }, {
+      "title" : "子音幹名詞",
+      "forms" : [ "(ニーンセットカイクの遊戯名)タショッ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌ta xot1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 776,
+      "form" : "ṣibhaijoṇu"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "政府", "中央政府" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 777,
+      "form" : "núdhaháta"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "(特に布製の)ゲームボード" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 778,
+      "form" : "xíju"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "投げ棒" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌xy1,理ciurl"
+    }, {
+      "title" : "文化",
+      "text" : "5本の竹の棒であり、投げて色が暗い面の個数を数えることにより結果を得る。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 783,
+        "form" : "xíjubágha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 779,
+      "form" : "kuwá"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "(セットカイクの)筆駒" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌kua2"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 780,
+      "form" : "elame"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "軍人", "兵士" ]
+    }, {
+      "title" : "母音幹名詞",
+      "forms" : [ "階級", "身分" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "「軍人・兵士」: 理elmer\n「階級・身分」: 理elme"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 781,
+      "form" : "-ṇop"
+    },
+    "translations" : [ {
+      "title" : "左接被覆形",
+      "forms" : [ "「〜に明るい人」などの意味を表す左接被覆形" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍nyoupi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 782,
+        "form" : "niṇṇop"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 782,
+      "form" : "niṇṇop"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "製紙職人" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 331,
+        "form" : "nín"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 781,
+        "form" : "-ṇop"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 783,
+      "form" : "xíjubágha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "投げ棒を投げて出た数" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 778,
+        "form" : "xíju"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 250,
+        "form" : "bágha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 784,
+      "form" : "líbhaṭ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "後悔" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理lypit"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 785,
+      "form" : "ghibháṭúḷ"
+    },
+    "translations" : [ {
+      "title" : "瞬間動詞",
+      "forms" : [ "後悔する" ]
+    }, {
+      "title" : "状態動詞",
+      "forms" : [ "後悔している" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理lypit"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 786,
+      "form" : "koṭaim"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 204,
+        "form" : "koṭ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 158,
+        "form" : "-aim"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 787,
+      "form" : "ábha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "いさかい", "いがみ合い", "不和" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 788,
+      "form" : "ekághi"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "nautuhomá e の先頭部分" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 789,
+      "form" : "wíclatí"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "本物", "実物" ]
+    }, {
+      "title" : "母音幹名詞",
+      "forms" : [ "本質", "根幹" ]
+    }, {
+      "title" : "母音幹名詞",
+      "forms" : [ "適任者", "仕事に値する人間", "真にその仕事にふさわしい人" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理svizlatj からの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 790,
+      "form" : "noṣ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "〜(具格)の半分" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍nusha"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 791,
+      "form" : "lammí"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "〜(具格)の 3 分の 1" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍lumi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 792,
+      "form" : "ríkaḷammí"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "〜(具格)の 3 分の 2" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ríka + 藍lumi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 793,
+      "form" : "jodhit"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "〜(具格)の 4 分の 1" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理iup + 理itep"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 794,
+      "form" : "nauṇamúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "（食べ物や飲み物などを）過剰に摂取する", "暴飲暴食する", "ドカ食いする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 795,
+      "form" : "kacúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "復讐する、仇討ちする、報復する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍kaci,理kaci"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 796,
+      "form" : "úrokajúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(具格)(公害など)で〜(hína)を黒く塗りつぶす" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐úro + 伐okajúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 797,
+      "form" : "bhauya"
+    },
+    "translations" : [ {
+      "title" : "後置詞",
+      "forms" : [ "～の間に" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理falvit,伐-bhau"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 798,
+      "form" : "bháparohúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "～(主格)は～(具格)(特性)を共有している" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐bhápúḷ + 伐rohúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 799,
+      "form" : "phegán"
+    },
+    "translations" : [ {
+      "title" : "連体詞",
+      "forms" : [ "顔立ちのよい", "顔が魅力的な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理feg + 伐-án"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 800,
+      "form" : "esúka"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "中心人物", "（カードゲームの）親" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐e+伐ásúka"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 801,
+      "form" : "dínaum"
+    },
+    "translations" : [ {
+      "title" : "連体詞",
+      "forms" : [ "dína 属格縮約形" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "dínaomの縮約。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 802,
+      "form" : "-mán"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "迷惑擬属格", "～しやがるような" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 803,
+        "form" : "-amán"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 803,
+      "form" : "-amán"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "迷惑擬属格", "～しやがるような" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 802,
+        "form" : "-mán"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 804,
+      "form" : "komán"
+    },
+    "translations" : [ {
+      "title" : "連体詞",
+      "forms" : [ "こんな", "こうでありやがるような" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "koが迷惑擬属格の形を取ったもの。直後に名詞を要求する。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 805,
+      "form" : "hemmán"
+    },
+    "translations" : [ {
+      "title" : "連体詞",
+      "forms" : [ "〜でありやがるような" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "発音",
+      "text" : "xɛmmaːn"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 806,
+      "form" : "phílex"
+    },
+    "translations" : [ {
+      "title" : "間投詞",
+      "forms" : [ "了解した", "OK" ]
+    }, {
+      "title" : "文接続詞",
+      "forms" : [ "考えてもみれば", "言われてみれば" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理firlex"
+    }, {
+      "title" : "用法",
+      "text" : "間投詞としては文末のピッチパターンで読まれ、文接続詞としては文中のピッチパターンで読まれる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 807,
+      "form" : "wápúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "～(主格)という油が酸化して悪臭を帯びている", "～(主格)という油が酸敗している" ]
+    }, {
+      "title" : "状態動詞",
+      "forms" : [ "～(主格)という単語や表現に「バートらしさ」が欠けている" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍fupoe"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 808,
+      "form" : "jaupha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "留め針" ]
+    }, {
+      "title" : "母音幹名詞",
+      "forms" : [ "付加することで連用節（連用修飾節）を作り上げる代物" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍jaupwei"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 809,
+      "form" : "bhogán rek"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "顔料" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 810,
+      "form" : "xetá"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "正義と判断を司る神族シェーター" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理xertar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 811,
+      "form" : "phettuj"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "フェーッテュイ（小麦粉に砂糖や果物のジュースを加えて発酵させずに焼いたクラッカー状のものにどんぐりの餡を塗った物）" ]
+    }, {
+      "title" : "子音幹名詞",
+      "forms" : [ "当然に惨殺されるべき人物" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理ferttyj"
+    }, {
+      "title" : "文化",
+      "text" : "「当然に惨殺されるべき人物」の意味は、「phettuj の材料である dhokit『果実』(=木から吊るされた人の死体)となり、（弔いの儀式で用いられる）どんぐりの餡を塗られるべき存在」という隠喩に由来する。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 812,
+      "form" : "bheghahhá_okajúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "疲労をアピールする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 813,
+      "form" : "bákatúnáme"
+    },
+    "translations" : [ {
+      "title" : "連体詞",
+      "forms" : [ "勇敢な者どもが打ち開いた" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 814,
+      "form" : "nese"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "家具" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理sniesejからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 815,
+      "form" : "lopud"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "家具", "内装" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理lopudからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 816,
+      "form" : "dhán"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [  "～だというのにもかかわらず", "〜ながらも" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "非完了の状況の連用節を作る語尾 -(a)ma と併用して用いることを基本とする。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 817,
+      "form" : "adhaháṣin"
+    },
+    "translations" : [ {
+      "title" : "連体詞",
+      "forms" : [ "審美眼に乏しいような", "極めて基本的なものの区別がつかないような" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "物理的に盲目であることは表さない語。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 818,
+      "form" : "aḍuhaháṣin"
+    },
+    "translations" : [ {
+      "title" : "連体詞",
+      "forms" : [ "審美眼に乏しいような", "極めて基本的なものの区別がつかないような" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "物理的に盲目であることは表さない語。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 819,
+      "form" : "aḍuháṣin"
+    },
+    "translations" : [ {
+      "title" : "連体詞",
+      "forms" : [ "審美眼に乏しいような", "極めて基本的なものの区別がつかないような" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "物理的に盲目であることは表さない語。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 820,
+      "form" : "attujúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "真っ直ぐである" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 821,
+        "form" : "attúghim"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 821,
+      "form" : "attúghim"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 820,
+        "form" : "attujúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 822,
+      "form" : "lásin"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 113,
+        "form" : "lási"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 161,
+        "form" : "-n"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 823,
+      "form" : "ṭáxaisia"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "岩間" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理語toxaisi'aからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 824,
+      "form" : "bhaṇṇoúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "腐る", "腐敗する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "pwungou.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 825,
+      "form" : "-íṣi ghi"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "〜化すべく", "〜の実現に向けて" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 826,
+        "form" : "-ḍíṣi ghi"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 826,
+      "form" : "-ḍíṣi ghi"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "〜化すべく", "〜の実現に向けて" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "異形態",
+      "entry" : {
+        "id" : 825,
+        "form" : "-íṣi ghi"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 827,
+      "form" : "tatú"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "約束" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理語tatyからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 828,
+      "form" : "bháha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "時代に取り残された者", "落伍者" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐bháheúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 829,
+      "form" : "we"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "だんだん", "徐々に", "次第に" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理veからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 830,
+      "form" : "híjarecúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "秘めていた心のうちをさらけ出す", "心の内を明かす", "本心を述べる", "考えを吐露する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 831,
+      "form" : "zákátá zausáṇauṭu"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "使役動詞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 832,
+      "form" : "naunáhaz"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "総和" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 833,
+      "form" : "koṇau"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "橋" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理qornalc"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 834,
+      "form" : "dhaiz"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "長さ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍deizu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 835,
+      "form" : "borúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "〜(oṣa)に由来する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍moroo"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 836,
+        "form" : "boríṣ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 836,
+      "form" : "boríṣ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "来歴", "語源" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 835,
+        "form" : "borúḷ"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
@@ -16874,5 +18193,5 @@
       "relations" : [ ]
     }
   },
-  "snoj" : "\nPUNCTUATION = \".\" | \",\" | \"_\";\n\nretroflex = \"ṇ\" | \"ṭ\" | \"ḍ\" | \"ṣ\" | \"ḷ\"\nvowel = \"au\" | \"ai\" | \"á\"  | \"í\"  | \"ú\"  | \"e\"  | \"o\"  | \"a\"  | \"i\"  | \"u\" \n\n\"ph\" -> /pʰ/\n\"bh\" -> /bʱ/\n\"dh\" -> /dʱ/\n\"ṣl\" -> /ʂɻ/\n\"l\" ^ -> /ɾə/\n\"kh\" -> /kʰ/\n\"gh\" -> /ɣ/\n\n\"aj\" !vowel -> /aj/\n\"ij\" !vowel -> /iː/\nretroflex \"í\" -> $ /ɨː/\nretroflex \"i\" -> $ /ɨ/\n\n\"ll\" -> /ll/\n\n^ \"l\" -> /l/\n\n\"au\" -> /aw/\n\"ai\" -> /aj/\n\"á\" -> /aː/\n\"í\" -> /iː/\n\"ú\" -> /uː/\n\"e\" -> /ɛː/\n\"o\" -> /ɔː/\n\n\"a\" -> /a/ \n\"i\" -> /i/\n\"u\" -> /u/\n\n\n\n\"ṭ\" -> /ʈ/\n\"ḍ\" -> /ɖ/\n\"ṣ\" -> /ʂ/\n\"ḷ\" -> /ɭ/\n\"ṇ\" -> /ɳ/\n\n\n\"-\" -> /-/\n\n\"w\" -> /ʋ/\n\"p\" -> /p/\n\"b\" -> /b/\n\"m\" -> /m/\n\n\"t\" -> /t/\n\"d\" -> /d/\n\"n\" -> /n/\n\"c\" -> /s/\n\"s\" -> /z/\n\"l\" -> /ɾ/\n\"r\" -> /r/\n\n\"x\" -> /ʃ/\n\"z\" -> /tʃ/\n\"j\" -> /j/\n\"y\" -> /ɥ/\n\n\"k\" -> /k/\n\"g\" -> /ɡ/\n\"h\" -> /x/\n"
+  "snoj" : "\nPUNCTUATION = \".\" | \",\" | \"_\";\n\nretroflex = \"ṇ\" | \"ṭ\" | \"ḍ\" | \"ṣ\" | \"ḷ\"\nvowel = \"au\" | \"ai\" | \"á\"  | \"í\"  | \"ú\"  | \"e\"  | \"o\"  | \"a\"  | \"i\"  | \"u\" \n\n\"ph\" -> /pʰ/\n\"bh\" -> /bʱ/\n\"dh\" -> /dʱ/\n\"ṣl\" -> /ʂɻ/\n\"l\" ^ -> /ɾə/\n\"kh\" -> /kʰ/\n\"gh\" -> /ɣ/\n\n\"aj\" !vowel -> /aj/\n\"ij\" !vowel -> /iː/\nretroflex \"í\" -> $ /ɨː/\nretroflex \"i\" -> $ /ɨ/\n\n\"ll\" -> /ll/\n\n^ \"l\" -> /l/\n^ \"e\" -> /jɛː/\n\n\"au\" -> /aw/\n\"ai\" -> /aj/\n\"á\" -> /aː/\n\"í\" -> /iː/\n\"ú\" -> /uː/\n\"e\" -> /ɛː/\n\"o\" -> /ɔː/\n\n\"a\" -> /a/ \n\"i\" -> /i/\n\"u\" -> /u/\n\n\n\n\"ṭ\" -> /ʈ/\n\"ḍ\" -> /ɖ/\n\"ṣ\" -> /ʂ/\n\"ḷ\" -> /ɭ/\n\"ṇ\" -> /ɳ/\n\n\n\"-\" -> /-/\n\n\"w\" -> /ʋ/\n\"p\" -> /p/\n\"b\" -> /b/\n\"m\" -> /m/\n\n\"t\" -> /t/\n\"d\" -> /d/\n\"n\" -> /n/\n\"c\" -> /s/\n\"s\" -> /z/\n\"l\" -> /ɾ/\n\"r\" -> /r/\n\n\"x\" -> /ʃ/\n\"z\" -> /tʃ/\n\"j\" -> /j/\n\"y\" -> /ɥ/\n\n\"k\" -> /k/\n\"g\" -> /ɡ/\n\"h\" -> /x/\n"
 }

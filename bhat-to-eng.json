@@ -2919,7 +2919,13 @@
       "text" : "lási is preferred over ásúka when denoting a single person.Note, however, that, unlike the English word \"one\", *lásizá cannot be used to mean two or more persons."
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 822,
+        "form" : "lásin"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 114,
@@ -4029,6 +4035,12 @@
         "id" : 349,
         "form" : "woghitaim"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 786,
+        "form" : "koṭaim"
+      }
     } ]
   }, {
     "entry" : {
@@ -4151,7 +4163,13 @@
         "id" : 694,
         "form" : "eghin"
       }
-    } ]
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 822,
+        "form" : "lásin"
+      }
+    }  ]
   }, {
     "entry" : {
       "id" : 162,
@@ -5105,6 +5123,12 @@
       "entry" : {
         "id" : 263,
         "form" : "koṭáná ṣoya"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 786,
+        "form" : "koṭaim"
       }
     } ]
   }, {
@@ -6090,6 +6114,12 @@
       "entry" : {
         "id" : 687,
         "form" : "bághaḍi bhán ṣíya"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 783,
+        "form" : "xíjubágha"
       }
     } ]
   }, {
@@ -8181,6 +8211,12 @@
       "entry" : {
         "id" : 121,
         "form" : "nínaccú"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 782,
+        "form" : "niṇṇop"
       }
     } ]
   }, {
@@ -12387,7 +12423,13 @@
     "tags" : [ "always singular declension" ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 764,
+        "form" : "zíṣom"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 526,
@@ -15603,6 +15645,9 @@
     "translations" : [ {
       "title" : "consonant-stem noun",
       "forms" : [ "beach", "seashore" ]
+    }, {
+      "title" : "consonant-stem noun",
+      "forms" : [ "edge (geometry)" ]
     } ],
     "tags" : [ "NomGen: Zero, Acc: -ele" ],
     "contents" : [ {
@@ -15859,7 +15904,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "usage",
-      "text" : "An adverb placed right before the verb that terminates the inserted phrase.  Always used in pair with the adverb \"ja\". Very archaic."
+      "text" : "An adverb placed right before the verb that terminates the inserted phrase.  Always used in pair with the adverb \"cun\". Very archaic."
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -16067,7 +16112,7 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "cognate(s)",
-      "text" : "理liparxeより借用"
+      "text" : "Borrowed from 理liparxe."
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -16855,6 +16900,1280 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 763,
+      "form" : "níg"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "(rare) A grooved sluice box for panning" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 764,
+      "form" : "zíṣom"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "(name of a person)" ]
+    } ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 525,
+        "form" : "zíṣlo"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 159,
+        "form" : "-m"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 765,
+      "form" : "ohighat"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "friend's child" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "伐ohi + 伐ghátu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 766,
+      "form" : "ghán"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "red" ]
+    } ],
+    "tags" : [ "NomGen: Zero, Acc: -ele" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌kan1, 牌kok1, 伐gháni, 藍kani"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 767,
+      "form" : "ghámoghúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to be red" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌kok1, 皇kanamoga"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 768,
+      "form" : "ghíma"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "flute whose shape is a tube" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍keme"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 769,
+      "form" : "ṣom"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "feat of ... (following a genitive)" ]
+    } ],
+    "tags" : [ "dependent noun" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌xom1, 藍shomu, 皇com-u"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 770,
+      "form" : "coṇu"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "chamotte", "grog" ]
+    }, {
+      "title" : "vowel-stem noun",
+      "forms" : [ "past experience", "past mistake" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍cunyu"
+    }, {
+      "title" : "culture",
+      "text" : "It is a metaphor for \"learning from one's past experiences/mistakes\", since crushing the pottery shard and mixing it into clay helps prevent cracks."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 771,
+      "form" : "horanáhúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to write and add [accusative] to [ghi]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "Even though náhúḷ is an instantaneous verb, horanáhúḷ behaves as a dynamic verb because the act of writing is a series of actions requiring some time span."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 772,
+      "form" : "dhák"
+    },
+    "translations" : [ {
+      "title" : "adverb",
+      "forms" : [ "quickly", "swiftly", "promptly" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍t'ak'ei"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 773,
+      "form" : "úpadácúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to immediately follow [accusative] (in sequence or series)", "to be located immediately after [accusative]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍hubwa + 藍tacoa"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 774,
+      "form" : "tcuwo"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "board game pieces" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌zuo1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 775,
+      "form" : "ṭaxot"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "end of Season (in Cetkaik)" ]
+    }, {
+      "title" : "consonant-stem noun",
+      "forms" : [ "Tashot (name of a game played with the Nincetkaik cards)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌ta xot1"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 776,
+      "form" : "ṣibhaijoṇu"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "government", "central government" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 777,
+      "form" : "núdhaháta"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "game board (especially those made of cloth)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 778,
+      "form" : "xíju"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "dice-sticks" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌xy1,理ciurl"
+    }, {
+      "title" : "culture",
+      "text" : "Dick-sticks are five bamboo sticks, where the result is determined by counting the number of dark-colored sides after throwing."
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 783,
+        "form" : "xíjubágha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 779,
+      "form" : "kuwá"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "officer (a piece in the game of Cetkaik)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "牌kua2"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 780,
+      "form" : "elame"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "soldier", "military personnel" ]
+    }, {
+      "title" : "vowel-stem noun",
+      "forms" : [ "social class", "social status", "social position" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "\"soldier\", \"military personnel\": 理elmer\n\"social status\": 理elme"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 781,
+      "form" : "-ṇop"
+    },
+    "translations" : [ {
+      "title" : "left-connecting form",
+      "forms" : [ "A bound morpheme used to denote \"someone who is well-versed or experienced\"" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍nyoupi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 782,
+        "form" : "niṇṇop"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 782,
+      "form" : "niṇṇop"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "papermaking craftsman" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 331,
+        "form" : "nín"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 781,
+        "form" : "-ṇop"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 783,
+      "form" : "xíjubágha"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "number obtained by throwing the dice-sticks" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 778,
+        "form" : "xíju"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 250,
+        "form" : "bágha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 784,
+      "form" : "líbhaṭ"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "regret" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理lypit"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 785,
+      "form" : "ghibháṭúḷ"
+    },
+    "translations" : [ {
+      "title" : "instantaneous verb",
+      "forms" : [ "to regret what happened in the past" ]
+    }, {
+      "title" : "stative verb",
+      "forms" : [ "to be regretful of the past" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理lypit"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 786,
+      "form" : "koṭaim"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "(name of a person)" ]
+    } ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 204,
+        "form" : "koṭ"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 158,
+        "form" : "-aim"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 787,
+      "form" : "ábha"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "quarrel", "discord" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 788,
+      "form" : "ekághi"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "the left end of a śirorekhā (nautuhomá e)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 789,
+      "form" : "wíclatí"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "genuine thing", "real thing", "actual thing" ]
+    }, {
+      "title" : "vowel-stem noun",
+      "forms" : [ "essence", "true nature", "core" ]
+    }, {
+      "title" : "vowel-stem noun",
+      "forms" : [ "a person genuinely fit for a job" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理svizlatj"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 790,
+      "form" : "noṣ"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "half of [instrumental]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍nusha"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 791,
+      "form" : "lammí"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "one-third of [instrumental]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍lumi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 792,
+      "form" : "ríkaḷammí"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "two-thirds of [instrumental]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "ríka + 藍lumi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 793,
+      "form" : "jodhit"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "one-quarter of [instrumental]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理iup + 理itep"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 794,
+      "form" : "nauṇamúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to excessively consume food or drink", "to binge on food or drink" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 795,
+      "form" : "kacúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to take revenge", "to avenge", "to retaliate" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍kaci,理kaci"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 796,
+      "form" : "úrokajúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to render [hína] black by [instrumental] (pollution etc.)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "伐úro + 伐okajúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 797,
+      "form" : "bhauya"
+    },
+    "translations" : [ {
+      "title" : "postposition",
+      "forms" : [ "between" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理falvit,伐-bhau"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 798,
+      "form" : "bháparohúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "for [nominative] to share [instrumental] as a common characteristic/trait" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "伐bhápúḷ + 伐rohúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 799,
+      "form" : "phegán"
+    },
+    "translations" : [ {
+      "title" : "prenominal",
+      "forms" : [ "handsome in terms of one's face", "good-looking in terms of one's face", "attractive in terms of one's face" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理feg + 伐-án"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 800,
+      "form" : "esúka"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "central figure", "(in card games) banker/dealer/declarer" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "伐e+伐ásúka"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 801,
+      "form" : "dínaum"
+    },
+    "translations" : [ {
+      "title" : "prenominal",
+      "forms" : [ "contracted genitive of \"dína\"" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "contraction of \"dínaom\""
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 802,
+      "form" : "-mán"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "pseudo-genitive form of adversative" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 803,
+        "form" : "-amán"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 803,
+      "form" : "-amán"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "pseudo-genitive form of adversative" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 802,
+        "form" : "-mán"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 804,
+      "form" : "komán"
+    },
+    "translations" : [ {
+      "title" : "prenominal",
+      "forms" : [ "this (as in \"this book\"; adversative)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "From ko + (pseudo-genitive adversative suffix)-mán. Must be followed by a noun."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 805,
+      "form" : "hemmán"
+    },
+    "translations" : [ {
+      "title" : "prenominal",
+      "forms" : [ "〜でありやがるような" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "pronunciation",
+      "text" : "xɛmmaːn"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 806,
+      "form" : "phílex"
+    },
+    "translations" : [ {
+      "title" : "interjection",
+      "forms" : [ "Understood.", "I got it.", "OK." ]
+    }, {
+      "title" : "conjunction for sentences",
+      "forms" : [ "Come to think of it", "Speaking of which", "Now that you mention it" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理firlex"
+    }, {
+      "title" : "usage",
+      "text" : "As an interjection, this word is read with a sentence-final pitch pattern. As a conjunction, it is pronounced with a normal pitch pattern."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 807,
+      "form" : "wápúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "for [nominative] (oil) to be rancid" ]
+    }, {
+      "title" : "stative verb",
+      "forms" : [ "for [nominative] (word or expression) to lack \"bhát-ness\""]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍fupoe"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 808,
+      "form" : "jaupha"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "pin", "pushpin" ]
+    }, {
+      "title" : "vowel-stem noun",
+      "forms" : [ "a word or an affix that creates an adverbial modifier clause when added" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍jaupwei"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 809,
+      "form" : "bhogán rek"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "pigment" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 810,
+      "form" : "xetá"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "Shētā (deity who governs justice and judgment)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理xertar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 811,
+      "form" : "phettuj"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "フェーッテュイ（小麦粉に砂糖や果物のジュースを加えて発酵させずに焼いたクラッカー状のものにどんぐりの餡を塗った物）" ]
+    }, {
+      "title" : "consonant-stem noun",
+      "forms" : [ "当然に惨殺されるべき人物" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理ferttyj"
+    }, {
+      "title" : "culture",
+      "text" : "「当然に惨殺されるべき人物」の意味は、「phettuj の材料である dhokit『果実』(=木から吊るされた人の死体)となり、（弔いの儀式で用いられる）どんぐりの餡を塗られるべき存在」という隠喩に由来する。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 812,
+      "form" : "bheghahhá_okajúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "疲労をアピールする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 813,
+      "form" : "bákatúnáme"
+    },
+    "translations" : [ {
+      "title" : "prenominal",
+      "forms" : [ "勇敢な者どもが打ち開いた" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 814,
+      "form" : "nese"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "piece of furniture" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理sniesej."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 815,
+      "form" : "lopud"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "furniture", "upholstery" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理lopud."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 816,
+      "form" : "dhán"
+    },
+    "translations" : [ {
+      "title" : "adverb",
+      "forms" : [  "even (while V-ing)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "Usually used together with the imperfective adverbial suffix -(a)ma."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 817,
+      "form" : "adhaháṣin"
+    },
+    "translations" : [ {
+      "title" : "prenominal",
+      "forms" : [ "lacking aesthetic discernment", "unable to distinguish even the most basic things" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "Cannot be used to denote physical blindness."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 818,
+      "form" : "aḍuhaháṣin"
+    },
+    "translations" : [ {
+      "title" : "prenominal",
+      "forms" : [ "lacking aesthetic discernment", "unable to distinguish even the most basic things" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "Cannot be used to denote physical blindness."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 819,
+      "form" : "aḍuháṣin"
+    },
+    "translations" : [ {
+      "title" : "prenominal",
+      "forms" : [ "lacking aesthetic discernment", "unable to distinguish even the most basic things" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "Cannot be used to denote physical blindness."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 820,
+      "form" : "attujúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to be straight" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 821,
+        "form" : "attúghim"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 821,
+      "form" : "attúghim"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "(name of a person)" ]
+    } ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 820,
+        "form" : "attujúḷ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 822,
+      "form" : "lásin"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "(name of a person)" ]
+    } ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 113,
+        "form" : "lási"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 161,
+        "form" : "-n"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 823,
+      "form" : "ṭáxaisia"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "space between rocks" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理toxaisi'a"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 824,
+      "form" : "bhaṇṇoúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to rot" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "pwungou.ar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 825,
+      "form" : "-íṣi ghi"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "towards the realization of", "toward achieving", "with a view to" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 826,
+        "form" : "-ḍíṣi ghi"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 826,
+      "form" : "-ḍíṣi ghi"
+    },
+    "translations" : [ {
+      "title" : "verb suffix",
+      "forms" : [ "towards the realization of", "toward achieving", "with a view to" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "alternative form(s)",
+      "entry" : {
+        "id" : 825,
+        "form" : "-íṣi ghi"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 827,
+      "form" : "tatú"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "promise" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理taty."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 828,
+      "form" : "bháha"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "someone that is left behind by the times", "dropout", "straggler" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "伐bháheúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 829,
+      "form" : "we"
+    },
+    "translations" : [ {
+      "title" : "adverb",
+      "forms" : [ "だんだん", "徐々に", "次第に" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理ve"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 830,
+      "form" : "híjarecúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to lay bare [nominative]'s innermost thoughts", "to reveal [nominative]'s inner thoughts", "speak [nominative]'s mind", "to confess what [nominative] is thinking" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 831,
+      "form" : "zákátá zausáṇauṭu"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "causative verb" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 832,
+      "form" : "naunáhaz"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "total sum" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 833,
+      "form" : "koṇau"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "bridge" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理qornalc"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 834,
+      "form" : "dhaiz"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "length" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍deizu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 835,
+      "form" : "borúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to be derived from [oṣa]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍moroo"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 836,
+        "form" : "boríṣ"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 836,
+      "form" : "boríṣ"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "provenance", "etymology" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 835,
+        "form" : "borúḷ"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
@@ -16877,5 +18196,5 @@
       "relations" : [ ]
     }
   },
-  "snoj" : "\nPUNCTUATION = \".\" | \",\" | \"_\";\n\nretroflex = \"ṇ\" | \"ṭ\" | \"ḍ\" | \"ṣ\" | \"ḷ\"\nvowel = \"au\" | \"ai\" | \"á\"  | \"í\"  | \"ú\"  | \"e\"  | \"o\"  | \"a\"  | \"i\"  | \"u\" \n\n\"ph\" -> /pʰ/\n\"bh\" -> /bʱ/\n\"dh\" -> /dʱ/\n\"ṣl\" -> /ʂɻ/\n\"l\" ^ -> /ɾə/\n\"kh\" -> /kʰ/\n\"gh\" -> /ɣ/\n\n\"aj\" !vowel -> /aj/\n\"ij\" !vowel -> /iː/\nretroflex \"í\" -> $ /ɨː/\nretroflex \"i\" -> $ /ɨ/\n\n\"ll\" -> /ll/\n\n^ \"l\" -> /l/\n\n\"au\" -> /aw/\n\"ai\" -> /aj/\n\"á\" -> /aː/\n\"í\" -> /iː/\n\"ú\" -> /uː/\n\"e\" -> /ɛː/\n\"o\" -> /ɔː/\n\n\"a\" -> /a/ \n\"i\" -> /i/\n\"u\" -> /u/\n\n\n\n\"ṭ\" -> /ʈ/\n\"ḍ\" -> /ɖ/\n\"ṣ\" -> /ʂ/\n\"ḷ\" -> /ɭ/\n\"ṇ\" -> /ɳ/\n\n\n\"-\" -> /-/\n\n\"w\" -> /ʋ/\n\"p\" -> /p/\n\"b\" -> /b/\n\"m\" -> /m/\n\n\"t\" -> /t/\n\"d\" -> /d/\n\"n\" -> /n/\n\"c\" -> /s/\n\"s\" -> /z/\n\"l\" -> /ɾ/\n\"r\" -> /r/\n\n\"x\" -> /ʃ/\n\"z\" -> /tʃ/\n\"j\" -> /j/\n\"y\" -> /ɥ/\n\n\"k\" -> /k/\n\"g\" -> /ɡ/\n\"h\" -> /x/\n"
+  "snoj" : "\nPUNCTUATION = \".\" | \",\" | \"_\";\n\nretroflex = \"ṇ\" | \"ṭ\" | \"ḍ\" | \"ṣ\" | \"ḷ\"\nvowel = \"au\" | \"ai\" | \"á\"  | \"í\"  | \"ú\"  | \"e\"  | \"o\"  | \"a\"  | \"i\"  | \"u\" \n\n\"ph\" -> /pʰ/\n\"bh\" -> /bʱ/\n\"dh\" -> /dʱ/\n\"ṣl\" -> /ʂɻ/\n\"l\" ^ -> /ɾə/\n\"kh\" -> /kʰ/\n\"gh\" -> /ɣ/\n\n\"aj\" !vowel -> /aj/\n\"ij\" !vowel -> /iː/\nretroflex \"í\" -> $ /ɨː/\nretroflex \"i\" -> $ /ɨ/\n\n\"ll\" -> /ll/\n\n^ \"l\" -> /l/\n^ \"e\" -> /jɛː/\n\n\"au\" -> /aw/\n\"ai\" -> /aj/\n\"á\" -> /aː/\n\"í\" -> /iː/\n\"ú\" -> /uː/\n\"e\" -> /ɛː/\n\"o\" -> /ɔː/\n\n\"a\" -> /a/ \n\"i\" -> /i/\n\"u\" -> /u/\n\n\n\n\"ṭ\" -> /ʈ/\n\"ḍ\" -> /ɖ/\n\"ṣ\" -> /ʂ/\n\"ḷ\" -> /ɭ/\n\"ṇ\" -> /ɳ/\n\n\n\"-\" -> /-/\n\n\"w\" -> /ʋ/\n\"p\" -> /p/\n\"b\" -> /b/\n\"m\" -> /m/\n\n\"t\" -> /t/\n\"d\" -> /d/\n\"n\" -> /n/\n\"c\" -> /s/\n\"s\" -> /z/\n\"l\" -> /ɾ/\n\"r\" -> /r/\n\n\"x\" -> /ʃ/\n\"z\" -> /tʃ/\n\"j\" -> /j/\n\"y\" -> /ɥ/\n\n\"k\" -> /k/\n\"g\" -> /ɡ/\n\"h\" -> /x/\n"
 }
