@@ -18171,6 +18171,22 @@
         "form" : "borúḷ"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 837,
+      "form" : "dhíṣ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "爪" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍picei, 藍tusui"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

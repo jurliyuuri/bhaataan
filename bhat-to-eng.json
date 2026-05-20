@@ -18174,6 +18174,22 @@
         "form" : "borúḷ"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 837,
+      "form" : "dhíṣ"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "fingernail", "toenail" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍picei, 藍tusui"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
