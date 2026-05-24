@@ -18187,6 +18187,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 838,
+      "form" : "bhauda"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "尻", "臀部" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍pwauda"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -18129,6 +18129,38 @@
         "form" : "borúḷ"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 837,
+      "form" : "dhíṣ"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "lefhil", "pones" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍picei, 藍tusui"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 838,
+      "form" : "bhauda"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "detiest", "larfhim" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍pwauda"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
