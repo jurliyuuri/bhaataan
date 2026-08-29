@@ -4,6 +4,6 @@
     "@types/jsdom": "^20.0.0"
   },
   "dependencies": {
-    "jsdom": "^20.0.0"
+    "jsdom": "^28.1.0"
   }
 }
