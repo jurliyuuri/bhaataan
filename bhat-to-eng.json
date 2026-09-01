@@ -18238,6 +18238,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 841,
+      "form" : "ho"
+    },
+    "translations" : [ {
+      "title" : "sentence-final particle",
+      "forms" : [ "vocative particle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "Cannot be added to a noun that already ends in an o."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

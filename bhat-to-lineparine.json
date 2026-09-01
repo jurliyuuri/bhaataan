@@ -18193,7 +18193,23 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
-  }  ],
+  }, {
+    "entry" : {
+      "id" : 841,
+      "form" : "ho"
+    },
+    "translations" : [ {
+      "title" : "naliuftona",
+      "forms" : [ "呼びかけ助辞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "liusel",
+      "text" : "o で終わる名詞にはつかない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ],
   "zpdic" : {
     "alphabetOrder" : "",
     "wordOrderType" : "UNICODE",

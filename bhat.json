@@ -18235,6 +18235,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 841,
+      "form" : "ho"
+    },
+    "translations" : [ {
+      "title" : "終助詞",
+      "forms" : [ "呼びかけ助辞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "o で終わる名詞にはつかない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
