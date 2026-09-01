@@ -18251,6 +18251,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 842,
+      "form" : "ghuṇúḷ"
+    },
+    "translations" : [ {
+      "title" : "瞬間動詞",
+      "forms" : [ "〜(対格)を〜(hína/ghi)に置く" ]
+    }, {
+      "title" : "状態動詞",
+      "forms" : [ "〜(対格)に〜(hína/具格)という影響をもたらしている" ]
+    }, {
+      "title" : "瞬間動詞",
+      "forms" : [ "〜(対格)に〜(ghi)という刑罰を課す" ]
+    }, {
+      "title" : "瞬間動詞",
+      "forms" : [ "〜(対格)を〜(具格)と見なすこととする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍kunge,牌kun2,皇kug-u"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

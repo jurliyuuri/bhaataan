@@ -18209,7 +18209,32 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
-  } ],
+  }, {
+    "entry" : {
+      "id" : 842,
+      "form" : "ghuṇúḷ"
+    },
+    "translations" : [ {
+      "title" : "narlen ftona",
+      "forms" : [ "〜(対格)を〜(hína/ghi)に置く" ]
+    }, {
+      "title" : "sytenen ftona",
+      "forms" : [ "〜(対格)に〜(hína/具格)という影響をもたらしている" ]
+    }, {
+      "title" : "narlen ftona",
+      "forms" : [ "〜(対格)に〜(ghi)という刑罰を課す" ]
+    }, {
+      "title" : "narlen ftona",
+      "forms" : [ "〜(対格)を〜(具格)と見なすこととする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍kunge,牌kun2,皇kug-u"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }  ],
   "zpdic" : {
     "alphabetOrder" : "",
     "wordOrderType" : "UNICODE",

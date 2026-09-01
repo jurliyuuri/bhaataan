@@ -18254,6 +18254,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 842,
+      "form" : "ghuṇúḷ"
+    },
+    "translations" : [ {
+      "title" : "instantaneous verb",
+      "forms" : [ "to put [accusative] in [hína/ghi]", "to place [accusative] in [hína/ghi]" ]
+    }, {
+      "title" : "stative verb",
+      "forms" : [ "to be affecting [accusative] by means of [hína/instrumental] (effect)" ]
+    }, {
+      "title" : "instantaneous verb",
+      "forms" : [ "to impose [ghi] (punishment) on [accusative]" ]
+    }, {
+      "title" : "instantaneous verb",
+      "forms" : [ "to decide to treat [accusative] as [instrumental]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍kunge,牌kun2,皇kug-u"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
