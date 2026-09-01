@@ -18250,7 +18250,20 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
-  }   ],
+  }, {
+    "entry" : {
+      "id" : 844,
+      "form" : "codhidhel cákíkaúḷ"
+    },
+    "translations" : [ {
+      "title" : "jonusten ftona",
+      "forms" : [ "物議を醸す", "非難の対象となる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ],
   "zpdic" : {
     "alphabetOrder" : "",
     "wordOrderType" : "UNICODE",
