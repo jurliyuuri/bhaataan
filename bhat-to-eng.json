@@ -18279,6 +18279,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 843,
+      "form" : "ghuṇṇeghaúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to connect [accusative] together", "to join [accusative] together" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "The object of this verb does not take the plural suffix because the plurality is obvious from the meaning of the verb."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

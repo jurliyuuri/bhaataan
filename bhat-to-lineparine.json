@@ -18234,7 +18234,23 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
-  }  ],
+  }, {
+    "entry" : {
+      "id" : 843,
+      "form" : "ghuṇṇeghaúḷ"
+    },
+    "translations" : [ {
+      "title" : "jonusten ftona",
+      "forms" : [ "〜(対格)を繋げる", "〜(対格)を結びつける" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "liusel",
+      "text" : "多数性を明示する表現であるので、目的語が複数であっても複数形接辞を用いない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }   ],
   "zpdic" : {
     "alphabetOrder" : "",
     "wordOrderType" : "UNICODE",
