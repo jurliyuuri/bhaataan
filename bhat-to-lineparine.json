@@ -17578,7 +17578,7 @@
     },
     "translations" : [ {
       "title" : "kraftan",
-      "forms" : [ "こんな", "こうでありやがるような"  ]
+      "forms" : [ "こんな", "こうでありやがるような" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -17779,7 +17779,7 @@
     },
     "translations" : [ {
       "title" : "ftonaol",
-      "forms" : [  "～だというのにもかかわらず", "〜ながらも" ]
+      "forms" : [ "～だというのにもかかわらず", "〜ながらも" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -18158,6 +18158,22 @@
     "contents" : [ {
       "title" : "daliu farteven",
       "text" : "藍pwauda"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 839,
+      "form" : "dhezán e"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "ピッチが高くなり息抜きが発生するたびに軸を切る流儀" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "meu",
+      "text" : "単語が区切れるごとに線を切る現行の流儀とは異なり、息継ぎ (dhez) が起こるタイミングで線を切るという、廃れた別流儀。"
     } ],
     "variations" : [ ],
     "relations" : [ ]

@@ -4169,7 +4169,7 @@
         "id" : 822,
         "form" : "lásin"
       }
-    }  ]
+    } ]
   }, {
     "entry" : {
       "id" : 162,
@@ -17680,7 +17680,7 @@
       "forms" : [ "for [nominative] (oil) to be rancid" ]
     }, {
       "title" : "stative verb",
-      "forms" : [ "for [nominative] (word or expression) to lack \"bhát-ness\""]
+      "forms" : [ "for [nominative] (word or expression) to lack \"bhát-ness\"" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -17824,7 +17824,7 @@
     },
     "translations" : [ {
       "title" : "adverb",
-      "forms" : [  "even (while V-ing)" ]
+      "forms" : [ "even (while V-ing)" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -18203,6 +18203,22 @@
     "contents" : [ {
       "title" : "cognate(s)",
       "text" : "藍pwauda"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 839,
+      "form" : "dhezán e"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "a convention of cutting the top line whenever there is a short breathing time causing the pitch to rise in the enunciation of the phrase" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "culture",
+      "text" : "an obsolete convention where the top line connecting the bhátán alphabets is cut not at the word boundary but when a short breathing time (called \"dhez\") occurs.\n"
     } ],
     "variations" : [ ],
     "relations" : [ ]

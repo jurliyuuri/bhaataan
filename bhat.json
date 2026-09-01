@@ -17821,7 +17821,7 @@
     },
     "translations" : [ {
       "title" : "副詞",
-      "forms" : [  "～だというのにもかかわらず", "〜ながらも" ]
+      "forms" : [ "～だというのにもかかわらず", "〜ながらも" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -18200,6 +18200,22 @@
     "contents" : [ {
       "title" : "同根語",
       "text" : "藍pwauda"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 839,
+      "form" : "dhezán e"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "ピッチが高くなり息抜きが発生するたびに軸を切る流儀" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "単語が区切れるごとに線を切る現行の流儀とは異なり、息継ぎ (dhez) が起こるタイミングで線を切るという、廃れた別流儀。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
