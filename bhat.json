@@ -18305,6 +18305,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 845,
+      "form" : "racá"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "櫛" ]
+    } ],
+    "tags" : [ "必ず複数曲用" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

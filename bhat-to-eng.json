@@ -18308,6 +18308,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 845,
+      "form" : "racá"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "comb" ]
+    } ],
+    "tags" : [ "always plural declension" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
