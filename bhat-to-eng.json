@@ -18353,6 +18353,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 848,
+      "form" : "jogele cahúḷ"
+    },
+    "translations" : [ {
+      "title" : "instantaneous verb",
+      "forms" : [ "to realize the errors in one's own argument before speaking" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "Although cahúḷ is a dynamic verb, jogele cahúḷ is interpreted as a synonym for ghaccúḷ and is therefore used as an instantaneous verb."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -18308,6 +18308,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 848,
+      "form" : "jogele cahúḷ"
+    },
+    "translations" : [ {
+      "title" : "narlen ftona",
+      "forms" : [ "口にする前に自身の主張に含まれる誤りに気づく" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "liusel",
+      "text" : "cahúḷ は動作動詞であるが、jogele cahúḷ は ghaccúḷ の類義語として解釈されるため瞬間動詞として用いられる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
