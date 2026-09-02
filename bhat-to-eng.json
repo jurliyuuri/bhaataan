@@ -18321,6 +18321,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 846,
+      "form" : "ghuṇásúka"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "assistant", "chaperon", "attendant", "servant" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "伐ghuṇ- + 伐 ásúka"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

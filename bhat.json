@@ -18318,6 +18318,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 846,
+      "form" : "ghuṇásúka"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "付き人", "従者" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐ghuṇ- + 伐 ásúka"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

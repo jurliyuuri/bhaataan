@@ -18276,6 +18276,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 846,
+      "form" : "ghuṇásúka"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "付き人", "従者" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "伐ghuṇ- + 伐 ásúka"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
