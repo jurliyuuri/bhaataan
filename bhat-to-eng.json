@@ -18369,6 +18369,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 849,
+      "form" : "hínai"
+    },
+    "translations" : [ {
+      "title" : "conjunction for nouns",
+      "forms" : [ "(in the form \"A hínai B\") B located in A", "B in A", "B at A" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "etymological information",
+      "text" : "nasal dissimilation of hína + -ñ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
