@@ -18337,6 +18337,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 847,
+      "form" : "laihau"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "air", "outdoor air", "open air" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 藍laihau."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

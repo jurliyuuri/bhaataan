@@ -18334,6 +18334,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 847,
+      "form" : "laihau"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "空気", "外気" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍laihauからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

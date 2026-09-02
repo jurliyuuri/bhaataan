@@ -18292,6 +18292,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 847,
+      "form" : "laihau"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "dyjet" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍laihauからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
