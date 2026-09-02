@@ -18385,6 +18385,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 850,
+      "form" : "moḷ"
+    },
+    "translations" : [ {
+      "title" : "名詞接続詞",
+      "forms" : [ "～にある～" ]
+    } ],
+    "tags" : [ "口語的" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理mol/東mol からの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

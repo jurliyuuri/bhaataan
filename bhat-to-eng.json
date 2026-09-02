@@ -18388,6 +18388,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 850,
+      "form" : "moḷ"
+    },
+    "translations" : [ {
+      "title" : "conjunction for nouns",
+      "forms" : [ "(in the form \"A moḷ B\") B located in A", "B in A", "B at A" ]
+    } ],
+    "tags" : [ "colloquial" ],
+    "contents" : [ {
+      "title" : "etymological information",
+      "text" : "Borrowed from 理mol/東mol."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

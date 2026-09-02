@@ -18331,7 +18331,7 @@
     },
     "translations" : [ {
       "title" : "kaften kranti'a",
-      "forms" : [ "～にある～" ]
+      "forms" : [ "lex mol" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -18340,6 +18340,22 @@
     }, {
       "title" : "liusel",
       "text" : "かなり古風な表現であり、現代的な文体には使いがたい。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 850,
+      "form" : "moḷ"
+    },
+    "translations" : [ {
+      "title" : "kaften kranti'a",
+      "forms" : [ "lex mol" ]
+    } ],
+    "tags" : [ "口語的" ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "理mol/東mol からの借用"
     } ],
     "variations" : [ ],
     "relations" : [ ]
