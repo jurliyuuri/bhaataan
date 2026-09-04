@@ -18396,6 +18396,22 @@
         "form" : "ábha"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 852,
+      "form" : "oghi"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "etysn", "larsu" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍hovi,牌ho2,皇owi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

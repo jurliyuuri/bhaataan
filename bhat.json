@@ -18438,6 +18438,22 @@
         "form" : "ábha"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 852,
+      "form" : "oghi"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "骨" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍hovi,牌ho2,皇owi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

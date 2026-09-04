@@ -18441,6 +18441,22 @@
         "form" : "ábha"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 852,
+      "form" : "oghi"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "bone" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍hovi,牌ho2,皇owi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
