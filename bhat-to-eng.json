@@ -14383,6 +14383,12 @@
         "id" : 736,
         "form" : "xallásúka"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 851,
+        "form" : "xallábha"
+      }
     } ]
   }, {
     "entry" : {
@@ -17353,7 +17359,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 851,
+        "form" : "xallábha"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 788,
@@ -18404,6 +18416,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 851,
+      "form" : "xallábha"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "staging a feud", "pretending to be at odds" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 616,
+        "form" : "xall-"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 787,
+        "form" : "ábha"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -14365,6 +14365,12 @@
         "id" : 736,
         "form" : "xallásúka"
       }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 851,
+        "form" : "xallábha"
+      }
     } ]
   }, {
     "entry" : {
@@ -17308,7 +17314,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 851,
+        "form" : "xallábha"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 788,
@@ -18359,6 +18371,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 851,
+      "form" : "xallábha"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "いがみ合いの演出", "不和であるふりをすること" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 616,
+        "form" : "xall-"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 787,
+        "form" : "ábha"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
