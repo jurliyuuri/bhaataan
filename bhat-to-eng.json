@@ -18457,6 +18457,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 853,
+      "form" : "núṇán"
+    },
+    "translations" : [ {
+      "title" : "prenominal",
+      "forms" : [ "safe" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理niurn + 伐 -án"
+    }, {
+      "title" : "historical linguistic information",
+      "text" : "The expected form is *ṇúnán, but since the language avoids having ṇ at the beginning of the word, only the metathesized form is utilized."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

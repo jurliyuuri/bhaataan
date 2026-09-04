@@ -18412,6 +18412,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 853,
+      "form" : "núṇán"
+    },
+    "translations" : [ {
+      "title" : "kraftan",
+      "forms" : [ "lex niurn" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "理niurn + 伐 -án"
+    }, {
+      "title" : "歴史言語学的情報",
+      "text" : "本来期待される形は *ṇúnán であるが、語頭に ṇ が立つことを嫌って音位転換を起こした形のみが用いられる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
