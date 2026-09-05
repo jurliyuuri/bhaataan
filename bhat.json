@@ -18489,11 +18489,24 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 855,
+      "form" : "rúsa"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "（落葉樹の名）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
     "wordOrderType" : "UNICODE",
-    "punctuations" : [ ",", "　", "、" ],
+    "punctuations" : [ ",", "、" ],
     "ignoredTranslationRegex" : "",
     "pronunciationTitle" : "発音",
     "plainInformationTitles" : [ ],

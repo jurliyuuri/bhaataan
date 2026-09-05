@@ -18447,6 +18447,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 855,
+      "form" : "rúsa"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "（落葉樹の名）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -18492,6 +18492,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 855,
+      "form" : "rúsa"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "(name of a deciduous tree)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
