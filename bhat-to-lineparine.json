@@ -18460,6 +18460,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 856,
+      "form" : "bhodakíadha"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "空模様から天気（特に波高）を予測する技量" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

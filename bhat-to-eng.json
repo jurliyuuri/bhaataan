@@ -18505,6 +18505,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 856,
+      "form" : "bhodakíadha"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "the skill of predicting weather (especially wave height) from how the weather looks like" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
