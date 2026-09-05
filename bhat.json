@@ -18473,11 +18473,27 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 854,
+      "form" : "dauphasáka"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "(分詞+dauphasákabhau bohúḷで)可能な限り〜をする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "歴史言語学的情報",
+      "text" : "タカン語「連体形 + tomábeko kan moŕlu」の翻訳借用。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
     "wordOrderType" : "UNICODE",
-    "punctuations" : [ ",", "　", "、", " ", " " ],
+    "punctuations" : [ ",", "　", "、" ],
     "ignoredTranslationRegex" : "",
     "pronunciationTitle" : "発音",
     "plainInformationTitles" : [ ],

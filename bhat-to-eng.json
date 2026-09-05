@@ -18476,6 +18476,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 854,
+      "form" : "dauphasáka"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "(in the form \"participle + dauphasákabhau bohúḷ\") do [verb] as much as possible" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "historical linguistic information",
+      "text" : "Calque of タカン語 \"participle + tomábeko kan moŕlu\"."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
