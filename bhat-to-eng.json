@@ -18518,6 +18518,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 857,
+      "form" : "koṣ"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "human foot", "at the foot of [instrumental]", "(used in the instrumental plural) on foot" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍k'osoi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
