@@ -18522,13 +18522,26 @@
     },
     "translations" : [ {
       "title" : "子音幹名詞",
-      "forms" : [ "人間の足","〜(具格)のふもと", "（複数形具格で用いて）徒歩で" ]
+      "forms" : [ "人間の足", "〜(具格)のふもと", "（複数形具格で用いて）徒歩で" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
       "title" : "同根語",
       "text" : "藍k'osoi"
     } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 858,
+      "form" : "símoúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "ケチである", "吝嗇である" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   } ],

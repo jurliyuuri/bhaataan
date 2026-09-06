@@ -18489,6 +18489,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 858,
+      "form" : "símoúḷ"
+    },
+    "translations" : [ {
+      "title" : "sytenen ftona",
+      "forms" : [ "ケチである", "吝嗇である" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
