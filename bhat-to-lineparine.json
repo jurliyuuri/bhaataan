@@ -18555,6 +18555,22 @@
         "form" : "-ṣág"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 861,
+      "form" : "bhomarijz"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "得たいという欲望" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "歴史言語学的情報",
+      "text" : "r が短母音に挟まれるのを嫌ってか *bhomarijúḷ という動詞形は無いが、ríz「明るい見通し」ではなく rijz「願い事、望み」に関連する語義であるため、bhomaríz ではなく bhomarijz と綴る。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

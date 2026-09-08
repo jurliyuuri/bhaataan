@@ -18594,6 +18594,22 @@
         "form" : "-ṣág"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 861,
+      "form" : "bhomarijz"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "desire of obtaining something" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "historical linguistic information",
+      "text" : "The language lacks the verb of the form *bhomarijúḷ, a possible explanation of which is that the language might have an aversion towards r placed between two short vowels. In spite of the lack of the verb form, this word is nevertheless spelled with an \"ij\" because its meaning is closer to \"rijz\" (aspiration, wish) rather than \"ríz\" (wishful thinking; positive prospect)."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
