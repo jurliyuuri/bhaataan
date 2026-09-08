@@ -15317,6 +15317,12 @@
         "id" : 672,
         "form" : "-aṣág"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 860,
+        "form" : "phíleṣṣág"
+      }
     } ]
   }, {
     "entry" : {
@@ -16318,9 +16324,6 @@
     "contents" : [ {
       "title" : "usage",
       "text" : "Represents the situation of a monarch being tried by their former subordinates following a political upheaval such as a coup d'état."
-    }, {
-      "title" : "pronunciation",
-      "text" : "adʱɛʂʂɨːɥa"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -17654,10 +17657,7 @@
       "forms" : [ "〜でありやがるような" ]
     } ],
     "tags" : [ ],
-    "contents" : [ {
-      "title" : "pronunciation",
-      "text" : "xɛmmaːn"
-    } ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -17681,7 +17681,13 @@
       "text" : "As an interjection, this word is read with a sentence-final pitch pattern. As a conjunction, it is pronounced with a normal pitch pattern."
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 860,
+        "form" : "phíleṣṣág"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 807,
@@ -18563,6 +18569,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 860,
+      "form" : "phíleṣṣág"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "someone who only answers \"okay\" or \"all right\" under all circumstances" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 806,
+        "form" : "phílex"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 671,
+        "form" : "-ṣág"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
@@ -18585,5 +18616,5 @@
       "relations" : [ ]
     }
   },
-  "snoj" : "\nPUNCTUATION = \".\" | \",\" | \"_\";\n\nretroflex = \"ṇ\" | \"ṭ\" | \"ḍ\" | \"ṣ\" | \"ḷ\"\nvowel = \"au\" | \"ai\" | \"á\"  | \"í\"  | \"ú\"  | \"e\"  | \"o\"  | \"a\"  | \"i\"  | \"u\" \n\n\"ph\" -> /pʰ/\n\"bh\" -> /bʱ/\n\"dh\" -> /dʱ/\n\"ṣl\" -> /ʂɻ/\n\"l\" ^ -> /ɾə/\n\"kh\" -> /kʰ/\n\"gh\" -> /ɣ/\n\n\"aj\" !vowel -> /aj/\n\"ij\" !vowel -> /iː/\nretroflex \"í\" -> $ /ɨː/\nretroflex \"i\" -> $ /ɨ/\n\n\"ll\" -> /ll/\n\n^ \"l\" -> /l/\n^ \"e\" -> /jɛː/\n\n\"au\" -> /aw/\n\"ai\" -> /aj/\n\"á\" -> /aː/\n\"í\" -> /iː/\n\"ú\" -> /uː/\n\"e\" -> /ɛː/\n\"o\" -> /ɔː/\n\n\"a\" -> /a/ \n\"i\" -> /i/\n\"u\" -> /u/\n\n\n\n\"ṭ\" -> /ʈ/\n\"ḍ\" -> /ɖ/\n\"ṣ\" -> /ʂ/\n\"ḷ\" -> /ɭ/\n\"ṇ\" -> /ɳ/\n\n\n\"-\" -> /-/\n\n\"w\" -> /ʋ/\n\"p\" -> /p/\n\"b\" -> /b/\n\"m\" -> /m/\n\n\"t\" -> /t/\n\"d\" -> /d/\n\"n\" -> /n/\n\"c\" -> /s/\n\"s\" -> /z/\n\"l\" -> /ɾ/\n\"r\" -> /r/\n\n\"x\" -> /ʃ/\n\"z\" -> /tʃ/\n\"j\" -> /j/\n\"y\" -> /ɥ/\n\n\"k\" -> /k/\n\"g\" -> /ɡ/\n\"h\" -> /x/\n"
+  "snoj" : "\nPUNCTUATION = \".\" | \",\";\n\nretroflex = \"ṇ\" | \"ṭ\" | \"ḍ\" | \"ṣ\" | \"ḷ\"\nvowel = \"au\" | \"ai\" | \"á\"  | \"í\"  | \"ú\"  | \"e\"  | \"o\"  | \"a\"  | \"i\"  | \"u\" \n\n\"eṣṣ\" -> /ɛʂʂ/\n\"emm\" -> /ɛmm/\n\n\n\"ph\" -> /pʰ/\n\"bh\" -> /bʱ/\n\"dh\" -> /dʱ/\n\"ṣl\" -> /ʂɻ/\n\"l\" ^ -> /ɾə/\n\"kh\" -> /kʰ/\n\"gh\" -> /ɣ/\n\n\"aj\" !vowel -> /aj/\n\"ij\" !vowel -> /iː/\nretroflex \"í\" -> $ /ɨː/\nretroflex \"i\" -> $ /ɨ/\n\n\"ll\" -> /ll/\n\n\"au\" -> /aw/\n\"ai\" -> /aj/\n\"á\" -> /aː/\n\"í\" -> /iː/\n\"ú\" -> /uː/\n\"e\" -> /ɛː/\n\"o\" -> /ɔː/\n\n\"a\" -> /a/ \n\"i\" -> /i/\n\"u\" -> /u/\n\n\n\n\"ṭ\" -> /ʈ/\n\"ḍ\" -> /ɖ/\n\"ṣ\" -> /ʂ/\n\"ḷ\" -> /ɭ/\n\"ṇ\" -> /ɳ/\n\n\n\"-\" -> /-/\n\n\"w\" -> /ʋ/\n\"p\" -> /p/\n\"b\" -> /b/\n\"m\" -> /m/\n\n\"t\" -> /t/\n\"d\" -> /d/\n\"n\" -> /n/\n\"c\" -> /s/\n\"s\" -> /z/\n\"l\" -> /ɾ/\n\"r\" -> /r/\n\n\"x\" -> /ʃ/\n\"z\" -> /tʃ/\n\"j\" -> /j/\n\"y\" -> /ɥ/\n\n\"k\" -> /k/\n\"g\" -> /ɡ/\n\"h\" -> /x/\n"
 }
