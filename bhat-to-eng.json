@@ -18547,6 +18547,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 859,
+      "form" : "ra"
+    },
+    "translations" : [ {
+      "title" : "postfix particle",
+      "forms" : [ "(used when there is doubt on the immediately preceding word)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "Originally a particle that for example changes \"Because of A, B happened.\" into \"Possibly because of A, B happened.\". In the modern era its use is entirely satirical: it is used only when the speaker knows that the dubious claim is in fact wrong."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

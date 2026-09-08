@@ -18544,6 +18544,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 859,
+      "form" : "ra"
+    },
+    "translations" : [ {
+      "title" : "後置小辞",
+      "forms" : [ "（直前の語に疑義があるときにつける）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "元来は、たとえば「A であるせいで B となった」を「A であるからか、B となった」に変えるような接辞。現代では皮肉的にのみ用いられ、「疑義しかない」や「むしろ誤りであるという確信がある」といった含意を持つ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
