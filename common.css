@@ -16,3 +16,7 @@
 pre {
 	white-space: pre-wrap;
 }
+
+.transcription-for-font {
+	background-color: rgb(195, 195, 195); color: #555; font-family: 'Courier New'; padding: 2px 4px;
+}

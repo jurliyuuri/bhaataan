@@ -18603,8 +18603,21 @@
     "tags" : [ ],
     "contents" : [ {
       "title" : "歴史言語学的情報",
-      "text" : "r が短母音に挟まれるのを嫌ってか *bhomarijúḷ という動詞形は無いが、ríz「明るい見通し」ではなく rijz「願い事、望み」に関連する語義であるため、bhomaríz ではなく bhomarijz と綴る。"
+      "text" : "r が短母音に挟まれるのを嫌ってか *bhomarijúḷ という動詞形は無いが、ríz「明るい見通し」ではなく rijz「」"
     } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 862,
+      "form" : "khúwadheṣ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "クワ王" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
