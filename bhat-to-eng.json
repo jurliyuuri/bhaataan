@@ -1092,6 +1092,12 @@
         "id" : 342,
         "form" : "phaigahomá zepha"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 866,
+        "form" : "ághihomá ríon"
+      }
     } ]
   }, {
     "entry" : {
@@ -10928,6 +10934,12 @@
         "id" : 454,
         "form" : "ághim"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 866,
+        "form" : "ághihomá ríon"
+      }
     } ]
   }, {
     "entry" : {
@@ -14659,7 +14671,13 @@
       "text" : "理riron"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 866,
+        "form" : "ághihomá ríon"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 632,
@@ -18698,6 +18716,37 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 866,
+      "form" : "ághihomá ríon"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "measures implemented in response to a death incident" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 452,
+        "form" : "ághi"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 44,
+        "form" : "-homá"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 631,
+        "form" : "ríon"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

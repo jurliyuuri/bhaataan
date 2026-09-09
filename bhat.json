@@ -1092,6 +1092,12 @@
         "id" : 342,
         "form" : "phaigahomá zepha"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 866,
+        "form" : "ághihomá ríon"
+      }
     } ]
   }, {
     "entry" : {
@@ -10931,6 +10937,12 @@
         "id" : 454,
         "form" : "ághim"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 866,
+        "form" : "ághihomá ríon"
+      }
     } ]
   }, {
     "entry" : {
@@ -14662,7 +14674,13 @@
       "text" : "理riron"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 866,
+        "form" : "ághihomá ríon"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 632,
@@ -18695,6 +18713,37 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 866,
+      "form" : "ághihomá ríon"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "人が死んだことがきっかけで講じられた対策" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 452,
+        "form" : "ághi"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 44,
+        "form" : "-homá"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 631,
+        "form" : "ríon"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

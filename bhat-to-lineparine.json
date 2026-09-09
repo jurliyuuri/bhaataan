@@ -1092,6 +1092,12 @@
         "id" : 342,
         "form" : "phaigahomá zepha"
       }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 866,
+        "form" : "ághihomá ríon"
+      }
     } ]
   }, {
     "entry" : {
@@ -10925,6 +10931,12 @@
         "id" : 454,
         "form" : "ághim"
       }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 866,
+        "form" : "ághihomá ríon"
+      }
     } ]
   }, {
     "entry" : {
@@ -14635,7 +14647,13 @@
       "text" : "理riron"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 866,
+        "form" : "ághihomá ríon"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 632,
@@ -18653,6 +18671,37 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 866,
+      "form" : "ághihomá ríon"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "人が死んだことがきっかけで講じられた対策" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 452,
+        "form" : "ághi"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 44,
+        "form" : "-homá"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 631,
+        "form" : "ríon"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
