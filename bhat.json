@@ -18620,6 +18620,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 863,
+      "form" : "bhoḷa"
+    },
+    "translations" : [ {
+      "title" : "母音幹接尾辞",
+      "forms" : [ "羊" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍pola"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

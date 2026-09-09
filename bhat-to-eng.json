@@ -18623,6 +18623,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 863,
+      "form" : "bhoḷa"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "sheep" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍pola"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

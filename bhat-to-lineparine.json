@@ -18584,6 +18584,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 863,
+      "form" : "bhoḷa"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "ysnet" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍pola"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
