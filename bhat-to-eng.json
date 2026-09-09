@@ -18676,6 +18676,28 @@
         "form" : "-n"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 865,
+      "form" : "ícalát"
+    },
+    "translations" : [ {
+      "title" : "prenominal",
+      "forms" : [ "quiet", "silent" ]
+    }, {
+      "title" : "prenominal",
+      "forms" : [ "obedient", "submissive" ]
+    }, {
+      "title" : "prenominal",
+      "forms" : [ "(of a liquid) neutral" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理ircalart."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

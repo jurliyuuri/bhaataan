@@ -18673,6 +18673,28 @@
         "form" : "-n"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 865,
+      "form" : "ícalát"
+    },
+    "translations" : [ {
+      "title" : "連体詞",
+      "forms" : [ "静かな", "無言の" ]
+    }, {
+      "title" : "連体詞",
+      "forms" : [ "従順な" ]
+    }, {
+      "title" : "連体詞",
+      "forms" : [ "(溶液などが)中性の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理ircalartからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

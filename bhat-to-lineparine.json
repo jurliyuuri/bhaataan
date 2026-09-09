@@ -18637,6 +18637,22 @@
         "form" : "-n"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 865,
+      "form" : "ícalát"
+    },
+    "translations" : [ {
+      "title" : "kraftan",
+      "forms" : [ "ircalart" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "理ircalartからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
