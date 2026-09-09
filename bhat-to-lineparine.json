@@ -4169,6 +4169,12 @@
         "id" : 822,
         "form" : "lásin"
       }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 864,
+        "form" : "dhesen"
+      }
     } ]
   }, {
     "entry" : {
@@ -5693,7 +5699,13 @@
       "text" : "藍thaise"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 864,
+        "form" : "dhesen"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 234,
@@ -18600,6 +18612,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 864,
+      "form" : "dhesen"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "(phertarsen ferlk)" ]
+    } ],
+    "tags" : [ "人名", "主属同形tsans io <-ele>" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 233,
+        "form" : "dheseúḷ"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 161,
+        "form" : "-n"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

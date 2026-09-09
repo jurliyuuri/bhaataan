@@ -4169,6 +4169,12 @@
         "id" : 822,
         "form" : "lásin"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 864,
+        "form" : "dhesen"
+      }
     } ]
   }, {
     "entry" : {
@@ -5696,7 +5702,13 @@
       "text" : "藍thaise"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 864,
+        "form" : "dhesen"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 234,
@@ -18636,6 +18648,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 864,
+      "form" : "dhesen"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 233,
+        "form" : "dheseúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 161,
+        "form" : "-n"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

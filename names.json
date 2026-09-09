@@ -339,6 +339,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 20,
+      "form" : "attúghim ghátu dhesen bhátnímaṣ"
+    },
+    "translations" : [ {
+      "title" : "仮名転写",
+      "forms" : [ "アットゥーギム・ガートゥ・デーゼーン・バートニーマシュ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "業績・概略",
+      "text" : "近代バートの文学者。文体の精緻さで知られる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
