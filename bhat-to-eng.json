@@ -18747,6 +18747,19 @@
         "form" : "ríon"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 867,
+      "form" : "ebhauda"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "the right end of a śirorekhā (nautuhomá e)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

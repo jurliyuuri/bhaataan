@@ -18744,6 +18744,19 @@
         "form" : "ríon"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 867,
+      "form" : "ebhauda"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "nautuhomá e の末尾部分" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
