@@ -18760,6 +18760,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 868,
+      "form" : "nai"
+    },
+    "translations" : [ {
+      "title" : "postfix particle",
+      "forms" : [ "(following a noun) none other than" ]
+    }, {
+      "title" : "postfix particle",
+      "forms" : [ "(following a negation particle such as \"ám\") it is the case that" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "マトナ-éne"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -18757,6 +18757,25 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 868,
+      "form" : "nai"
+    },
+    "translations" : [ {
+      "title" : "後置小辞",
+      "forms" : [ "（名詞の後ろに置いて）他ならぬ" ]
+    }, {
+      "title" : "後置小辞",
+      "forms" : [ "（否定副詞 ám などの後ろに置いて）〜というわけでは" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "マトナ-éne"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
