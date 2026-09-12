@@ -18779,7 +18779,26 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
-  } ],
+  }, {
+    "entry" : {
+      "id" : 869,
+      "form" : "bhára"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "porridge" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍phere"
+    }, {
+      "title" : "usage",
+      "text" : "Due to the homophony with \"wind\", this word is mainly used as compound words to avoid ambiguity."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }  ],
   "zpdic" : {
     "alphabetOrder" : "",
     "wordOrderType" : "UNICODE",

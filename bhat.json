@@ -18776,6 +18776,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 869,
+      "form" : "bhára"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "粥" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍phere"
+    }, {
+      "title" : "用法",
+      "text" : "同音の「風」との区別のため、主に複合語で用いられる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

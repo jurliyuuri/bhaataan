@@ -18729,12 +18729,31 @@
     } ],
     "tags" : [ ],
     "contents" : [ {
-      "title" : "同根語",
+      "title" : "daliu farteven",
       "text" : "マトナ-éne"
     } ],
     "variations" : [ ],
     "relations" : [ ]
-  }  ],
+  }, {
+    "entry" : {
+      "id" : 869,
+      "form" : "bhára"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "粥" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍phere"
+    }, {
+      "title" : "liusel",
+      "text" : "同音の「風」との区別のため、主に複合語で用いられる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ],
   "zpdic" : {
     "alphabetOrder" : "",
     "wordOrderType" : "UNICODE",
