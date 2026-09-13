@@ -18798,7 +18798,20 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
-  }  ],
+  }, {
+    "entry" : {
+      "id" : 870,
+      "form" : "koṭabhára"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "porridge in times of famine made from weeds and their seeds" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ],
   "zpdic" : {
     "alphabetOrder" : "",
     "wordOrderType" : "UNICODE",

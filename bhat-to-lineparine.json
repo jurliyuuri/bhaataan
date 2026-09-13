@@ -18753,6 +18753,19 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 870,
+      "form" : "koṭabhára"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "雑草やその種などを使った救荒食としての粥" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
