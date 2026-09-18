@@ -18811,6 +18811,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 871,
+      "form" : "rakkigha"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "someone who just lives aimlessly and idly and does nothing productive" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

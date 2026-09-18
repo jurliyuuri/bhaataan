@@ -18766,6 +18766,19 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 871,
+      "form" : "rakkigha"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "ただ漫然と生きているだけで何も生産的なことを行っていない輩" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
