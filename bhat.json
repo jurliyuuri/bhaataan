@@ -18821,6 +18821,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 872,
+      "form" : "dheṣin"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（暦の）〜月" ]
+    } ],
+    "tags" : [ "主属同形対格-ele", "形式名詞" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理stujesn からの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

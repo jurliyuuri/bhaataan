@@ -18779,6 +18779,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 872,
+      "form" : "dheṣin"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "（暦の）〜月" ]
+    } ],
+    "tags" : [ "主属同形tsans io <-ele>", "形式名詞" ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "理stujesn からの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

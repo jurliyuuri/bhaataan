@@ -18824,6 +18824,22 @@
     "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 872,
+      "form" : "dheṣin"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "... month" ]
+    } ],
+    "tags" : [ "NomGen: Zero, Acc: -ele", "dependent noun" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理stujesn."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
