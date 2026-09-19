@@ -18901,6 +18901,25 @@
         "form" : "-bhau"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 874,
+      "form" : "joroḷo"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "ヨヴローロ（魚名）" ]
+    } ],
+    "tags" : [ "動植物名" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理jovrorloからの借用"
+    }, {
+      "title" : "文化",
+      "text" : "理jovrorloを参照せよ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

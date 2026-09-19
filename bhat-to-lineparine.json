@@ -18835,6 +18835,22 @@
         "form" : "-bhau"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 874,
+      "form" : "joroḷo"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "jovrorlo" ]
+    } ],
+    "tags" : [ "動植物名" ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "理jovrorloからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

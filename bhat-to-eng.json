@@ -18904,6 +18904,25 @@
         "form" : "-bhau"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 874,
+      "form" : "joroḷo"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "jovrōlo (a fish species)" ]
+    } ],
+    "tags" : [ "name of a plant / animal" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理jovrorlo."
+    }, {
+      "title" : "culture",
+      "text" : "See 理jovrorlo."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
