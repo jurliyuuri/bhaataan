@@ -765,6 +765,12 @@
         "id" : 734,
         "form" : "ághatán bacú"
       }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 873,
+        "form" : "nígán káṇabhau"
+      }
     } ]
   }, {
     "entry" : {
@@ -1227,6 +1233,12 @@
       "entry" : {
         "id" : 49,
         "form" : "-bhauná"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 873,
+        "form" : "nígán káṇabhau"
       }
     } ]
   }, {
@@ -2708,6 +2720,12 @@
       "entry" : {
         "id" : 309,
         "form" : "bhákáṇa"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 873,
+        "form" : "nígán káṇabhau"
       }
     } ]
   }, {
@@ -16948,7 +16966,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 873,
+        "form" : "nígán káṇabhau"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 764,
@@ -18837,6 +18861,46 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 873,
+      "form" : "nígán káṇabhau"
+    },
+    "translations" : [ {
+      "title" : "副詞句",
+      "forms" : [ "時間という選別者により" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "『時間が経過したことによって、一時のブームに留まるものなのか、それとも世代をまたいで長く使われるものなのかの峻別が皆にも分かるようになって』の意味。káṇahomá nígai とか káṇanígai にならないのは、káṇa そのものに「忘れさせるもの」という印象が結びついているから (cf. káṇabhodi)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 763,
+        "form" : "níg"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 35,
+        "form" : "-án"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 104,
+        "form" : "káṇa"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 48,
+        "form" : "-bhau"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

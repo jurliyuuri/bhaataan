@@ -765,6 +765,12 @@
         "id" : 734,
         "form" : "ághatán bacú"
       }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 873,
+        "form" : "nígán káṇabhau"
+      }
     } ]
   }, {
     "entry" : {
@@ -1227,6 +1233,12 @@
       "entry" : {
         "id" : 49,
         "form" : "-bhauná"
+      }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 873,
+        "form" : "nígán káṇabhau"
       }
     } ]
   }, {
@@ -2711,6 +2723,12 @@
       "entry" : {
         "id" : 309,
         "form" : "bhákáṇa"
+      }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 873,
+        "form" : "nígán káṇabhau"
       }
     } ]
   }, {
@@ -16951,7 +16969,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 873,
+        "form" : "nígán káṇabhau"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 764,
@@ -18840,6 +18864,46 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 873,
+      "form" : "nígán káṇabhau"
+    },
+    "translations" : [ {
+      "title" : "adverbial phrase",
+      "forms" : [ "having stood the test of time" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "culture",
+      "text" : "It has the connotation of “Since enough time has passed, everyone comes to understand the clear distinction between what remains merely a passing fad and what will be used for a long time, spanning generations.” The reason it is not “káṇahomá nígai” or “káṇanígai” is that the word “káṇa” itself carries the connotation of “that which causes one to forget” (cf. káṇabhodi)."
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 763,
+        "form" : "níg"
+      }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 35,
+        "form" : "-án"
+      }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 104,
+        "form" : "káṇa"
+      }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 48,
+        "form" : "-bhau"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
