@@ -765,6 +765,12 @@
         "id" : 734,
         "form" : "ághatán bacú"
       }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 873,
+        "form" : "nígán káṇabhau"
+      }
     } ]
   }, {
     "entry" : {
@@ -1092,6 +1098,12 @@
         "id" : 342,
         "form" : "phaigahomá zepha"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 866,
+        "form" : "ághihomá ríon"
+      }
     } ]
   }, {
     "entry" : {
@@ -1221,6 +1233,12 @@
       "entry" : {
         "id" : 49,
         "form" : "-bhauná"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 873,
+        "form" : "nígán káṇabhau"
       }
     } ]
   }, {
@@ -2703,6 +2721,12 @@
         "id" : 309,
         "form" : "bhákáṇa"
       }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 873,
+        "form" : "nígán káṇabhau"
+      }
     } ]
   }, {
     "entry" : {
@@ -4168,6 +4192,12 @@
       "entry" : {
         "id" : 822,
         "form" : "lásin"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 864,
+        "form" : "dhesen"
       }
     } ]
   }, {
@@ -5696,7 +5726,13 @@
       "text" : "藍thaise"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 864,
+        "form" : "dhesen"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 234,
@@ -10919,6 +10955,12 @@
         "id" : 454,
         "form" : "ághim"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 866,
+        "form" : "ághihomá ríon"
+      }
     } ]
   }, {
     "entry" : {
@@ -14386,6 +14428,12 @@
         "id" : 736,
         "form" : "xallásúka"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 851,
+        "form" : "xallábha"
+      }
     } ]
   }, {
     "entry" : {
@@ -14644,7 +14692,13 @@
       "text" : "理riron"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 866,
+        "form" : "ághihomá ríon"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 632,
@@ -14718,7 +14772,7 @@
     "tags" : [ "必ず複数曲用" ],
     "contents" : [ {
       "title" : "歴史言語学的情報",
-      "text" : "hodibhattáの意味範囲は魚系統の調味料や塩の全体と説明されることが多いが、これは冷凍技術や輸送技術の乏しい時代に内陸部に多くのバート人が住んでいたことの名残であり、バート人の食卓にも魚介が並ぶようになった現代においては、魚介の風味も含めてこの単語で表すことも多い。"
+      "text" : "bhodibhattáの意味範囲は魚系統の調味料や塩の全体と説明されることが多いが、これは冷凍技術や輸送技術の乏しい時代に内陸部に多くのバート人が住んでいたことの名残であり、バート人の食卓にも魚介が並ぶようになった現代においては、魚介の風味も含めてこの単語で表すことも多い。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -15313,6 +15367,12 @@
       "entry" : {
         "id" : 672,
         "form" : "-aṣág"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 860,
+        "form" : "phíleṣṣág"
       }
     } ]
   }, {
@@ -16315,9 +16375,6 @@
     "contents" : [ {
       "title" : "用法",
       "text" : "クーデターなどの政変の後、君主がかつての部下によって裁かれる状況を表す。"
-    }, {
-      "title" : "発音",
-      "text" : "adʱɛʂʂɨːɥa"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -16909,7 +16966,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 873,
+        "form" : "nígán káṇabhau"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 764,
@@ -17350,7 +17413,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 851,
+        "form" : "xallábha"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 788,
@@ -17639,10 +17708,7 @@
       "forms" : [ "〜でありやがるような" ]
     } ],
     "tags" : [ ],
-    "contents" : [ {
-      "title" : "発音",
-      "text" : "xɛmmaːn"
-    } ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -17666,7 +17732,13 @@
       "text" : "間投詞としては文末のピッチパターンで読まれ、文接続詞としては文中のピッチパターンで読まれる。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 860,
+        "form" : "phíleṣṣág"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 807,
@@ -17821,7 +17893,7 @@
     },
     "translations" : [ {
       "title" : "副詞",
-      "forms" : [  "～だというのにもかかわらず", "〜ながらも" ]
+      "forms" : [ "～だというのにもかかわらず", "〜ながらも" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -18171,11 +18243,701 @@
         "form" : "borúḷ"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 837,
+      "form" : "dhíṣ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "爪" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍picei, 藍tusui"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 838,
+      "form" : "bhauda"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "尻", "臀部" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍pwauda"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 839,
+      "form" : "dhezán e"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "ピッチが高くなり息抜きが発生するたびに軸を切る流儀" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "単語が区切れるごとに線を切る現行の流儀とは異なり、息継ぎ (dhez) が起こるタイミングで線を切るという、廃れた別流儀。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 840,
+      "form" : "ṣlesaúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "〜(対格)を指揮している", "〜(対格)を監督している", "〜(対格)の指揮官である", "〜(対格)の監督である" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理xrlersaからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 841,
+      "form" : "ho"
+    },
+    "translations" : [ {
+      "title" : "終助詞",
+      "forms" : [ "呼びかけ助辞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "o で終わる名詞にはつかない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 842,
+      "form" : "ghuṇúḷ"
+    },
+    "translations" : [ {
+      "title" : "瞬間動詞",
+      "forms" : [ "〜(対格)を〜(hína/ghi)に置く" ]
+    }, {
+      "title" : "状態動詞",
+      "forms" : [ "〜(対格)に〜(hína/具格)という影響をもたらしている" ]
+    }, {
+      "title" : "瞬間動詞",
+      "forms" : [ "〜(対格)に〜(ghi)という刑罰を課す" ]
+    }, {
+      "title" : "瞬間動詞",
+      "forms" : [ "〜(対格)を〜(具格)と見なすこととする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍kunge,牌kun2,皇kug-u"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 843,
+      "form" : "ghuṇṇeghaúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)を繋げる", "〜(対格)を結びつける" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "多数性を明示する表現であるので、目的語が複数であっても複数形接辞を用いない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 844,
+      "form" : "codhidhel cákíkaúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "物議を醸す", "非難の対象となる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 845,
+      "form" : "racá"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "櫛" ]
+    } ],
+    "tags" : [ "必ず複数曲用" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 846,
+      "form" : "ghuṇásúka"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "付き人", "従者" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐ghuṇ- + 伐 ásúka"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 847,
+      "form" : "laihau"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "空気", "外気" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍laihauからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 848,
+      "form" : "jogele cahúḷ"
+    },
+    "translations" : [ {
+      "title" : "瞬間動詞",
+      "forms" : [ "口にする前に自身の主張に含まれる誤りに気づく" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "cahúḷ は動作動詞であるが、jogele cahúḷ は ghaccúḷ の類義語として解釈されるため瞬間動詞として用いられる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 849,
+      "form" : "hínai"
+    },
+    "translations" : [ {
+      "title" : "名詞接続詞",
+      "forms" : [ "～にある～" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "歴史言語学的情報",
+      "text" : "hína + -ñ の鼻音性異化"
+    }, {
+      "title" : "用法",
+      "text" : "かなり古風な表現であり、現代的な文体には使いがたい。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 850,
+      "form" : "moḷ"
+    },
+    "translations" : [ {
+      "title" : "名詞接続詞",
+      "forms" : [ "～にある～" ]
+    } ],
+    "tags" : [ "口語的" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理mol/東mol からの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 851,
+      "form" : "xallábha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "いがみ合いの演出", "不和であるふりをすること" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 616,
+        "form" : "xall-"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 787,
+        "form" : "ábha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 852,
+      "form" : "oghi"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "骨" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍hovi,牌ho2,皇owi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 853,
+      "form" : "núṇán"
+    },
+    "translations" : [ {
+      "title" : "連体詞",
+      "forms" : [ "安全な" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理niurn + 伐 -án"
+    }, {
+      "title" : "歴史言語学的情報",
+      "text" : "本来期待される形は *ṇúnán であるが、語頭に ṇ が立つことを嫌って音位転換を起こした形のみが用いられる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 854,
+      "form" : "dauphasáka"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "(分詞+dauphasákabhau bohúḷで)可能な限り〜をする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "歴史言語学的情報",
+      "text" : "タカン語「連体形 + tomábeko kan moŕlu」の翻訳借用。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 855,
+      "form" : "rúsa"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "（落葉樹の名）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 856,
+      "form" : "bhodakíadha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "空模様から天気（特に波高）を予測する技量" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 857,
+      "form" : "koṣ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "人間の足", "〜(具格)のふもと", "（複数形具格で用いて）徒歩で" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍k'osoi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 858,
+      "form" : "símoúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "ケチである", "吝嗇である" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 859,
+      "form" : "ra"
+    },
+    "translations" : [ {
+      "title" : "後置小辞",
+      "forms" : [ "（直前の語に疑義があるときにつける）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "用法",
+      "text" : "元来は、たとえば「A であるせいで B となった」を「A であるからか、B となった」に変えるような接辞。現代では皮肉的にのみ用いられ、「疑義しかない」や「むしろ誤りであるという確信がある」といった含意を持つ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 860,
+      "form" : "phíleṣṣág"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "イエスマン", "何を聞かれても OK としか言わない奴" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 806,
+        "form" : "phílex"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 671,
+        "form" : "-ṣág"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 861,
+      "form" : "bhomarijz"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "得たいという欲望" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "歴史言語学的情報",
+      "text" : "r が短母音に挟まれるのを嫌ってか *bhomarijúḷ という動詞形は無いが、ríz「明るい見通し」ではなく rijz「」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 862,
+      "form" : "khúwadheṣ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "クワ王" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 863,
+      "form" : "bhoḷa"
+    },
+    "translations" : [ {
+      "title" : "母音幹接尾辞",
+      "forms" : [ "羊" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍pola"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 864,
+      "form" : "dhesen"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名", "主属同形対格-ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 233,
+        "form" : "dheseúḷ"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 161,
+        "form" : "-n"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 865,
+      "form" : "ícalát"
+    },
+    "translations" : [ {
+      "title" : "連体詞",
+      "forms" : [ "静かな", "無言の" ]
+    }, {
+      "title" : "連体詞",
+      "forms" : [ "従順な" ]
+    }, {
+      "title" : "連体詞",
+      "forms" : [ "(溶液などが)中性の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理ircalartからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 866,
+      "form" : "ághihomá ríon"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "人が死んだことがきっかけで講じられた対策" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 452,
+        "form" : "ághi"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 44,
+        "form" : "-homá"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 631,
+        "form" : "ríon"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 867,
+      "form" : "ebhauda"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "nautuhomá e の末尾部分" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 868,
+      "form" : "nai"
+    },
+    "translations" : [ {
+      "title" : "後置小辞",
+      "forms" : [ "（名詞の後ろに置いて）他ならぬ" ]
+    }, {
+      "title" : "後置小辞",
+      "forms" : [ "（否定副詞 ám などの後ろに置いて）〜というわけでは" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "マトナ-éne"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 869,
+      "form" : "bhára"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "粥" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍phere"
+    }, {
+      "title" : "用法",
+      "text" : "同音の「風」との区別のため、主に複合語で用いられる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 870,
+      "form" : "koṭabhára"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "雑草やその種などを使った救荒食としての粥" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 871,
+      "form" : "rakkigha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "ただ漫然と無為に生きているだけで何も生産的なことを行っていない輩" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 872,
+      "form" : "dheṣin"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（暦の）〜月" ]
+    } ],
+    "tags" : [ "主属同形対格-ele", "形式名詞" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理stujesn からの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 873,
+      "form" : "nígán káṇabhau"
+    },
+    "translations" : [ {
+      "title" : "副詞句",
+      "forms" : [ "時間という選別者により" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "『時間が経過したことによって、一時のブームに留まるものなのか、それとも世代をまたいで長く使われるものなのかの峻別が皆にも分かるようになって』の意味。káṇahomá nígai とか káṇanígai にならないのは、káṇa そのものに「忘れさせるもの」という印象が結びついているから (cf. káṇabhodi)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 763,
+        "form" : "níg"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 35,
+        "form" : "-án"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 104,
+        "form" : "káṇa"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 48,
+        "form" : "-bhau"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 874,
+      "form" : "joroḷo"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "ヨヴローロ（魚名）" ]
+    } ],
+    "tags" : [ "動植物名" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理jovrorloからの借用"
+    }, {
+      "title" : "文化",
+      "text" : "理jovrorloを参照せよ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 875,
+      "form" : "láṭ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（落葉樹の名）" ]
+    } ],
+    "tags" : [ "動植物名" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
     "wordOrderType" : "UNICODE",
-    "punctuations" : [ ",", "　", "、", " ", " " ],
+    "punctuations" : [ ",", "、" ],
     "ignoredTranslationRegex" : "",
     "pronunciationTitle" : "発音",
     "plainInformationTitles" : [ ],
@@ -18193,5 +18955,5 @@
       "relations" : [ ]
     }
   },
-  "snoj" : "\nPUNCTUATION = \".\" | \",\" | \"_\";\n\nretroflex = \"ṇ\" | \"ṭ\" | \"ḍ\" | \"ṣ\" | \"ḷ\"\nvowel = \"au\" | \"ai\" | \"á\"  | \"í\"  | \"ú\"  | \"e\"  | \"o\"  | \"a\"  | \"i\"  | \"u\" \n\n\"ph\" -> /pʰ/\n\"bh\" -> /bʱ/\n\"dh\" -> /dʱ/\n\"ṣl\" -> /ʂɻ/\n\"l\" ^ -> /ɾə/\n\"kh\" -> /kʰ/\n\"gh\" -> /ɣ/\n\n\"aj\" !vowel -> /aj/\n\"ij\" !vowel -> /iː/\nretroflex \"í\" -> $ /ɨː/\nretroflex \"i\" -> $ /ɨ/\n\n\"ll\" -> /ll/\n\n^ \"l\" -> /l/\n^ \"e\" -> /jɛː/\n\n\"au\" -> /aw/\n\"ai\" -> /aj/\n\"á\" -> /aː/\n\"í\" -> /iː/\n\"ú\" -> /uː/\n\"e\" -> /ɛː/\n\"o\" -> /ɔː/\n\n\"a\" -> /a/ \n\"i\" -> /i/\n\"u\" -> /u/\n\n\n\n\"ṭ\" -> /ʈ/\n\"ḍ\" -> /ɖ/\n\"ṣ\" -> /ʂ/\n\"ḷ\" -> /ɭ/\n\"ṇ\" -> /ɳ/\n\n\n\"-\" -> /-/\n\n\"w\" -> /ʋ/\n\"p\" -> /p/\n\"b\" -> /b/\n\"m\" -> /m/\n\n\"t\" -> /t/\n\"d\" -> /d/\n\"n\" -> /n/\n\"c\" -> /s/\n\"s\" -> /z/\n\"l\" -> /ɾ/\n\"r\" -> /r/\n\n\"x\" -> /ʃ/\n\"z\" -> /tʃ/\n\"j\" -> /j/\n\"y\" -> /ɥ/\n\n\"k\" -> /k/\n\"g\" -> /ɡ/\n\"h\" -> /x/\n"
+  "snoj" : "\nPUNCTUATION = \".\" | \",\";\n\nretroflex = \"ṇ\" | \"ṭ\" | \"ḍ\" | \"ṣ\" | \"ḷ\"\nvowel = \"au\" | \"ai\" | \"á\"  | \"í\"  | \"ú\"  | \"e\"  | \"o\"  | \"a\"  | \"i\"  | \"u\" \n\n\"eṣṣ\" -> /ɛʂʂ/\n\"emm\" -> /ɛmm/\n\n\n\"ph\" -> /pʰ/\n\"bh\" -> /bʱ/\n\"dh\" -> /dʱ/\n\"ṣl\" -> /ʂɻ/\n\"l\" ^ -> /ɾə/\n\"kh\" -> /kʰ/\n\"gh\" -> /ɣ/\n\n\"aj\" !vowel -> /aj/\n\"ij\" !vowel -> /iː/\nretroflex \"í\" -> $ /ɨː/\nretroflex \"i\" -> $ /ɨ/\n\n\"ll\" -> /ll/\n\n\"au\" -> /aw/\n\"ai\" -> /aj/\n\"á\" -> /aː/\n\"í\" -> /iː/\n\"ú\" -> /uː/\n\"e\" -> /ɛː/\n\"o\" -> /ɔː/\n\n\"a\" -> /a/ \n\"i\" -> /i/\n\"u\" -> /u/\n\n\n\n\"ṭ\" -> /ʈ/\n\"ḍ\" -> /ɖ/\n\"ṣ\" -> /ʂ/\n\"ḷ\" -> /ɭ/\n\"ṇ\" -> /ɳ/\n\n\n\"-\" -> /-/\n\n\"w\" -> /ʋ/\n\"p\" -> /p/\n\"b\" -> /b/\n\"m\" -> /m/\n\n\"t\" -> /t/\n\"d\" -> /d/\n\"n\" -> /n/\n\"c\" -> /s/\n\"s\" -> /z/\n\"l\" -> /ɾ/\n\"r\" -> /r/\n\n\"x\" -> /ʃ/\n\"z\" -> /tʃ/\n\"j\" -> /j/\n\"y\" -> /ɥ/\n\n\"k\" -> /k/\n\"g\" -> /ɡ/\n\"h\" -> /x/\n"
 }

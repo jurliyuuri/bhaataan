@@ -765,6 +765,12 @@
         "id" : 734,
         "form" : "ághatán bacú"
       }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 873,
+        "form" : "nígán káṇabhau"
+      }
     } ]
   }, {
     "entry" : {
@@ -1092,6 +1098,12 @@
         "id" : 342,
         "form" : "phaigahomá zepha"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 866,
+        "form" : "ághihomá ríon"
+      }
     } ]
   }, {
     "entry" : {
@@ -1221,6 +1233,12 @@
       "entry" : {
         "id" : 49,
         "form" : "-bhauná"
+      }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 873,
+        "form" : "nígán káṇabhau"
       }
     } ]
   }, {
@@ -2706,6 +2724,12 @@
         "id" : 309,
         "form" : "bhákáṇa"
       }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 873,
+        "form" : "nígán káṇabhau"
+      }
     } ]
   }, {
     "entry" : {
@@ -4169,7 +4193,13 @@
         "id" : 822,
         "form" : "lásin"
       }
-    }  ]
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 864,
+        "form" : "dhesen"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 162,
@@ -5693,7 +5723,13 @@
       "text" : "藍thaise"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 864,
+        "form" : "dhesen"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 234,
@@ -10916,6 +10952,12 @@
         "id" : 454,
         "form" : "ághim"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 866,
+        "form" : "ághihomá ríon"
+      }
     } ]
   }, {
     "entry" : {
@@ -14383,6 +14425,12 @@
         "id" : 736,
         "form" : "xallásúka"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 851,
+        "form" : "xallábha"
+      }
     } ]
   }, {
     "entry" : {
@@ -14641,7 +14689,13 @@
       "text" : "理riron"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 866,
+        "form" : "ághihomá ríon"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 632,
@@ -15310,6 +15364,12 @@
       "entry" : {
         "id" : 672,
         "form" : "-aṣág"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 860,
+        "form" : "phíleṣṣág"
       }
     } ]
   }, {
@@ -16312,9 +16372,6 @@
     "contents" : [ {
       "title" : "usage",
       "text" : "Represents the situation of a monarch being tried by their former subordinates following a political upheaval such as a coup d'état."
-    }, {
-      "title" : "pronunciation",
-      "text" : "adʱɛʂʂɨːɥa"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -16912,7 +16969,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 873,
+        "form" : "nígán káṇabhau"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 764,
@@ -17353,7 +17416,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 851,
+        "form" : "xallábha"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 788,
@@ -17642,10 +17711,7 @@
       "forms" : [ "〜でありやがるような" ]
     } ],
     "tags" : [ ],
-    "contents" : [ {
-      "title" : "pronunciation",
-      "text" : "xɛmmaːn"
-    } ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
@@ -17669,7 +17735,13 @@
       "text" : "As an interjection, this word is read with a sentence-final pitch pattern. As a conjunction, it is pronounced with a normal pitch pattern."
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 860,
+        "form" : "phíleṣṣág"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 807,
@@ -17680,7 +17752,7 @@
       "forms" : [ "for [nominative] (oil) to be rancid" ]
     }, {
       "title" : "stative verb",
-      "forms" : [ "for [nominative] (word or expression) to lack \"bhát-ness\""]
+      "forms" : [ "for [nominative] (word or expression) to lack \"bhát-ness\"" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -17824,7 +17896,7 @@
     },
     "translations" : [ {
       "title" : "adverb",
-      "forms" : [  "even (while V-ing)" ]
+      "forms" : [ "even (while V-ing)" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -18174,6 +18246,696 @@
         "form" : "borúḷ"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 837,
+      "form" : "dhíṣ"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "fingernail", "toenail" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍picei, 藍tusui"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 838,
+      "form" : "bhauda"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "尻", "臀部" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍pwauda"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 839,
+      "form" : "dhezán e"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "a convention of cutting the top line whenever there is a short breathing time causing the pitch to rise in the enunciation of the phrase" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "culture",
+      "text" : "an obsolete convention where the top line connecting the bhátán alphabets is cut not at the word boundary but when a short breathing time (called \"dhez\") occurs.\n"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 840,
+      "form" : "ṣlesaúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to supervise [accusative]", "to be the commander of [accusative]", "to be the supervisor of [accusative]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理xrlersa."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 841,
+      "form" : "ho"
+    },
+    "translations" : [ {
+      "title" : "sentence-final particle",
+      "forms" : [ "vocative particle" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "Cannot be added to a noun that already ends in an o."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 842,
+      "form" : "ghuṇúḷ"
+    },
+    "translations" : [ {
+      "title" : "instantaneous verb",
+      "forms" : [ "to put [accusative] in [hína/ghi]", "to place [accusative] in [hína/ghi]" ]
+    }, {
+      "title" : "stative verb",
+      "forms" : [ "to be affecting [accusative] by means of [hína/instrumental] (effect)" ]
+    }, {
+      "title" : "instantaneous verb",
+      "forms" : [ "to impose [ghi] (punishment) on [accusative]" ]
+    }, {
+      "title" : "instantaneous verb",
+      "forms" : [ "to decide to treat [accusative] as [instrumental]" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍kunge,牌kun2,皇kug-u"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 843,
+      "form" : "ghuṇṇeghaúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to connect [accusative] together", "to join [accusative] together" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "The object of this verb does not take the plural suffix because the plurality is obvious from the meaning of the verb."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 844,
+      "form" : "codhidhel cákíkaúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to cause a controversy", "to become a target of criticism" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 845,
+      "form" : "racá"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "comb" ]
+    } ],
+    "tags" : [ "always plural declension" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 846,
+      "form" : "ghuṇásúka"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "assistant", "chaperon", "attendant", "servant" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "伐ghuṇ- + 伐 ásúka"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 847,
+      "form" : "laihau"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "air", "outdoor air", "open air" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 藍laihau."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 848,
+      "form" : "jogele cahúḷ"
+    },
+    "translations" : [ {
+      "title" : "instantaneous verb",
+      "forms" : [ "to realize the errors in one's own argument before speaking" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "Although cahúḷ is a dynamic verb, jogele cahúḷ is interpreted as a synonym for ghaccúḷ and is therefore used as an instantaneous verb."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 849,
+      "form" : "hínai"
+    },
+    "translations" : [ {
+      "title" : "conjunction for nouns",
+      "forms" : [ "(in the form \"A hínai B\") B located in A", "B in A", "B at A" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "etymological information",
+      "text" : "nasal dissimilation of hína + -ñ"
+    }, {
+      "title" : "usage",
+      "text" : "being quite an old-fashioned expression, it is somewhat cumbersome to use this in a modern writing style."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 850,
+      "form" : "moḷ"
+    },
+    "translations" : [ {
+      "title" : "conjunction for nouns",
+      "forms" : [ "(in the form \"A moḷ B\") B located in A", "B in A", "B at A" ]
+    } ],
+    "tags" : [ "colloquial" ],
+    "contents" : [ {
+      "title" : "etymological information",
+      "text" : "Borrowed from 理mol/東mol."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 851,
+      "form" : "xallábha"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "staging a feud", "pretending to be at odds" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 616,
+        "form" : "xall-"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 787,
+        "form" : "ábha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 852,
+      "form" : "oghi"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "bone" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍hovi,牌ho2,皇owi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 853,
+      "form" : "núṇán"
+    },
+    "translations" : [ {
+      "title" : "prenominal",
+      "forms" : [ "safe" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理niurn + 伐 -án"
+    }, {
+      "title" : "historical linguistic information",
+      "text" : "The expected form is *ṇúnán, but since the language avoids having ṇ at the beginning of the word, only the metathesized form is utilized."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 854,
+      "form" : "dauphasáka"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "(in the form \"participle + dauphasákabhau bohúḷ\") do [verb] as much as possible" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "historical linguistic information",
+      "text" : "Calque of タカン語 \"participle + tomábeko kan moŕlu\"."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 855,
+      "form" : "rúsa"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "(name of a deciduous tree)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 856,
+      "form" : "bhodakíadha"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "the skill of predicting weather (especially wave height) from how the weather looks like" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 857,
+      "form" : "koṣ"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "human foot", "at the foot of [instrumental]", "(used in the instrumental plural) on foot" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍k'osoi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 858,
+      "form" : "símoúḷ"
+    },
+    "translations" : [ {
+      "title" : "stative verb",
+      "forms" : [ "to be stingy", "to be unwilling to spend" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 859,
+      "form" : "ra"
+    },
+    "translations" : [ {
+      "title" : "postfix particle",
+      "forms" : [ "(used when there is doubt on the immediately preceding word)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "usage",
+      "text" : "Originally a particle that for example changes \"Because of A, B happened.\" into \"Possibly because of A, B happened.\". In the modern era its use is entirely satirical: it is used only when the speaker knows that the dubious claim is in fact wrong."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 860,
+      "form" : "phíleṣṣág"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "someone who only answers \"okay\" or \"all right\" under all circumstances" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 806,
+        "form" : "phílex"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 671,
+        "form" : "-ṣág"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 861,
+      "form" : "bhomarijz"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "desire of obtaining something" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "historical linguistic information",
+      "text" : "The language lacks the verb of the form *bhomarijúḷ, a possible explanation of which is that the language might have an aversion towards r placed between two short vowels. In spite of the lack of the verb form, this word is nevertheless spelled with an \"ij\" because its meaning is closer to \"rijz\" (aspiration, wish) rather than \"ríz\" (wishful thinking; positive prospect)."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 862,
+      "form" : "khúwadheṣ"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "King Khuwa" ]
+    } ],
+    "tags" : [ "name" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 863,
+      "form" : "bhoḷa"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "sheep" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍pola"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 864,
+      "form" : "dhesen"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "(name of a person)" ]
+    } ],
+    "tags" : [ "name", "NomGen: Zero, Acc: -ele" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 233,
+        "form" : "dheseúḷ"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 161,
+        "form" : "-n"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 865,
+      "form" : "ícalát"
+    },
+    "translations" : [ {
+      "title" : "prenominal",
+      "forms" : [ "quiet", "silent" ]
+    }, {
+      "title" : "prenominal",
+      "forms" : [ "obedient", "submissive" ]
+    }, {
+      "title" : "prenominal",
+      "forms" : [ "(of a liquid) neutral" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理ircalart."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 866,
+      "form" : "ághihomá ríon"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "measures implemented in response to a death incident" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 452,
+        "form" : "ághi"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 44,
+        "form" : "-homá"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 631,
+        "form" : "ríon"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 867,
+      "form" : "ebhauda"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "the right end of a śirorekhā (nautuhomá e)" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 868,
+      "form" : "nai"
+    },
+    "translations" : [ {
+      "title" : "postfix particle",
+      "forms" : [ "(following a noun) none other than" ]
+    }, {
+      "title" : "postfix particle",
+      "forms" : [ "(following a negation particle such as \"ám\") it is the case that" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "マトナ-éne"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 869,
+      "form" : "bhára"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "porridge" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "藍phere"
+    }, {
+      "title" : "usage",
+      "text" : "Due to the homophony with \"wind\", this word is mainly used as compound words to avoid ambiguity."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 870,
+      "form" : "koṭabhára"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "porridge in times of famine made from weeds and their seeds" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 871,
+      "form" : "rakkigha"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "someone who just lives aimlessly and idly and does nothing productive" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 872,
+      "form" : "dheṣin"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "... month" ]
+    } ],
+    "tags" : [ "NomGen: Zero, Acc: -ele", "dependent noun" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理stujesn."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 873,
+      "form" : "nígán káṇabhau"
+    },
+    "translations" : [ {
+      "title" : "adverbial phrase",
+      "forms" : [ "having stood the test of time" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "culture",
+      "text" : "It has the connotation of “Since enough time has passed, everyone comes to understand the clear distinction between what remains merely a passing fad and what will be used for a long time, spanning generations.” The reason it is not “káṇahomá nígai” or “káṇanígai” is that the word “káṇa” itself carries the connotation of “that which causes one to forget” (cf. káṇabhodi)."
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 763,
+        "form" : "níg"
+      }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 35,
+        "form" : "-án"
+      }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 104,
+        "form" : "káṇa"
+      }
+    }, {
+      "title" : "set phrase, idiomatic phrase",
+      "entry" : {
+        "id" : 48,
+        "form" : "-bhau"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 874,
+      "form" : "joroḷo"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "jovrōlo (a fish species)" ]
+    } ],
+    "tags" : [ "name of a plant / animal" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "Borrowed from 理jovrorlo."
+    }, {
+      "title" : "culture",
+      "text" : "See 理jovrorlo."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 875,
+      "form" : "láṭ"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "(name of a deciduous tree species)" ]
+    } ],
+    "tags" : [ "name of a plant / animal" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
@@ -18196,5 +18958,5 @@
       "relations" : [ ]
     }
   },
-  "snoj" : "\nPUNCTUATION = \".\" | \",\" | \"_\";\n\nretroflex = \"ṇ\" | \"ṭ\" | \"ḍ\" | \"ṣ\" | \"ḷ\"\nvowel = \"au\" | \"ai\" | \"á\"  | \"í\"  | \"ú\"  | \"e\"  | \"o\"  | \"a\"  | \"i\"  | \"u\" \n\n\"ph\" -> /pʰ/\n\"bh\" -> /bʱ/\n\"dh\" -> /dʱ/\n\"ṣl\" -> /ʂɻ/\n\"l\" ^ -> /ɾə/\n\"kh\" -> /kʰ/\n\"gh\" -> /ɣ/\n\n\"aj\" !vowel -> /aj/\n\"ij\" !vowel -> /iː/\nretroflex \"í\" -> $ /ɨː/\nretroflex \"i\" -> $ /ɨ/\n\n\"ll\" -> /ll/\n\n^ \"l\" -> /l/\n^ \"e\" -> /jɛː/\n\n\"au\" -> /aw/\n\"ai\" -> /aj/\n\"á\" -> /aː/\n\"í\" -> /iː/\n\"ú\" -> /uː/\n\"e\" -> /ɛː/\n\"o\" -> /ɔː/\n\n\"a\" -> /a/ \n\"i\" -> /i/\n\"u\" -> /u/\n\n\n\n\"ṭ\" -> /ʈ/\n\"ḍ\" -> /ɖ/\n\"ṣ\" -> /ʂ/\n\"ḷ\" -> /ɭ/\n\"ṇ\" -> /ɳ/\n\n\n\"-\" -> /-/\n\n\"w\" -> /ʋ/\n\"p\" -> /p/\n\"b\" -> /b/\n\"m\" -> /m/\n\n\"t\" -> /t/\n\"d\" -> /d/\n\"n\" -> /n/\n\"c\" -> /s/\n\"s\" -> /z/\n\"l\" -> /ɾ/\n\"r\" -> /r/\n\n\"x\" -> /ʃ/\n\"z\" -> /tʃ/\n\"j\" -> /j/\n\"y\" -> /ɥ/\n\n\"k\" -> /k/\n\"g\" -> /ɡ/\n\"h\" -> /x/\n"
+  "snoj" : "\nPUNCTUATION = \".\" | \",\";\n\nretroflex = \"ṇ\" | \"ṭ\" | \"ḍ\" | \"ṣ\" | \"ḷ\"\nvowel = \"au\" | \"ai\" | \"á\"  | \"í\"  | \"ú\"  | \"e\"  | \"o\"  | \"a\"  | \"i\"  | \"u\" \n\n\"eṣṣ\" -> /ɛʂʂ/\n\"emm\" -> /ɛmm/\n\n\n\"ph\" -> /pʰ/\n\"bh\" -> /bʱ/\n\"dh\" -> /dʱ/\n\"ṣl\" -> /ʂɻ/\n\"l\" ^ -> /ɾə/\n\"kh\" -> /kʰ/\n\"gh\" -> /ɣ/\n\n\"aj\" !vowel -> /aj/\n\"ij\" !vowel -> /iː/\nretroflex \"í\" -> $ /ɨː/\nretroflex \"i\" -> $ /ɨ/\n\n\"ll\" -> /ll/\n\n\"au\" -> /aw/\n\"ai\" -> /aj/\n\"á\" -> /aː/\n\"í\" -> /iː/\n\"ú\" -> /uː/\n\"e\" -> /ɛː/\n\"o\" -> /ɔː/\n\n\"a\" -> /a/ \n\"i\" -> /i/\n\"u\" -> /u/\n\n\n\n\"ṭ\" -> /ʈ/\n\"ḍ\" -> /ɖ/\n\"ṣ\" -> /ʂ/\n\"ḷ\" -> /ɭ/\n\"ṇ\" -> /ɳ/\n\n\n\"-\" -> /-/\n\n\"w\" -> /ʋ/\n\"p\" -> /p/\n\"b\" -> /b/\n\"m\" -> /m/\n\n\"t\" -> /t/\n\"d\" -> /d/\n\"n\" -> /n/\n\"c\" -> /s/\n\"s\" -> /z/\n\"l\" -> /ɾ/\n\"r\" -> /r/\n\n\"x\" -> /ʃ/\n\"z\" -> /tʃ/\n\"j\" -> /j/\n\"y\" -> /ɥ/\n\n\"k\" -> /k/\n\"g\" -> /ɡ/\n\"h\" -> /x/\n"
 }

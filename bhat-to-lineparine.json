@@ -1092,6 +1092,12 @@
         "id" : 342,
         "form" : "phaigahomá zepha"
       }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 866,
+        "form" : "ághihomá ríon"
+      }
     } ]
   }, {
     "entry" : {
@@ -4169,6 +4175,12 @@
         "id" : 822,
         "form" : "lásin"
       }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 864,
+        "form" : "dhesen"
+      }
     } ]
   }, {
     "entry" : {
@@ -5693,7 +5705,13 @@
       "text" : "藍thaise"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 864,
+        "form" : "dhesen"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 234,
@@ -10913,6 +10931,12 @@
         "id" : 454,
         "form" : "ághim"
       }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 866,
+        "form" : "ághihomá ríon"
+      }
     } ]
   }, {
     "entry" : {
@@ -14365,6 +14389,12 @@
         "id" : 736,
         "form" : "xallásúka"
       }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 851,
+        "form" : "xallábha"
+      }
     } ]
   }, {
     "entry" : {
@@ -14617,7 +14647,13 @@
       "text" : "理riron"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 866,
+        "form" : "ághihomá ríon"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 632,
@@ -14691,7 +14727,7 @@
     "tags" : [ "必ず複数曲用" ],
     "contents" : [ {
       "title" : "歴史言語学的情報",
-      "text" : "hodibhattáの意味範囲は魚系統の調味料や塩の全体と説明されることが多いが、これは冷凍技術や輸送技術の乏しい時代に内陸部に多くのバート人が住んでいたことの名残であり、バート人の食卓にも魚介が並ぶようになった現代においては、魚介の風味も含めてこの単語で表すことも多い。"
+      "text" : "bhodibhattáの意味範囲は魚系統の調味料や塩の全体と説明されることが多いが、これは冷凍技術や輸送技術の乏しい時代に内陸部に多くのバート人が住んでいたことの名残であり、バート人の食卓にも魚介が並ぶようになった現代においては、魚介の風味も含めてこの単語で表すことも多い。"
     } ],
     "variations" : [ ],
     "relations" : [ ]
@@ -15286,6 +15322,12 @@
       "entry" : {
         "id" : 672,
         "form" : "-aṣág"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 860,
+        "form" : "phíleṣṣág"
       }
     } ]
   }, {
@@ -17308,7 +17350,13 @@
     "tags" : [ ],
     "contents" : [ ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 851,
+        "form" : "xallábha"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 788,
@@ -17578,7 +17626,7 @@
     },
     "translations" : [ {
       "title" : "kraftan",
-      "forms" : [ "こんな", "こうでありやがるような"  ]
+      "forms" : [ "こんな", "こうでありやがるような" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -17624,7 +17672,13 @@
       "text" : "間投詞としては文末のピッチパターンで読まれ、文接続詞としては文中のピッチパターンで読まれる。"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 860,
+        "form" : "phíleṣṣág"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 807,
@@ -17779,7 +17833,7 @@
     },
     "translations" : [ {
       "title" : "ftonaol",
-      "forms" : [  "～だというのにもかかわらず", "〜ながらも" ]
+      "forms" : [ "～だというのにもかかわらず", "〜ながらも" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -18129,6 +18183,687 @@
         "form" : "borúḷ"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 837,
+      "form" : "dhíṣ"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "lefhil", "pones" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍picei, 藍tusui"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 838,
+      "form" : "bhauda"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "detiest", "larfhim" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍pwauda"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 839,
+      "form" : "dhezán e"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "ピッチが高くなり息抜きが発生するたびに軸を切る流儀" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "meu",
+      "text" : "単語が区切れるごとに線を切る現行の流儀とは異なり、息継ぎ (dhez) が起こるタイミングで線を切るという、廃れた別流儀。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 840,
+      "form" : "ṣlesaúḷ"
+    },
+    "translations" : [ {
+      "title" : "sytenen ftona",
+      "forms" : [ "xrlersa [tsans]'l" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "理xrlersaからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 841,
+      "form" : "ho"
+    },
+    "translations" : [ {
+      "title" : "naliuftona",
+      "forms" : [ "呼びかけ助辞" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "liusel",
+      "text" : "o で終わる名詞にはつかない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 842,
+      "form" : "ghuṇúḷ"
+    },
+    "translations" : [ {
+      "title" : "narlen ftona",
+      "forms" : [ "〜(対格)を〜(hína/ghi)に置く" ]
+    }, {
+      "title" : "sytenen ftona",
+      "forms" : [ "〜(対格)に〜(hína/具格)という影響をもたらしている" ]
+    }, {
+      "title" : "narlen ftona",
+      "forms" : [ "〜(対格)に〜(ghi)という刑罰を課す" ]
+    }, {
+      "title" : "narlen ftona",
+      "forms" : [ "〜(対格)を〜(具格)と見なすこととする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍kunge,牌kun2,皇kug-u"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 843,
+      "form" : "ghuṇṇeghaúḷ"
+    },
+    "translations" : [ {
+      "title" : "jonusten ftona",
+      "forms" : [ "〜(対格)を繋げる", "〜(対格)を結びつける" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "liusel",
+      "text" : "多数性を明示する表現であるので、目的語が複数であっても複数形接辞を用いない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 844,
+      "form" : "codhidhel cákíkaúḷ"
+    },
+    "translations" : [ {
+      "title" : "jonusten ftona",
+      "forms" : [ "物議を醸す", "非難の対象となる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 845,
+      "form" : "racá"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "櫛" ]
+    } ],
+    "tags" : [ "必ず複数曲用" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 846,
+      "form" : "ghuṇásúka"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "付き人", "従者" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "伐ghuṇ- + 伐 ásúka"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 847,
+      "form" : "laihau"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "dyjet" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍laihauからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 848,
+      "form" : "jogele cahúḷ"
+    },
+    "translations" : [ {
+      "title" : "narlen ftona",
+      "forms" : [ "口にする前に自身の主張に含まれる誤りに気づく" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "liusel",
+      "text" : "cahúḷ は動作動詞であるが、jogele cahúḷ は ghaccúḷ の類義語として解釈されるため瞬間動詞として用いられる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 849,
+      "form" : "hínai"
+    },
+    "translations" : [ {
+      "title" : "kaften kranti'a",
+      "forms" : [ "lex mol" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "歴史言語学的情報",
+      "text" : "hína + -ñ の鼻音性異化"
+    }, {
+      "title" : "liusel",
+      "text" : "かなり古風な表現であり、現代的な文体には使いがたい。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 850,
+      "form" : "moḷ"
+    },
+    "translations" : [ {
+      "title" : "kaften kranti'a",
+      "forms" : [ "lex mol" ]
+    } ],
+    "tags" : [ "口語的" ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "理mol/東mol からの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 851,
+      "form" : "xallábha"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "いがみ合いの演出", "不和であるふりをすること" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 616,
+        "form" : "xall-"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 787,
+        "form" : "ábha"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 852,
+      "form" : "oghi"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "etysn", "larsu" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍hovi,牌ho2,皇owi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 853,
+      "form" : "núṇán"
+    },
+    "translations" : [ {
+      "title" : "kraftan",
+      "forms" : [ "lex niurn" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "理niurn + 伐 -án"
+    }, {
+      "title" : "歴史言語学的情報",
+      "text" : "本来期待される形は *ṇúnán であるが、語頭に ṇ が立つことを嫌って音位転換を起こした形のみが用いられる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 854,
+      "form" : "dauphasáka"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "(分詞+dauphasákabhau bohúḷで)可能な限り〜をする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "歴史言語学的情報",
+      "text" : "タカン語「連体形 + tomábeko kan moŕlu」の翻訳借用。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 855,
+      "form" : "rúsa"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "（落葉樹の名）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 856,
+      "form" : "bhodakíadha"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "空模様から天気（特に波高）を予測する技量" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 857,
+      "form" : "koṣ"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "larta'd lovim", "[leusursans]-ins", "（複数形具格で用いて）徒歩で" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍k'osoi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 858,
+      "form" : "símoúḷ"
+    },
+    "translations" : [ {
+      "title" : "sytenen ftona",
+      "forms" : [ "ケチである", "吝嗇である" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 859,
+      "form" : "ra"
+    },
+    "translations" : [ {
+      "title" : "後置小辞",
+      "forms" : [ "（直前の語に疑義があるときにつける）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "liusel",
+      "text" : "元来は、たとえば「A であるせいで B となった」を「A であるからか、B となった」に変えるような接辞。現代では皮肉的にのみ用いられ、「疑義しかない」や「むしろ誤りであるという確信がある」といった含意を持つ。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 860,
+      "form" : "phíleṣṣág"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "イエスマン", "何を聞かれても OK としか言わない奴" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 806,
+        "form" : "phílex"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 671,
+        "form" : "-ṣág"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 861,
+      "form" : "bhomarijz"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "得たいという欲望" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "歴史言語学的情報",
+      "text" : "r が短母音に挟まれるのを嫌ってか *bhomarijúḷ という動詞形は無いが、ríz「明るい見通し」ではなく rijz「願い事、望み」に関連する語義であるため、bhomaríz ではなく bhomarijz と綴る。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 862,
+      "form" : "khúwadheṣ"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "クワ王" ]
+    } ],
+    "tags" : [ "人名" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 863,
+      "form" : "bhoḷa"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "ysnet" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍pola"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 864,
+      "form" : "dhesen"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "(phertarsen ferlk)" ]
+    } ],
+    "tags" : [ "人名", "主属同形tsans io <-ele>" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 233,
+        "form" : "dheseúḷ"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 161,
+        "form" : "-n"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 865,
+      "form" : "ícalát"
+    },
+    "translations" : [ {
+      "title" : "kraftan",
+      "forms" : [ "ircalart" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "理ircalartからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 866,
+      "form" : "ághihomá ríon"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "人が死んだことがきっかけで講じられた対策" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 452,
+        "form" : "ághi"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 44,
+        "form" : "-homá"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 631,
+        "form" : "ríon"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 867,
+      "form" : "ebhauda"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "nautuhomá e の末尾部分" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 868,
+      "form" : "nai"
+    },
+    "translations" : [ {
+      "title" : "後置小辞",
+      "forms" : [ "（名詞の後ろに置いて）他ならぬ" ]
+    }, {
+      "title" : "後置小辞",
+      "forms" : [ "（否定副詞 ám などの後ろに置いて）〜というわけでは" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "マトナ-éne"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 869,
+      "form" : "bhára"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "粥" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "藍phere"
+    }, {
+      "title" : "liusel",
+      "text" : "同音の「風」との区別のため、主に複合語で用いられる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 870,
+      "form" : "koṭabhára"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "雑草やその種などを使った救荒食としての粥" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 871,
+      "form" : "rakkigha"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "ただ漫然と生きているだけで何も生産的なことを行っていない輩" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 872,
+      "form" : "dheṣin"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "（暦の）〜月" ]
+    } ],
+    "tags" : [ "主属同形tsans io <-ele>", "形式名詞" ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "理stujesn からの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 873,
+      "form" : "nígán káṇabhau"
+    },
+    "translations" : [ {
+      "title" : "副詞句",
+      "forms" : [ "時間という選別者により" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "文化",
+      "text" : "『時間が経過したことによって、一時のブームに留まるものなのか、それとも世代をまたいで長く使われるものなのかの峻別が皆にも分かるようになって』の意味。káṇahomá nígai とか káṇanígai にならないのは、káṇa そのものに「忘れさせるもの」という印象が結びついているから (cf. káṇabhodi)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 763,
+        "form" : "níg"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 35,
+        "form" : "-án"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 104,
+        "form" : "káṇa"
+      }
+    }, {
+      "title" : "熟語・定型表現",
+      "entry" : {
+        "id" : 48,
+        "form" : "-bhau"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 874,
+      "form" : "joroḷo"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "jovrorlo" ]
+    } ],
+    "tags" : [ "動植物名" ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "理jovrorloからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 875,
+      "form" : "láṭ"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "（落葉樹の名）" ]
+    } ],
+    "tags" : [ "動植物名" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
@@ -18151,5 +18886,5 @@
       "relations" : [ ]
     }
   },
-  "snoj" : "\nPUNCTUATION = \".\" | \",\" | \"_\";\n\nretroflex = \"ṇ\" | \"ṭ\" | \"ḍ\" | \"ṣ\" | \"ḷ\"\nvowel = \"au\" | \"ai\" | \"á\"  | \"í\"  | \"ú\"  | \"e\"  | \"o\"  | \"a\"  | \"i\"  | \"u\" \n\n\"ph\" -> /pʰ/\n\"bh\" -> /bʱ/\n\"dh\" -> /dʱ/\n\"ṣl\" -> /ʂɻ/\n\"l\" ^ -> /ɾə/\n\"kh\" -> /kʰ/\n\"gh\" -> /ɣ/\n\n\"aj\" !vowel -> /aj/\n\"ij\" !vowel -> /iː/\nretroflex \"í\" -> $ /ɨː/\nretroflex \"i\" -> $ /ɨ/\n\n\"ll\" -> /ll/\n\n^ \"l\" -> /l/\n^ \"e\" -> /jɛː/\n\n\"au\" -> /aw/\n\"ai\" -> /aj/\n\"á\" -> /aː/\n\"í\" -> /iː/\n\"ú\" -> /uː/\n\"e\" -> /ɛː/\n\"o\" -> /ɔː/\n\n\"a\" -> /a/ \n\"i\" -> /i/\n\"u\" -> /u/\n\n\n\n\"ṭ\" -> /ʈ/\n\"ḍ\" -> /ɖ/\n\"ṣ\" -> /ʂ/\n\"ḷ\" -> /ɭ/\n\"ṇ\" -> /ɳ/\n\n\n\"-\" -> /-/\n\n\"w\" -> /ʋ/\n\"p\" -> /p/\n\"b\" -> /b/\n\"m\" -> /m/\n\n\"t\" -> /t/\n\"d\" -> /d/\n\"n\" -> /n/\n\"c\" -> /s/\n\"s\" -> /z/\n\"l\" -> /ɾ/\n\"r\" -> /r/\n\n\"x\" -> /ʃ/\n\"z\" -> /tʃ/\n\"j\" -> /j/\n\"y\" -> /ɥ/\n\n\"k\" -> /k/\n\"g\" -> /ɡ/\n\"h\" -> /x/\n"
+  "snoj" : "\nPUNCTUATION = \".\" | \",\";\n\nretroflex = \"ṇ\" | \"ṭ\" | \"ḍ\" | \"ṣ\" | \"ḷ\"\nvowel = \"au\" | \"ai\" | \"á\"  | \"í\"  | \"ú\"  | \"e\"  | \"o\"  | \"a\"  | \"i\"  | \"u\" \n\n\"eṣṣ\" -> /ɛʂʂ/\n\"emm\" -> /ɛmm/\n\n\n\"ph\" -> /pʰ/\n\"bh\" -> /bʱ/\n\"dh\" -> /dʱ/\n\"ṣl\" -> /ʂɻ/\n\"l\" ^ -> /ɾə/\n\"kh\" -> /kʰ/\n\"gh\" -> /ɣ/\n\n\"aj\" !vowel -> /aj/\n\"ij\" !vowel -> /iː/\nretroflex \"í\" -> $ /ɨː/\nretroflex \"i\" -> $ /ɨ/\n\n\"ll\" -> /ll/\n\n\"au\" -> /aw/\n\"ai\" -> /aj/\n\"á\" -> /aː/\n\"í\" -> /iː/\n\"ú\" -> /uː/\n\"e\" -> /ɛː/\n\"o\" -> /ɔː/\n\n\"a\" -> /a/ \n\"i\" -> /i/\n\"u\" -> /u/\n\n\n\n\"ṭ\" -> /ʈ/\n\"ḍ\" -> /ɖ/\n\"ṣ\" -> /ʂ/\n\"ḷ\" -> /ɭ/\n\"ṇ\" -> /ɳ/\n\n\n\"-\" -> /-/\n\n\"w\" -> /ʋ/\n\"p\" -> /p/\n\"b\" -> /b/\n\"m\" -> /m/\n\n\"t\" -> /t/\n\"d\" -> /d/\n\"n\" -> /n/\n\"c\" -> /s/\n\"s\" -> /z/\n\"l\" -> /ɾ/\n\"r\" -> /r/\n\n\"x\" -> /ʃ/\n\"z\" -> /tʃ/\n\"j\" -> /j/\n\"y\" -> /ɥ/\n\n\"k\" -> /k/\n\"g\" -> /ɡ/\n\"h\" -> /x/\n"
 }
