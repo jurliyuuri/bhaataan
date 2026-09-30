@@ -19,7 +19,7 @@ if (!response.ok) {
 }
 
 const data = await response.text();
-fs.writeFileSync("debug/downloaded.tsv", data, "utf-8");
+fs.writeFileSync("downloaded.tsv", data, "utf-8");
 const tsv = 
     data.split(/\r?\n/).map(u=>u.split("\t"));
 
@@ -42,7 +42,7 @@ fs.writeFileSync("debug/compare.tsv", result.map(arr => arr.join("\t")).join("\n
 fs.writeFileSync("debug/same.tsv", same.map(arr => arr.join("\t")).join("\n"), "utf-8");
 fs.writeFileSync("debug/differ.tsv", differ.map(arr => arr.join("\t")).join("\n"), "utf-8");
 
-console.log(result);
+console.log("discrepancy:", differ);
 
 //------------
 
