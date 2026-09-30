@@ -64,6 +64,7 @@ function stage2_handle_diacritics(bo_bá) {
             ["M", "b"],
             ["W", "w"],
             ["H", "w"],
+            ["V", "w"],
             ["J", "y"],
 
             ["B", "b"],
