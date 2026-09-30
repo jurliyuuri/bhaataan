@@ -24,6 +24,8 @@ function convert_from_bobá_to_phonetic(bo_bá) {
     bo_bá = bo_bá.replaceAll("ʕЪ", "á"); // TODO: must check that the preceding letter is not a vowel
     // 4-2. adjustments regarding -w
     bo_bá = bo_bá.replaceAll(/[VW]Ъ/g, "wЪ");
+    // 4-3. adjustments regarding -u + stray Ъ (suúḷ)
+    bo_bá = bo_bá.replaceAll(/UЪ/g, "U");
     const after_stage_4 = bo_bá;
 
     // 5. Split into superficial syllables
@@ -130,7 +132,7 @@ function stage2_handle_diacritics(bo_bá) {
             ["L", "ʕ"],
             ["B", "h"],
             ["G", "ʕ"],
-            ["W", "ʔ"], 
+            ["W", ""], /* disappears without trace */ 
             ["ʔ", ""], /* disappears without trace */
             
         ]
@@ -280,6 +282,8 @@ function stage7_context_dependent_replacements(u) {
 
 function stage8_to_permissible(s, original_input) {
     if (["yi", "ji", "ʔi"].includes(s)) return "ghi";
+    if (s === "wu") return "ʔu";
+    if (s === "wú") return "ʔú";
     if (s === "je") return "ʔe";
     if (s === "yЪ") return "jЪ"; // indestructible jЪ (e.g. phettuj)
 
