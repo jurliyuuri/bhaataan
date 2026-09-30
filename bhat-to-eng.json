@@ -15371,6 +15371,12 @@
         "id" : 860,
         "form" : "phíleṣṣág"
       }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 877,
+        "form" : "nainaiṣág"
+      }
     } ]
   }, {
     "entry" : {
@@ -18802,7 +18808,13 @@
       "text" : "マトナ-éne"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 877,
+        "form" : "nainaiṣág"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 869,
@@ -18952,6 +18964,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 877,
+      "form" : "nainaiṣág"
+    },
+    "translations" : [ {
+      "title" : "consonant-stem noun",
+      "forms" : [ "someone who cannot grasp the complexity of reality and (due to solely focusing on a single topic) keeps jumping to the wrong conclusions" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 868,
+        "form" : "nai"
+      }
+    }, {
+      "title" : "derived term(s) / derived from",
+      "entry" : {
+        "id" : 671,
+        "form" : "-ṣág"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

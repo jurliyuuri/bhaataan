@@ -15374,6 +15374,12 @@
         "id" : 860,
         "form" : "phíleṣṣág"
       }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 877,
+        "form" : "nainaiṣág"
+      }
     } ]
   }, {
     "entry" : {
@@ -18799,7 +18805,13 @@
       "text" : "マトナ-éne"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 877,
+        "form" : "nainaiṣág"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 869,
@@ -18949,6 +18961,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 877,
+      "form" : "nainaiṣág"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "現実の複雑さを理解できず視野の狭さから誤った結論に飛びついてばかりの奴" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 868,
+        "form" : "nai"
+      }
+    }, {
+      "title" : "派生関係",
+      "entry" : {
+        "id" : 671,
+        "form" : "-ṣág"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

@@ -15329,6 +15329,12 @@
         "id" : 860,
         "form" : "phíleṣṣág"
       }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 877,
+        "form" : "nainaiṣág"
+      }
     } ]
   }, {
     "entry" : {
@@ -18733,7 +18739,13 @@
       "text" : "マトナ-éne"
     } ],
     "variations" : [ ],
-    "relations" : [ ]
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 877,
+        "form" : "nainaiṣág"
+      }
+    } ]
   }, {
     "entry" : {
       "id" : 869,
@@ -18880,6 +18892,31 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 877,
+      "form" : "nainaiṣág"
+    },
+    "translations" : [ {
+      "title" : "ftlexest pervoj",
+      "forms" : [ "現実の複雑さを理解できず視野の狭さから誤った結論に飛びついてばかりの奴" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 868,
+        "form" : "nai"
+      }
+    }, {
+      "title" : "jujolarmelseso",
+      "entry" : {
+        "id" : 671,
+        "form" : "-ṣág"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
