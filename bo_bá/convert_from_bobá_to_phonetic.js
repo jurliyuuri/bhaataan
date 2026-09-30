@@ -175,16 +175,16 @@ function stage2_handle_brackets(bo_bá) {
       liquid double braces 
       -------*/
     
-    bo_bá = bo_bá.replaceAll(/\{\{WЪL\}\}/g, "lЪl");
-    bo_bá = bo_bá.replaceAll(/\{\{RЪṣ\}\}/g, "r"); // r is long
-    bo_bá = bo_bá.replaceAll(/\{\{MЪC\}\}/g, "r"); // r is long
+    bo_bá = bo_bá.replaceAll(/⧚WЪL⧛/g, "lЪl");
+    bo_bá = bo_bá.replaceAll(/⧚RЪṣ⧛/g, "r"); // r is long
+    bo_bá = bo_bá.replaceAll(/⧚MЪC⧛/g, "r"); // r is long
 
     /*--------
       liquid single braces 
       -------*/
-    bo_bá = bo_bá.replaceAll(/\{ṣЪl\}/g, "ṣ");
-    bo_bá = bo_bá.replaceAll(/\{ṣЪṣ\}/g, "ṣ");
-    bo_bá = bo_bá.replaceAll(/\{XЪR\}/g, "ṣ");
+    bo_bá = bo_bá.replaceAll(/⧘ṣЪl⧙/g, "ṣ");
+    bo_bá = bo_bá.replaceAll(/⧘ṣЪṣ⧙/g, "ṣ");
+    bo_bá = bo_bá.replaceAll(/⧘XЪR⧙/g, "ṣ");
 
     return bo_bá;
 }

@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script>
+        function convert(textarea) {
+            const input = textarea.value;
+            const output = input.toUpperCase().replace(/\+/ug, '\u031F')
+                .replace(/-/ug, '\u0320')
+                .replace(/ÓO/ug, 'Ó')
+                .replace(/Ó+/ug, 'Ó')
+                .replace(/O/ug, 'Ó')
+                .replace(/ÉE/ug, 'É')
+                .replace(/É+/ug, 'É')
+                .replace(/E/ug, 'É')
+                .replace(/ｱA/ug,'Á')
+                .replace(/A/g,'ｱ')
+                .replace(/ｱI/ug,'È')
+                .replace(/ｱU/ug,'Ò')
+                .replace(/UU/ug,'Ú')
+                .replace(/II/ug,'Í')
+                .replace(/2/ug, '\u0348')
+                .replace(/3/ug, 'Á')
+                .replace(/4/ug, 'È')
+                .replace(/0/ug, 'Ò')
+                .replace(/"/ug, '\u0348')
+                .replace(/;/ug, 'Ъ')
+                .replace(/7/ug, '\u0349')
+                .replace(/8/ug, 'Ɲ')
+                .replace(/9/ug, 'Ŋ')
+                .replace(/\./ug, 'ʔ')
+                .replace(/\//ug, 'ʔ')
+                .replace(/\[\[/ug,'〚')
+                .replace(/\]\]/ug,'〛')
+                .replace(/\{/ug,'\u29d8')
+                .replace(/\}/ug,'\u29d9')
+                .replace(/,/ug, '\u031E');
+
+            // Make it so that the cursor stays in the same position after the replacement
+            const cursorPosition = textarea.selectionStart;
+            textarea.value = output;
+            textarea.selectionStart = cursorPosition;
+            textarea.selectionEnd = cursorPosition;
+        }
+    </script>
+    <style>
+        .keyboard {
+            --key-size: 3rem;
+            --gap: 0.3rem;
+            --key-step: calc(var(--key-size) + var(--gap));
+
+            width: max-content;
+            padding: 0.75rem;
+            border-radius: 0.75rem;
+            background: #25282c;
+        }
+
+        .key-row {
+            display: flex;
+            gap: var(--gap);
+        }
+
+        .key-row+.key-row {
+            margin-top: var(--gap);
+        }
+
+        /* Relative to the home row */
+        .key-row--num {
+            margin-inline-start: calc(-0 * var(--key-step));
+        }
+
+        .key-row--top {
+            margin-inline-start: calc(-0.25 * var(--key-step));
+        }
+
+        .key-row--bottom {
+            margin-inline-start: calc(0.5 * var(--key-step));
+        }
+
+        .key-row kbd {
+            box-sizing: border-box;
+            display: grid;
+            place-items: center;
+
+            width: var(--key-size);
+            aspect-ratio: 1;
+
+            border: 1px solid #626870;
+            border-radius: 0.4rem;
+            background: linear-gradient(#51565d, #3b3f45);
+            box-shadow:
+                0 0.18rem 0 #202226,
+                inset 0 1px 0 rgb(255 255 255 / 0.18);
+
+            color: white;
+            font-size: 1.5rem;
+            font-family: 'Times New Roman';
+        }
+
+        #analysis td {
+            padding: 0.1em 0.2em;
+            text-align: center;
+            font-family: monospace;
+        }
+
+        #analysis tr:first-child td {
+            font-weight: bold;
+            font-family: serif;
+        }
+
+        #analysis tr td:first-child {
+            font-weight: bold;
+            font-family: serif;
+        }
+
+        kbd {
+            transition: background-color 80ms;
+        }
+
+        kbd.pressed {
+            background: #4da3ff;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1><a href="index.html">boríṣán báni</a> の hámí を打つためのページ</h1>
+
+    <p>ｱｱ → Á, ｱI → È, ｱU → Ò という打ち方も用意してあります</p>
+    <p>二重カッコは対応するカッコを二回打つと変換されます</p>
+
+    <div style="display: flex; gap: 1rem; margin-bottom: 1rem">
+
+        <div class="keyboard" aria-label="QWERTY keyboard">
+            <div class="key-row key-row--num">
+                <kbd data-key="2"><ruby>&#x25CC;&#x348;<rt>"</rt></kbd><kbd data-key="3"><ruby>Á<rt>&nbsp;</rt></kbd><kbd data-key="4"><ruby>È<rt>&nbsp;</rt>
+                </kbd><kbd data-key="5"><ruby>&nbsp;<rt>&nbsp;</rt></kbd>
+                <kbd data-key="6"><ruby>&nbsp;<rt>&nbsp;</rt></kbd><kbd data-key="7"><ruby>&#x25CC;&#x0349;<rt>&nbsp;</rt></ruby></kbd><kbd data-key="8"><ruby>Ɲ<rt>&nbsp;</rt>
+                </kbd><kbd data-key="9"><ruby>Ŋ<rt>&nbsp;</rt></kbd><kbd data-key="0"><ruby>Ò<rt>&nbsp;</rt></kbd><kbd data-key="-"><ruby>&#x25CC;&#x320;<rt>&nbsp;</rt></kbd>
+            </div>
+            <div class="key-row key-row--top">
+                <kbd data-key="q"><ruby>Q<rt>&nbsp;</rt></kbd><kbd data-key="w"><ruby>W<rt>&nbsp;</rt></kbd><kbd data-key="e"><ruby>É<rt>&nbsp;</rt></kbd><kbd data-key="r"><ruby>R<rt>&nbsp;</rt>
+                </kbd><kbd data-key="t"><ruby>T<rt>&nbsp;</rt></kbd>
+                <kbd data-key="y"><ruby>Y<rt>&nbsp;</rt></kbd><kbd data-key="u"><ruby>U<rt>&nbsp;</rt></ruby></kbd><kbd data-key="i"><ruby>I<rt>&nbsp;</rt>
+                </kbd><kbd data-key="o"><ruby>Ó<rt>&nbsp;</rt></kbd><kbd data-key="p"><ruby>P<rt>&nbsp;</rt></kbd><kbd data-key=""><ruby>&nbsp;<rt>&nbsp;</rt></kbd><kbd data-key="3"><ruby>[<rt>&#x29D8;</rt></kbd>
+            </div>
+
+            <div class="key-row key-row--home">
+                <kbd data-key="a"><ruby>ｱ<rt>&nbsp;</rt></kbd><kbd data-key="s"><ruby>S<rt>&nbsp;</rt></kbd><kbd data-key="d"><ruby>D<rt>&nbsp;</rt>
+                </kbd><kbd data-key="f"><ruby>F<rt>&nbsp;</rt></ruby></kbd><kbd data-key="g"><ruby>G<rt>&nbsp;</rt></kbd>
+                <kbd data-key="h"><ruby>H<rt>&nbsp;</rt></kbd><kbd data-key="j"><ruby>J<rt>&nbsp;</rt></kbd><kbd data-key="k"><ruby>K<rt>&nbsp;</rt>
+                </kbd><kbd data-key="l"><ruby>L<rt>&nbsp;</rt></kbd><kbd data-key=";"><ruby>Ъ<rt>+</rt></kbd><kbd data-key=":"><ruby>:<rt>&nbsp;</rt></ruby></kbd><kbd data-key="]"><ruby>]<rt>&#x29D9;</rt></kbd> 
+            </div>
+
+            <div class="key-row key-row--bottom">
+                <kbd data-key="z"><ruby>Z<rt>&nbsp;</rt></kbd><kbd data-key="x"><ruby>X<rt>&nbsp;</rt></kbd><kbd data-key="c"><ruby>C<rt>&nbsp;</rt>
+                </kbd><kbd data-key="v"><ruby>V<rt>&nbsp;</rt></ruby></kbd><kbd data-key="b"><ruby>B<rt>&nbsp;</rt></kbd>
+                <kbd data-key="n"><ruby>N<rt>&nbsp;</rt></kbd><kbd data-key="m"><ruby>M<rt>&nbsp;</rt></ruby></kbd><kbd data-key=","><ruby>&#x25CC;&#x31e;<rt>&nbsp;</rt></kbd><kbd data-key="."><ruby>ʔ<rt>&nbsp;</rt></kbd><kbd data-key="/"><ruby>ʔ<rt>&nbsp;</rt></kbd>
+            </div>
+        </div>
+
+       
+    </div>
+
+    <textarea rows="14" cols="73" style="font-size: 200%; font-family: 'Times New Roman';" oninput="convert(this)"
+        id="main" spellcheck="false" autocapitalize="none"></textarea>
+    <script>
+        const textarea = document.getElementById("main");
+        const pressed = new Set();
+        const keyMap = Object.fromEntries(
+            [...document.querySelectorAll("kbd[data-key]")]
+                .map(el => [el.dataset.key, el])
+        );
+
+        textarea.addEventListener("keydown", e => {
+            if (e.metaKey || e.ctrlKey || e.altKey) return;
+
+            const k = e.key.toLowerCase();
+            pressed.add(k);
+            keyMap[k]?.classList.add("pressed");
+        });
+
+        textarea.addEventListener("keyup", e => {
+            const k = e.key.toLowerCase();
+            pressed.delete(k);
+            keyMap[k]?.classList.remove("pressed");
+        });
+
+        window.addEventListener("blur", () => {
+            for (const k of pressed)
+                keyMap[k]?.classList.remove("pressed");
+            pressed.clear();
+        });
+    </script>
+</body>
