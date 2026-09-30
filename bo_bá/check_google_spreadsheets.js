@@ -19,7 +19,7 @@ if (!response.ok) {
 }
 
 const data = await response.text();
-fs.writeFileSync("downloaded.tsv", data, "utf-8");
+fs.writeFileSync("bo_bá_list.tsv", data, "utf-8");
 const tsv = 
     data.split(/\r?\n/).map(u=>u.split("\t"));
 
