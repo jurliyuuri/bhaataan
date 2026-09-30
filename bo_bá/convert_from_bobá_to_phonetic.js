@@ -82,7 +82,6 @@ function stage2_handle_diacritics(bo_bá) {
         diacritic: "\u0320",
         table: [
             ["D", "ḍ"],
-            ["W", "l"],
             ["T", "ṭ"],
             ["C", "ṣ"],
             ["N", "ṇ"],
@@ -180,9 +179,7 @@ function stage2_handle_brackets(bo_bá) {
     /*--------
       liquid single braces 
       -------*/
-    bo_bá = bo_bá.replaceAll(/⧘ṣЪl⧙/g, "ṣ");
-    bo_bá = bo_bá.replaceAll(/⧘ṣЪṣ⧙/g, "ṣ");
-    bo_bá = bo_bá.replaceAll(/⧘XЪR⧙/g, "ṣ");
+    bo_bá = bo_bá.replaceAll(/⧘[ṣX]Ъ[ṣWR]⧙/g, "ṣ");
 
     return bo_bá;
 }
