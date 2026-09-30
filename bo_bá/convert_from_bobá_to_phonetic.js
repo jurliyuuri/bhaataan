@@ -64,6 +64,7 @@ function stage2_handle_diacritics(bo_bá) {
             ["M", "b"],
             ["W", "w"],
             ["H", "w"],
+            ["L", "w"],
             ["V", "w"],
             ["J", "y"],
 
@@ -104,8 +105,6 @@ function stage2_handle_diacritics(bo_bá) {
             ["Ó", "á"],
             ["Ú", "o"],
             ["Í", "e"],
-            //-------
-            ["L", "w"],
         ]
     };
 
