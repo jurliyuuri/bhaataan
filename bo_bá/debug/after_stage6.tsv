@@ -166,7 +166,7 @@
 	co=gha=ṭu	coghaṭu	573	いつでも
 	co=ghi	coghi	571	いつ
 	co=gho=mЪ	coghom	567	いつの
-	co=wЪ=mЪ	com	566	どの
+	co=mЪ	com	566	どの
 	co=ra=jú=LЪ	corajúḷ	578	どのようである
 	co=ḍu	coḍu	570	どれでも
 	co=ṇa=ná	coṇaná	562	どれか
@@ -355,7 +355,7 @@
 	ko=Li	koli	112	疲れ
 	ko=wЪ=mЪ	kom	153	この
 	ko=má=nЪ	komán	804	こんな
-	ko=ra=jú=LЪ	korajúḷ	648	このようである
+	ko=wЪ=ra=jú=LЪ	korajúḷ	648	このようである
 	ko=rú=ṣa=mЪ	korúṣam	502	（人名）
 	ko=Lo=rú=LЪ	koḷorúḷ	455	長年の使用により材料が劣化している
 	ko=ṇÒ	koṇau	833	橋
@@ -626,6 +626,7 @@
 	zí=ṣo	zíṣlo	525	つる植物
 	zí=ṣo=mЪ	zíṣom	764	（人名）
 	zú=LЪ	zúḷ	148	〜(対格)をする・行なう・行う
+	za=ma=lЪ=lo	zamallo	148.1	する《迷惑一人称受動終止詞》
 	ʔá	á	149	あー！
 	ʔá=bha	ábha	787	いさかい
 	ʔá=ca=hú=LЪ	ácahúḷ	246	〜(主格)には〜(対格/不定詞+ema)ができる

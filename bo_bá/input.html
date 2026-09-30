@@ -37,6 +37,8 @@
                 .replace(/\]\]/ug,'〛')
                 .replace(/\{/ug,'\u29d8')
                 .replace(/\}/ug,'\u29d9')
+                .replace(/\u29d8\u29d8/ug,'\u29da')
+                .replace(/\u29d9\u29d9/ug,'\u29db')
                 .replace(/,/ug, '\u031E');
 
             // Make it so that the cursor stays in the same position after the replacement

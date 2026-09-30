@@ -173,7 +173,7 @@ function stage2_handle_brackets(bo_bá) {
       liquid double braces 
       -------*/
     
-    bo_bá = bo_bá.replaceAll(/⧚WЪL⧛/g, "lЪl");
+    bo_bá = bo_bá.replaceAll(/⧚[WN]ЪL⧛/g, "lЪl");
     bo_bá = bo_bá.replaceAll(/⧚RЪṣ⧛/g, "r"); // r is long
     bo_bá = bo_bá.replaceAll(/⧚MЪC⧛/g, "r"); // r is long
 
