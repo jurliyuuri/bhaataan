@@ -104,7 +104,7 @@ function stage2_handle_diacritics(bo_bá) {
             ["Í", "e"],
             //-------
             ["W", "j"],
-            ["L", "ʕ"],
+            ["L", "w"],
         ]
     };
 
@@ -127,14 +127,12 @@ function stage2_handle_diacritics(bo_bá) {
             ["Ú", "á"],
             ["U", "a"],
             ["Ó", "wЪ"],
-            ["É", "á"],
             ["Í", "jЪ"],
             //-------
-            ["L", "w"],
+            ["L", "ʕ"],
             ["B", "h"],
             ["G", "ʕ"],
             ["W", "ʔ"], 
-            ["J", ""], /* disappears without trace */
             ["ʔ", ""], /* disappears without trace */
             
         ]
@@ -248,6 +246,7 @@ function stage6_simplify_superficial_syllable(s) {
 function stage7_context_dependent_replacements(u) {
     // 7-1. remove "=jЪ" 
     u = u.replaceAll("a=jЪ", "È");
+    u = u.replaceAll("á=jЪ", "á");
     u = u.replaceAll("i=jЪ", "í");
     u = u.replaceAll("u=jЪ", "ú");
 
