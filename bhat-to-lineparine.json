@@ -18933,6 +18933,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 879,
+      "form" : "eṇádákínúḷ"
+    },
+    "translations" : [ {
+      "title" : "jonusten ftona",
+      "forms" : [ "〜(ghi)に役割を与える", "〜(ghi)にタスクを割り振る" ]
+    }, {
+      "title" : "jonusten ftona",
+      "forms" : [ "〜(主格)(公的存在)は経済政策として〜(ghi)を公共事業に雇用する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "理en'iar + 藍takina"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

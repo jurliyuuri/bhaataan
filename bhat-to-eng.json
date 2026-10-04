@@ -19005,6 +19005,25 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 879,
+      "form" : "eṇádákínúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "to assign a role to [ghi]", "to assign [ghi] a task" ]
+    }, {
+      "title" : "dynamic verb",
+      "forms" : [ "[nominative] (a public entity) employs [ghi] for public works as an economic policy" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理en'iar + 藍takina"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
