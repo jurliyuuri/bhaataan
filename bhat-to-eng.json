@@ -19024,6 +19024,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 880,
+      "form" : "zamánúḷ"
+    },
+    "translations" : [ {
+      "title" : "dynamic verb",
+      "forms" : [ "〜(対格)をしやがる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "historical linguistic information",
+      "text" : "zúḷ has two adversative forms: zaman- (regular) and zamán- (irregular)."
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

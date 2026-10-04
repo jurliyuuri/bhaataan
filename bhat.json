@@ -19021,6 +19021,22 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 880,
+      "form" : "zamánúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)をしやがる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "歴史言語学的情報",
+      "text" : "zúḷ には規則迷惑幹 zaman- のみならず zamán- という例外的な迷惑幹も存在する。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
