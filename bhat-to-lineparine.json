@@ -18917,6 +18917,22 @@
         "form" : "-ṣág"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 878,
+      "form" : "bhalí"
+    },
+    "translations" : [ {
+      "title" : "ftlexest fendej",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名", "姓", "外来姓" ],
+    "contents" : [ {
+      "title" : "daliu farteven",
+      "text" : "理falira"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

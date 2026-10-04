@@ -18989,6 +18989,22 @@
         "form" : "-ṣág"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 878,
+      "form" : "bhalí"
+    },
+    "translations" : [ {
+      "title" : "vowel-stem noun",
+      "forms" : [ "(name of a person)" ]
+    } ],
+    "tags" : [ "name", "family name", "foreign family name" ],
+    "contents" : [ {
+      "title" : "cognate(s)",
+      "text" : "理falira"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",

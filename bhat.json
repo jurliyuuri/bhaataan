@@ -18986,6 +18986,22 @@
         "form" : "-ṣág"
       }
     } ]
+  }, {
+    "entry" : {
+      "id" : 878,
+      "form" : "bhalí"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "（人名）" ]
+    } ],
+    "tags" : [ "人名", "姓", "外来姓" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理falira"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
