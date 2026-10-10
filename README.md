@@ -23,6 +23,8 @@ tsc; node render_corpus.js
 * [バート語文法](grammar.html) - 文法などのまとめ
 * [バート語語形変化チートシート](./cheatsheet/bhat_cheatsheet_ver_1_9.pdf) - 一枚で全てがまとまっている
 * [二百題で学ぶバート語基礎](https://docs.google.com/document/d/1jKy_4ZLQD-3OIVOl4dtY2gcvH0fYOr40jwfgaPQ53Xo/edit#) - 書きかけの入門書
+* [boríṣán báni の解説](./bo_bá/index.html) - 現代バート語の古めの表記。borúḷ は「〜に由来する」という意味であり、つまり boríṣán báni は直訳すれば「来歴の文字」、要するに「語源綴り」ということ。
+    * [boríṣán báni の hámí を打つためのページ](./bo_bá/input.html)
 
 ### 創作の様子
 * [バート語について考察する](./investigate.html) - バート語創作の様子を記したログ
@@ -30,6 +32,7 @@ tsc; node render_corpus.js
 * [バート語の造語をするpart2](http://jurliyuuri.com/bhaataan/coin2.html) - バート語の単語の創作の様子を記したログpart2
 * [バート語の造語をするpart3](http://jurliyuuri.com/bhaataan/coin3.html) - バート語の単語の創作の様子を記したログpart3
 * [バート語の造語をするpart4](http://jurliyuuri.com/bhaataan/coin4-emergency.html) - バート語の単語の創作の様子を記したログpart4。最初は「特例緊急」と名乗っていたが、有名無実化した。
+* [バート語の造語をするpart5](http://jurliyuuri.com/bhaataan/coin5-true-emergency.html) - バート語の単語の創作の様子を記したログpart5。今度こそ「特例緊急」である。
 
 ### その他
 * [バート語辞書](http://zpdic.ziphil.com/dictionary/24) - 辞書が引ける(外部サイト)
