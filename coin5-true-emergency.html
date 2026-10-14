@@ -643,4 +643,16 @@ sinisa.ar を見るに ṣínísaáḷ「名付けられる」がいけるとの
 </table>
 
 
+<div id="menu">読み込み中…</div>
+<div id="menuButton" onclick="openClose()">≡</div>
+<script src="./header.js" async></script>
+<script src="https://cdn.jsdelivr.net/leipzig/latest/leipzig.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+  	var leipzig = Leipzig();
+    leipzig.addAbbreviations({REAL:"realis",ZERO:"zero",POST:"postpositional",EPE:"緩衝音; epenthetic",J:"方向変化の-j",LEX:"連体形のlex",ELX:"助動詞遮断のelx",LALEX:"la lex",NLL: "ny la lex"});
+    leipzig.gloss()
+  });
+</script>
 </body>
+</html>
