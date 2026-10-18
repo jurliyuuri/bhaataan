@@ -1431,7 +1431,7 @@
     },
     "translations" : [ {
       "title" : "母音幹名詞",
-      "forms" : [ "本、図書" ]
+      "forms" : [ "本", "図書" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -17545,7 +17545,7 @@
     },
     "translations" : [ {
       "title" : "動作動詞",
-      "forms" : [ "復讐する、仇討ちする、報復する" ]
+      "forms" : [ "復讐する", "仇討ちする", "報復する" ]
     } ],
     "tags" : [ ],
     "contents" : [ {
@@ -19035,6 +19035,1707 @@
       "title" : "歴史言語学的情報",
       "text" : "zúḷ には規則迷惑幹 zaman- のみならず zamán- という例外的な迷惑幹も存在する。"
     } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 881,
+      "form" : "rohepa"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "平野" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐rohúḷ + 伐epa"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 882,
+      "form" : "ghon_auṭ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "グォン・アルト" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理gwonalt"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 883,
+      "form" : "bhodimáḷ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "港町", "海沿いの町" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐bhodi + 理marl"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 884,
+      "form" : "ṭákasúka"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "商人" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 885,
+      "form" : "dát"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "役" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "牌dat2"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 886,
+      "form" : "ṣomabhomúḷ"
+    },
+    "translations" : [ {
+      "title" : "瞬間動詞",
+      "forms" : [ "少しづつ集めて最終的に〜(対格)を手にする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐ṣomúḷ + 伐bhomúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 887,
+      "form" : "wepalea"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "カード", "薄い板" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理vepalea"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 888,
+      "form" : "mokocá"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "問屋" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理morkoncar"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 889,
+      "form" : "ecwán"
+    },
+    "translations" : [ {
+      "title" : "連体詞",
+      "forms" : [ "水色の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理estvarn"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 890,
+      "form" : "dhísa"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "茶" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍tisia"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 891,
+      "form" : "caiṣa"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "キューブ", "立方体" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ヴェフィスsaisie"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 892,
+      "form" : "ghaidag"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "隊列" ]
+    }, {
+      "title" : "子音幹名詞",
+      "forms" : [ "一列" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "ヴェフィスraider"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 893,
+      "form" : "ghaidagai ghuṇṇeghaúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)を一列に並べる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 894,
+      "form" : "ṣauṣa"
+    },
+    "translations" : [ {
+      "title" : "後置詞",
+      "forms" : [ "～だけの価値がある" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍caushei"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 895,
+      "form" : "ṣauṣán"
+    },
+    "translations" : [ {
+      "title" : "擬属格後置詞",
+      "forms" : [ "～だけの価値がある" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍caushei"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 896,
+      "form" : "ṣaiṭujúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "困窮している" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍xait^ua"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 897,
+      "form" : "ṣaiṭú"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "困窮", "貧しさ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍xait^ua"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 898,
+      "form" : "bháṇajúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)を〜(ghi)へ運ぶ" ]
+    }, {
+      "title" : "動詞",
+      "forms" : [ "〜し奉る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理fenxe"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 899,
+      "form" : "ṣínísaáḷ"
+    },
+    "translations" : [ {
+      "title" : "瞬間動詞",
+      "forms" : [ "〜(主格)は〜(bháti)と名付けられる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍sinisa"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 900,
+      "form" : "bháti"
+    },
+    "translations" : [ {
+      "title" : "後置小辞",
+      "forms" : [ "〜と（引用）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐bhátúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 901,
+      "form" : "núdhasúka"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "プレイヤー" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐núdha + 伐ásúka"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 902,
+      "form" : "nudholigha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "遊び人" ]
+    }, {
+      "title" : "母音幹名詞",
+      "forms" : [ "放蕩野郎" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐nudhorúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 903,
+      "form" : "bhoya"
+    },
+    "translations" : [ {
+      "title" : "添詞",
+      "forms" : [ "（古風）なお〜もまた" ]
+    }, {
+      "title" : "添詞",
+      "forms" : [ "（現代的文体）〜すら" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍pouje"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 904,
+      "form" : "memíle"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "私有で隠匿される物" ]
+    }, {
+      "title" : "母音幹名詞",
+      "forms" : [ "手札" ]
+    }, {
+      "title" : "母音幹名詞",
+      "forms" : [ "局部（婉曲表現）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理memirle"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 905,
+      "form" : "dhaiṣahúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "霧が立っている" ]
+    }, {
+      "title" : "状態動詞",
+      "forms" : [ "ぼやけている" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍daixau"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 906,
+      "form" : "rukec"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "ルケスト（時間の単位）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理rukest"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 907,
+      "form" : "aumíṣ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "（カードゲームの）連番" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐aumúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 908,
+      "form" : "saisajúḷ"
+    },
+    "translations" : [ {
+      "title" : "瞬間動詞",
+      "forms" : [ "〜(対格)を決める" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍saisaiu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 909,
+      "form" : "nunúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(ghi)に対して〜(対格)を訊く", "〜(ghi)に対して〜(対格)を尋ねる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理nun"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 910,
+      "form" : "-itti"
+    },
+    "translations" : [ {
+      "title" : "動詞接尾辞",
+      "forms" : [ "何度も〜して" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 911,
+      "form" : "koṣainá nunitti"
+    },
+    "translations" : [ {
+      "title" : "連用節",
+      "forms" : [ "地道な取材をして" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 912,
+      "form" : "naunadeṇúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)をよく混ぜる", "〜(対格)をシャッフルする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍nyaunei + 藍tenye"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 913,
+      "form" : "ocahúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)を捨てる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍ocou"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 914,
+      "form" : "raigha"
+    },
+    "translations" : [ {
+      "title" : "連体詞",
+      "forms" : [ "最も多くの" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍raigu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 915,
+      "form" : "ghácúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)を売る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍ngaci"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 916,
+      "form" : "pautau"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "（ボードゲームの）マス" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理paltau"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 917,
+      "form" : "bháṇeúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)を〜(ghi)へと変換する" ]
+    }, {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)を〜(具格)と見なす交換レートで変換を行う" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理furnkie"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 918,
+      "form" : "aḍuhakád"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "視線" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐adha + 伐kád"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 919,
+      "form" : "aḍuhakádi ghi bohúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "前進する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 920,
+      "form" : "korajabhátúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "このように言う" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐korajúḷ + 伐bhátúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 921,
+      "form" : "ṣíghujúḷ"
+    },
+    "translations" : [ {
+      "title" : "瞬間動詞",
+      "forms" : [ "〜(主格)が終わる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍sikuni"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 922,
+      "form" : "ṣehúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "〜(具格)の中に隠れている" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍xehua"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 923,
+      "form" : "wimá"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "方向" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍wimaaからの借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 924,
+      "form" : "tillási"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "(属格で)もう片方の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍tiu + 伐lási"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 925,
+      "form" : "ṭoghad"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "用具" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 926,
+      "form" : "áyo"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "既に" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 927,
+      "form" : "ṣamai"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "(属格で)基本の（デフォルトの）" ]
+    }, {
+      "title" : "母音幹名詞",
+      "forms" : [ "(属格で)基本の（なにも追加オプションがついていない）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍xamaia"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 928,
+      "form" : "mopha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "裏面" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理moth"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 929,
+      "form" : "mopha_záúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)を裏返す" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 930,
+      "form" : "salleghúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)とっておく" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理caflek の早期借用"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 931,
+      "form" : "dínaum ṣíyabhau"
+    },
+    "translations" : [ {
+      "title" : "連用節",
+      "forms" : [ "勝手に", "好きに", "自分の判断で" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 932,
+      "form" : "wádhijúḷ"
+    },
+    "translations" : [ {
+      "title" : "瞬間動詞",
+      "forms" : [ "〜(対格)を選ぶ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理fafi"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 933,
+      "form" : "nauṣíghuján"
+    },
+    "translations" : [ {
+      "title" : "連体詞",
+      "forms" : [ "最後の" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐nau + 伐ṣíghujúḷ + 伐-án"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 934,
+      "form" : "úka"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "〜の一部" ]
+    } ],
+    "tags" : [ "依存名詞" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理unka"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 935,
+      "form" : "úkan"
+    },
+    "translations" : [ {
+      "title" : "連体詞",
+      "forms" : [ "一部の〜" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理unka"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 936,
+      "form" : "phanok"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "施設" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理fhanorken"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 937,
+      "form" : "ṣomabát"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "山札" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐ṣomúḷ + 伐-abát"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 938,
+      "form" : "dhauṣi"
+    },
+    "translations" : [ {
+      "title" : "後置詞",
+      "forms" : [ "〜に至るまで（範囲）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍daucu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 939,
+      "form" : "dhauṣán"
+    },
+    "translations" : [ {
+      "title" : "擬属格後置詞",
+      "forms" : [ "〜に至るまでの（範囲）" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍daucu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 940,
+      "form" : "anúghaúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)出荷する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍anuki"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 941,
+      "form" : "káṇaruṣṣá"
+    },
+    "translations" : [ {
+      "title" : "gh幹名詞",
+      "forms" : [ "時間的前後" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐káṇa + 伐ruṣṣá"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 942,
+      "form" : "cakoúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "箱に詰める", "荷造りする" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍saqou"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 943,
+      "form" : "cáko"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "箱詰め", "荷造り" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍saqou"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 944,
+      "form" : "dhaipúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "青い" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍deiphe"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 945,
+      "form" : "dhaipha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "青" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍deiphe"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 946,
+      "form" : "daipha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "青" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍deiphe"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 947,
+      "form" : "jáḷakúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "（数量で）劣っている", "〜(bháti)という数量を下回っている" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 948,
+      "form" : "khaz"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "地位", "立場" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍khazu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 949,
+      "form" : "bhátakhaz"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "発言が信頼されるという地位" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐bhátúḷ + 伐khaz"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 950,
+      "form" : "bhátakhazi ghi ṣíkahúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "信頼を置かれる", "耳を傾けられる" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 951,
+      "form" : "haiphaúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "空っぽである" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍haiphaúḷ "
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 952,
+      "form" : "záḷau"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "行為" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 953,
+      "form" : "ṣatíha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "緑色" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍shatwe かも"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 954,
+      "form" : "wáṣ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "山" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍vezoe"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 955,
+      "form" : "díjan"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "左" ]
+    } ],
+    "tags" : [ "主属同形名詞" ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍tiuna"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 956,
+      "form" : "níla"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "予見できない未来のために蓄えること" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍nilua"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 957,
+      "form" : "sauxíya"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "予見可能な迫り来る事象のための準備" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍sauxiyu, 牌sau2 xy1, 皇sorcju"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 958,
+      "form" : "áríṣlo"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "方法" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 959,
+      "form" : "coṇanáná áríṣlobhau "
+    },
+    "translations" : [ {
+      "title" : "連用節",
+      "forms" : [ "どうにかして" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 960,
+      "form" : "caimaúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "あふれる" ]
+    }, {
+      "title" : "状態動詞",
+      "forms" : [ "余分である" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍cweiba"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 961,
+      "form" : "texo"
+    },
+    "translations" : [ {
+      "title" : "文接続詞",
+      "forms" : [ "そのほか", "そのほかに" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍tweixo"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 962,
+      "form" : "nelíp"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "机" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理nielyp"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 963,
+      "form" : "árúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "移動して〜(hína)という場所に落ち着く" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 964,
+      "form" : "ghillác"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "オモテ面" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理gelflas"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 965,
+      "form" : "deghaúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "残っている" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍tweikou"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 966,
+      "form" : "háṣimmúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)をなくす" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 967,
+      "form" : "mobha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "米" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍mova, 牌mo1, 皇mon"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 968,
+      "form" : "baiza"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "順に", "順次", "次々と" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍maichu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 969,
+      "form" : "litále"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "算出", "勘定" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理litarle"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 970,
+      "form" : "kánic"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "流行" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理karnicitj"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 971,
+      "form" : "jáz"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "〜(具格)の中央" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍jache"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 972,
+      "form" : "tinen"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "伝令役の召使" ]
+    }, {
+      "title" : "子音幹名詞",
+      "forms" : [ "ボードゲームのコマ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍tinanu, 理cakstinern"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 973,
+      "form" : "ṣidhe"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "まだ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 974,
+      "form" : "síbhabádha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "故郷の家" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐síbha + 伐bádha"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 975,
+      "form" : "bádhasúka"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "家族の人" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐bádha + 伐ásúka"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 976,
+      "form" : "degha"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "残り物", "売れ残り", "残飯" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍tweikou"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 977,
+      "form" : "rákaúḷ"
+    },
+    "translations" : [ {
+      "title" : "状態動詞",
+      "forms" : [ "環状である" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 978,
+      "form" : "náhabhomúḷ"
+    },
+    "translations" : [ {
+      "title" : "瞬間動詞",
+      "forms" : [ "〜(対格)を追加で取る", "〜(対格)を追加で得る" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐náhúḷ + 伐bhomúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 979,
+      "form" : "náhabhomaz"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "追加で取ること", "補充" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐náhúḷ + 伐bhomúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 980,
+      "form" : "náhabhátúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "付け加えて言う" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐náhúḷ + 伐bhátúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 981,
+      "form" : "joṭau"
+    },
+    "translations" : [ {
+      "title" : "母音幹名詞",
+      "forms" : [ "代金", "代償" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍yot^au"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 982,
+      "form" : "khoreúḷ"
+    },
+    "translations" : [ {
+      "title" : "瞬間動詞",
+      "forms" : [ "〜(対格)をよこせと〜(ghi)にせがむ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍khourei"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 983,
+      "form" : "núnenaḷ"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "宿" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "理nyrnenal"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 984,
+      "form" : "boṇúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "夜を過ごす" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "藍monya"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 985,
+      "form" : "lásimoṇúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "一夜を過ごす" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐lási + 伐boṇúḷ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 986,
+      "form" : "súz"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "利用" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "同根語",
+      "text" : "伐sujúḷ + 伐-z"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 987,
+      "form" : "ṣattaúḷ"
+    },
+    "translations" : [ {
+      "title" : "動作動詞",
+      "forms" : [ "〜(対格)を支払いに使う" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 988,
+      "form" : "ṣattá"
+    },
+    "translations" : [ {
+      "title" : "子音幹名詞",
+      "forms" : [ "支払い" ]
+    } ],
+    "tags" : [ "必ず複数曲用" ],
+    "contents" : [ ],
     "variations" : [ ],
     "relations" : [ ]
   } ],
